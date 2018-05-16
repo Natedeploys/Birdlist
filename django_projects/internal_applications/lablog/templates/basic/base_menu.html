@@ -1,0 +1,40 @@
+{% extends "lablog/basic/base.html" %}
+{% load in_group %}
+
+        {% block secondaryapps %}
+        <ul class="songbirdTab">
+            {% if user.is_authenticated %}
+                <li><a href="{% url index_birdlist %}">birdlist</a></li>
+                <li class="active">lablog</li>
+                <li><a href="{% url helpdesk_home %}">helpdesk</a></li>
+                {% if user.is_staff and user|in_group:"superuser" %}
+                    <li class="admin"><a href="{% url admin:index %}">Admin</a></li>
+                    <li class="admin"><a href="{% url index_importexport %}">import / export</a></li>            
+                {% endif %}
+                <li class="rightfloat"><a href="{% url labloglogout %}">logout</a></li>
+                <li class="rightfloat"><a href="{% url auth_password_change %}" title="change your password">{{ user.username }}</a></li>
+            {% else %}
+                <li class="rightfloat_no_bar"><a href="{% url labloglogin %}">login</a></li>
+            {% endif %}
+        </ul>
+        {% endblock %}
+
+        {% block header %}
+            <ul id="nav-global">
+                {% if user.is_authenticated %}
+                     <li id="nav_index"><a href="{% url index_lablog %}">index</a></li>
+                     <li id="nav_experiment"><a href="{% url index_experiment user.username %}">experiments</a></li>   
+                     <li id="nav_project"><a href="{% url index_project user.username %}">projects</a></li>
+                     <li id="nav_protocol"><a href="{% url index_protocol user.username %}">protocols</a></li>
+                     <li id="nav_help"><a href="{% url index_help user.username %}" style="color:white;">help</a></li>
+                    {% comment %} 
+                        COMMENTED OUT because these functions are not available yet.
+                         <li id="nav_collaboration"><a href="{% url index_collaboration user.username %}">collaborations</a></li>
+                         <li id="nav_external_view"><a href="{% url external_views user.username %}">external views</a></li> 
+                    {% endcomment %}
+                {% endif %}
+            </ul>
+        {% endblock %}
+
+        {% block content-main %} {% endblock %}
+

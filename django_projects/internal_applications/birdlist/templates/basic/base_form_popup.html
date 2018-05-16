@@ -1,0 +1,36 @@
+{% extends "birdlist/basic/base.html" %}
+
+{% block stylesheet %}
+{% include "birdlist/basic/base_form_stylesheet.html" %}
+        <!-- see /admin-media/css/layout.css -->
+        <style type="text/css" media="screen">
+        /* PAGE STRUCTURE */
+
+        #content { margin:10px 15px; }
+        #content-main { float:left; width:100%; }
+
+        /*  COLUMN TYPES  */
+        .popup .colM { width:95%; }
+
+        </style>
+{% load adminmedia %}
+<script type="text/javascript">
+window.__admin_media_prefix__ = "{% filter escapejs %}{% admin_media_prefix %}{% endfilter %}";
+</script>        
+{% endblock %}
+
+{% block title_detail %}form{% endblock %}
+{% block sectionid %}popup change-form{% endblock %}
+
+{% block container %}
+<div id="container">
+     <div id="content" class="colM">
+
+        <div id="content-main">
+        {% block content-main %}{% endblock %}
+        </div>
+    </div>
+</div>    
+
+{% endblock %}
+

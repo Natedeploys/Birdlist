@@ -1,0 +1,69 @@
+{% block custom_stylesheet %}
+	<script type="text/javascript" src="{{ STATIC_URL }}songbird/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+	<link rel="stylesheet" href="{{ STATIC_URL }}songbird/fancybox/jquery.fancybox-1.3.4.css" type="text/css" media="screen" />
+	
+	<script language="javascript">
+	
+    function formatTitle(title, currentArray, currentIndex, currentOpts) {
+        return '<div id="tip7-title"><span><a href="javascript:;" onclick="$.fancybox.close();"></a></span>' 
+                + (title && title.length ? '<b>' + title + '</b>' : '' ) 
+                + 'Image ' + (currentIndex + 1) + ' of ' + currentArray.length + '</div>';
+    }	
+	 
+	$(document).ready(function() {
+
+	    /* This is basic - uses default settings */
+	    $("a#single_image").fancybox();
+	
+	    /* Using custom settings */
+	    $("a#inline").fancybox({
+		    'hideOnContentClick': true
+	    });
+
+	    /* Apply fancybox to multiple items */
+	    $("a.group").fancybox({
+		    'transitionIn'	:	'elastic',
+		    'transitionOut'	:	'elastic',
+		    'speedIn'		:	600, 
+		    'speedOut'		:	200, 
+		    'overlayShow'	:	true,
+		    'titleFormat'	:	formatTitle,
+		    'titlePosition'	:	'inside',
+	    });
+	
+    });
+	</script>
+{% endblock %}
+
+
+{% load thumbnail %}
+
+<div class="section" id="media">
+    <h2>Media</h2>     
+    {% if media_file_urls %}
+    <table>
+
+    {% for i, j in media_file_urls %}
+        <tr>
+        <td>{{ i }}</td>
+            {% thumbnail j 200x200 autocrop as thumb %}
+        <td>
+            {% if "pdf" in thumb.absolute_url %}
+                <a href="{{ MEDIA_URL }}{{ j }}" alt="{{ i }}">
+            {% else %}
+                <a class="group" rel="group" href="{{ MEDIA_URL }}{{ j }}" alt="{{ i }}">
+                {% comment %}
+                use this for single images, not galleries
+                <a id="single_image" rel="group1" href="{{ MEDIA_URL }}{{ j }}" alt="{{ i }}">
+                {% endcomment %}
+            {% endif %}
+            <img src="{{ thumb.absolute_url }}" width="{{ thumb.width }}" height="{{ thumb.height }}" /></a>
+        </td>
+        </tr> 
+    {% endfor %}
+
+    </table>
+    {% else %} 
+    no media files found.
+    {% endif %}
+</div>

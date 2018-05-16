@@ -1,0 +1,8 @@
+{% extends "lablog/basic/base_form.html" %}
+
+{% block billboard %}
+{% if project.title %}
+<li id="nav-exp"><a href="{% url detail_project username project.slug %}">back to project {{ project.title }}</a></li>
+{% endif %}
+{% endblock %}
+

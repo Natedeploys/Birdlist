@@ -1,0 +1,51 @@
+{% extends "lablog/basic/base_protocols.html" %}
+
+{% block title_detail %}details for protocol {{ selected_object.title }} {% endblock %}
+
+{% block billboard %}
+<li id="nav-pro-change"><a href="{% url edit_protocol username selected_object.slug %}">edit protocol</a></li>
+<li id="nav-pro-delete"><a href="{% url delete_protocol username selected_object.slug %}">delete protocol</a></li>
+<li id="nav-pro-new"><a href="{% url new_protocol user.username %}">new protocol</a></li>  
+{% endblock %}
+
+
+{% block objectcontent %}
+<div class="section" id="general-information">
+<h2> Protocol: {{ selected_object.title }}</h2>
+<ul>
+    <li>  created: {{ selected_object.timestamp }}</a></li>
+    <li>  valid until: {% if selected_object.valid_until %}{{ selected_object.valid_until }}{% else %} today {% endif %}</a></li>
+    {% if selected_object.description %}    <li>  description: {{ selected_object.description|linebreaks }}</a></li> {% endif %}
+</ul>
+</div>
+    
+{% endblock %}
+
+{% block sidebar %}
+
+
+<h2>Experiments using this protocol:</h2>
+
+    {% if experiments %}
+    <table>
+
+        <tr>
+        <td> Name </td> 
+        <td> Start Date </td> 
+        </tr> 
+
+    {% for i in experiments %}
+
+        <tr>
+        <td> <a href="{% url detail_experiment username i.slug %}"> {{ i.title }}</a> </td> 
+        <td> {{ i.start_date }} </td>  
+        </tr> 
+    {% endfor %}
+
+    </table>
+    
+    {% else %} 
+    No experimentes found.
+    {% endif %}
+
+{% endblock %}

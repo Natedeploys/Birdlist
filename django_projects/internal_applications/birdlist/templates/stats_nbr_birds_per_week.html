@@ -1,0 +1,145 @@
+{% extends "birdlist/basic/base_stats.html" %}
+
+{% block custom_stylesheet %} 
+    <script src="{{ STATIC_URL }}helpdesk/jquery.jqplot/jquery.jqplot.min.js" type="text/javascript" language="javascript"></script>
+    <link rel="stylesheet" typ="text/css" href="{{ STATIC_URL }}helpdesk/jquery.jqplot/jquery.jqplot.min.css" />
+    <script type="text/javascript" src="{{ STATIC_URL }}helpdesk/jquery.jqplot/plugins/jqplot.categoryAxisRenderer.min.js"></script>
+    <script type="text/javascript" src="{{ STATIC_URL }}helpdesk/jquery.jqplot/plugins/jqplot.barRenderer.min.js"></script>
+    <script type="text/javascript" src="{{ STATIC_URL }}helpdesk/jquery.jqplot/plugins/jqplot.dateAxisRenderer.min.js"></script>
+    <script type="text/javascript" src="{{ STATIC_URL }}helpdesk/jquery.jqplot/plugins/jqplot.highlighter.min.js"></script>
+    <script type="text/javascript" src="{{ STATIC_URL }}helpdesk/jquery.jqplot/plugins/jqplot.cursor.min.js"></script>
+    <script type="text/javascript" src="{{ STATIC_URL }}helpdesk/jquery.jqplot/plugins/jqplot.canvasTextRenderer.min.js"></script>
+    <script type="text/javascript" src="{{ STATIC_URL }}helpdesk/jquery.jqplot/plugins/jqplot.canvasAxisLabelRenderer.min.js"></script>
+    <script type="text/javascript" src="{{ STATIC_URL }}helpdesk/jquery.jqplot/plugins/jqplot.hermiteSplineRenderer.js"></script>
+    <script type="text/javascript" src="{{ STATIC_URL }}helpdesk/jquery.jqplot/plugins/jqplot.LineRenderer.js"></script>
+    <style type="text/css"> 
+    .button-reset {
+      margin: 30px;
+      margin-left: 90px;
+    }
+    </style> 
+{% endblock %}
+
+{% block content-main %}
+    <br>
+    <br>
+   
+    {% if counter %}
+        
+        <h2> Number of couples & new borns per week </h2>
+
+        <br>
+        <div id="chartdiv1" style="height:500px; width:750px; "></div>
+        <button class="button-reset">Reset Zoom</button> 
+        <script type='text/javascript'>
+            $.jqplot.config.enablePlugins = true;
+            var dataset = [];
+            
+            dataset[0] = [{% for f in counter %}['{{ f.0 }}', {{ f.1.0 }}]{% if not forloop.last %}, {% endif %}{% endfor %}];
+            dataset[1] = [{% for f in counter %}['{{ f.0 }}', {{ f.1.1 }}]{% if not forloop.last %}, {% endif %}{% endfor %}];
+            
+            plot1 = $.jqplot('chartdiv1', dataset, {
+            seriesDefaults: {
+// do not use the spline renderer (makes data less readable)
+//              renderer: $.jqplot.hermiteSplineRenderer,
+//              rendererOptions: { steps: 4, tension: 0.5 },
+            },
+            legend: {show: true, location: 'nw', xoffset: 10},
+            title: "Use left mouse click and drag to zoom-in. Use 'Reset Zoom' button below or double click to zoom-out.<br>Data shown here are smoothed with a 4 week window.",
+            series: [
+                {
+                    label: 'nbr couples',
+                    lineWidth: 2,
+                    markerOptions: { style: 'circle', size: 4},
+                },
+                {
+                    label: 'new borns',
+                    lineWidth: 2,
+                    markerOptions: { style: 'circle', size: 4}
+                }
+                ],
+            axes: {
+                xaxis: {
+                    renderer: $.jqplot.DateAxisRenderer, 
+                    tickOptions: { formatString:'%b %#d, %y'},
+                    tickInterval: '1 year',
+                    label: "time",
+                    min: 'Jan 01 2004',
+                },
+                yaxis: {
+                    min: 0,
+                    label: "number",
+                    labelRenderer: $.jqplot.CanvasAxisLabelRenderer, 
+                    labelOptions: {
+                        fontFamily: 'Georgia, Serif',
+                        fontSize: '12pt'
+                  }
+                }
+            },
+            cursor: { 
+                showTooltip: true, 
+                showHorizontalLine: false, 
+                showVerticalLine: true, 
+                zoom: true, 
+                constrainZoomTo: 'x', 
+                showCursorLegend: true, 
+                cursorLegendFormatString: '%s %s - %s' 
+            } 
+            });
+            
+            $('.button-reset').click(function() { plot1.resetZoom() });
+        </script>
+
+        <p>
+        For raw data, see the <a href="#raw_data">end</a> of this page.
+        </p>
+
+
+        <table>
+        <tr>
+            <td align = "center">date</td>
+            <td># couples</td>
+            <td># new borns</td>
+        </tr>
+
+            {% for i in counter %}
+            <tr>
+                <td>{{ i.0 }}</td>
+                <td align = "center">{{ i.1.0 }}</td>
+                <td align = "center">{{ i.1.1 }}</td>
+            </tr>
+            {% endfor %}
+
+        </table>
+        
+        <br>
+        <br>
+        
+        <h2 id="raw_data"> raw data (for plotting in matlab, etc) </h2>
+        <h3># of couples per week</h3>
+        <div>
+        {% for i in counter %}
+        {{ i.1.0 }}
+        {% endfor %}
+        </div>
+        
+        <h3># of new borns per week</h3>
+        <div>
+        {% for i in counter %}
+        {{ i.1.1 }}
+        {% endfor %}
+        </div>
+        
+        <h3>date</h3>
+        <div>
+        {% for i in counter %}
+        '{{ i.0 }}'{% if not forloop.last %},{%endif%}
+        {% endfor %}
+        </div>     
+
+    {% else %}
+        <h2><p>Sorry, no stats for now</p></h2>
+    {% endif %}
+
+{% endblock %}
+

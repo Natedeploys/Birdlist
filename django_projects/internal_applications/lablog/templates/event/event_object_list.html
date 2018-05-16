@@ -1,0 +1,33 @@
+{% include "event/event_list_pre_load_code.html" %}
+{% load time_since_until %}
+
+{% block event_object_pre_format %}
+<br><br>
+<hr>
+{% endblock %}
+
+{% block object_details %}
+
+<div class="section" id="event">
+    {% if event_list %}
+    
+		<h1 style="padding-bottom:0px; margin-bottom:0px; display:inline; vertical-align:middle;">{{ event_title|default:"Latest Events" }}</h1>
+		<p style="display:inline; vertical-align:middle;">
+			(<a href="#" class="expand_all_events">Expand all</a> - 
+			<a href="#" class="collpase_all_events">Collapse all</a>{% if allow_user_sorting %} - 
+			<a href="?sort=desc">Descending</a> - 
+			<a href="?sort=asc">Ascending</a>{% endif %})
+		</p>
+
+		{% for i in event_list %}
+		    {% ifchanged %}<h2>{% time_since_until i.date i.schedule i.time %}</h2>{% endifchanged %}
+		    {% include "event/event_show_single_in_pretty_box.html" %}
+		{% endfor %}
+
+    {% else %}
+    	<h2>{{ event_title|default:"No events found" }}</h2>
+    {% endif %}
+</div>
+
+{% endblock %}
+

@@ -1,0 +1,24 @@
+Bird census of June 15th 2011 with Daniele, Nicolas, Michael.
+
+As part of the process of giving away birds to Heiko and Johanna
+we registered all birds in the cages A-O (BF), KU (female ZF),
+& KM (male ZF)
+
+We register missing birds only. Additional birds were tracked manually
+and given away anyway.
+
+Syntax example for cage content:
+==cage name==missing birds separated by commata
+
+------------------------------------------------------------------------------------------------
+
+the date on which the census happened
+==date==2011-06-15
+
+a text that can be added to the comment field of missing birds
+==text==census 2011-06-15: bird is missing from cage : hob - michael
+
+all other input keywords are supposed to be cage names
+==KU==g17r12
+==KM==b19r14,g16r13,k13r1,r15s8
+==A-O==K-G-K209-19,k4r10,k5r10,G-TT69-73,r17y10,r17y12,r17y7,r17y9,r3y1,r3y11,r3y12,r3y2,r3y3,r3y4,r3y6,r3y7,r3y8,r7s17,r8y12-BF,silver5y11,v-v10,W-K-K209-14

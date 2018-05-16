@@ -1,0 +1,72 @@
+{% extends "birdlist/basic/base_index.html" %}
+
+{% block content-main %}
+{% load highlight_string %}
+
+<div>
+    <h2>Search results:</h2>
+    {% if nbr_results > 0 %}    
+        <h5>{{nbr_results}} entr{{ nbr_results|pluralize:"y,ies" }} match{{ nbr_results|pluralize:"es," }} your query <i>"{% for i in search %}{{i}}{% if forloop.last %}{%else%} {%endif%}{%endfor%}"</i></h5>
+        
+        {% if activities %}
+            <br>
+            The following activities ({{activities|length}}) match your search query:
+            
+            <table>
+            {% for i in activities %}
+                <tr>
+                    <td>
+                        <a href="{% url bird_overview i.bird.id %}">{{ i }}</a> - 
+                            {{ i.activity_content|highlight_string:search }}
+                    </td>
+                </tr>
+            {% endfor %}
+            </table>            
+            <br>
+                       
+        {% endif %}
+        
+        {% if birds %}
+            <br>
+            The following comments ({{birds|length}}) for birds match your search query:
+
+            <table>
+            {% for i in birds %}
+                <tr>
+                    <td>
+                        <a href="{% url bird_overview i.id %}">{{ i }}</a> - 
+                            {{ i.comment|highlight_string:search }}
+                    </td>
+                </tr>
+            {% endfor %}
+            </table>
+            <br>
+                      
+        {% endif %}
+        
+        {% if tags %}
+            <br>
+            The following tags ({{tags|length}}) for birds match your search query:
+
+            <table>
+            {% for i in tags %}
+                <tr>
+                    <td>
+                        <a href="{% url bird_overview i.id %}">{{ i }}</a> - 
+                            {{ i.tags|highlight_string:search }}
+                    </td>
+                </tr>
+            {% endfor %}
+            </table>
+            <br>
+                      
+        {% endif %}                  
+        
+        
+    {% else %}
+        <h5>No entries match your query.</h5>
+    {% endif %}                
+        
+</div>
+
+{% endblock %}

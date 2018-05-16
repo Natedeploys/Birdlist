@@ -1,0 +1,23 @@
+{% extends "lablog/basic/base_experiments.html" %}
+
+{% block title_detail %}Delete "{{ object.event_type  }}" ? {% endblock %}
+
+{% block billboard %}
+{% if experiment %}
+<li id="nav-exp"><a href="{% url detail_experiment username experiment.slug %}">back to experiment {{ experiment.title }}</a></li>
+{% endif %}
+{% endblock %}
+
+
+{% block content-main %}
+
+<h2 style="color:red;"> Are you sure you want to delete the event "{{ object.event_type  }}" ?</h2>
+<div>&nbsp;</div>
+<form method="post" action=".">{% csrf_token %}
+<input type="submit" value="Yes, delete it."/>
+</form>
+
+{% endblock %}
+
+{% block content-secondary %}
+{% endblock %}

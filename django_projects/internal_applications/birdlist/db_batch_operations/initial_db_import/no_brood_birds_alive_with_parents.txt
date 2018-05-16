@@ -1,0 +1,205 @@
+
+all birds alive with no brood assigned having assigned a mother and a
+father in the old birdlist
+
+----------------------------------------------------------------------
+
+name			g19r5			g19r5
+----------------------------------------------------
+species			BF				BF
+birthday		2008-09-15		15.09.2008
+cage			A-O				A-O
+father			None			v-v10
+mother			None			K-K-K209-15
+exit date		None			
+cause			None			
+new comment
+None
+old comment
+
+IN OLD DB:
+K-K-K209-15 does not exist but very similar ones -> mum cannot be assigne
+no coupling exists with v-v10
+
+
+
+name			g3r5			g3r5
+----------------------------------------------------
+species			BF				BF
+birthday		2008-07-19		19.07.2008
+cage			A-O				A-O
+father			None			v-v10
+mother			None			K-K-K209-15
+exit date		None			
+cause			None			
+new comment
+None
+old comment
+
+IN OLD DB:
+K-K-K209-15 does not exist but very similar ones -> mum cannot be assigne
+no coupling exists with v-v10
+
+
+
+name			g3r8			g3r8
+----------------------------------------------------
+species			ZF				ZF
+birthday		2009-03-28		28.03.2009
+cage			OutOfColony				
+father			None			r5y10
+mother			None			b15r6
+exit date		None			
+cause			None			
+new comment
+bird is missing on june 15, 2009
+old comment
+bird is missing on june 15, 2009
+
+IN OLD DB:
+coupling for parents does not exist
+no coupling with either father or mother exist that would fall in 
+period of birthday
+
+
+name			g4r5			g4r5
+----------------------------------------------------
+species			BF				BF
+birthday		2008-07-19		19.07.2008
+cage			A-O				A-O
+father			None			v-v10
+mother			None			K-K-K209-15
+exit date		None			
+cause			None			
+new comment
+None
+old comment
+
+IN OLD DB:
+K-K-K209-15 does not exist but very similar ones -> mum cannot be assigne
+no coupling exists with v-v10
+
+
+
+name			g5r5			g5r5
+----------------------------------------------------
+species			BF				BF
+birthday		2008-07-19		19.07.2008
+cage			A-O				A-O
+father			None			v-v10
+mother			None			K-K-K209-15
+exit date		None			
+cause			None			
+new comment
+None
+old commentstyle="color:red; align:middle"
+
+IN OLD DB:
+K-K-K209-15 does not exist but very similar ones -> mum cannot be assigne
+no coupling exists with v-v10
+
+
+
+name			J2U4a			J2U4a
+----------------------------------------------------
+species			ZF				ZF
+birthday		2010-12-22		22.12.2010
+cage			2U4				2U4
+father			None			b14r10
+mother			None			r5s13
+exit date		None			
+cause			None			
+new comment
+None
+old comment
+
+wrong mum
+solution: mum is r6s13, create brood, assign bird
+FIXED
+
+
+name			k13r2			k13r2
+----------------------------------------------------
+species			ZF				ZF
+birthday		2007-11-22		22.11.2007
+cage			IS2				IS2
+father			None			b16r1
+mother			None			o11p-p20
+exit date		None			
+cause			None			
+new comment
+Breeder
+old comment
+Breeder
+
+probably the following couple has a wrong coupling date
+such that the birthday does not fall into its coupling session
+375;b16r1;o11p-p20;U6B;02.12.2007;07.03.2008;;
+
+solution: coupling date is 02.11.2007, create brood, assign bird
+
+FIXED
+
+name			o4r2			o4r2
+----------------------------------------------------
+species			ZF				ZF
+birthday		2007-08-17		17.08.2007
+cage			OutOfColony				
+father			None			r12p-y7o
+mother			None			o9p-y8
+exit date		None			
+cause			None			
+new comment
+missing
+old comment
+missing
+
+most probably here the mum was wrongly entered into the old db
+100;r12p-y7o;o8p-y8;U7;04.05.2007;10.12.2007;3 Gen.;
+-> there exists a brood with the same birthday
+
+solution: assign bird to it
+
+FIXED
+
+
+name			p16r4			p16r4
+----------------------------------------------------
+species			BF				BF
+birthday		2008-05-25		25.05.2008
+cage			A-O				A-O
+father			None			v-v10
+mother			None			K-K-K209-15
+exit date		None			
+cause			None			
+new comment
+None
+old comment
+
+IN OLD DB:
+K-K-K209-15 does not exist but very similar ones -> mum cannot be assigne
+no coupling exists with v-v10
+
+
+
+name			p2s2			p2s2
+----------------------------------------------------
+species			ZF				ZF
+birthday		2009-02-19		19.02.2009
+cage			R2				R2
+father			None			b14r3
+mother			None			o6r5
+exit date		None			
+cause			None			
+new comment
+did not sing at all..
+old comment
+did not sing at all..
+
+IN OLD DB:
+no couple with mother o6r5 exists
+with father there is a couple in range of birthday with female r8s7
+this is somehow a strange confusion
+
+proceed with this bird the same way as with all other birds with no brood but parents (dead):
+write parental information into comment field

@@ -1,0 +1,17 @@
+Giving away birds on June 15th 2011.
+
+syntax example for cage content
+==cage name==birds given away separated by commata
+
+------------------------------------------------------------------------------------------------
+
+the date on which the census happened
+==date==2011-06-15
+
+a text that can be added to the comment field of missing birds
+==text==given away on 2011-06-15 to either heiko or johanna : hob - michael
+
+all other input keywords are supposed to be cage names
+==KU==b1r13,b3r13,g7r14,k14r15,k8r17,o12r3,p2r13,r16s15,r16s5,r5y18,s11o-sb
+==KM==g3r10,o13r14,p5r15,r11s16,r14y10,r10s5,r15s1,r10y10,b16r12
+==A-O==g3r5,g5r5,K-G-K209-14,o11r7,o1r3-BF,o6r16,p10p,p20r13,r4o14,r7s16

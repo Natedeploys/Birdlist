@@ -1,0 +1,26 @@
+{% extends "birdlist/basic/base_stats.html" %}
+{% load humanize %}
+{% load charts %}
+{% block content-main %}
+
+<br>
+<b>Statistics include zebra finches only!</B>
+
+<h2>Age Distribution of all Birds ({{ no_a_storage }}) in all Cages - mean age: {{ mean_age_all }} days</h2>
+<br>
+{{ distr_a_chart.img|safe }}
+<p># birds older than 1000 days: {{ no_a_b1000dph }}</p>
+
+
+<h2>Age Distribution of Males ({{ no_m_storage }}) in Storage Cages - mean age: {{ mean_age_males }} days</h2>
+<br>
+{{ distr_m_chart.img|safe }}
+<p># birds older than 1000 days: {{ no_m_b1000dph }}</p>
+
+
+<h2>Age Distribution of Females ({{ no_f_storage }}) in Storage Cages - mean age: {{ mean_age_females }} days</h2>
+<br>
+{{ distr_f_chart.img|safe }}
+<p># birds older than 1000 days: {{ no_f_b1000dph }}</p>
+
+{% endblock %}

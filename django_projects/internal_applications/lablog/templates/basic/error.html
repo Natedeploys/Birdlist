@@ -1,0 +1,29 @@
+{% extends "lablog/basic/base_menu.html" %}
+
+{% block sectionid %}{% if section_id %}{{ section_id }}{% else %}homepage{% endif %}{% endblock %}
+{% block title_detail %}{{ title }}{% endblock %}
+{% block header %}
+    {% if section_id %} {# leave the block alone if section_id is given #}
+        {{ block.super }}
+    {% else %} {# remove links if section_id is not given #}
+    {% endif %}
+{% endblock %}
+
+{% block content-main %}
+<h2>{{ title }}</h2>
+<p>{{ description }}</p> 
+<ul>
+    <li>Go to main page <a href="{{ main_page }}">here</a>.</li>
+    {% if referer %}
+        <li>Go back to previous page <a href="{{ referer }}">here</a>.</li>
+    {% else %}
+        <li><input type=button value="Go back to previous page" onClick="javascript:history.go(-1);"></li>
+    {% endif %}
+</ul>
+
+{% block content-secondary %} 
+{% endblock %}
+{% endblock %}
+
+
+ {% block sidebar %}{% endblock %} 

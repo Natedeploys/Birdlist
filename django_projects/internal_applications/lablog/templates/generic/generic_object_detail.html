@@ -1,0 +1,7 @@
+{% extends "lablog/basic/base_menu_extended.html" %}
+
+{% block title_detail %}{{ model_name }} details for entry {{ selection_name }} {% endblock %}
+
+{% block objectcontent %}
+    {% include "generic/generic_object_detail_loop.html" %}
+{% endblock %}

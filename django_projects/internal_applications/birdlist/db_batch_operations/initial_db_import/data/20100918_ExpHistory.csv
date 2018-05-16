@@ -1,0 +1,1550 @@
+ID;Bird;Exp Name;Start Date;End Date;Setup;Data On;Backup On;PI;SG;Comment
+6;p18k-s6;Song Tutoring;15.02.2006;25.04.2006;IS1;Zut3;;Georg;1;Song tutoring phd ~30 to phd ~90. Song abnormal with too long ISI's. Structure of tutorsong copied, not so syllable structure. During learning bird produced each of the syllables of tutorsong at least once yet they do not appear in the cystallized song.
+8;s6k-g14x;SR;30.03.2006;28.04.2006;IS2;Zut4;;Katja;0;
+9;s6k-g14x;SR;28.04.2006;29.04.2006;E1;Zut;;Georg;0;Test recording for MD experiment
+10;o5k-s17;Niflesion;09.02.2006;11.08.2006;IS3;Zut3;;Katja;2;Nif lesion in the age of ~30. injection Fluororuby at 9.8.2006 int HVC
+11;o10k-g14;Nif injection Juvenile;30.03.2006;28.04.2006;E1;Zut3;;Katja;2;
+12;k8k-b3k;SR;27.04.2006;29.04.2006;IS1;;;Georg;0;Bird did not sing during 3 days of recording.
+13;s7k-b3k;SR;27.04.2006;29.04.2006;E2;;;Georg;0;Bird sang only once during the three recording days.
+14;s6k-g14x;surgery;29.04.2006;29.04.2006;E1;;;Richard;1;Surgery - destroyed electrodes during implantation. Next time: apply wax-mineral oil mix BEFORE inserting MD.
+15;p14k-p2;SR;30.01.2006;06.02.2006;IS2;Zut3;;Katja;0;
+16;p16k-b3;Nif lesion;09.02.2006;11.08.2006;;;;Katja;2;Nif lesion in the age of ~30. injection Fluororuby at 9.8.2006 int HVC
+17;p16k-b3;SR;23.03.2006;30.03.2006;IS2;Zut3;;Katja;0;
+18;p16k-b3;SR;01.05.2006;05.05.2006;IS2;Zut3;;Katja;0;
+19;silverblack;SR;28.04.2005;28.04.2005;E2;;;;0;
+20;r4k-sk;SR;06.12.2005;14.12.2005;IS4;Zut3;;Katja;0;
+21;r4k-sk;SR;03.05.2006;09.05.2006;IS4;Zut3;;Katja;0;
+22;k20k-sg8;SR;02.05.2006;11.05.2006;E1;Zut;;Georg;0;Bird sings a lot. Song: ABCD very stereotyped. Lots of calls before and after motifs.
+23;o20k-sg8;SR;04.05.2006;05.05.2006;E2;Lacie1TB;;Georg;0;Short song, iABC. Deleted Data due to a lot of noise.
+24;silver6;SR;03.05.2006;11.06.2006;AS;Zong;;Richard;2;Acute experiment. I tried to record from Uva. Few HVC bursts. Lots of bleeding in Uva penetrations due to large electrode diameter.
+25;k20k-sg8;MD Nif/field L;11.05.2006;06.06.2006;E1;Zut;Zut4;Georg;2;E1 and E3 clogged in guidetubes and broke. MD cover fell off and subsequently omnetics connections were damaged during the experiment. 2 weeks worth of problems with the setup.
+26;y16k-b3;Acute recording in RA with Nif lesion;01.06.2006;01.06.2006;AS;;;Richard;2;Not very bursty RA. No melatonin was administered.
+27;r1o-p11k;SR;22.05.2006;02.06.2006;IS1;;;Katja;0;
+28;r3o-p11k;ibutenic acid lesion;23.05.2006;04.06.2006;IS3;;;Katja;3;died the night after the lesion
+30;r4o-p11k;Ibutenic acid lesion NIF;23.05.2006;11.08.2006;IS4;;;Katja;2;"stopped recording at phd99   ;Nif lesion in the age of ~30. injection Fluororuby at 9.8.2006 int HVC"
+31;r2o-p11k;Ibutenic acid lesion;23.05.2006;11.08.2006;IS1;;;Katja;2;"stopped recording at 99phd; Nif lesion in the age of ~30. injection Fluororuby at 9.8.2006 int HVC"
+32;s9k-p11k;acute RA-Nif;06.06.2006;06.06.2006;AS;;;Katja;2;
+33;r4k-sk;song recording & HVC Stim.;08.06.2006;14.06.2006;E2;Zirkel;;Claude;2;The Stim. Electrodes detached from skull during exp.
+34;s4k;acute Experiment: NIF RA;08.06.2006;08.06.2006;AS;;;Katja;2;
+35;r1o-p11k;SR;14.06.2006;21.06.2006;E1;Zut;;Georg;2;Bird sang a lot if left alone, seemed a bit sensitive to changes, i.e. would not sing if door was open for a while. Postponed MD experiment by one week, and by then we need a new bird.
+36;y14k-s17;HVC Stim & Nif lesion;09.05.2006;06.06.2006;E2;Lacie1TB;;Claude;3;Dead two days after Nif lesion.
+37;g17k-p2;song recording, HVC & LMAN Stim, NIf Lesion;14.06.2006;14.07.2006;E2;Zirkel;;Claude;2;
+38;o16k-p20;Acute exp. RA activity while NIF lesion;14.06.2006;14.06.2006;AS;Zong;;Katja;2;
+39;r11k-y1;search for uva, nif lesion;16.06.2006;16.06.2006;AS;;;Richard;2;did not find uva. Found nif, injected gaba. Few bursts in ra, suppressed by nif injection. Fluo ruby injection in Nif, did not enter brain very easily, might have gone astray. Made an electrolyt.  lesion 300um medial of nif, continuously in depth 4-6mm. Blood during retraction of lesioning electrode.
+40;o19k-r16;Search for Uva;20.06.2006;20.06.2006;AS;;;Richard;2;Could not find UVA. Made a burn at 2.7 ap, 1.6ml, 5.7depth, where bursty neurons had been found. Bird did not sleep a lot, but moved frquently.
+41;k13k-r16;HVC tracer injection;22.06.2006;24.06.2006;;;;Richard;2;
+42;y1o-o4k;SR;26.06.2006;04.07.2006;E1;Zut;;Georg;0;
+43;b14k-p11k;Acute recording, search for uva;28.06.2006;28.06.2006;AS;;;Richard;2;Searched for UVA in 150um steps. Made burns at prospective site at depths 5, 4.5, 4.0, 3.5, 2.5, 2 mm. After the experiment metal electrode bubbled at several places, not just at the tip. Made recordings of NH and NI neurons.
+44;y4o-wang;SR;29.06.2006;03.09.2006;IS3;Zut3;;Claude;0;
+45;y1o-o4k;MD NIf recording;04.07.2006;10.07.2006;E1;Zut;;Georg;2;E1,E2 glass electrodes E3 tungsten. Song deteriorated after surgery, bird maybe too young. Barely any song after surgery. E1 and E2 broke when attempted to move 5 days post surgery. E3 probably does not move either - no neurons, signal sounds neural.
+46;s16k-p20;"acute, RA rec; UVA und NIf lesion";07.07.2006;07.07.2006;AS;Zong;;Katja;2;
+47;y5o-s3k;Song Tutoring;07.07.2006;25.08.2006;IS2;Zut3;;Georg;1;Song tutoring with artificial song, proof of concept.
+48;y6o-s3k;Song Tutoring;07.07.2006;25.08.2006;IS5;Zut3;;Georg;1;Song tutoring with artificial song, proof of concept.
+49;p18k-s6;SR;07.07.2006;13.07.2006;IS6;Zut3;;Georg;0;Post experiment song recording, bird learned song structure of tutor song.
+50;p20k-sg8;acut RA UVA and NIF lesion Lidocain;14.07.2006;14.07.2006;AS;Zong;;Katja;2;
+51;b3k;SR;11.07.2006;19.07.2006;IS8;Zut3;;Katja;1;
+52;p18k-s6;SR;19.07.2006;10.08.2006;E2;Zirkel;;Claude;0;SR with Labview
+53;g3o-r11;SR;19.07.2006;21.07.2006;E1;Zut;;Georg;0;Song test recording for MD NIf experiment - Bird did not sing so switched places with BU.
+54;p8o-g14k;Song development recording;21.07.2006;02.10.2006;IS8;Zut3;;Claude;1;
+55;p5o-sb;SR;21.07.2006;23.07.2006;E1;Zut;Lacie1TB;Georg;2;Bird sings a lot. Simple song.
+56;k6k-g14k;acut: recording in UVA and RA, Lidocain into UVA w;25.07.2006;25.07.2006;AS;Zing;;Katja;2;
+57;s15k-r16;Acut;03.08.2006;03.08.2006;AS;Zing;Zut4/TEMP;Katja;2;"recording in RA and UVA; injection in UVA and NIF. Went OK."
+58;p5o-sb;MD/NIf;24.07.2006;04.08.2006;E1;Zut;Lacie1TB;Georg;2;Found NIf during surgery but probably not during experiment. E3 broke on day 3 of the experiment probrbably because it was not raised before it was lowered. E1 and E2 had good data. MD2
+59;b4o-b3k;acut;09.08.2006;09.08.2006;AS;Zing;;Katja;2;UVA recording and injection Lidocain 4% and Glutamate 200mM while recording in UVA
+62;s3o-r16;song recording HVC inject;25.08.2006;25.08.2006;E2;;;Richard;2;Burned left HVC with cauterizer. Bird sings subsong two days later
+63;b5o-g14k;SR;28.08.2006;25.09.2006;IS7;Zut3;;Katja;0;"TRC; 30/8/2006 destroy left HVC with cautarizer;"
+64;g2o-r16;SR;28.08.2006;13.09.2006;IS3;Zut3;;Katja;0;
+65;k8k-b3k;SR;28.08.2006;15.09.2006;IS5;Zut3;;Katja;0;
+66;s2o-r16;SR;28.08.2006;19.09.2006;E1;Zut;;Georg;0;Song deteriorated after surgery. Bird did not regain any sterotyped song. Borke E1. Stopped experiment to start new MD experiment.
+67;o17k-g14k;acut experiment;29.08.2006;29.08.2006;AS;Zing;;Katja;2;recording RA and UVA: Samplerate too low :(( Inject Lidocain and Glutamate into UVA and record RA: samplerate ok. No effect. Had a lot of problems. Maybe we didn't hit UVA or. Check Histologie. In the end we tested Iontophoretic application of Fluoruby and Fast green. The colors went in, but no effect on RA due to Glutamate injection into HVC: maybe too late don't know.
+68;o14k-sb;acut;22.08.2006;22.08.2006;AS;Zirkel;Lacie1TB;Katja;2;Record UVA and NIF while BOS and spontaneaous. Injecting Lidocain or Glutamate (with Fluo-Ruby) into UVA while recording in RA. With and Without BOS playback.
+69;b14o-sb;Surgery;06.09.2006;07.09.2006;E2;;;Richard;2;Implanted pressure injection pipette into left HVC.
+70;p15o-s3k;Song tutoring;08.09.2006;16.11.2006;IS4;Zut3;;Georg;1;song tutoring with song from r9k-s17 one of the ZZ fathers, randomly switching between 20 different versions of the song
+71;y4o-wang;Singing vs. Light-OFF Exp.;07.09.2006;10.09.2006;IS3;Zut2;;Claude;0;
+72;p18k-s6;Right-HVC Stim & Right-LMAN Stim.;11.09.2006;21.09.2006;E2;Zirkel;;Claude;3;
+73;s7o-p11k;SR;15.09.2006;21.09.2006;IS3;Zut3;;Katja;0;
+74;s9o-p11k;SR;15.09.2006;19.09.2006;IS2;Zut3;;Katja;0;
+75;y14o-p11k;SR;15.09.2006;23.09.2006;IS5;Zut3;;Katja;0;
+76;s3o-r16;NIf injection BODIPY;14.09.2006;15.09.2006;IS1;Zut3;;Katja;2;surgery went fine. Bird starts singing the next day. Injection works, injected much too much BODIPY due to tubeing movements. Bird didn't sing. Once he started singing, no effect.
+77;k8k-b3k;Heliox experiment;18.09.2006;18.09.2006;E3;;;Aymeric;2;Recording tests in HelioxBox, Plexibox, filled with Helium/Oxygen (70/30%). About one hour.
+78;s9o-p11k;MD NIf experiment;19.09.2006;14.11.2006;E1;Zut;;Georg;2;Good data. Aymeric did the recording. Attempted to deafen bird, died of an overdose of Rimaldyl.
+79;g2o-r16;acut experiment;19.09.2006;19.09.2006;AS;Zing;;Katja;2;UVA injected Lidocain, RA recording. BAD experiment. Nothing worked
+80;s7o-p11k;NIf injection BODIPY;21.09.2006;24.09.2006;E2;Zirkel;;Katja;2;deleted all song files. Experiment didn't work. First day the bird lost tubing and plug and didn't sing. Next day he sung but the injection didn't work. Then I tried to inject and probably destroyed a lot. Injected a bit. Bird didn't sing for a bit more than 3 hours. The song showed no deficits. I injected a bit more (a lot!!) bird went ill, - no experiment ---> perfusion.
+81;o7o-p20;Test surgery for locating the DM;21.09.2006;21.09.2006;;;;Claude;2;make several electrolysis lesion on the right side brain to locate DM. The bird behaves as normal after awaking up from surgery. 20 minutes later, kill her for histology.
+83;b5o-g14k;acut Experiment;28.09.2006;28.09.2006;AS;Zing;Lacie1TB;Katja;2;recordings in UVA and RA and NIf. Everything went VERY well. Injected Lidocain and Dopamine in UVA and around. Good signals and Data.
+84;k8k-b3k;SR;25.09.2006;03.10.2006;IS7;Zut3;;Katja;0;
+85;y14o-p11k;NIF injection BODIPY;25.09.2006;29.09.2006;E2;Zirkel;;Katja;2;worked not as it should. Surgery fine, bird fine, but didn't sing enough. No effect after injection on Thursday, try to inject more on Friday
+86;y9o-o4k;Search Right-side DM & MLd. Inject Tracer;29.09.2006;02.10.2006;;;;Claude;2;
+87;g17o-r14;SR;29.09.2006;29.09.2006;IS1;Zut3;;Katja;0;
+88;g17o-r14;NIf injection experiment;30.09.2006;03.10.2006;E2;;;Katja;2;no experiment, bird is to nervos, no song recorded
+89;g15o-r14;NIf injection;03.10.2006;06.10.2006;E2;Zirkel;;Katja;2;"NIf injection --- > bird didn;tsing the first two days. Injection didn't work properly afterwards."
+90;k8k-b3k;acut experiment;04.10.2006;04.10.2006;AS;Zing;;Katja;2;recording in UVA and RA. Nice experiment. Inject Lidocaine (4%), Glutamate (12mM. 50mM) and Fluoruby into UVA and above while recording in RA.
+91;g3o-r11;SR;05.10.2006;15.10.2006;IS7;Zut3;;Katja;0;
+92;g17o-r14;NIf injection exp;09.10.2006;11.10.2006;E2;Zirkel;;Katja;2;surgery @ 9th of October. Experiment with perfusion @11. Oktober
+94;g3o-r11;acut experiment;18.10.2006;18.10.2006;AS;Zing;;Katja;2;UVA not found , RA recording. No sleep bursts.  _ BAD_Experiment
+95;s1o-r16;lesion left HVC;30.08.2006;19.10.2006;IS6;Zut3;;Richard;2;@30.08.2006 untill 19.10.2006 in IS6. recorded. Not a good song or not re-learned well.
+96;g6o-r12k;SR;19.10.2006;20.10.2006;IS6;Zut3;;Richard;0;
+97;s10o-sb;SR;19.10.2006;01.11.2006;IS7;Zut3;;Richard;0;
+98;b19k-r11;SR;19.10.2006;30.10.2006;IS8;Zirkel;;Richard;0;
+99;g6o-r12k;acut experiment;23.10.2006;23.10.2006;AS;Zing;;katja;2;bird didn't slept. Injected lidocain (O.04%) -- wrong concentration!!!!!!
+100;b19k-r11;UVA & RA Acute Exp.;01.11.2006;01.11.2006;AS;Zing;;Claude;2;Bleeding. Stopped experiment.
+101;s2o-r16;Long term chronic MD implant;20.09.2006;31.10.2006;E1;Zut;;Georg;2;Recorded signals 50 days post implant, signals still good and electrodes still moved.
+102;o10w;Heliox;30.10.2006;30.10.2006;E3;;;Florian;2;Song recording in heliox atmosphere. No change in ferquency or pitch.
+103;s3k-y8;SR;11.10.2006;14.10.2006;IS4;;;Florian;0;
+104;s10o-sb;Acute Exp. for UVA;02.11.2006;02.11.2006;AS;;;Claude;2;Bad Luck, couldn't find UVA. Make burning and do histology.
+105;r1o-p11k;SR;03.11.2006;11.11.2006;IS7;Zut3;;Claude;0;
+106;s13o-sb;SR;03.11.2006;17.11.2006;IS8;Zut3;;Claude;0;
+107;g7o-r12k;SR;03.11.2006;06.11.2006;IS6;Zut3;;Claude;0;
+108;b18o-silver2;LTP in RA;10.11.2006;10.11.2006;AS;;;Isabelle;1;died after operation, with injection of nembutal- time of dead not clear but probably just after injection
+109;g7o-r12k;Acute Exp for UVA inactivation and RA recording.;06.11.2006;06.11.2006;AS;Zing;;Claude;2;Successful Exp.
+110;r1o-p11k;Acute Exp for UVA inactivation and RA recording.;11.11.2006;13.11.2006;AS;Zing;;Claude;2;
+111;k7k-b3k;Nembutal-injection intramuscular;14.11.2006;14.11.2006;AS;;;Isabelle;1;died after injection- after 17min. Infection volume less than 30ul. Bleeding a little bit.
+112;o18o-y13k;Nembutal -injection, intramuscular;14.11.2006;14.11.2006;;;;Isabelle;2;injection of <30ul Nembutal, slept for 1h, wake up once as we took k7k out of the cage after 17min. Wake up, everything fine.
+113;g12k-y8;Cochlear removal;15.11.2006;15.11.2006;;;;Georg;2;Attempted to remove left cochlea. Bird disoriented and in pain after surgery -> immediate EoE. Post mortem verification of location.
+114;g12o-g14k;RA-Plasticity Acute Exp.;16.11.2006;16.11.2006;AS;Zing;;Claude;2;
+115;y5o-s3k;SR;16.11.2006;24.11.2006;IS1;Zut3;;Georg;0;Song recording for comparison.
+116;y6o-s3k;SR;16.11.2006;24.11.2006;IS2;Zut3;;Georg;0;Song recording for comparison.
+117;s13o-sb;UVA inactivation and RA recording.;17.11.2006;17.11.2006;AS;Zing;Lacie1TB;Claude;2;Very nice RA sleeping pattern.
+118;b7o-p11k;RA Plasticity;20.11.2006;20.11.2006;AS;;;Isabelle;2;RA is not healthy. HVC Stim implant is not good. There are large stim artifacts. LMAN stim is ok.
+119;r15o-r11c;Cochlear removal right;22.11.2006;22.11.2006;;;;Georg;2;Could not find cochlea. EoE
+120;g8o-r12k;Song Recording, HVC Stim and UVA Recording.;24.11.2006;14.12.2006;E2;Zirkel;;Claude;2;HVC stim has no effects even with current of 3mA. DM recording looks in some extent lock to the song.
+121;b10o-p11k;SR;04.01.2007;14.01.2007;E2;Zirkel;;Claude;1;
+122;b10o-p11k;DM-Lesion;16.01.2007;16.01.2007;AS;;;Claude;2;Break electrodes during exp. Couldn't have signal because I forgot to connect the ground wire on the right-side headstage.
+123;o13o-y8;Cochlear removal;23.11.2006;27.11.2006;;;;Georg;2;Removed cochlea succesfully on right side.
+126;p8o-r16;perfusion;19.12.2006;19.12.2006;;;;Daniele;1;
+127;p9o-r16;RA Plasticity;27.11.2006;27.11.2006;AS;;;Isabelle;2;Dead due to overdose of Nembutal (25ul).
+128;p9o-y13k;RA Plasticity;29.11.2006;29.11.2006;;;;Isabelle;2;good neurons in RA, good data for HVC, but LMAN has no good data.
+129;g19o-silver2;SR;30.11.2006;01.12.2006;IS1;Zut3;;Claude;0;
+130;p10o-s3k;SR;30.11.2006;01.12.2006;IS2;Zut3;;Claude;0;
+131;p2o-g14k;SR;30.11.2006;01.12.2006;IS3;Zut3;;Claude;0;
+132;p6o-sb;SR;30.11.2006;01.12.2006;IS4;Zut3;;Claude;0;
+133;s16o;SR;30.11.2006;01.12.2006;IS5;Zut3;;Claude;0;
+134;y20o-o4k;SR;30.11.2006;01.12.2006;IS6;Zut3;;Claude;0;
+135;y14p-r11;SR;01.12.2006;19.12.2006;IS7;Zut3;;Georg;0;Postponed acute experiment.
+136;g11o-g14k;RA Plasticity;06.12.2006;06.12.2006;AS;;;Isabelle;2;hard to find RA, no LMAN Stimulation, recordings only after 17:30
+137;g9o-r12k;NIf anatomy;08.12.2006;08.12.2006;;;;Georg;1;
+138;b16k-r16;SR;11.12.2006;15.12.2006;;;;Joshua;2;headphones feedback, no experiment.. Did not sing on the first day in E3
+140;s16o;RA Plasticity;12.12.2006;12.12.2006;AS;;;Isabelle;2;geschwollenes RA, kein Signal
+141;r13o-o4k;RA Plasticity;13.12.2006;13.12.2006;AS;;;Isabelle;2;Bird was moving a lot as the head was not fixated well
+143;s1b-y8;Tracer Injection in HVC;15.12.2006;18.12.2006;;;;Daniele;2;Bilateral tracer Injection in HVC and perfusion
+144;g14o-g14k;Immunostaining;18.12.2006;18.12.2006;;;;Daniele;1;Bird broke his leg and was used for immunostaining after perfusion.
+145;r17o-r11;RA Plasticity;21.12.2006;21.12.2006;;;;Isabelle;2;LMAN Stimulation, Stim. Amplitude und Pulsanzahl variieren
+147;p4o-sb;HVC Injection;22.12.2006;28.12.2006;;;;Daniele;2;Fluororuby bilater injection in HVC
+148;k18k-r11;Plasticity in RA;04.01.2007;04.01.2007;AS;;;Isabelle;2;very nice experiment, simultanious stimulation of RA by LMAN and HVC, different latency, different amplitude, HVC stim electrode is not on the right place? HVC response is weak
+150;o2p-silver17;song recording Nif MD;05.01.2007;09.02.2007;E1;Zut;Lacie1TB;Georg;2;Electrode 1 broke off of shuttle after implantation. E2 and E3 in NIf.
+151;p17k-y6;Western Blot;09.01.2007;09.01.2007;;;;Daniele;1;Bird used for Western Blot
+152;s7k-b3k;RA Plasticity;10.01.2007;10.01.2007;AS;;;Isabelle;2;
+153;s4b-y8;Acute double HVC;11.01.2007;11.01.2007;AS;Zing;;Richard;2;Acute experiment HVC right and left
+154;b16k-r16;Acute double HVC;12.01.2007;12.01.2007;AS;Zing;;Richard;2;Good Data of simultan HVC recordings. Burns for histiology at 500, 1000, 1500 both sides.
+155;g20o-ch900;Song recording and DM-lesion;15.01.2007;27.01.2007;E2;Zirkel;;Claude;2;
+156;g11p-s19o;Perfusion for immunostaining test;19.01.2007;19.01.2007;;;;Daniele;2;
+157;g5p-s19o;Perfusion EM Prep;19.01.2007;19.01.2007;;;;Moritz;2;
+159;y14p-r11;SR;22.01.2007;22.01.2007;E2;Zirkel;;Claude;2;Stop song recording. Only 3 short syllables.
+160;k19k-g14k;Song recording, Unilateral HVC Stims.&DM Recording;22.01.2007;13.02.2007;E2;Zirkel;;Claude;2;
+161;o10p-r16;RA-HVC/LMan Induction;19.01.2007;19.01.2007;AS;Zut4;Lacie1TB;Richard;2;good experiment
+162;o3p-silver17;tracer injection;22.01.2007;25.01.2007;;;;Daniele;1;Bilateral injection in HVC and Nif.
+164;red16;SR;22.01.2007;23.01.2007;IS2;Zut3;;Aymeric;0;SR for  PB-file  for o15p acute experiment
+165;o15p-r16;RA-HVC/LMan Induction;24.01.2007;24.01.2007;AS;Zut4;Lacie1TB;AYMrich;2;good experiment
+166;Silver17;SR;29.01.2007;29.01.2007;IS2;;;Aymeric;0;SongRecording: no song
+167;r;SR;29.01.2007;30.01.2007;IS2;;;Aymeric;0;SongRecording in IS2 with his father.
+168;r;acute RA-HVC/Lman;30.01.2007;30.01.2007;AS;Zut4;Lacie1TB;Aymeric;2;acute experiment with double Recording in RA while Stimulation in  HVC and Lman
+169;r9b-o3;Tacer Injection;29.01.2007;31.01.2007;;;;Daniele;2;Fluororuby injection in right HVC
+171;Silver17;SR;30.01.2007;30.01.2007;IS2;;;Aymeric;0;SongRecording no song - bird back to cage U6
+172;g8o*;SR;02.02.2007;05.02.2007;IS2;;;Aymeric;0;
+173;y13k-s17;SR;02.02.2007;05.02.2007;;;;Aymeic;0;SongRecording during 3 days
+174;o7p-y8;tracer injection;02.02.2007;05.02.2007;;;;Moritz;2;HVC left flouroruby, HVC right yellow. Test if flourotracers get affected by EM-fixation and preparation.
+175;o9p-y8;SR;02.02.2007;08.02.2007;IS1;Zut2;;Joshua;1;
+176;g8o*;RA-HVC/LManStim;05.02.2007;05.02.2007;AS;Zut4;Lacie1TB;Aymeric;2;acute experiment with  recording and injection in RA while Stimulation in  HVC and Lman
+177;red16;SR;06.02.2007;12.02.2007;IS2;Zut3;;Aymeric;0;SR with son JM3a (now a3-r16)
+178;a3-r16;SR;06.02.2007;12.02.2007;IS2;Zut3;;Aymeric;0;SR with father red16
+179;p10o-s3k;Tracer Inj;07.02.2007;09.02.2007;;;;Moritz;2;Uva and HVC bilateral tracer injection
+180;o6p-y8;Perfusion (EM-prep);01.02.2007;01.02.2007;;;;Moritz;2;
+181;b1p-red11;Tracer injection;09.02.2007;12.02.2007;;;;Daniele;2;Bilateral injection of Alexa Fluor 466 in HVC, perfusion (without postfixation(
+182;a3-r16;acute RA-HVC/LManStim;12.02.2007;12.02.2007;AS;Zut4;Lacie1TB;Richard;2;Acute experiment with recording elctrode in RA, Stimulation of HVC and LMan and injection of Bicuculline Metriodide in RA
+183;p14o-r9k;Loudspeaker;12.12.2006;09.02.2007;E3;Zutty;;Joshua;2;Sound playback by headfixed loudspeakers
+184;b6p-yellow20;Tracer Injection;15.02.2007;15.02.2007;;;;Daniele;1;Bleeding during operation (I had to kill the animal under anesthesia)
+185;o9p-y8;Hexode Microdrive;08.02.2007;15.02.2007;E3;zutty;;Joshua;2;
+186;g18p-yellow1;SR;19.02.2007;20.02.2007;IS2;Zut3;;Aymeric;0;Songrecording with father in IS2
+187;yellow1;SR;19.02.2007;20.02.2007;IS2;Zut3;;Aymeic;0;Songrecording with son g18p-yellow1
+188;y9p-y20;Perfusion;12.12.2006;12.12.2006;;;;Moritz;2;
+189;y10p-r11;SR;19.02.2007;22.02.2007;IS1;Zut2;;Joshua;1;
+190;g10o-g14k;SR;20.02.2007;23.02.2007;IS3;;;Joshua;1;
+191;g18p-yellow1;RA-HVC/LMANStim;20.02.2007;20.02.2007;AS;Zut4;Lacie1TB;Richard;2;RA recording and injections while simultan stimulation of HVC and LMAN in acute setup
+192;y14p-r11;Tracer Injection;21.02.2007;26.12.2007;;;;Daniele;2;Alexa Fluor injection in HVC, bilateral, P32 (1, 0.78), more than one diameter. Immunostaining
+193;b20p-red16;MD Field L;22.02.2007;29.03.2007;E1;Zut;;Georg;3;Field L recording, E1 and E2 4MOhm E3 10MOhm, E3 broke after one week of recording, probably due to blood clotting in the guide tube. Cochlear removal, no damage, no bleeding, relativeley big holes in the outer wall of the cochlea. Bird completely lost balance after surgery. Injected 1ul Rimaldyl i.p. and the bird died.
+194;y7p-o3;Tracer Injection;23.02.2007;27.02.2007;;;;Daniele;2;Nif (AF) and HVC tracer injection (FR)
+195;o16p-ch900;Tracer Injection UVA&HVC;26.02.2007;02.03.2007;;;;Moritz;2;
+196;g12p-s19o;UVA&HVC Tracer Injection;27.02.2007;02.03.2007;;;;Moritz;2;
+197;y13p-r11;SR;28.02.2007;01.03.2007;IS2;Zut3;;Aymeric;0;
+198;y13p-r11;acute;01.03.2007;01.03.2007;IS2;Zut4;Lacie1TB;Richard;2;RA recordings and injections - LMAN/HVC stimulation
+199;s14p-yellow8;Immunostaining;06.03.2007;06.03.2007;;;;Daniele;2;Perfusion for immunostaining
+200;y10p-r11;Hexode Microdrive;22.02.2007;06.03.2007;E3;zutty;zynix;Joshua;2;Hexode in RA, good data of regular spiking and bursts
+201;s12p-yellow8;acute;06.03.2007;06.03.2007;AS;Zut4;Lacie1TB;Richard;2;Acute experiment recording RA and biccuculine Injections, while HVC/LMAN-stimulations
+203;b9o-p11k;SR;15.03.2007;19.03.2007;E2;Zirkel;;Claude;2;
+204;g10o-g14k;Tracer Injection in HVC, Alexaf. 488;15.03.2007;22.03.2007;;;;Moritz;2;
+205;y20o-o4k;Acute Exp. by Richard and Aymeric;16.03.2007;16.03.2007;AS;Zut4;Lacie1TB;Aymeric;2;RA recording and injections of biccu - HVC/LMAN-stim
+206;r6o-s2;Song recording,k HVC Stim., DM Recording;16.03.2007;06.06.2007;E2;Zirkel;;Claude;2;Only do HVC Stim. before I left for Taiwan on 3/30.
+207;b9o-p11k;Uva and HVC injection;19.03.2007;22.03.2007;;;;Daniele;2;Uva 10U AF
+208;p6o-sb;UVA Acute Exp.;22.03.2007;22.03.2007;AS;Zing;Lacie1TB;Claude;2;Exp. Failed. Can't find UVA.
+209;r2p-r19o;HVC Tracer Injection;22.03.2007;26.03.2007;;;;Daniele;2;AF Injection (Left 18-22, Right 19-24)
+210;r17k-silver17;Surgery practice for removing the dura.;23.03.2007;23.03.2007;;;;Claude;1;
+211;p5p-s14k;Bilateral HVC/LMAN-recordings;24.03.2007;07.05.2007;E3;Zutty;;Aymeric;2;Implant bilateral electrodes in HVC and LMAN, Bilateral HVC/LMAN-recording electrodes in a Juvenile (PHD 40) - chronical experiment. Electrodes came off upon reconnection attempt. EoE
+213;s14k-r16;SR;25.03.2007;16.04.2007;E3;Zutty;;Aymeric;2;Put in E3 by Aymeric for Songteaching to son  p3p.
+214;b3p-red11;Tracer Injection;26.03.2007;29.03.2007;;;;Daniele;2;Af488 HVC injection for immuno
+215;g19o-silver2;UVA Exp. Acute.;27.03.2007;27.03.2007;AS;Zing;;Claude;2;RA neurons are not bursty and not BOS responsive!
+216;s18o-y20;SR;27.03.2007;02.04.2007;IS1;Zut3;;Claude;1;
+217;o20k-sg8;SR;27.03.2007;03.04.2007;IS2;Zut3;;Claude;1;Song recording
+219;p9o;SR;28.03.2007;06.04.2007;IS4;Zut3;;Claude;1;
+221;o17p-r12k;SR;28.03.2007;05.04.2007;IS3;Zut3;;Claude;1;
+222;s10p-yellow8;CMM search & cochlear removal;12.03.2007;12.03.2007;;;;Georg;1;
+223;r18w-silver17;HVC tracer injection;28.03.2007;02.04.2007;;;;Daniele;1;AF 488 injection in HVC, bilateral
+224;p2o-g14k;UVA, RA Exp.;29.03.2007;29.03.2007;AS;Zing;;Claude;2;Found UVA and had good RA neurons.
+225;b6o-p11k;Tracer Injection;30.03.2007;10.04.2007;;;;Daniele;1;AF488 in HVC
+226;s18o-y20;Acute;02.04.2007;02.04.2007;AS;Zut4;Lacie1TB;Richard;2;UVA awake BOS - HVC Stim/RA recordings
+227;o20k-sg8;acute;03.04.2007;03.04.2007;AS;;Lacie1TB;Rich;2;RA-recording in sleeping bird while HVC and LMAN-stimulations and injections of biccuculine and CPG
+228;o17p-r12k;Acute;05.04.2007;05.04.2007;AS;Zut4;Lacie1TB;Richard;2;RA recordings / UVA injection GABA
+229;p9o;Acute;06.04.2007;06.04.2007;AS;;Lacie1TB;Richard;2;RA-recordings - Uva recording and  injections of GABA, alexa fluor and lidocaine while playing PB
+230;s15o;SR;08.04.2007;12.04.2007;IS3;;;Aymeric;0;
+231;s16p-yellow20;SR;08.04.2007;12.04.2007;;;;Aymeric;0;
+232;r10p-y7o;Perfusion;10.04.2007;10.04.2007;;;;Daniele;1;Perfusion with students
+233;r1p-r19o;Tracer Injection;11.04.2007;17.04.2007;;;;Daniele;1;Tracer Injection in HVC AF
+234;s15o;acute;12.04.2007;12.04.2007;AS;;Lacie1TB;Richard;2;RA-recording/ UVA-recording and injections
+235;s16p-yellow20;acute;13.04.2007;13.04.2007;AS;;;Aymeric;2;Bird did not survive surgery. Excessive bleeding during surgery for unclear reasons.
+236;y12p-r11;SR;13.04.2007;15.04.2007;IS3;;;Aymeric;0;
+237;g19p-purple20;SR;13.04.2007;15.04.2007;IS4;;;Aymeric;0;No records
+238;y12p-r11;Acute;15.04.2007;15.04.2007;AS;;;Richard;2;RA-recordings, HVC-stimulations, UVA-injections
+239;b12o-g14k;Tracer Injection;15.04.2007;17.04.2007;;;;Moritz;2;
+240;r4p-orange3;Cochlear removal;29.03.2007;29.03.2007;;;;Georg;1;Cochlear romval practice, killed animal in anaesthesia .
+241;b10p-red16;Cochlear removal practice;29.03.2007;29.03.2007;;;;Georg;1;Killed animal during anaesthesia.
+242;y4o-wang;HVC Stim. & DM Rec.;17.04.2007;17.05.2007;E2;Zirkel;;Claude;3;Suddenly dead at night (16.05.2007). Found no cause for his death.
+243;r5p-r9k;Cochlear removal practice;16.04.2007;17.04.2007;;;;Georg;3;Removed both cochleas, bird unbalanced and in distress. Injected 3x 20 ul (1/10 Rimadyl) over the two days. Found bird dead in cage.
+245;o20p-ch900;sr -> multitrode ra;18.04.2007;08.05.2007;E3;Zut2;;Joshua;2;
+246;b15g-red11;Cochlear removal practice;20.04.2007;20.04.2007;;;;Georg;1;
+247;r9g-red11;Cochlear removal practice;20.04.2007;20.04.2007;;;;Georg;1;
+248;r3p-orange3;Cochlear removal practice;20.04.2007;20.04.2007;;;;Georg;1;
+249;b14p-y13k;Cochlear removal practice;20.04.2007;20.04.2007;;;;Georg;1;
+250;b7p-y13k;Cochlear removal practice;20.04.2007;20.04.2007;;;;Georg;1;
+251;s2kk-y20;MD NIf;25.04.2007;11.06.2007;E1;Zut;Lacie1TB;Georg;2;found NIf with E3 at 2200-2400. lateral positioner probably works only for one sweep, i.e. only forward. 2 days of hvc stimulation to find stopping points. Cochlear removal practice.
+252;g14p-p20;Practice DM rec. electrode implant;25.04.2007;25.04.2007;;;;Claude;1;
+253;p6p-s18o;Cochlear removal;26.04.2007;28.05.2007;;;;Georg;2;surgery sucessful on right side, left incomplete cochlear removal. Bird not deaf!
+254;r13p-sb;DM-Rec. Implant Practice;28.04.2007;28.04.2007;;;;Claude;1;
+255;o19p-ch900;Tracer Injection;30.04.2007;02.05.2007;;;;Daniele;1;HVc injection
+256;o6o-r12k;SR;30.04.2007;03.05.2007;IS7;Zut3;;Claude;1;
+257;r13o-s17;SR;30.04.2007;07.05.2007;IS6;Zut3;;Claude;1;
+258;o6o-r12k;UVA/NIF;03.05.2007;03.05.2007;AS;;;Rich;2;Acute experiment - Did not found UVA
+259;r13o-s17;UVA/NIF;06.05.2007;06.05.2007;AS;;;Rich;2;Acute experiment - found UVA - Tracer
+260;p7p-s18o;SR;07.05.2007;08.05.2007;IS3;Zut3;;Aymeric;0;
+261;r5o-s2;SR;07.05.2007;10.05.2007;IS4;Zut3;;Aymeric;0;
+262;r11p-y7o;Training;08.05.2007;08.05.2007;;;;Michael;1;Training for use of the headplate
+263;p7p-s18o;Acute;08.05.2007;08.05.2007;AS;Zut4;Lacie1TB;Richard;2;UVA Glutamat-injections and HVC-recordings
+264;y18p-s2;SR;09.05.2007;16.05.2007;IS1;Zut3;;Aymeric;1;
+265;y15p-s2;SR;09.05.2007;17.05.2007;IS2;Zut3;;Aymeric;1;
+266;s8o-p11k;SR;09.05.2007;11.05.2007;IS3;Zut3;;Claude;0;
+267;g16p-yellow1;two-photon microscopy;09.05.2007;09.05.2007;AS;;;Michael;2;first two-photon microscopy experiment using the self-designed head-plate
+268;s20k-sg8;Practice mounting the Metal Window;11.05.2007;11.05.2007;;;;Michael;2;Practice mounting the window on top of HVC for confocal Microscope.
+269;r5o-s2;Acute;10.05.2007;10.05.2007;AS;;;Richard;2;UVA injections and HVC Recordings
+270;p20o-o4k;SR;15.05.2007;22.05.2007;IS3;Zut3;;Aymeric;2;
+271;s3p-y20;SR;15.05.2007;24.05.2007;IS4;Zut3;;Aymeric;2;
+272;p10p-s18o;two-photon microscopy;16.05.2007;16.05.2007;AS;;;Michael;1;second trial with setup of helmchen group and also head-plate
+273;r9k-s17;SR;17.05.2007;04.07.2007;E2;Zirkel;;Claude;1;
+274;r19o-r11;SR;17.05.2007;31.05.2007;IS2;Zut3;;Claude;1;
+275;b18p-p20;SR;17.05.2007;03.06.2007;IS1;Zut3;;Claude;1;
+276;y18p-s2;Acute;16.05.2007;16.05.2007;AS;Zut4;Lacie1TB;Richard;2;UVA Glutamatinjections and HVC recordings
+277;y15p-s2;Acute;17.05.2007;17.05.2007;AS;Zut4;Lacie1TB;Richard;2;Surgery - acute setup - UVA recordings, HVC recordings - UVA Glutamat injections and HVC recordings - Tracers in UVA and HVC
+278;b19p-s14k;Cochlear removal practice;18.05.2007;18.05.2007;;;;Georg;2;ear method, removed semicircular canal on right side. Otherwise good surgery.
+279;yellow8;SR;21.05.2007;24.05.2007;IS5;Zut3;;Michael;0;time reversion and song recording
+280;s18o;SR;21.05.2007;29.05.2007;IS6;Zut3;;Michael;1;
+281;r1b-o3;electrophysiology in hvc;21.05.2007;21.05.2007;AS;;;Michael;2;chart hvc electrophysiologically -> training
+282;p20o-o4k;UVA Exp.;22.05.2007;22.05.2007;AS;Zut4;Lacie1TB;Richard;2;Silence Nif, Stim. UVA, and record HVC. Good Exp.
+283;s3p-y20;Acute Exp.;24.05.2007;24.05.2007;AS;;;Richard;2;Silence Nif or nearby non-Nif area, Stim. UVA, Rec. HVC activity. Good Exp.
+284;yellow8;charting hvc;24.05.2007;24.05.2007;;;;Michael;1;
+285;silver2;Tracer injection;25.05.2007;29.05.2007;;;;Daniele;2;Preembvedding immunohisto
+286;yellow14;Tracer injection RA AF488 and FR smal;25.05.2007;29.05.2007;;;;Moritz;2;
+287;s18o;two-photon microscopy;29.05.2007;29.05.2007;AS;;;Michael;2;
+289;o11o-r12k;SR;31.05.2007;06.06.2007;IS6;Zut3;;Michael;1;
+290;g19p-purple20;SR;31.05.2007;04.06.2007;IS3;Zut3;;Aymeric;1;
+291;p17o-silver2;SR;31.05.2007;14.06.2007;IS4;Zut3;;Aymeric;1;
+292;r19o-r11;UVA Exp.;01.06.2007;31.05.2007;AS;Zing;Lacie1TB;Claude;2;Found a good UVA_nif neuron.
+293;g14k;two-photon microscopy;01.06.2007;01.06.2007;AS;;;Michael;2;
+294;r16p-s2;SR;04.06.2007;21.06.2007;IS5;Zut3;;Michael;1;
+295;b2p-red11;Tracer injection bilateral RA and HVC;04.06.2007;19.06.2007;;;;Moritz;1;
+296;b18p-p20;Acute;03.06.2007;03.06.2007;AS;Zut4;Lacie1TB;Richard;2;Uva Recording and NIf/HVC stimulations
+297;g19p-purple20;Acute;04.06.2007;04.06.2007;AS;Zut4;Lacie1TB;Richard;2;Uva - recordings and injections of Glutamat HVC/Nif - stimulations and recording
+298;Silver17;Perfusion for He Ion Micro trial;05.06.2007;05.06.2007;;;;Moritz;1;
+299;s15g-yellow20;Acute;06.06.2007;06.06.2007;AS;;;Fethi;2;RA-HVC recordings and PB conspecific songs
+300;o11o-r12k;two-photon microscopy;06.06.2007;06.06.2007;AS;;;Michael;3;
+301;g17p-yellow1;SR;08.06.2007;12.06.2007;IS1;Zut3;;Fethi;1;
+302;s6p-s3k;Tracer Injection two-photon microscopy;12.06.2007;15.06.2007;;;;MIchael;2;injection of alexa fluor 488 into ra only on the right hemisphere
+303;g17p-yellow1;acute;12.06.2007;12.06.2007;AS;;;Fethi;2;acute - no data
+304;p17o-silver2;acute;14.06.2007;14.06.2007;AS;;;Richard;2;search UVA - Tracer in UVA
+306;r16p-s2;Acute;21.06.2007;21.06.2007;AS;;Lacie1TB;Richard;2;UVA injections - HVC recordings and Stimulations in Nif
+307;g3p-sb;SR;22.06.2007;25.06.2007;IS5;Zut3;;Michael;2;
+308;s8k-p11k;Perfusion Experiment;25.06.2007;25.06.2007;;;;Moritz;1;
+309;b16p-y13k;Perfusion for EM;25.06.2007;25.06.2007;;;;Daniele;1;Perfusion for electro-microscopy (4% PFA, 0.3% Glut, postfix 2h 4% PFA)
+310;g3p-sb;two-photon microscopy;26.06.2007;25.06.2007;AS;Zut4;;Michael;2;ogb-1 am injection at setup of helmchen group
+311;p19p-b3k;SR;26.06.2007;27.06.2007;IS5;Zut3;;Michael;0;
+312;p19p-b3k;two-phtoton imaging;27.06.2007;27.06.2007;AS;Zut4;;Michael;2;electroporation with ogb-1 in potassium salt form
+313;b5p-red11;SR;29.06.2007;12.07.2007;IS5;Zut3;;Michael;0;time reversion
+314;b3k;calcium green I - injection two-photon microscopy;29.06.2007;02.07.2007;;;;Michael;2;injection of calcium dependent tracer calcium green I - MW 10000
+317;DJsubsong;HVC/LMAN-subsong;02.07.2007;17.07.2007;E3;Zutty;;AymRiGio;2;Electrodes in HVC and LMAN in both sides.Earphones for auditory feedback. Big noise artefacts on all four electrodes, pick up from head phone wires?
+318;s17p-yellow20;Perfusion experiment, phosph. Tungsticacid;05.07.2007;05.07.2007;;;;Moritz;1;
+319;s3s13-gF13p;SR;09.07.2007;17.07.2007;E3;;;Aymeric;1;showgirl compagnon for males in eperiment in E3
+320;green9;Perfusion for EM;10.07.2007;10.07.2007;;;;Daniele;1;Perfusion 4% PFA 0.3 Glut and postfix 1h PFA RT. Experiment without accelerator.
+321;b4r1;SR;13.07.2007;18.07.2007;IS5;Zut3;;Michael;1;song recording and time reversion
+322;b5p-red11;tracer-injection two-photon microscopy;09.07.2007;12.07.2007;;;;Michael;2;calcium green I - dextran injection into ra
+324;r1s11;HVC-pHVC cut;16.07.2007;20.07.2007;IS1;;;Georg;2;cut HVC-pHVC and injected tracer in HVC.
+325;r1s12;Tracer injection HVC;16.07.2007;20.07.2007;IS2;;;Georg;2;Tracer injection in HVC as control for r1s11. Burns in NCM.
+326;r1s13;SR;15.07.2007;20.07.2007;IS3;;;Georg;1;
+327;goldch900;SR;04.07.2007;17.07.2007;;;;Aymeric;1;
+328;r4r15;Perfusion for EM;17.07.2007;17.07.2007;;;;Daniele;1;Perfusion with 4% PFA 0.3 Glut 25 min and postfix PFA 1h30min
+329;b4r1;CGI injection - 2PLSM;18.07.2007;18.07.2007;;;;Michael;2;CG1 injection into RA -> same day 2PLSM with sulforhodamine on surface
+330;g2p-sb;SR;19.07.2007;25.07.2007;IS5;Zut3;;MIchael;1;
+331;k1r1-s3k;RArec - HVC/LMAN stim;19.07.2007;19.07.2007;AS;;;Richard;2;Acute Experiment: RA recordings and bicucculine-injections and variable HVC/LMAN stimulations
+332;g5k;perfusion experiment;23.07.2007;23.07.2007;;;;Moritz;1;
+333;r8p-yellow20;perfusion experiment;23.07.2007;23.07.2007;;;;moritz;1;
+334;s8p-r14;Search DM & Inject tracer;23.07.2007;23.07.2007;AS;;;Claude;1;
+335;s10s20-y7o;SR;24.07.2007;07.08.2007;IS6;Zut3;;Michael;1;
+336;r1s13;L1-L2a-CLM chronic recording;23.07.2007;16.08.2007;E1;Zut;;Georg;2;
+337;DJsubsong2;HVC/LMAN-subsong;24.07.2007;28.07.2007;E3;Zutty;;AymRichGio;3;Electrode on both, HVC and LMAN, good signal on LMAN electrodes, head movement noise on HVC (and probably LMAN as well) electrodes. bird died 4 days after surgery. Infection on left lman and hvc craniotomy.
+338;a4-yellow1;Acute;25.07.2007;25.07.2007;AS;;Lacie1TB;Aymeric;2;RA rec and Bicucculine inections -  HVC/LMAN stimulations
+339;s9p-r14;Search DM & tracer injection.;26.07.2007;26.07.2007;AS;;;Claude;1;
+340;yellow1;SR;25.07.2007;28.07.2007;E3;;;Aymeric;1;SOngrecording in E3 with son in experiment DJsubsong2
+341;g2p-sb;two-photon microscopy;25.07.2007;25.07.2007;AS;;;Michael;2;electroporation & intracellular electroporation
+342;s3s13-gF13p;intracellular recording;27.07.2007;27.07.2007;AS;;;MIchael;2;
+343;p8k;removeal of parahippocampus;27.07.2007;27.07.2007;AS;;;Michael;2;
+344;g1p-sb;SR;30.07.2007;09.07.2007;IS5;Zut3;;Michael;1;
+345;a5-yellow1;acute;30.07.2007;30.07.2007;AS;;Lacie1TB;Aymeric;2;RA rec and bicucculine injections - LMAN/HVC variable stimulations
+346;r5p-red11;Search DM & MLD.;03.08.2007;03.08.2007;AS;;;Claude;1;
+347;o11o12;Search DM & MLD with HVC Stim.;08.08.2007;10.08.2007;AS;;;Claude;2;Found MLD and DM. HVC Stim. threshold for evoking DM response is only 30 uA. Inject tracer and keep the bird alive for two days.
+348;s10s20-y7o;two-photon microscopy;07.08.2007;07.08.2007;AS;Zut4;;Michael;2;ogb-1 dextran injection into ra - 2plsm in hvc - removeal of parahippocampus
+349;g1p-sb;two-photon microscopy;09.08.2007;09.07.2007;AS;Zut4;;Michael;2;electrophysiological search for hvc - single cell electroporation - stimulation of stained cells within hvc - bird died during experiment :-(
+350;r5r19;SR;10.08.2007;27.08.2007;IS5;Zut3;;Michael;1;
+351;s20p-s3k;SR;10.08.2007;14.08.2007;IS6;Zut3;;Michael;1;
+353;o5o6;DM & MLD Search;14.08.2007;14.08.2007;AS;;;Claude;1;Make a burn.
+354;o2r1;RArec/inj-HVC/LMANstim;16.08.2007;16.08.2007;AS;Zut4;Lacie1TB;Aymeric;2;acute esperiment with RArecordings and RAbicuinjection with HVC/LMANstim-Protocol
+355;o13o14;Search DM & MLD;17.08.2007;17.08.2007;AS;;;Claude;1;Make a burn.
+356;s20p-s3k;two-photon microscopy;14.08.2007;14.08.2007;AS;;;Michael;2;single-cell electroporation and stimulation of cells
+357;a6-r12p;RArec-HVC-LMANstim;21.08.2007;21.08.2007;AS;Zut4;Lacie1TB;Aymeric;2;RArecordings and bicucculine injections - variable LMAN and HVC stimulations
+358;y4r1;Perfusion for EM;22.08.2007;22.08.2007;;;;Daniele;1;Complete protocol with TA, perfusion with 4%PFA 2.5 Glut
+359;a7-o20o;RArec/inj & LMAN/HVCstim;22.08.2007;22.08.2007;AS;Zut4;Lacie1TB;Aymeric;2;RA recordings and bicucculine injections while variable HVC/LMAN stimulations
+360;r9k-s17;HVC Stim. & DM Rec.;27.08.2007;27.08.2007;E2;Zirkel;;Claude;2;Dead during surgery.
+361;r5r19;two-photon microscopy;27.08.2007;27.08.2007;AS;;;Michael;1;ogb-1 am injection into ra according to coordinates
+362;r2r3;SR;29.08.2007;31.08.2007;IS1;Zut3;;Aymeric;0;Songrecording
+363;b5r1;SR;29.08.2007;31.08.2007;IS2;Zut3;;Aymeric;0;Songrecording no data
+364;b1r1;SR;29.08.2007;31.08.2007;IS3;Zut3;Lacie1TB;Aymeric;0;Songrecording successful
+365;b1r1;Acute Eperiment;31.08.2007;31.08.2007;AS;Zut4;Lacie1TB;AymRich;2;HCC and Nif stimulations Uva recordings
+366;p17p-p14k;Tracer inj for EM studies;28.08.2007;03.09.2007;;;;Daniele;2;HVC Af 488 bilateral for tannic acid studies
+367;r19p-s17o;SR;27.08.2007;03.09.2007;E2;;;Claude;1;
+368;red14;SR & HVC Stim. DM Rec.;03.09.2007;13.10.2007;E2;Zirkel;;Claude;2;
+369;r1y6;SR;11.09.2007;21.09.2007;IS3;Zut3;;Aymeric;1;
+370;r1s2;SR;11.09.2007;19.09.2007;IS1;Zut3;;Aymeric;1;
+371;b5r1;SR;11.09.2007;18.09.2007;IS2;Zut3;;Aymeric;1;
+372;r1s20;tracer experiment;18.09.2007;25.09.2007;;;;Moritz;2;HVC and RA injection bilateral
+373;r1s6;Tracer inj;18.09.2007;21.09.2007;;;;Daniele;2;R (ML 1.720 AP 100 DV -0.400  ML 2.020 AP 170 DV -0.470)             L (ML 2.100 AP 170 DV -0.490   ML 1.750 AP 170 DV -0.500)
+374;b5r1;HVC&NIFstimulation UVArecording;18.09.2007;18.09.2007;AS;Zut4;Lacie1TB;Richard;2;Acute
+375;r1s2;HVC & NIFstimulations and UVArecordings;19.09.2007;19.09.2007;AS;Zut4;Lacie1TB;AymRich;2;
+376;o8r1;Test new chronical preAmp.;21.09.2007;21.09.2007;AS;;;Claude;1;
+377;g14r1;acute;24.09.2007;24.09.2007;AS;;;aymeric;2;amplifier
+378;p2p-s14k;Chronic;28.09.2007;05.10.2007;E1;;;Aymeric;2;Multichannel amplifier, 3 implantes electrodes in  areas LMAN and HVC
+379;r3r10;Tracer injection;28.09.2007;01.10.2007;;;;Daniele;2;Tracer injection HVC and RA, bilateral, for Tokuyasu
+380;s5s15-y7o;chronic;21.09.2007;28.09.2007;E1;;;Aymeric;2;Multi-amplifier
+381;r1y9;SR;01.10.2007;04.10.2007;IS2;;;Aymeric;0;
+383;r1y6;SR;11.09.2007;21.09.2007;IS3;Zut3;;Aymeric;0;
+385;r1y10;SR;01.10.2007;07.10.2007;IS3;;;Aymeric;0;
+386;o5r1;SR;01.10.2007;05.10.2007;IS1;Zut3;;Aymeric;0;
+387;b17r1;SR;03.10.2007;09.10.2007;IS5;Zut3;;Aymeric;0;
+388;g15r1;SR;03.10.2007;18.10.2007;IS6;Zut3;;Aymeric;1;
+389;r5r18;SR;03.10.2007;19.10.2007;IS7;Zut3;;Aymeric;1;
+390;o5r1;Acute;05.10.2007;05.10.2007;AS;Zut4;;Richard;2;HVC NIF stim UVA rec
+391;r1y9;acute;04.10.2007;04.10.2007;AS;Zut4;;Richard;2;HVC NIF Stimulations and UVA Recordings
+392;r1y10;Acute;07.10.2007;07.10.2007;AS;Zut4;Lacie1TB;Richard;2;HVC and Nif Stimulatio UVA recordings
+393;g16r1;Tracer for Tokuyasu;11.10.2007;15.10.2007;;;;Daniele;2;Tracer injection for Tokuyasu, FluoroRuby in HVC bilateral
+394;p15o-s3k;SR & HVC Stim, DM rec.;13.10.2007;13.11.2007;E2;Zirkel;;Claude;2;Can't find MLD & DM. Exp. failed.
+395;r5r18;acute;19.10.2007;19.10.2007;AS;Zut4;Lacie1TB;Richard;2;Stim HVC and Stim Nif Rec UVA and ovoidalis
+396;g12r1;SR;19.10.2007;23.10.2007;IS1;Zut3;;Janie;1;
+397;b14r1;SR;19.10.2007;23.11.2007;IS2;Zut3;;Janie;1;
+398;g15r1;acute;18.10.2007;18.10.2007;AS;Zut4;Lacie1TB;Richard;2;HVC and Nif stimulations, recording in UVA and ovoidalis while playing PBmix. Gaba injections and tracers. Histology.
+399;r2r6;SR;22.10.2007;23.11.2007;IS5;Zut3;;Aymeric;1;
+400;b7r1;SR;22.10.2007;10.12.2007;IS6;Zut3;;Aymeric;1;
+401;g12r1;Acute;23.10.2007;23.07.2007;AS;Zut4;Lacie1TB;Richard;2;Bipolar stim in L-field - recordings in ovoidalis
+402;b17r1;acute;09.10.2007;09.10.2007;AS;Zut4;Lacie1TB;Richard;2;HVC/Nif stimulations and UVA recordings
+403;o3r1;tracer exp.;24.10.2007;14.11.2007;;;;Moritz;2;tracer injection, af488-> RA    FR->HVC  bilateral
+404;r1s16;Tracer injection;25.10.2007;29.10.2007;;;;Daniele;2;HVC bilateral FR3000
+405;p17r1;Cochlear removal practice;25.10.2007;25.10.2007;;;;Georg;1;
+406;b18r1;Cochlear removal practice;25.10.2007;25.10.2007;;;;Georg;1;
+407;k18r1;SR;29.10.2007;01.11.2007;E2;Zirkel;;Claude;0;
+408;r1y20;Tracer injection;13.11.2007;15.11.2007;;;;Daniele;2;AF488 in HVC, Cascade blue in RA
+409;p12o-r9k;SR, HVC Stim. DM Stim. Rec.;13.11.2007;03.01.2008;E2;Zirkel;;Claude;2;
+410;o1r2;DM & HVC Acute Exp.;15.11.2007;15.11.2007;AS;Zing;;Claude;2;
+411;r3r11;Tracer injection;16.11.2007;16.11.2007;;;;Moritz;2;
+412;k17r1;Acute Exp. To find fild L;16.11.2007;16.11.2007;AS;;;Janie;2;Found field-L.
+413;g10r1;Acute Surgery Protocol;26.10.2007;26.10.2007;AS;;;Janie;2;
+414;o4r1;Perfusion for Tokuyasu method;19.11.2007;19.11.2007;;;;Moritz;1;
+416;b14r1;Acute;23.11.2007;23.11.2007;AS;;;Janie;2;Found Field L and attempted to find UVA. Attempted to label areas using sharp intracellular recording pipettes.
+417;p11r1;Tracer in HVC;27.11.2007;03.12.2007;;;;Daniele;1;For high second high GA exp
+418;k18r1;DM acute Exp.;26.11.2007;26.11.2007;AS;Zut4;Lacie1TB;Claude;2;
+419;r2r6;SR;23.11.2007;30.11.2007;IS5;Zut3;;Janie;0;
+420;r2r6;Acute Recording From Field L;30.11.2007;30.11.2007;AS;;;Janie;2;Recording from Field L. Attempted perfusion to fix brain.
+421;r1s10;Tracer Injection;03.12.2007;03.12.2007;;;;Moritz;2;Tracer Injection bilaterally AF488 into HVC, FR into RA
+422;b19p-s3k;Test Urethane;03.12.2007;03.12.2007;AS;;;Claude;1;3 doses of 35 ul seperated by 30 minutes. The bird would sleep for at least 5 hours.
+423;g11r2;SR;10.12.2007;14.12.2007;IS1;Zut3;;Janie;0;
+424;k12r1;DM Acute Exp.;11.12.2007;11.12.2007;AS;Zong;Lacie1TB;Claude;2;Bird dead due to overdose of urethane.
+425;p18r1;DM,HVC,LMAN Acute Exp.;12.12.2007;12.12.2007;AS;Zong;Lacie1TB;Claude;2;Good Exp.
+426;g1r2;Test urethane after Isoflurane;12.12.2007;11.12.2007;AS;;;Claude;2;Only need 40 ul after finishing surgery (right after turning off the isoflurane) and the bird will sleep well during the whole acute exp.
+427;g11r2;Intracellular;14.12.2007;14.12.2007;AS;;;Janie;2;Field L - No Data
+428;b10r1;HVC Stim & DM Rec.;17.12.2007;17.12.2007;AS;;;Claude;2;Surgery failed.
+429;k10r1;DM acute Exp.;18.12.2007;18.12.2007;AS;;;Claude;2;
+430;g18r1;DM Acute Exp.;26.12.2007;26.12.2007;AS;;;Claude;2;Failed.
+431;r2y10;DM Acute Exp.;31.12.2007;31.12.2007;AS;;;Claude;2;Failed.
+432;k3r1;Tracer injection;03.01.2008;07.01.2008;;;;Daniele;2;AF488 in HVC bilateral
+433;k11r1;SR & LED light Stim.;03.01.2008;16.01.2008;E2;Zirkel;;Claude;1;Killed because some wound with bleeding found on the beak.
+434;o10w;SR;08.01.2008;11.01.2008;IS1;;;Andreas;1;I just tested for a couple of days if the bird was singing in isolation. He did sing after the first day and produced about 600 song files in 3 days.
+435;r2s14;perfusion fuer plt;09.01.2008;09.01.2008;;;;Moritz;0;
+436;k5r1;DM acute Exp.;10.01.2008;10.01.2008;AS;zong;Lacie1TB;Claude;2;
+437;r2s9;Tracer injection;11.01.2008;11.01.2008;;;;Moritz;2;
+438;p3r1;DM Acute Exp.;15.01.2008;15.01.2008;AS;zong;Lacie1TB;Claude;2;
+439;p1r1;Tracer Injection;18.01.2008;23.01.2008;;;;Moritz;2;
+440;o20r2;injection;18.01.2008;22.01.2008;AS;;;Aymeric;2;AlexaFluoRuby injection in UVA for Doberti
+441;b14r2;Tracer injection;18.01.2008;22.01.2008;;;;Daniele;2;HVC for trial immunolabeling of tracer with osmium
+442;p18r3;MD NCM;20.01.2008;22.02.2008;E1;;;Georg;2;E1 and E2 worked find, lots of Microphonics. Bilateral cochlear removal -> damage left side, imbalance, vertigo. Bird fell while trying to inject saline into innear ear to compensate fluid loss. EoE. Merde.
+443;p15r1;HVC Stim. DM Rec.;22.12.2007;22.01.2008;E2;Zirkel;;Claude;2;
+444;o8k-y6;HVC Stim. DM Rec.;17.12.2007;22.01.2008;E1;Zut;;Claude;2;
+445;o16r2;Practice cohelea removal.;25.01.2008;25.01.2008;;;;Claude;2;
+446;o4k-p2;Practice cohlea removal;30.01.2008;30.01.2008;;;;Claude;1;
+447;p16r2;DM acute Exp.;08.05.2008;08.05.2008;AS;;;Claude;1;
+448;o14r2;Tracer injection UVA;01.02.2008;06.02.2008;AS;;;Aymeric;2;
+449;p7r2;Cohlea removal;01.02.2008;01.02.2008;;;;Claude;1;Failed.
+450;r2s5;Right-cochlea removal.;01.02.2008;02.02.2008;;;;Claude;1;Very strange! One day after cochlea removal, the bird is still very unbalanced. I think I didn't destory the semi-circular canal.
+452;b1r3;Right-Cochlea removal;07.02.2008;08.02.2008;;;;Claude;1;"Died one day after surgery. His ""food bag"" in the neck still has seeds. Anti-biotics was treated (1ul) after surgery. No idea about the cause of death."
+453;b2r3;Right-Cochlea removal;02.02.2008;02.02.2008;;;;Claude;1;Failed.
+454;k15r2;Cochlea removal;04.02.2008;04.02.2008;;;;Claude;1;failed.
+455;b13r2;Cochlea removal;05.02.2008;05.02.2008;;;;Claude;1;Practice.
+456;p4r2;Cochlea removal;05.02.2008;05.02.2008;;;;Claude;1;Practice
+457;b18r2;Cochlea removal;05.02.2008;05.02.2008;;;;Claude;1;Practice.
+458;r2s13;Perfusion for PLT;08.02.2008;08.02.2008;;;;Moritz;1;
+459;r2y11;Tracer injection;08.02.2008;11.02.2008;;;;Daniele;2;Bilateral HVC for EM classic
+460;o3r3;NCM lesion;08.02.2008;22.06.2009;IS1;;;Georg;0;NCM lesion at phd 43 no tutor (Not done at all, Claude)
+461;o1r3;NCM lesion;08.02.2008;22.06.2009;;;;Georg;2;NCM lesion at phd 43 with tutor (Not done at all, Claude)
+462;o2r3;NCM lesion control;08.02.2008;22.06.2009;;;;Georg;1;No lesion separated from tutor at phd 43
+463;s8r3;Right-cochlear removal;09.02.2008;09.02.2008;;;;Claude;1;failed.
+464;b8r3;Right-Cochlear removal for free song development;11.02.2008;14.02.2000;;;;Claude;1;The bird is still inbalanced. Failed.
+465;s9r3;Right-cochlear removal, free song development;11.02.2008;12.02.2008;;;;Claude;1;Failed.
+466;b3r3;Right-cochlear removal;11.02.2008;11.02.2008;;;;Claude;1;Failed.
+467;r3s5;Right-cochlear removal;11.02.2008;11.02.2008;;;;Claude;1;Failed.
+468;r3s7;Right-cochear removal;11.02.2008;11.02.2008;;;;Claude;1;Failed.
+469;r3s6;Right-cochlear removal;11.02.2008;11.02.2008;;;;Claude;1;Failed.
+470;k18r2;Right-Columella removal.;11.02.2008;12.02.2008;;;;Claude;1;The bird is fine without any inbalancing behavior.
+471;r2y7;Right-cochlear removal;12.02.2008;12.02.2008;;;;Claude;1;Failed done by Georg.
+472;k4r1;SR;13.02.2008;20.02.2008;;;;Claude;0;
+473;k17r2;Right-Cochlear removal done by Georg.;12.02.2008;14.02.2008;;;;Claude;1;Successful this time because we close the ear and didn't try and clean the blood and liquid in the inner ear. The bird survived for two days without any abnormality.
+474;o10r2;Tracer injection;21.02.2008;26.02.2008;;;;Daniele;2;bilateral for praktikum.
+475;r1y19;Cochlear removal MD;25.02.2008;27.03.2008;E1;Zut;;Georg;2;Removed cochlea to later implant MD in field L. E1 and E2 broke, E3 bad signal quality. Wires from shuttles to electrode run outside. Good signal if wire stabilized with elastic string.
+476;r6p-r9k;Cochlear removal practice;25.02.2008;25.02.2008;;;;Georg;1;
+477;o10r3;Showgirl;25.02.2008;23.03.2008;E1;;;Georg;1;
+478;g5r2;SR;26.02.2008;28.02.2008;IS5;;;Joshua;0;didn't sing.
+480;r4s4;RA stimulation + Microdrive LMAN;26.02.2008;06.03.2008;E3;;;Joshua;2;No stimulation response in LMAN, due to microdrive misimplantation
+481;r2s19;Perfusion for Graham;26.02.2008;26.02.2008;;;;Daniele;2;
+482;k14r1;CR;26.02.2008;26.02.2008;;;;Georg;2;removed cochlea bilaterally. Left side partial removal, behaviourally deaf.
+483;b5r3;CR practice;26.02.2008;26.02.2008;;;;Georg;1;
+484;r1s17;CR practice;26.02.2008;26.02.2008;;;;Georg;1;
+485;o3o15;CR;26.02.2008;26.02.2008;;;;Georg;1;Bird died during surgery
+486;r2r7;Intracellular;27.02.2008;27.02.2008;AS;;;Janie;2;Intracellular experimental setup - No Data
+487;g14r2;Intracellular;27.02.2008;27.02.2008;AS;;;Janie;2;Intracellular experimental setup - Bird Died No Data
+488;o10w;Pitch;07.02.2008;20.02.2008;E4;;;Andreas;1;tried song stimulation and see if pitch changes. Found some problems. Bird broke his small toe. Experiment suspended.
+489;r3y3;SR;28.02.2008;17.03.2008;E4;;;Andreas;1;record song and try song stimulation and see if pitch changes.
+490;r4s12;urethane test;29.02.2008;29.02.2008;;;;Aymeric;2;
+491;r4s15;Urethane test;29.02.2008;29.02.2008;;;;Aymeric;2;
+492;s11r3;Right-Cochlear removal.;29.02.2008;29.02.2008;;;;Claude;0;
+493;r2s12;Perfusion;03.03.2008;03.03.2008;;;;Daniele;2;Perfusion for Graham Knott
+495;s10r3;Right-Cochear removed & Song development.;04.03.2008;04.03.2008;;;;Claude;1;
+497;s18r3;Right-Cochlear removed.;05.03.2008;06.03.2008;;;;Claude;1;Failed.
+498;s19r3;Right-Cochlear removed & Song development;05.03.2008;05.03.2008;;;;Claude;1;
+499;s20r3;Right-Cochlear removed;05.03.2008;22.05.2008;;;;Claude;1;
+500;o19r3;Right-Cochlear removed. & Song development;06.03.2008;22.05.2008;;;;Claude;1;The bird's head is always seriously towards right side. Not suitable for exp.
+501;o20r3;Right-Cochlear removed.;06.03.2008;07.03.2008;;;;Claude;1;Failed.
+503;o15r3;Right-Cochlear removed.;06.03.2008;10.03.2008;;;;Claude;1;Killed by a extra-tutor I put in the same cage.
+504;o16r3;Right-Cochlear removed.;06.03.2008;10.03.2008;;;;Claude;1;Killed by a extra-tutor I put in the same cage.
+505;o17r3;Right-Cochlear removed,;06.03.2008;10.03.2008;;;;Claude;1;Killed by a extra-tutor I put in the same cage.
+506;o18r3;Right-Cochlear removed.;06.03.2008;07.03.2008;;;;Claude;1;Failed.
+507;g5r2;Intracellular;07.03.2008;07.03.2008;AS;;;Janie;2;Successful labeling of cells with HRP - NO DATA
+508;r2y17;Tracer injection;10.03.2008;12.03.2008;;;;Daniele;2;Low pressure perfusion
+509;r3y14;tracing study;12.03.2008;12.03.2008;;;;Moritz;2;
+510;b3r1;Acute;14.03.2008;14.03.2008;AS;;;AymRich;2;Intracellular recordings and iontophoresis labeling with Alexa Fluor in HVC area. Perfusion. No recordings.
+512;g1r3;Right-Cochlear removed & Song development.;18.03.2008;18.03.2008;;;;Claude;1;
+513;K-K-K209-52;SR;18.03.2008;20.03.2008;IS5;;;Andreas;1;determined sex of bird
+514;K-K-K209-78;SR;18.03.2008;20.03.2008;IS7;;;Andreas;1;determined sex of bird
+515;R-G-K209-91;SR;18.03.2008;21.03.2008;IS8;;;Andreas;1;determined sex of bird
+516;K-K-K209-15;SR;18.03.2008;21.03.2008;IS2;;;Andreas;1;determined sex of bird
+517;b17r3;test intracellular rec and fill;19.03.2008;19.03.2008;AS;;;AymRich;2;Labeled HVC with AF and HRP
+519;K-G-K209-54;SR;20.03.2008;20.03.2008;IS5;;;Andreas;1;determined sex of bird
+520;B-R-K209-64;SR;20.03.2008;21.03.2008;IS7;;;Andreas;1;determined sex of bird
+522;W-K-K209-14;SR;20.03.2008;21.03.2008;IS5;;;Andreas;1;determined sex of bird
+523;G-TT69-73;SR;20.03.2008;21.03.2008;IS3;;;Andreas;1;determined sex of bird
+524;r2s11;SR;25.03.2008;26.03.2008;IS2;;;Aymeric;1;
+525;r4s10;SR;25.03.2008;28.03.2008;IS3;Zut3;;Aymeric;1;
+526;r3s2;SR;26.03.2008;31.03.2008;E3;Zutty;;Joshua;1;Electrophysiology problem during surgery. Surgery not successful, bird euthanized.
+527;r2s11;Acute;26.03.2008;26.03.2008;AS;Zut4;Lacie1TB;AymRich;2;FieldL single unit intracellular recordings and labelling with Alexa Fluor - Trial without Perfusion.
+528;p8r3;MD Nif;27.03.2008;19.04.2008;E1;Zut;;Georg;2;Nif & Error neurons, lost E2 and E3, stim in the shelf? Stim resp at 1200RD. Burns at 1200RD and 2200RD.
+529;r1y14;Tracer injection;27.03.2008;01.04.2008;;;;Daniele;2;FR left, AF right
+530;r4s8;Histology;01.04.2008;03.04.2008;E3;Zutty;;Joshua;2;did not reliably identify LMAN in surgery, noise artefacts from stimulation. No implantation of microdrive. Two burns at 2mm and 3.7mm - LMAN probably 400-600um posterior from burns. To be identified by histology.
+531;r3y19;HVC recording;02.04.2008;02.04.2008;S2;;;;1;
+532;r4s10;Acute;02.04.2008;02.04.2008;AS;;;AymRich;2;Intracellular recordings and labelling with AF in FieldL
+533;o4r3;SR;03.04.2008;29.04.2008;IS1;;;Aymeric;1;
+534;r2y13;SR;03.04.2008;09.04.2008;IS2;;;Aymeric;1;
+535;r3s15;Histology;07.04.2008;07.04.2008;E3;;;Joshua;2;stim fine, lman could not be identified. Two burns at 5.2mm anterior, at 2 and 4mm depth, then euthanized
+536;o13r3;SR;08.04.2008;08.04.2009;IS2;Zut3;;Janie;0;
+538;p5r2;RA stim, LMAN md;09.04.2008;23.04.2008;E3;Zutty;;Joshua;2;surgery ok, small bleeding at implant site. No stim response at any depth. Md could be moved, probably lateral angle not properly adjusted. Histology will show. Headangle 60 degree, lman located at 4.5-4.9 anterior, 1.5 lateral, 2.2-2.7 depth.
+539;o13r3;Intracellular;10.04.2008;10.04.2008;AS;;;Janie;2;Successful cell penetration! - No Record.
+542;r3y6;SR;17.03.2008;10.04.2008;E4;;;Andreas;1;determined sex of bird
+543;r3y6;Pitch;11.04.2008;16.04.2008;E4;linsrv01;;Andreas;1;see if we can move pitch by playing whitenoise to the bird
+544;k3r2;Right-Cochlear removal.;03.03.2008;03.03.2008;;;;Claude;1;Successful.
+545;r3s16;Perfusion Experiment;16.04.2008;16.04.2008;;;;Moritz;1;
+546;p2r1;Perfusion;16.04.2008;16.04.2008;;;;Moritz;1;
+547;r4s7;Perfusion Experiment;16.04.2008;16.04.2008;;;;Daniele;1;
+548;r3y20;Perfusion experiment;16.04.2008;16.04.2008;;;;Daniele;1;
+549;p12r2;Perfusion Experiment;16.04.2008;16.04.2008;;;;Moritz;1;
+550;k3r2;HVC Stim.;18.04.2008;21.04.2008;;Zirkel;;Claude;1;
+551;k2r1;LMAN Tetrode;23.04.2008;23.04.2008;AS;;;Richard;2;Bipolar stimulation in RA and multirode recording in LMAN - Found LMAN at 1.7ML, 5.5AP, 1.6-2.1DP from front/right with 55 degree
+552;g15r2;LMAN Tetrode;24.04.2008;24.04.2008;AS;;Lacie1TB;Richard;2;good data n1-n5   LMAN found at 5.4AP, 1.7ML, 1.57-2.1DP   tresh 35uA  made 3 burns with 5Mohm pipette: 1.6/2.2/4.5
+553;g11r3;SR;24.04.2008;29.04.2008;IS3;;;Andreas;0;
+555;r2y13;acute;25.04.2008;25.04.2008;AS;;;Aymeric;2;Stim in FieldL and records in ovidalis
+556;g9r2;acute;28.04.2008;28.04.2008;AS;;;AySa;0;Area X intracellular recording
+557;o18r1;Search DM;02.05.2008;02.05.2008;AS;;;Claude;2;
+558;o10r1;Tracer injection;05.05.2008;08.05.2008;;;;Moritz;2;
+559;r2y19;acute;07.05.2008;06.05.2008;AS;;;AyJoRi;2;Tether in HVC Stim in RA and AreaX
+560;g18r3;stim RA, hexode LMAN;13.05.2008;22.05.2008;E3;Zutty;;Joshua;2;found LMAN 4.8 anterior, 1.5 lateral, 2.2 dorsal - tetrode drift? Missed LMAN core, data not useful.
+561;r2s2;Bilateral HVC interneuron recording;14.05.2008;14.05.2008;AS;zong;;Claude;1;
+562;p15r2;Intracellular;07.05.2008;07.05.2008;AS;;;Janie;1;Alexafluor Injection - Successful cell (2) injection! - PICTURE DATA
+563;k9r3;Show girl;15.05.2008;15.05.2008;;;;Claude;0;
+564;o7r1;Acute;15.05.2008;15.05.2008;AS;;;Andreas;1;Ovoidalis & Field L
+565;r4s5;HVC - electrophysiological map;13.05.2008;13.05.2008;AS;;;Michael;1;
+566;g11r3;Acute;16.05.2008;16.05.2008;AS;;;Andreas;2;Ovoidalis & Field L
+567;s20o-yellow20;Perfusion Experiment (EM);19.05.2008;19.05.2008;;;;Moritz;1;
+568;b15r2;Perfusion Experiment;19.05.2008;19.05.2008;;;;Daniele;2;
+569;r3y15;tracer injection;20.05.2008;28.05.2008;;;;Moritz;2;
+570;g10r3;Left-Cochlear removal.;21.05.2008;21.05.2008;;;;Claude;1;Failed.
+571;o4r3;Acute;22.05.2008;22.05.2008;AS;;;Andreas;1;Ovoidalis & Field L
+572;k3r2;HVC Stim.;22.05.2008;04.06.2009;;Zirkel;;Claude;1;
+573;k5r3;Tracer HVC;22.05.2008;28.05.2008;;;;Daniele;2;For Bruno
+574;r5r16;SR;21.05.2008;26.05.2008;IS2;;;Andreas;0;
+575;r4s6;SR;21.05.2008;26.05.2008;IS4;;;Andreas;0;
+576;p11r2;Test dosage of Ketamine & Xylazine;26.05.2008;26.05.2008;;;;Claude;1;10 ul Ketamine + 10 ul Xylazine for a 15g bird. Sleep for more than 5 hours.
+577;r4s9;Tetrode Recording Surgery Setup 2;27.05.2008;27.05.2008;;;;Joshua;2;Test electrophysiology with multitrodes in the surgery setup.
+578;k3r3;Search HVC inter-neurons bilaterally.;27.05.2008;27.05.2008;AS;;;Claude;1;Successful.
+579;g13r3;Urethan test.;28.05.2008;28.05.2008;;;;Claude;1;
+580;r5r16;Acute;28.05.2008;28.05.2008;AS;;;Andreas;1;Ovoidalis & Field L
+581;g10r2;Acute;29.05.2008;29.05.2008;AS;;;Aymeric;2;RA intracellular recordings and pipette development
+582;b20r2;SR;02.06.2008;10.06.2008;IS7;;;Andreas;0;
+583;yellow1;SR;02.06.2008;06.06.2008;IS2;;;Andreas;0;
+584;r2s16;Acute Exp. Search HVC interneurons;02.06.2008;02.06.2008;;;;Claude;1;
+585;r4s16;chronic MD implant;03.06.2008;03.06.2008;E4;;;Aymeric;2;Manual MD implant in Lman and Bipolar stimulation electrode in RA
+586;r4s18;surgery;05.06.2008;12.06.2008;E3;Zutty;Zynix;AyJo;2;Implant manual MD in LMan and Stim in RA, burn at implant site (2500um?) +100um, 12s 15uA
+587;g4r3;HVC - electrophysiological map;19.05.2008;19.05.2008;AS;;;Michael;1;
+588;b4r2;TPLSM;26.05.2008;26.05.2008;;;;Michael;2;
+591;r4s17;surgery;05.06.2008;05.06.2008;;;;Aymeric;2;Burn AP 5.0 ML 1.6 DV 2.5 with o.1Mohm and shielding problematic
+592;o13r2;burn tetrodes;05.06.2008;05.06.2008;;;;Josh;2;burn with tetrode in  AP 5.0 ML1.6 DV1.0-2.0
+593;r4s13;SR;06.06.2008;10.06.2008;IS2;;;Andreas;0;
+594;k17r4;SR;06.06.2008;10.06.2008;IS1;Zut3;;Janie;0;
+595;r2y4;TPLSM Tracer Injection into RA;06.06.2008;06.06.2008;;;;Michael;2;
+596;o19r1;SR;06.06.2008;10.06.2008;IS6;Zut3;;Janie;1;
+597;o5r3;SR;06.06.2008;10.06.2008;IS5;Zut3;;Janie;1;
+598;r2y20;SR;06.06.2008;10.06.2008;IS3;Zut3;;Janie;1;
+599;g3r3;Perfusion Experiment (Graham Prot.);09.06.2008;09.06.2008;;;;Moritz;1;
+600;p16r1;Perfusion Experiment;09.06.2008;09.06.2008;;;;Daniele;1;
+601;r2y5;Test Ketamine.;09.06.2008;09.06.2008;;;;Claude;1;10ul Ketamine + 10 ul Xylezine at 14:15 (09.06.2008). Let it be in the cage over night to see if she can wake up.
+602;g15r3;SR;10.06.2008;12.06.2008;IS7;;;Andreas;0;
+603;b16r4;Perturbation;12.06.2008;11.07.2008;E1;;;Georg;2;
+604;p9r1;Tracer injection;13.06.2008;19.06.2008;;;;Moritz;2;
+605;k15r4;stim RA, MD lMAN;26.05.2008;12.05.2008;E3;Zutty;;Joshua;2;missed lMAN, burns at 2.9 and 1.9 mm
+606;r2y20;Triplet Recording Field L;11.06.2008;11.06.2008;AS;Zing;;Janie;2;Successful Recording - PICTURE DATA
+607;o5r3;Triplet Recording Field L;13.06.2008;13.06.2008;AS;Zing;;Janie;2;Successful Recording
+608;r4s6;Acute;14.06.2008;14.06.2008;AS;;;Andreas;1;Ovoidalis & Field L
+609;b20r2;Acute;14.06.2008;14.06.2008;AS;;;Andreas;1;Ovoidalis & Field L
+610;r4s11;SR;16.06.2008;18.06.2008;IS2;;;Andreas;0;
+611;r1s8;SR;16.06.2008;18.06.2008;IS7;;;Andreas;0;
+612;r2r5;Tracer injection;17.06.2008;26.06.2008;;;;Moritz;2;FR->nif, AF488->RA
+613;b10r4;Fluoro Ruby Dextran Injection into RA;17.06.2008;17.06.2008;;;;Michael;2;
+614;r1s7;TPLSM - Tracer Injection in RA;12.06.2008;12.06.2008;;;;Michael;2;
+615;r2y4;TPLSM;09.06.2008;09.06.2008;;;;Michael;2;
+616;g15r3;Acute;17.06.2008;17.06.2008;AS;;;Andreas;1;Ovoidalis & Field L
+617;g9r3;Ketamin test;18.06.2008;18.06.2008;;;;Claude;1;
+618;juvM6a;Hexode Experiment;13.06.2008;18.06.2008;E3;;;AyJo;2;Three burns with different duration, amplitude -> optimal 8ms, 8uA
+619;p16r3;SR;19.06.2008;24.06.2008;IS3;Zut3;;Janie;1;
+620;o19r1;Quadruplet Recording Field L;19.06.2008;19.06.2008;AS;Zing;;Janie;1;Successful Recording!
+621;g18r2;SR;20.06.2008;24.06.2008;IS2;Zut3;;Janie;0;
+622;p5r3;SR;20.06.2008;24.06.2008;IS4;Zut3;;Janie;0;
+623;k7r3;SR;20.06.2008;24.06.2008;IS6;Zut3;;Janie;0;
+624;o11r1;SR;20.06.2008;24.06.2008;IS7;Zut3;;Janie;0;Bird never sang
+625;k8r3;SR;20.06.2008;24.06.2008;IS8;Zut3;;Janie;0;
+626;p5r3;TUTOR;23.06.2008;24.06.2008;;;;Aymeric;0;reserved for ever
+627;b1r2;Tracer Injection;23.06.2008;23.06.2008;;;;Michael;2;Fluoro Ruby 10000 MW injection
+628;k17r4;Quadruplet Recording;25.06.2008;25.06.2008;;Zing;;Janie;1;Successful Recording
+629;juvO2a;Manual Microdrive;19.06.2008;26.06.2008;E4;;;AyJo;2;Burn 12uA for 12'
+630;juvM3Bb;Burns in LMAN;19.06.2008;19.06.2008;;;;Aymeric;2;
+632;k7r3;Quadruplet Recording;26.06.2008;26.06.2008;;;;Janie;1;No cells found, made burns to map the area - PICTURE DATA
+633;g18r2;Quadruplet Recording Field L;30.06.2008;30.06.2008;;Zing;;Janie;1;Successful Recording!
+634;r1s14;SR;02.07.2008;06.07.2008;IS7;;;Andreas;0;
+635;g20r3;SR;02.07.2008;06.07.2008;IS6;;;Andreas;0;
+636;g19r2;Showgirl;02.07.2008;05.07.2008;;;;Sandra;0;Song motivator for juvenile
+637;b18r4;SR;02.07.2008;07.07.2008;IS8;Zut3;;Janie;0;
+638;k10r3;Tracer injection;02.07.2008;02.07.2008;;;;Michael;2;Injection of Fluoro Ruby into RA.
+639;p13r3;TPLSM and Electrophysiology;01.07.2008;01.07.2008;;;;Michael;2;OGB-1 AM injection, SR101 application and additional electrophysiology
+640;k18r4;SR;07.07.2008;07.09.2008;IS3;Zut3;;Janie;0;
+641;b20r1;SR;07.07.2008;15.07.2008;IS7;Zut3;;Janie;0;
+642;o1r4;SR;07.07.2008;15.07.2008;IS8;Zut3;;Janie;0;
+643;g8r4;Acute;07.07.2008;07.07.2008;AS;;;Sandra;2;Acute Experiment Sandra, extracellular recordings in AreaX and burns at 6uA/6s, 8uA/8s and 10-8uA/10s
+644;r4y2;drug test;08.07.2008;08.07.2008;;;;Andreas&Claude;0;
+645;p14r2;drug test;08.07.2008;08.07.2008;;;;Andreas&Claude;0;
+646;k18r4;Quadruplet Recording - Field L;10.07.2008;10.07.2008;AS;Zut4;;Janie;1;Successful Recording
+647;b18r4;Quadruplet Recording;10.07.2008;10.07.2008;;;;Janie;1;Bird died (urethane overdose?)
+648;cj1;Stim RA, MD in LMAN;10.07.2008;13.08.2008;E3;Zutty;;AyJo;2;recording in LMAN with low SNR, burns in X and 1mm above deepest burn
+649;o7r3-b;song recording;11.07.2008;14.07.2008;IS2;;;Michael;0;
+650;b12r4;song recording;11.07.2008;14.07.2008;IS1;;;Michael;0;
+651;o3r4;song recording;14.07.2008;22.07.2008;IS1;;;Michael;0;
+652;r1s14;Acute;15.07.2008;15.07.2008;AS;;;Andreas;1;Ovoidalis & Field L
+653;tj1;tracer injection RA, burns LMAN;16.07.2008;21.07.2008;;;;Joshua;2;burns at 4.1 anterior, 1.6 lateral, 1.5-1-0.5 mm dorsal / tracer injection in RA
+654;r1s8;Acute;17.07.2008;17.07.2008;AS;;;Andreas;1;Ovoidalis & Field L
+655;r4s11;Acute;17.07.2008;17.07.2008;AS;;;Andreas;1;Ovoidalis & Field L
+656;g3r4;SR;17.07.2008;27.07.2008;IS7;;;Andreas;1;
+657;p4r1;LMAN Stim. HVC Rec.;11.07.2008;11.07.2008;AS;Zong;;Claude;1;
+658;b6r4;SR;18.07.2008;21.07.2008;IS6;;;Andreas;0;
+659;g5r1;SR;18.07.2008;21.07.2008;IS2;;;Andreas;0;
+660;g1o-g14k;song recording;18.07.2008;23.07.2008;;;;Michael;0;
+661;g20r3;Acute;19.07.2008;19.07.2008;AS;;;Andreas;1;Ovoidalis & Field L
+662;r2r3;Tracer injection into RA;20.07.2008;20.07.2008;;;;Michael;2;
+663;p12r1;SR;21.07.2008;26.07.2008;IS2;;;Andreas;1;
+664;r2s3;SR;21.07.2008;24.07.2008;IS6;;;Andreas;0;
+665;g6r3;HVC Stim & DM Rec.;26.08.2008;24.09.2008;E2;Zirkel;;Claude;1;
+666;o19r4;Lombard effect test;21.07.2008;24.07.2008;E1;;;Georg;1;"Second cotrol experiment for possible lombard effect using ""windowed"" WN"
+667;g5r1;Acute;22.07.2008;22.07.2008;AS;;;Andreas;1;Ovoidalis & Field L
+668;o3r4;tracer injection;22.07.2008;22.07.2008;;;;Michael;2;
+669;b11o-p11k;acute RA recs;23.07.2008;23.07.2008;AS;;;Aymeric;2;
+670;b10r4;TPLSM;18.06.2008;18.06.2008;;;;Michael;2;
+671;b1r2;TPLSM;25.06.2008;25.07.2008;;;;Michael;2;
+672;k10r3;TPLSM;04.07.2008;04.07.2008;;;;Michael;2;
+673;o7r3-b;Tracer injection;14.07.2008;14.07.2008;;;;Michael;2;
+674;o7r3-b;TPLSM;16.07.2008;16.07.2008;;;;Michael;2;
+675;r2r3;TPLSM;21.07.2008;21.07.2008;;;;Michael;2;
+676;r4y1;Acute Exp. Bilateral HVC Rec.;24.07.2008;24.07.2008;AS;;;Claude;1;Failed.
+677;g3r4;Acute;28.07.2008;28.07.2008;AS;;;Andreas;1;Ovoidalis & Field L
+678;o11r3;Tracer Injection;28.07.2008;28.07.2008;;;;Michael;2;
+679;o4r4;Bilateral HVC rec.;29.07.2008;29.07.2008;AS;;;Claude;1;There is cross-talk between head-stage.
+680;g10r4;pHVC lesion;01.08.2008;04.10.2008;;;;Georg;2;bilateral lesion of pHVC
+681;g11r4;pHVC lesion;01.08.2008;04.10.2008;;;;Georg;2;Control bird
+682;g12r4;pHVC lesion;01.08.2008;04.10.2008;;;;Georg;2;bilateral pHVC lesion
+683;g13r4;pHVC - HVC cut;01.08.2008;21.09.2008;;;;Georg;1;control bird
+684;g14r4;pHVC - HVC cut;01.08.2008;21.09.2008;;;;Georg;2;bilateral cut between pHVC and HVC
+685;b8r4;paraHVC;11.08.2008;11.08.2008;;;;FlorianH;2;mit Andreas, erster Versuch
+686;o20r4;HVC acute experiment;12.08.2008;12.08.2008;AS;;;Claude;2;
+688;b6r3;Tracer injection;13.08.2008;18.08.2008;;;;Daniele;2;Uva, Ra, X, Nif without elctroph.
+689;y6o-s3k;pHVC Tracer;13.08.2008;13.08.2008;;;;FlorianH;2;Unilateral (right hemisphere) tracer injection in Area X (Cascade blue) HVC (fluor ruby) RA (Alexafluor488).
+690;r4y14;MD pHVC NCM;13.08.2008;14.08.2008;E1;Zut;;Georg;2;implant ML 0.8, AP 0.5, stim in area X. Motor burned because of short circuit in a plug on the cable conneting faulhaber motor controller to the breaktout box. EoE.
+691;b7r4;Tracer ParaHVC;14.08.2008;14.08.2008;;;;FlorianH;2;
+692;r2s4;Tracer injection;12.08.2008;15.08.2008;;;;FlorianH;2;
+693;cj2;stim RA, burns in  LMAN;15.08.2008;15.08.2008;;;;Joshua;2;
+694;g9r4;HVC Acute exp.;15.08.2008;15.08.2008;AS;;;Claude;1;
+695;cj3;md LMAN, stim RA;18.08.2008;01.09.2008;E3;Zutty;;AyJo;2;burned in Area X, pulled back electrode and made 2nd burn
+696;p7r4;HVC Acute Exp.;19.08.2008;19.08.2008;AS;Zong;;Claude;1;
+697;g6r4;MD Nif;19.08.2008;20.08.2008;E1;Zut;;Georg;2;Implant at AP 2.0 ML 1.9 head angle 65. Stim did not work in setup, bird broke off electrode with claw during attempt to catch. EoE
+698;g5r4;Tracer injection;20.08.2008;20.08.2008;;;;Moritz;0;UVA, RA, NIF and X, all bilateral
+699;r3r8;HVC Acute exp.;20.08.2008;20.08.2008;AS;Zong;;Claude;1;
+700;p9r4;Tracer Injection;20.08.2008;20.08.2008;;;;Michael;2;
+701;r12k-ch900;SR;22.08.2008;25.08.2008;IS8;Zut3;;Janie;0;
+702;g4r4;SR;22.08.2008;25.08.2008;IS7;Zut3;;Janie;0;
+703;r4y8;RArec HVC-lMANstim;22.08.2008;22.08.2008;;;;Claude;0;RA extracelullar recording and biccuculine inections with HVC-lMAN-varialbe stimulation protocol
+704;b13r4;Show girl;23.08.2008;01.09.2008;E1;;;Georg;1;
+705;g5r4;Perfusion;25.08.2008;25.08.2008;;;;Moritz;2;
+706;y5y10-s3k;SR;25.08.2008;01.09.2008;IS7;Zut3;;Janie;1;
+708;o11r1;Tracer injection;27.08.2008;27.08.2008;;;;Daniele;2;
+709;b6r4;Acute;28.08.2008;28.08.2008;AS;;;Andreas;1;Ovoidalis & Field L
+710;s14k-r16;OP Tracer pHVC;28.08.2008;01.09.2008;;;;FlorianH;2;
+711;r4y7;Tracer Injection;29.08.2008;29.08.2008;;;;Michael;2;
+712;k7r1;Tracer pHVC;29.08.2008;01.09.2008;;;;FlorianH;2;
+713;cj4;md in lMAN;29.08.2008;08.09.2008;E3;Zutty;;Joshua;2;implant at 2.5mm dv, moved electrode 500um, burn at 3.0mm dv and burn at 2.25mm dv.
+714;r4y10;SR;26.08.2008;09.01.2008;IS8;Zut3;;Janie;0;
+715;o8r4;SR;01.09.2008;09.09.2008;IS8;;;Andreas;1;
+716;o17r2;SR;01.09.2008;05.09.2008;IS7;;;Andreas;1;
+717;o7r3;Field L Verification;02.09.2008;02.09.2008;AS;;;Janie;0;Made a series of burns to cofirm Field L coordinates, tested intracellular pipette impedance - No Record.
+718;r4y10;Tracer Injection;03.09.2008;08.09.2008;;;;Daniele;2;
+719;r2s3;Acute;04.09.2008;04.09.2008;AS;;;Andreas;1;Ovoidalis & Field L
+720;k3r4;SR;05.09.2008;08.09.2008;IS7;;;Andreas;1;
+721;p16p-r11;Tracer Injection;05.09.2008;05.09.2008;;;;Michael;2;
+722;o17r2;Acute;07.09.2008;07.09.2008;;;;Andreas;1;Ovoidalis & Field L
+723;p3r2;pHVC Tracer;08.09.2008;10.09.2008;;;;FlorianH;2;
+724;k13r3;pHVC Tracer;10.09.2008;12.09.2008;;;;FlorianH;2;
+725;g1o-g14k;tracer injection;23.07.2008;23.07.2008;;;;Michael;2;
+726;g1o-g14k;TPLSM;25.07.2008;25.07.2008;;;;Michael;2;
+727;o11r3;TPLSM;30.07.2008;30.07.2008;;;;Michael;2;
+728;r12k-ch900;Intracellular;12.09.2008;09.09.2008;AS;Zing;;Janie;0;Field L - Tried to label 1 cell, made bilateral burns for verification - PICTURE DATA
+729;s11p-yellow8;Intracellular;13.09.2008;13.09.2008;AS;;;Janie;1;Field L -  Successful cell penetration. Made 4 burns to locate field L. - NO DATA, PICTURE DATA
+730;p11r4;SR;14.09.2008;17.09.2008;IS7;Zut3;;Janie;0;
+731;r3p-r19o;SR;14.09.2008;18.09.2008;IS8;Zut3;;Janie;0;
+732;o8r4;Acute;14.09.2008;14.09.2008;AS;;;Andreas;1;Ovoidalis & Field L
+733;o18r4;Tracer Injection;18.08.2008;18.08.2008;;;;Michael;2;
+734;o18r4;TPLSM;19.08.2008;19.08.2008;;;;Michael;2;
+735;p9r4;TPLSM;22.08.2008;22.08.2008;;;;Michael;2;
+736;r4y7;TPLSM;01.09.2008;01.09.2008;;;;Michael;2;
+737;r4p5;Tracer injection;02.09.2008;02.09.2008;;;;Michael;2;After tracer injection bird seems to suffer from pain -> euthanasia
+738;p16p-r11;TPLSM;08.09.2008;08.09.2008;;;;Michael;2;
+739;r3y12;SR;20.03.2008;21.03.2008;;;;Andreas;1;determined sex of bird
+740;r3y10;SR;20.03.2008;21.03.2008;;;;Andreas;1;determined sex of bird
+741;r3y7;SR;20.03.2008;21.03.2008;;;;Andreas;1;determined sex of bird
+742;r3y4;SR;20.03.2008;21.03.2008;;;;Andreas;1;determined sex of bird
+743;r3y11;SR;20.03.2008;21.03.2008;;;;Andreas;1;determined sex of bird
+744;r3y2;SR;20.03.2008;21.03.2008;;;;Andreas;1;determined sex of bird
+745;r3y8;SR;20.03.2008;21.03.2008;;;;Andreas;1;determined sex of bird
+746;r3y1;SR;20.03.2008;21.03.2008;;;;Andreas;1;determined sex of bird
+747;r3y9;SR;20.03.2008;21.03.2008;;;;Andreas;1;determined sex of bird
+748;r3y5;SR;20.03.2008;21.03.2008;;;;Andreas;1;determined sex of bird
+749;r4y4;SR;20.03.2008;21.03.2008;;;;Andreas;1;determined sex of bird
+750;g-v12;SR;20.03.2008;21.03.2008;;;;Andreas;1;determined sex of bird
+751;p9green;SR;20.03.2008;21.03.2008;;;;Andreas;1;determined sex of bird
+752;v-v10;SR;20.03.2008;21.03.2008;;;;Andreas;1;determined sex of bird
+753;s5y11;SR;20.03.2008;21.03.2008;;;;Andreas;1;determined sex of bird
+754;r8y12-BF;SR;20.03.2008;21.03.2008;;;;Andreas;1;determined sex of bird
+755;r4o14;SR;20.03.2008;21.03.2008;;;;Andreas;1;determined sex of bird
+756;r4o9;SR;20.03.2008;21.03.2008;;;;Andreas;1;determined sex of bird
+757;r4p3;r4p3;15.09.2008;17.09.2008;;;;Moritz;2;Tracer injection RA, X, NIF and UVA
+758;g8r3;Tracer Injection;16.09.2008;16.09.2008;;;;Michael;3;bird seemed to suffer from pain after wake up (beeping .. ) and shortly after bird died
+759;k3r4;Acute;17.09.2008;17.09.2008;AS;;;Andreas;1;Ovoidalis & Field L
+760;k4r4;SR;18.09.2008;23.09.2008;IS8;;;Andreas;1;
+761;r4y6;SR;18.09.2008;23.09.2008;IS7;;;Andreas;1;
+762;silver15;Tracer injection;18.09.2008;22.09.2008;;;;Daniele;2;Unilater, RA, X, NIf, UVA
+763;o1r4;quadruplet/triplet recording - Field L;18.09.2008;18.09.2008;AS;Zing;;Janie;1;successful recordings - PICTURE DATA
+764;r1y12;tracer;19.09.2008;19.09.2008;;;;Moritz;2;
+765;b20r1;quadruplet recording  - field L;20.09.2008;20.09.2008;AS;Zing;;Janie;1;successful recording - PICTURE DATA
+766;g20r5;SR;21.09.2008;25.09.2008;IS4;;;Andreas;1;
+767;r2s6;SR;21.09.2008;25.09.2008;IS6;;;Andreas;1;
+768;k10r5;Tracer Injection;22.09.2008;22.09.2008;;;;Michael;2;
+769;p11r4;Quadruplet recording - field L;22.09.2008;22.09.2008;AS;Zing;;Janie;1;super successful recordings
+770;k4r4;Acute;23.09.2008;23.09.2008;;;;Andreas;1;Ovoidalis & Field L
+771;o20o;SR;23.09.2008;29.09.2008;IS7;;;Andreas;1;
+772;p8r4;SR;23.09.2008;29.09.2008;IS8;;;Andreas;1;
+773;k7r5;Tracer Injection;23.09.2008;23.09.2008;;;;Michael;2;
+774;cj5;stim RA md LMAN;24.09.2008;29.09.2008;E3;Zutty;;Joshua;3;Bird was weak, perished over night. At the implant site of the stimulation electrode, there seemed to be a bleeding.
+775;y5y10-s3k;quadruplet/ intracellular field L;24.09.2008;24.09.2008;AS;Zing;;Janie;1;many quadruplet/triplet recordings, maybe intracellular too!
+776;silverblack;tracer injection;25.09.2008;01.10.2008;;;;Moritz;2;
+777;k10r5;TPLSM;24.09.2008;24.09.2008;;;;Michael;2;Bird dies during surgery.
+778;g4r4;quadruplet - field L;25.09.2008;25.09.2008;AS;Zing;;Janie;1;mostly successful recording
+779;k7r5;TPLSM;25.09.2008;25.09.2008;;;;Michael;2;bird died during surgery
+780;g15r4;SR;26.09.2008;29.09.2008;IS4;;;Andreas;1;
+781;p6r4;SR;26.09.2008;29.09.2008;IS6;;;Andreas;1;
+782;g9r5;Practice left-cochlear removal.;26.09.2008;26.09.2008;;;;Claude;1;With Ketamine injection. Successful.
+783;r4y6;Acute;27.09.2008;27.09.2008;AS;;;Andreas;1;Ovoidalis & Field L
+784;o4r5;Tracer Injection;29.09.2008;29.09.2008;;;;Michael;2;Texas Red
+785;g1r5;iMD Tetorde in NCM;29.09.2008;14.10.2008;E1;Zut;;Georg;2;
+786;g8r5;Bilateral deafening.;29.09.2008;;E2;;;Claude;1;
+787;o9r5;Tracer injection;29.09.2008;06.10.2008;;;;Daniele;2;
+788;o20o;Acute;29.09.2008;29.09.2008;AS;;;Andreas;1;Ovoidalis & Field L
+789;b8o-p11k;RArec HVC-lMANstim;02.10.2008;02.10.2008;AS;;;Sepehr;2;Bird died after Nembutal injection
+790;o19r2;NCM tracer injection;30.09.2008;06.10.2008;;;;Patrick;2;
+792;o4r5;TPLSM;02.10.2008;02.10.2008;;;;Michael;2;
+793;b11r4;Intracellular;05.10.2008;05.10.2008;AS;;;Janie;0;Sandra helped me perfect intracellular technique
+794;r2s6;Acute;06.10.2008;06.10.2008;AS;;;Andreas;1;Ovoidalis & Field L
+795;r3s3;SR;06.10.2008;10.10.2008;IS1;;;Georg;1;Tutor of g1r5
+796;r3p-r19o;Quadruplet Recoding;07.10.2008;07.10.2008;AS;Zing;;Janie;1;successful recording, tried to do intracellular labeling
+797;g8r2;RArec HVC/lMANstim;08.10.2008;08.10.2008;AS;;Lacie1TB;Aymeric;2;
+798;g15r4;Tracer injection;09.10.2008;14.10.2008;;;;Daniele;2;
+801;a8-g6r1;acute;10.10.2008;10.10.2008;;;;AySep;2;RArec and Bicuinjections HVC/lMANstimulations following protocol
+802;k11r5;CMM tracer injection;03.10.2008;13.10.2008;;;;Patrick;2;
+803;a9-g6r1;acute;13.10.2008;13.10.2008;AS;;;AySep;2;RArec&Bicu-injections HVC-/lMANstimulations following protocol
+804;b5r5;Tracer injection with electrophys.;14.10.2008;14.10.2008;;;;Moritz;1;
+805;p6r5;SR;14.10.2008;22.10.2008;IS7;Zut3;;Janie;0;This bird never sang in 8 dyas of recording…
+806;p3r5;SR;14.10.2008;17.10.2008;IS4;Zut3;;Janie;0;
+807;b16r4;acute;15.10.2008;15.10.2008;AS;;;AySep;2;RArec/injections of Bicuculine HVC/lMANstims. Following protocol
+808;k12r5;HVC Stim. & Bilateral Deafening.;06.10.2008;14.10.2008;;Zirkel;;Claude;1;
+809;b13r5;Tracer Injection;14.10.2008;14.10.2008;;;;Michael;2;Texas Red
+810;g4r5;SR;15.10.2008;17.10.2008;IS6;;;Andreas;1;
+811;p17r4;SR;15.10.2008;17.10.2008;IS8;;;Andreas;1;
+813;b8r5;Tracer injection;15.10.2008;20.10.2008;;;;Moritz;2;right ra, nif (both with el phys.) uva and X
+814;b13r5;TPLSM;15.10.2008;15.10.2008;;;;Michael;2;
+815;b12r5;Tracer injection;16.10.2008;27.10.2008;;;;Moritz;2;right side injection RA, X, NIF, Uva
+816;p16r3;Intracellular;16.10.2008;16.10.2008;;Zing;;Janie;1;Successful Recording!! PICTURE DATA
+817;g6r5;MD NCM;17.10.2008;28.10.2008;E1;;;Georg;3;Bird sang only rarely post surgery. Died over night. Found no trace of infection on the brain, but extensive amounts of blood between bone layers of the skull of post surgical origin. Could not locate origin of hemorrhage
+818;b7r3;SR;17.10.2008;22.10.2008;IS1;;;Georg;1;Tutor of g6r5
+819;g2r5;Showgirl;17.10.2008;28.10.2008;E1;Zut;;Georg;0;
+820;k4r1;acute;22.10.2008;22.10.2008;AS;;;Aymeric;2;RArec/injectionBicuculine HVC/lMANstim following Protocol
+821;b13g-red11;bilateral deafening.;20.10.2008;25.10.2008;E2;;;Claude;1;
+822;red16;Tracer Injection CMM;21.10.2008;27.10.2008;;;;Patrick;2;
+823;g13r4;Tracer Injection;21.10.2008;21.10.2008;;;;Michael;2;
+824;k13r5;cause of death at tracer injections;22.10.2008;22.10.2008;;;;Michael;1;evaluation of surgery protocol together with georg.
+825;dJO5ba;Record in X (multitrose);07.10.2008;21.10.2008;E3;Zutty;;Josh;2;
+826;y;Record Area X (Multitrode);02.10.2008;13.10.2008;E3;Zutty;;Josh;2;
+827;dJO5aa;Record Area X (Multitrode);03.10.2008;13.10.2008;E3;Zutty;;Josh;2;
+828;p3r5;Intracellular;23.10.2008;23.10.2008;AS;Zing;;Janie;1;Field L - A few successful recordings - PICTURE DATA
+829;b19r5;Tracer Injection;27.10.2008;27.10.2008;;;;Michael;2;
+830;b17r5;acute;27.10.2008;27.10.2008;AS;;;Aymeric;2;RA rec and BICU inj. HVC/lMANstimulation Protocoll
+831;b18r5;bilateral defeaning & HVC Stim;28.10.2008;10.11.2008;E2;;;Claude;1;
+832;b19r5;TPLSM;29.10.2008;29.10.2008;;;;Michael;2;
+833;silvergreen8;MMAN Lesion & HVC Stim.;31.10.2008;14.01.2009;;Zirkel;;Claude;1;
+834;b16r5;Tracer Injection;03.11.2008;03.11.2008;;;;Michael;2;Texas Red
+835;g8r1;SR;03.11.2008;06.11.2008;IS1;;;Georg;1;
+836;o10r5;SR;03.11.2008;06.11.2008;E1;;;Georg;1;
+837;n2g;MD NCM;03.11.2008;03.12.2008;IS2;Zut;;Georg;2;
+839;k14r5;Intracellular;04.11.2008;04.11.2008;AS;;;Janie;1;Pipette Test - Improved my intracellular pipettes - No Data
+840;k15r5;Intracellular;06.11.2008;06.11.2008;AS;Zing;;Janie;1;Tested pipettes and specificity of AF
+841;r5-stumpy;SR;07.11.2008;11.11.2008;IS8;Zut3;;Janie;0;
+842;o15r5;Intracellular;09.11.2008;09.11.2008;AS;Zing;;Janie;1;Field L - Tried 50 ms, 2 nA current pulse for cell penetration, forget this buzz nonsense - NO DATA
+843;r5y13;Tracer Injection;10.11.2008;10.11.2008;;;;Michael;2;Texas Red
+844;r3s14;Intracellular;10.11.2008;10.11.2008;AS;Zing;;Janie;1;Beveling sucks
+845;b16r5;TPLSM;05.11.2008;05.11.2008;;;;Michael;2;
+846;r5y2;Tracer Injection;11.11.2008;11.11.2008;;;;Michael;2;Texas Red
+847;r5s19;Tracer injection CMM;10.11.2008;13.11.2008;;;;Patrick;2;
+849;g12r5;Tracer injection CMM;10.11.2008;13.11.2008;;;;Patrick;2;
+850;r5y8;Acute Exp.;03.12.2008;03.12.2008;;;;Claude;1;
+851;r5y7;HVC Stim. & R-MMAN lesion;16.11.2008;03.12.2008;;;;Claude;1;The bird sang normal motif after R-mMAN lesion but he sang very few motifs per day. Kill the bird and stop exp.
+852;r5s3;Intracellular;18.11.2008;18.11.2008;AS;Zing;;Janie;1;totally sweet current pulse recordings!!
+853;r5s7;Intracellular;20.11.2008;20.11.2008;AS;Zing;;Janie;1;More pseudeo intracellular recordings
+854;r5s6;Intracellular;22.11.2008;22.11.2008;AS;Zing;;Janie;1;HVC - Recording in HVC to compare to papers
+855;r5y1;Intracellular;25.11.2008;25.11.2008;AS;Zing;;Janie;1;HVc - Trying to get + 50 mV intracellular spikes
+856;o13r5;PrefTest;25.11.2008;27.11.2008;;;;Georg;1;First Preference Test trial
+857;g7r1;song recording;28.11.2008;02.12.2008;IS2;;;Michael;0;
+858;r5y19;song recording;28.11.2008;23.12.2008;IS7;;;Michael;0;
+859;r5y5;SR;28.11.2008;01.12.2008;IS4;;;Michael;1;bird dies after tracer injection caused by massiv intracerebral bleeding in proximity of injection site
+860;r5s11;Zenk expression after perturbation;17.11.2008;28.11.2008;;;;Patrick;2;
+861;r5s10;Zenk expression after perturbation, control;17.11.2008;28.11.2008;;;;Patrick;2;
+862;p13r5;Pref Test 2;27.11.2008;28.11.2008;;;;Georg;0;
+863;r5y4;Intracellular;29.11.2008;29.11.2008;AS;Zing;;Janie;1;HVc - Trying to get spike amplitudes of +50 mV
+864;y5o-s3k;MMAN Acute Exp.;01.12.2008;01.12.2008;AS;zong;;Claude;1;
+865;r5y6;Intracellular;02.12.2008;02.12.2008;AS;Zing;;Janie;1;Intracellular recording in HVc, checking pipettes, making burns, specificity of AF - NO DATA - PICTURE DATA
+866;p14r5;Tracer injection RA and X Bil.;02.12.2008;08.12.2008;;;;Moritz;2;
+867;b13r3;SR;02.12.2008;12.12.2008;E3;;;Georg;1;song recording tutor for MD NCM
+868;o18r6;SR;02.12.2008;12.12.2008;E3;;;Georg;1;SR for MD NCM
+869;o16r6;PT;02.12.2008;05.01.2008;PT;;;Georg;1;First triggered PT
+870;g13r5;MMAN-HVC Acute;02.12.2008;10.12.2008;AS;Zong;;Claude;1;
+871;ch8587;HVC Stim & UVA Rec. Acute;04.12.2008;04.12.2008;AS;;;Claude;1;
+872;r5y13;TPLSM;12.11.2008;12.11.2008;;;;Michael;2;
+873;r5y2;TPLSM;14.11.2008;14.12.2008;;;;Michael;2;
+874;r5-stumpy;Tracer Injection;19.11.2008;19.11.2008;;;;Michael;2;Texas Red into RA
+875;r5-stumpy;TPLSM;21.11.2008;21.11.2008;;;;Michael;2;
+876;g7r1;Tracer Injection;02.12.2008;02.12.2008;;;;Michael;2;Texas Red injection into Area X
+877;g7r1;TPLSM;03.12.2008;03.12.2008;;;;Michael;1;
+878;r6y1;Zenk expression after Perturbation;04.12.2008;11.12.2008;;;;Patrick;2;
+879;r5y10;Intracellular;07.12.2008;07.12.2008;AS;Zing;;Janie;1;Tested pipetttes, AF, and made burns. Tried to get intracellular DV +1000 - PICTURE DATA
+880;p7r5;BDA injection in CMM;08.12.2008;11.12.2008;;;;Patrick;2;
+881;r5s8;BDA injection in CMM;08.12.2008;11.12.2008;;;;Patrick;2;
+882;k9r2;DMP Acute Exp.;08.12.2008;08.12.2008;;;;Claude;1;
+883;g12r4;SR;05.12.2008;09.12.2008;;;;Georg;1;
+884;g10r4;SR;05.12.2008;09.12.2008;;;;Georg;1;
+885;g11r4;SR;05.12.2008;09.12.2008;;;;Georg;1;
+886;g11r4;NCM stim response search;10.12.2008;10.12.2008;AS;;;Georg;2;Stimulation in HVC, looking for stim hash in NCM pHVC - the only stim responses I found are most likely in  the cerebellum. Bird died during sugery, most likely due to rupture of a deep blood vessel. Extensive hemmorraghe between pallium and
+887;g4r5;SR;11.12.2008;21.12.2008;E4;;;Andreas;0;
+888;b1r6;Zenk expression CMM control;11.12.2008;11.12.2008;;;;Patrick;2;
+889;b7r3;DMP Acute Exp.;11.12.2008;11.12.2008;AS;;;Claude;1;
+890;r5ch8587;SR;12.12.2008;13.01.2009;;;;Claude;1;Died during anesthesia for operation.
+891;g14r4;SR;04.12.2008;12.12.2008;;;;Georg;1;
+892;o18r6;MD NCM;12.12.2008;30.12.2008;E1;Zut;;Georg;2;good recordings. MD fell off on tether cable reattachment. EoE.
+893;o2r6;Intracellular;14.12.2008;14.12.2008;AS;Zing;;Janie;1;Design protocol for intracellular current clamp w/ bos, con, rev PICTURE DATA
+894;k1r5;ShowGirl;14.12.2008;30.12.2008;E1;;;Georg;1;
+895;p16r5;Intracellular;15.12.2008;15.12.2008;;Zing;;Janie;1;In the quest of the perfect pipette, looking for aud neurons to use bos, rev, con, protocol
+896;p18r5;Intracellular;16.12.2008;16.12.2008;AS;Zing;;Janie;1;Field L intracellular, sucessful recordings, destroyed brain during perfusion
+897;r5y14;SR;17.12.2008;20.12.2008;IS8;Zut3;;Janie;0;Sang on 3rd day
+898;k4r5;SR;17.12.2008;20.12.2008;IS2;Zing;;Janie;0;Didn't sing in 3 days
+899;r5s12;SR;17.12.2008;20.12.2008;IS4;Zut3;;Janie;0;Didn't sing in 3 days
+900;p17r4;SR;22.12.2008;14.01.2009;E3;;;Andreas;1;
+901;g4r5;pitch-shift;22.12.2008;27.01.2009;E4;;;Andreas;1;
+902;b11r3;Acute;22.12.2008;22.12.2008;AS;;Lacie1TB;Richard;2;HVC LMAn Stim bipolar RA recordings and biccuculine injections
+903;p19r5;SR;23.12.2008;13.01.2009;IS1;;;Claude;1;Died during operation with 2 30-ul Urethane injection.
+904;p17r5;SR;23.12.2008;13.01.2009;IS3;;;Claude;1;Died during operation with 2 30-ul Urethane injection.
+905;r5y3;SR;19.12.2008;21.12.2008;IS6;;;Claude;0;
+906;o16r5;Preference Test 1;30.12.2008;03.01.2009;;;;Georg;1;
+907;r1r1;Tutor song suppression;02.01.2009;09.03.2009;IS7;;;Georg;1;juvenile
+908;b11r5;Tutor song suppression;02.01.2009;09.03.2009;IS7;;;Georg;1;tutor
+909;r5s20;PrefTest;03.01.2009;04.01.2009;;;;Georg;1;
+910;p3o-sb;PrefTest;04.01.2009;05.01.2009;;;;Georg;1;
+911;p10r5;PrefTest;05.01.2009;05.01.2009;;;;Georg;1;
+912;r5s1;PrefTest;05.01.2009;11.01.2009;;;;Georg;1;
+913;r5s9;HVC Tracer MMAN GAD staining;07.01.2009;12.01.2009;;;;Claude;2;
+914;k3r5;SR;07.01.2009;14.01.2009;IS4;Zut3;;Janie;0;
+915;k4r5;SR;07.01.2009;14.01.2009;IS5;Zut3;;Janie;0;trying again…
+916;r5s12;SR;07.01.2009;14.01.2009;IS8;Zut3;;Janie;0;trying again…
+917;r5y14;SR;07.01.2009;14.01.2009;IS2;Zut3;;Janie;0;Recording more…
+918;o10r5;BDA injection experiment;08.01.2009;15.01.2009;;;;Moritz;2;
+919;o14r6;Tracer for EM immuno;08.01.2009;12.01.2009;;;;Daniele;2;
+920;g9r1;Tracer injection exp.;12.01.2009;27.01.2009;;;;Moritz;2;
+921;g6r1;SR & Acute Exp.;14.01.2009;17.01.2009;;;;Claude;1;Record R-HVC and playback BOS with Stim L-HVC.
+922;r5y19;Tracer Injection;14.01.2009;14.01.2009;;;;Michael;2;Texas Red
+923;g15r5;GQ-strepta injection;15.01.2009;20.01.2009;;;;Daniele;2;
+924;r5s5;Test Urethane;15.01.2009;15.01.2009;;;;Claude;0;
+925;b14r6;Test Urethane;15.01.2009;15.01.2009;;;;Claude;0;
+926;o10r6;SR;15.01.2009;28.01.2009;IS4;;;Michael;1;
+927;o13r6;Tracer Injection;15.01.2009;15.01.2009;;;;Michael;2;
+928;o12r6;SR;15.01.2009;28.01.2009;IS8;;;Michael;0;
+929;o6r5;Test Urethane;16.01.2009;06.01.2009;;;;Claude;0;
+930;b14r3;SR;14.01.2009;17.01.2009;IS2;;;Claude;0;
+931;g18r5;SR;14.01.2009;17.01.2009;IS1;;;Claude;0;
+932;p17r4;SR;19.01.2009;09.02.2009;E3;;;Andreas;1;
+933;b10r3;SR;27.01.2009;01.02.2009;E1;;;Georg;1;
+934;k16r6;SR;27.01.2009;29.01.2009;IS2;;;Georg;1;
+935;k15r6;SR;27.01.2009;29.01.2009;IS6;;;Georg;1;
+936;g12r2;SR;27.01.2009;31.01.2009;E4;;;Andreas;1;
+937;g12r6;SR;27.01.2009;31.01.2009;IS5;;;Andreas;1;
+938;g4r5;pitch-shift;27.01.2009;09.02.2009;E2;;;Andreas;1;
+939;o10r6;Tracer Injection;28.01.2009;28.01.2009;;;;Michael;2;Texas Red into Area X
+940;k15r6;ncm-MD;29.01.2009;29.01.2009;;;;Andreas;1;
+941;g12r6;ncm-MD;31.01.2009;10.02.2009;E4;;;Andreas;1;only got a couple of neurons. Learned a lot.
+942;r5s1;showgirl;01.02.2009;14.02.2009;E4;;;Andreas;1;
+943;g10r7;pHVC cut;03.02.2009;25.03.2009;IS1;;;florianh;2;Controll
+944;r7s18;pHVC cutt;03.02.2009;06.02.2009;;;;florianh;2;
+945;r7s20;phvc cutt;03.02.2009;25.03.2009;;;;florianh;2;
+946;b20r7;phvc cutt;03.02.2009;25.03.2009;;;;florianh;2;
+947;b17r6;Tracer for immuno against tracer;06.02.2009;10.02.2009;;;;Daniele;2;
+948;b10r5;SR;07.02.2009;12.02.2009;E1;;;Georg;1;MD NCM Tutor
+949;r6s5;MD NCM;07.02.2009;05.03.2009;E1;;;Georg;2;bird still alive, removed MD for song dev recording in the adult bird.
+950;k16r6;MD NCM;29.01.2009;07.02.2009;E1;;;Georg;2;Bird tore off MD over night. EoE
+951;b4p-red11;Showgirl;07.02.2009;05.03.2009;E1;;;Georg;1;
+952;p17r4;SR;09.02.2009;14.02.2009;IS8;;;Andreas;1;
+953;g4r5;pitch-shift;09.02.2009;04.03.2009;IS6;;;Andreas;1;
+954;g16r6;SR;10.02.2009;12.02.2009;E3;;;Georg;1;
+955;g16r6;ncm-MD;12.02.2009;14.02.2009;E4;;;Andreas;1;Bird tore off MD over night. EoE
+956;o12r6;Tracer Injection;13.02.2009;13.02.2009;;;;Michael;2;
+957;p17r4;SR;14.02.2009;04.03.2009;IS3;;;Andreas;1;
+958;g15r6;SR;14.02.2009;25.02.2009;E3;;;Andreas;1;
+959;g14r6;SR;14.02.2009;17.02.2009;E4;;;Andreas;1;
+960;p5r5;sound recording;16.02.2009;20.02.2009;;;;florianh;1;
+961;p19r6;Tracer injection (UV curing Deering prot.);12.02.2009;17.02.2009;;;;Moritz;2;
+962;g17r5;Tracer Injection;18.02.2009;18.02.2009;;;;Michael;2;Cascade Blue
+963;p12r6;Zenk pilot study;19.02.2009;19.02.2009;;;;Patrick;1;
+964;g17r5;TPLSM;19.02.2009;19.02.2009;;;;Michael;2;
+965;o12r6;TPLSM;16.02.2009;16.02.2009;;;;Michael;2;
+966;o10r6;TPLSM;30.01.2009;30.01.2009;;;;Michael;2;
+967;g14r6;ncm-MD;17.02.2009;20.02.2009;E4;;;Andreas;1;microphonics - turned out to be pick up from audio channel
+968;r6y5;SR & HVC Acute Exp.;23.02.2009;09.03.2009;;;;Claude;1;
+969;b10r6;SR & HVC Acute;23.02.2009;23.02.2009;;;;Claude;1;
+970;k11r6;SR & HVC Acute Exp.;23.02.2009;25.02.2009;;;;Claude;1;
+971;y7o-r16;Tracer injection experiment;19.02.2009;19.02.2009;;;;Moritz;1;Animal died under anestesia during operation
+972;o8r6;Tracer injection;23.02.2009;06.03.2009;;;;Moritz;2;
+973;g4r1;SR & HVC Acute;25.02.2009;27.02.2009;;;;Claude;1;
+974;g1r7;SR;26.02.2009;02.03.2009;E3;;;Joshua;0;didn't sing for 4 days
+975;p4r5;SR & HVC Acute Exp.;28.02.2009;11.03.2009;;;;Claude;1;
+976;k4r5;stimRAmdLMAn;02.03.2009;19.03.2009;E3;Zutty2;Zynix;Josh;2;first motorized microdrive. Good multiunit activity, but no usable single units
+977;o6r6;Tracer injection;03.03.2009;12.03.2009;;;;Daniele;2;
+978;g4r5;SR;04.03.2009;08.03.2009;E4;;;Andreas;1;for brainfair
+979;g2r7;Zenk expression perturbed;04.03.2009;12.03.2009;;;;Patrick;1;
+980;g3r7;Zenk expression, control;04.03.2009;12.03.2009;;;;Patrick;1;
+981;r7s11;SR & Test Ketamine;04.03.2009;11.03.2009;IS5;;;Claude;0;
+982;red11;SR;04.03.2009;08.03.2009;E2;;;Andreas;1;
+983;g8r7;ncm-MD;04.03.2009;29.03.2009;E1;;;Andreas;2;bird did not recover song after surgery. EoE
+984;p13r5;showgirl;05.03.2009;29.03.2009;E1;;;Andreas;0;
+985;g2r6;Ketamin dosage test;04.03.2009;04.03.2009;;;;Moritz;1;
+986;o2r5;Ketamin dosage test;04.03.2009;04.03.2009;;;;Moritz;1;
+987;b19r6;Tracer injection bilat. RA, Area X;05.03.2009;05.03.2009;;;;Moritz;1;Bird died under anestesia
+988;k2r2;Tracer injection (virus room setup test);05.03.2009;16.03.2009;;;;Moritz;2;
+989;k3r5;Tracer Injection;06.03.2009;06.03.2009;;;;Michael;2;Texas Red into Area X
+990;g5r7;Zenk expression, no singing;12.03.2009;16.03.2009;;;;Patrick;1;
+991;k8r6;SR & HVC Acute Exp.;12.03.2009;21.04.2009;E2;;;Claude;1;
+992;b8r6;SR & HVC Acute Exp.;12.03.2009;12.03.2009;IS8;;;Claude;1;
+993;r6y7;SR & HVC Acute Exp.;12.03.2009;25.03.2009;IS3;zong;;Claude;1;
+994;r7s1;SR & HVC Acute Exp.;12.03.2009;14.04.2009;IS5;;;Claude;1;
+995;cj8;stimRAmdLMAn;19.03.2009;24.03.2009;E3;Zutty2;;Joshua;1;did not find stim response. Burned 1.5 ML / 4.8 AP / 2.5 DV
+996;g14r5;SR;19.03.2009;27.03.2009;;;;Michael;0;
+997;k5r5;SR;20.03.2009;27.03.2009;;;;Michael;0;
+998;p12r5;SR;20.03.2009;27.03.2009;;;;Michael;0;
+999;cj7;stimRAmdLMAn;25.03.2009;02.04.2009;E3;Zutty2;;Joshua;2;Not successful
+1000;r6y12;SR;27.03.2009;06.04.2009;IS1;Zut3;;Janie;0;
+1001;r6y11;SR;27.03.2009;06.04.2009;IS2;Zut3;;Janie;0;
+1002;p1r5;SR;27.03.2009;06.04.2009;IS8;Zut3;;Janie;0;
+1003;g1r7;Tracer injection;30.03.2009;02.04.2009;;;;Daniele;2;
+1004;p10r7;HVC Acute Exp.;02.04.2009;19.05.2009;;zong;;Claude;1;
+1005;yellow20;SR;24.03.2009;06.04.2009;IS3;;;Janie;0;
+1006;g18r6;Tracer injection;06.04.2009;06.04.2009;;;;Moritz;1;Died under anestesia
+1007;r6y2;Tracer injection;07.04.2009;15.04.2009;;;;Moritz;2;
+1008;p8r7;Zenk experiment perturbed during song;02.04.2009;08.04.2009;;;;Patrick;1;
+1009;p7r7;Zenk expression, perturbed between song;02.04.2009;08.04.2009;;;;Patrick;1;
+1010;p2s2;stimRAmdLMAN;09.04.2009;15.04.2009;E3;Zutty2;;Joshua;1;looked weak, did not sing. Chose a different juvenile for experiment.
+1011;cj9;stimRAmdLMAN;15.04.2009;30.04.2009;E3;Zutty2;;Joshua;2;not successful
+1012;k6r6;SR & Acute Exp.;15.04.2009;11.05.2009;IS8;;;Claude;1;
+1013;b15r5;SR & Acute Exp.;15.04.2009;05.05.2009;;;;Claude;1;
+1014;r19p-s17o;SR;16.04.2009;21.04.2009;IS1;Zing;;Janie;0;Bird did not sing in 6 days
+1015;p2r5;SR;16.04.2009;21.04.2009;IS7;Zing;;Janie;0;Bird sang!!
+1016;p17r2;SR;16.04.2009;21.04.2009;IS2;Zing;;Janie;0;bird sang!
+1017;g8r6;SR;16.04.2009;21.04.2009;IS4;Zing;;Janie;0;Bird did not sing in 6 days.
+1019;y12red;SR;16.04.2009;21.04.2009;IS3;Zing;;Janie;0;Bird sang!
+1020;o19r7;SR;16.04.2009;17.04.2009;E6;;;Andreas;0;
+1021;b7r5;SR;16.04.2009;17.04.2009;E4;;;Andreas;0;
+1022;o20r7;MD NCM adaptation;16.04.2009;04.05.2009;E1;;;Georg;2;blood in guide tube after first manipulation of the lateral positioner EoE
+1023;p15r6;Showgirl;17.04.2009;29.05.2009;;;;Joshua;1;
+1024;p10r5;showgirl;17.04.2009;22.06.2009;E1;;;Georg;0;
+1025;o2r3;SR & HVC Stim.;21.04.2009;28.07.2009;E2;;;Claude;1;Failed. Bird sang subsong after HVC Stim. implant.
+1026;p1s1;Zenk experiment;24.04.2009;30.04.2009;;;;Patrick;1;did not sing enough, but did
+1027;p16r6;AAV injection;27.04.2009;18.05.2009;;;;Daniele;2;Serotype 2
+1028;o20r6;Virus injection 2/1;27.04.2009;18.05.2009;;;;Moritz;2;
+1029;o14r7;Zenk - perturbed between song;28.04.2009;05.05.2009;;;;Patrick;1;
+1030;p13r6;AAV injection hu37;28.04.2009;02.05.2009;;;;Daniele;2;
+1031;k2r6;AAV injection serotype 2/8;28.04.2009;18.05.2009;;;;Daniele;2;
+1032;b12r7;StimRAmdLMAN;28.04.2009;15.05.2009;E3;Zutty2;;Joshua;2;not successful
+1033;r6y19;AAV injection rh8;29.04.2009;19.05.2009;;;;Daniele;2;
+1034;r6s3;HVC Acute Exp.;29.04.2009;29.04.2009;AS;;;Claude;0;
+1035;r6y9;AAV injection rh10;30.04.2009;30.04.2009;;;;Daniele;2;v0561
+1036;r1r1;SR & Acute Exp.;01.05.2009;06.05.2009;;;;Claude;1;
+1037;o19r7;SR;17.04.2009;04.05.2009;E4;;;Andreas;0;
+1038;o19r7;ncm-MD;04.05.2009;01.07.2009;E4;;;Andreas;1;
+1039;p20r6;AAv injection 2nd round rh10;04.05.2009;26.05.2009;;;;Daniele;2;v0561
+1040;r6y3;AAV injection type 5;30.04.2009;20.05.2009;;;;Moritz;2;
+1041;r6y16;AAV injection type9;29.04.2009;19.05.2009;;;;Moritz;2;
+1042;g18r5;AAV injection type 7;29.04.2009;09.05.2009;;;;Moritz;2;
+1043;k7r6;AAV injection type 6.2;29.04.2009;20.05.2009;;;;Moritz;2;
+1044;b11r7;SR;04.05.2009;08.05.2009;E4;;;Andreas;1;
+1045;y16p-s2;SR;04.05.2009;08.05.2009;E3;;;Andreas;0;
+1046;g19r7;AAV inj 2nd ser 2/7;04.05.2009;26.05.2009;;;;Daniele;2;v0127
+1047;b13r7;Zenk expression, perturbed during song;01.05.2009;05.05.2009;;;;Patrick;1;
+1048;o11r6;AAV inj second 2/1;05.05.2009;27.05.2009;;;;Daniele;2;
+1049;g20r7;AAV inj second 2/5;05.05.2009;26.05.2009;;;;Daniele;2;v0800
+1050;p14r6;AAV inj second 6.2;05.05.2009;27.05.2009;;;;Daniele;2;v0807
+1051;g15r6;MD mMAN;05.05.2009;05.05.2009;;;;Georg;1;bird lost too much blood during surgery EoE
+1052;o3r6;AAV injection type 2 (V0061-K);07.05.2009;27.05.2009;;;;Moritz;2;
+1053;r7s4;AAV injection type 2/8 (V0877);07.05.2009;27.05.2009;;;;Moritz;2;
+1054;p11r7;Acute Exp.;07.05.2009;07.05.2009;;;;Claude;1;
+1055;k12r6;AAV injection 2/9;08.05.2009;02.06.2009;;;;Moritz;2;
+1056;cj10;stimRAmdLMAN;08.05.2009;09.07.2009;E3;Zutty2;;Joshua;2;Some good data, but song never really cristallyzed. Maybe HVC leasioned.
+1058;g6r6;AAV injection hu37;09.05.2009;02.06.2009;;;;Moritz;2;
+1059;g8r6;AAV injection rh8;09.05.2009;02.06.2009;;;;Moritz;2;
+1060;b6r6;AAV injection hu37;11.05.2009;04.06.2009;;;;Daniele;2;
+1061;p5r5;Acute Exp;11.05.2009;11.05.2009;;;;Claude;1;
+1063;k4r6;AAV inj third round rh8;11.05.2009;04.06.2009;;;;Daniele;2;
+1064;r6y8;Control animal Zenk expression;12.05.2009;12.05.2009;;;;Patrick;1;
+1065;b14r5;Acute Exp.;12.05.2009;12.05.2009;;;;Claude;1;
+1066;p1r6;AAV injection typ 2/7;12.05.2009;04.06.2009;;;;Moritz;2;
+1067;k11r7;Zenk expression, automatic pertubation;14.05.2009;26.05.2009;;;;Patrick;1;
+1068;r7y18;Subsong recording;15.05.2009;17.05.2009;IS7;;;Alexei;3;Song isolate bird
+1069;r7y10;Practice surgery;15.05.2009;15.05.2009;;;;Alexei;2;
+1070;k3r6;Perfusion Experiment;20.05.2009;20.05.2009;;;;Moritz;1;
+1071;g12r7;HVC Acute Exp.;21.05.2009;21.05.2009;;;;Claude;1;
+1072;r7y7;NIF stim sleep;13.05.2009;07.07.2009;EB1;;;;0;NIF bilateral stimulation during inactivity
+1073;r7y5;NIF stim sleep;23.05.2009;07.07.2009;EB2;;;;0;Control animal for NIF bilateral stimulation during inactivity
+1074;r7y8;NIF stim sleep;23.05.2009;07.07.2009;EB3;;;;0;control animal for NIF stim sleep
+1075;r7y20;NIF stim sleep;22.05.2009;25.06.2009;E1;;;;0;Wait to determine the gender
+1076;k1r7;NIF stim sleep;23.05.2009;25.06.2009;E1;;;Alexej;0;Wait to determine the gender
+1077;r7y17;NIF stim sleep;23.05.2009;13.07.2009;E1;;;;0;Wait to determine the gender
+1078;p12r7;HVC Acute Exp.;25.05.2009;25.05.2009;;;;Claude;1;
+1079;b17r7;Zenk expression, manual perturbation;26.05.2009;26.05.2009;;;;Patrick;1;
+1080;k16r5;HVC BOS Acute Exp.;26.05.2009;01.06.2009;;;;Claude;1;Failed.
+1081;b1r5;SR;26.05.2009;09.06.2009;;;;Claude;0;
+1082;k3r7;Subsong recording;26.05.2009;07.07.2009;E2;;;Alexei;0;
+1083;r12p-y7o;SR;02.06.2009;08.06.2009;;;;Michael;0;
+1084;b14r7;SR;02.06.2009;08.06.2009;;;;Michael;0;bird did not sing
+1085;o1r7;SR;02.06.2009;08.06.2009;;;;Michael;0;
+1086;g14r5;Texas Red Injection into Area X;02.06.2009;02.06.2009;;;;Michael;2;
+1087;g14r5;TPLSM;03.06.2009;03.06.2009;;;;Michael;1;
+1088;k3r5;TPLSM;09.03.2009;09.03.2009;;;;Michael;1;
+1089;p12r5;tracer injection;07.06.2009;07.06.2009;;;;Michael;2;texas red -> area x // cascade blue -> ra
+1090;b7r5;SR;02.06.2009;08.06.2009;;;;Michael;0;
+1091;g13p-purple20;SR;08.06.2009;15.06.2009;;;;Michael;0;
+1092;o5r6;SR;08.06.2009;15.06.2009;;;;Michael;0;
+1093;b13r3;SR;08.06.2009;15.06.2009;;;;Michael;0;
+1094;k5r5;Tracer Injection;08.06.2009;08.06.2009;;;;Michael;2;Texas Red into Area X
+1095;r12p-y7o;Tracer Injection;09.06.2009;09.06.2009;;;;Michael;2;Texas Red into Area X
+1096;p11r6;AVV injection;09.06.2009;20.07.2009;;;;Moritz;2;
+1097;b4r6;aav 2/5 inj;09.06.2009;29.06.2009;;;;moritz;2;
+1098;p6r4;AAV injection 2/1;10.06.2009;29.06.2009;;;;Moritz;2;
+1099;g7r8;Zenk expr, man. pert.;11.06.2009;09.06.2009;;;;Patrick;1;
+1100;g10r8;Zenk expr. autom. perturb.;11.06.2009;09.06.2009;;;;Patrick;1;
+1101;g20r5;Tracer injection;11.06.2009;16.06.2009;;;;Daniele;2;X, r: Af488, X, l: Ly, RA, r: ly, RA, l: fr
+1102;p8r4;aav inj 2/9 diluted;11.06.2009;29.06.2009;;;;Moritz;2;
+1103;b9r5;QD injection;12.06.2009;19.06.2009;;;;Daniele;2;
+1104;p16r5-michi;SR;15.06.2009;15.06.2009;;;;Michael;0;
+1105;b18r7;SR;16.06.2009;24.06.2009;;;;Michael;0;
+1108;p1s1;SR;16.06.2009;23.06.2009;;;;Michael;0;
+1109;r8s5;SR;16.06.2009;24.06.2009;;;;Michael;0;bird did not sing reasonable song
+1110;b7r5;Tracer Injection;16.06.2009;16.06.2009;;;;Michael;2;Texas Red into Area X
+1111;g13p-purple20;Tracer Injection;16.06.2009;16.06.2009;;;;Michael;2;Texas Red into Area X
+1112;b1b2;SR;17.06.2009;24.06.2009;;;;Michael;0;
+1113;k8r7;Perfusion practice;17.06.2009;17.06.2009;;;;Janie;1;Improved perfusion technique.
+1114;o16r6;Perfusion Practice;17.06.2009;17.06.2009;;;;Janie;1;Improved perfusion technique.
+1115;r8s2;Perfusion Practice;17.06.2009;17.06.2009;;;;Janie;1;Improved perfusion technique.
+1116;r8s3;Perfusion Practice;17.06.2009;17.06.2009;;;;Janie;1;Improved perfusion technique.
+1117;red5;Perfusion Practice;17.06.2009;17.06.2009;;;;Janie;1;Improved perfusion technique.
+1118;p17r2;Quadruplet Recording;18.06.2009;18.06.2009;AS;Zing;;Janie;1;made some successful recordings, beware of cross talk
+1119;k5r5;TPLSM;10.06.2009;10.06.2009;;;;Michael;0;
+1120;r12p-y7o;TPLSM;11.06.2009;12.06.2009;;;;Michael;1;
+1121;p12r5;TPLSM;09.06.2009;09.06.2009;;;;Michael;1;
+1122;b7r5;TPLSM;17.06.2009;17.06.2009;;;;Michael;1;
+1123;g13p-purple20;TPLSM;19.06.2009;18.06.2009;;;;Michael;1;
+1124;o1r7;Tracer Injection;19.06.2009;19.06.2009;;;;Michael;2;Texas Red into Area X
+1125;p16r5-michi;Tracer Injection;20.06.2009;20.06.2009;;;;Michael;2;Texas Red into Area X
+1126;p14k;SR;20.06.2009;26.06.2009;IS6;;;Janie;0;
+1127;b10r3;SR;20.06.2009;24.06.2009;IS8;;;Janie;0;
+1128;p7r6;SR;20.06.2009;24.06.2009;IS4;;;Janie;0;
+1129;b13r3;Tracer Injection;22.06.2009;22.06.2009;;;;Michael;2;Texas Red into Area X
+1130;y16p-s2;SR;20.06.2009;24.06.2009;IS1;;;Janie;0;
+1131;yellow20;Quadruplet Recording;23.06.2009;23.06.2009;AS;Zing;;Janie;1;Changed coordinates, looking for L2a
+1132;p16r5-michi;TPLSM;23.06.2009;23.06.2009;;;;Michael;2;
+1133;b16r7;Perfusion Practice;24.06.2009;24.06.2009;;;;Janie;1;Improved perfusion technique
+1134;b6r7;Perfusion Practice;24.06.2009;24.06.2009;;;;Janie;1;Improved perfusion technique
+1135;r6s8;Perfusion Practice;24.06.2009;24.06.2009;;;;Janie;1;Improved perfusion technique
+1136;r7y3;Perfusion Practice;24.06.2009;24.06.2009;;;;Janie;1;Improved perfusion technique
+1137;r8s1;Perfusion Practice;24.06.2009;24.06.2009;;;;Janie;1;Improved perfusion technique
+1138;r6y12;Quadruplet Recording;25.06.2009;25.06.2009;AS;Zing;;Janie;1;More L2a recordings.
+1139;r5s14;r5s14 AAV inection 2/1 sc;25.06.2009;14.07.2009;;;;Moritz;2;
+1140;g9r6;AAV injection 2/1sc;25.06.2009;14.07.2009;;;;Moritz;2;
+1141;o5r6;AAV injection 2/9 sc;26.06.2009;14.07.2009;;;;Moritz;2;
+1143;r6y11;Quadruplet recording;30.06.2009;30.06.2009;AS;Zing;;Janie;1;the quest for L2a
+1144;r7s3;SR;03.07.2009;10.07.2009;;;;Michael;0;
+1145;r8s5;jumber test surgery;29.06.2009;29.06.2009;;;;Alexei;2;
+1146;r7s5;SR;03.07.2009;10.07.2009;;;;Michael;0;
+1148;o8r7;SR;03.07.2009;10.07.2009;;;;Michael;0;
+1149;red11;SR;03.07.2009;07.07.2009;;;;Michael;0;
+1150;b13r3;tplsm;24.07.2009;24.06.2009;;;;Michael;1;
+1151;o1r7;tplsm;21.06.2009;21.06.2009;;;;Michael;1;
+1152;b1b2;Tracer Injection;06.07.2009;06.07.2009;;;;Michael;2;Texas Red into Area X
+1153;p11r5;Tracer Injection and Zenk expression;01.07.2009;07.07.2009;;;;Patrick;2;
+1154;b18r7;Tracer Injection;06.07.2009;06.07.2009;;;;Michael;2;
+1155;b16r6;SR;06.07.2009;22.07.2009;E8;;;Claude;0;
+1156;r6y10;SR;07.07.2009;10.07.2009;;;;Michael;0;
+1157;red11;Tracer Injection;07.07.2009;07.07.2009;;;;Michael;2;Texas Red into Area X
+1158;b6r5;Song and Video recording;07.07.2009;25.07.2009;E7;;;Alexei;0;
+1159;b11r7;Sound and video recording;07.07.2009;01.08.2009;E6;;;Alexei;0;
+1160;g4r6;Tracer injection;07.07.2009;12.07.2009;;;;Daniele;2;
+1161;b1b2;tplsm;07.07.2009;07.07.2009;;;;Michael;1;crappy imaging quality ..
+1162;red11;tplsm;09.07.2009;09.07.2009;;;;Michael;1;
+1163;b18r7;tplsm;08.07.2009;08.07.2009;;;;Michael;1;
+1164;o7r7;Tracer injection bilateral;13.07.2009;20.07.2009;;;;Moritz;2;FR and LUYE - X and RA alternating on other side
+1165;r5y9;Tracer inhjection;15.07.2009;20.07.2009;;;;Moritz;2;inj into X and RA with FR 10000 and LuYe
+1166;g14r8;Zenk expression, time-locked perturbation;16.07.2009;16.07.2009;;;;Patrick;1;
+1167;o3r8;SR;16.07.2009;21.07.2009;IS2;Zing;;Janie;0;
+1168;r5s12;SR;16.07.2009;21.07.2009;;;;Janie;0;
+1169;cj11;song recording;16.07.2009;20.07.2009;E3;;;Joshua;1;died during surgery, no bleeding, probably due to anestesia
+1170;b11r5;SR & BOS Exp.;16.07.2009;27.07.2009;IS7;;;Claude;1;
+1171;b10r5;SR & BOS Exp.;16.07.2009;24.07.2009;AS;;;Claude;1;
+1172;g1r6;Microdialysis - RA - 45 degrees;19.07.2009;28.07.2009;E1;;;Janie;1;First microdialysis penetration attempt into RA, 45 degree angle.
+1173;b1r8;stimRAmdLMAn;21.07.2009;06.08.2009;E3;;;Joshua;2;
+1174;o3r5;showgirl;21.07.2009;25.07.2009;E3;;;Joshua;0;
+1175;r5s12;Bilateral RA Microdialysis Implantation;22.07.2009;28.07.2009;E1;;;Janie;1;"Right Hemishpere Coordinates - 65 head angle, 45 penetration angel, DV = 2.5 mm; Left Hemisphere Coordinates - 98 head angle, 12 penetration angle, DV = 2.37 mm."
+1176;r7s2;Zenk protein expression;22.07.2009;28.07.2009;;;;Patrick;2;22.07.2009 tracer injected in CLM and HVC
+1177;p8r6;Test Diazepam;23.07.2009;23.07.2009;;;;Claude;0;
+1178;y16p-s2;Bilateral RA Microdialysis Implantation;23.07.2009;28.07.2009;;;;Janie;1;"Setup E9; RH - DV 2.3 mm; LH  - DV = 2.59 mm"
+1179;o2r7;Tracer injection X and RA bil LuYe and FR;24.07.2009;03.09.2009;;;;Moritz;2;
+1180;r8y3;ncm-Lesion;24.07.2009;30.07.2009;IS5;;;Andreas;1;control bird
+1182;r8y1;ncm-Lesion;24.07.2009;07.11.2009;IS6;;;Andreas;1;perfusion on Nov. 7th
+1183;r8y2;ncm-Lesion;24.07.2009;25.07.2009;IS4;;;Andreas;1;found dead in cage
+1184;o3r8;sound and video recording;21.07.2009;31.08.2009;E7;;;Alessandro;0;
+1185;b6r8;SR;27.07.2009;29.07.2009;IS2;;;Andreas;1;recording for ncm-experiment
+1186;r7p1;SR;27.07.2009;31.07.2009;E4;;;Andreas;1;for ncm experiment of b6r8
+1187;o8r7;Tracer Injection;28.07.2009;28.07.2009;;;;Michael;2;Texas Red -> Area X // Cascade Blue -> RA
+1188;b16r6;SR & Acute Exp.;28.07.2009;03.08.2009;IS7;;;Claude;1;
+1189;b6r5;SR &  Acute Exp.;28.07.2009;07.08.2009;IS3;;;Claude;0;
+1190;b10r3;Bilateral Microdialysis - RA;28.07.2009;25.08.2009;;;;Janie;0;End of exp, but probes are still working.
+1191;p14k;SR / Microdialysis LMAN;28.07.2009;18.08.2009;E1;;;Janie;1;Microdialysis probe became clogged…
+1192;p7r6;Microdialysis LMAN;28.07.2009;09.10.2009;;;;Janie;1;Setup E9 - Mucho data
+1193;b6r8;ncm-MD;29.07.2009;30.07.2009;E4;;;Andreas;1;found bird dead in cage
+1194;b15r8;HVC stimulation;29.07.2009;21.09.2009;E5;;;Alexei;0;
+1195;b8r8;SR;31.07.2009;07.08.2009;E4;;;Andreas;1;preparation for MD-NCM, bird was too old to implant before retreat
+1196;r7s3;Tracer Injection;04.08.2009;04.08.2009;;;;Michael;2;Texas Red into Area X
+1197;r7s5;Tracer Injection;05.08.2009;05.08.2009;;;;Michael;2;Texas Red into Area X
+1198;p2s2;AAV2.5 injection left ra X ri:hvc;05.08.2009;;;;;Moritz;2;
+1199;b14r7;AF 488 injection;06.08.2009;17.08.2009;;;;Daniele;2;X right, RA left
+1200;r7s3;tplsm;06.08.2009;06.08.2009;;;;Michael;1;
+1201;p10r6;AAV2/5sc;07.08.2009;01.10.2009;;;;Daniele;2;
+1202;o14r8;SR & BOS Exp.;07.08.2009;18.08.2009;IS3;;;Claude;1;
+1203;r7s5;tplsm;07.08.2009;08.08.2009;;;;Michael;1;
+1204;r5y11;SR & BOS Acute.;08.08.2009;31.08.2009;;;;Claude;1;
+1205;b14r3;SR;16.08.2009;19.08.2009;E4;;;Andreas;1;for NCM-MD
+1206;b8r7;Pitch Shifting;08.09.2009;22.09.2009;IS2;;;Gokcen;0;
+1207;b8r7;SR - Microphone Test;19.08.2009;20.08.2009;;;;Gokcen;0;Setup: E10, Data: zuhoch
+1208;p1r8;SR;19.08.2009;20.08.2009;E4;;;Andreas;1;
+1209;p2r8;ncm-MD;19.08.2009;04.09.2009;E1;;;Andreas;1;
+1210;p11k-ch900;SR / LMAN Microdialysis;19.08.2009;04.09.2009;;;;Janie;1;"Setup: E9; Data: zuhoch - Perished while injecting TTX."
+1211;k7r2;SR / LMAN Microdialysis;19.08.2009;30.09.2009;;;;Janie;1;"Setup: IS4 / E.10.; Data: Injected ttx into brain on 25 sept"
+1212;o2r3;SR;19.08.2009;22.08.2009;IS2;;;Claude;1;
+1213;r7y11;2.5 sc injection;20.08.2009;;;;;Moritz;2;
+1214;p1r8;ncm-MD;20.08.2009;20.08.2009;;;;Andreas;1;bird died at end of surgery.
+1215;p3r8;SR;20.08.2009;21.08.2009;E4;;;Andreas;1;
+1216;o4r7;AAV 2/5 sc injection;22.08.2009;;;;;Moritz;2;
+1218;p3r8;ncm-MD;21.08.2009;29.08.2009;E4;;;Andreas;1;motor did not move anymore. EOE.
+1219;g1r3;HVC Stim.;25.08.2009;02.11.2009;E2;;;Claude;1;
+1220;b8r8;SR;28.08.2009;03.11.2009;;;;Claude;0;
+1221;g2r8;Tracer injection 4x monolat. Right;26.08.2009;07.09.2009;;;;Moritz;2;
+1222;p1r5;Search for Uva and Nif;30.08.2009;30.08.2009;;;;Moritz;1;
+1223;p20r8;sr;03.09.2009;23.09.2009;E7;;;alessandro;0;
+1224;r8s10;Uva search electrophysiology;01.09.2009;01.09.2009;;;;Moritz;1;
+1225;k14r6;Acute Exp.;03.09.2009;03.09.2009;;;;Claude;1;
+1226;p2r6;Female Model;07.09.2009;07.09.2009;;;;Janie;0;
+1227;p14r8;Pitch Shifting;08.09.2009;30.10.2009;IS8;;;Gokcen;0;
+1228;r6y10;Tracer Injection;24.07.2009;24.07.2009;;;;Michael;2;Texas Red into Area X
+1229;r6y10;tplsm;28.07.2009;28.07.2009;;;;Michael;1;
+1230;o8r7;tplsm;30.07.2009;30.07.2009;;;;Michael;1;
+1231;b1r5;Tracer injection and burns at UVA;10.09.2009;15.09.2009;;;;Moritz;2;
+1232;p11r8;search for UVA;09.09.2009;09.09.2009;;;;Moritz;1;
+1233;p12r8;search for UVA (burns);04.09.2009;04.09.2009;;;;Moritz;1;
+1234;b5r8;SR;15.09.2009;18.09.2009;IS5;;;Janie;0;
+1235;g20r8;SR;06.09.2009;22.11.2009;;;;Janie;0;Setup: E8
+1236;g18r8;StimRA, MDlMAN;15.09.2009;14.09.2009;E3;Zutty2;;Joshua;2;StimRA, MDlMAN
+1237;p2r5;song recording;18.09.2009;22.09.2009;E4;;;Joshua;0;stupid song
+1238;b5r8;Filed L - Computational Neuroscience;18.09.2009;18.09.2009;AS;;;Janie;1;We got auditory responses in this bird, even though it was isolated as a juvenile!
+1239;r6s12;showgirl;22.09.2009;24.09.2009;E3;;;Joshua;0;
+1240;o1r8;Acute Uva search;25.09.2009;05.10.2009;;;;Moritz;2;
+1241;o7r8;4 tracer injection!;30.09.2009;30.09.2009;;;;Moritz;1;
+1242;o2r8;4 Tracer injection with electrophys;04.10.2009;07.10.2009;;;;Moritz;3;Experiment was aborted 3 days post op. because of bad conditions.
+1243;o19r8;Uva, Nif, RA, X injection (setup 2);08.10.2009;19.10.2009;;;;Moritz;2;
+1244;r8y4;Uva, Nif, X, RA injection;22.10.2009;26.10.2009;;;;Moritz;2;
+1245;p5r8;SR;28.10.2009;04.11.2009;;;;Michael;0;
+1246;r8s9;SR;28.10.2009;08.11.2009;;;;michael;0;
+1247;r7s7;SR;28.10.2009;04.11.2009;;;;Michael;0;
+1248;r8y17;UVA, NIF, RA, X;30.10.2009;09.11.2009;;;;Moritz;2;
+1249;b20r8;4 injections;27.10.2009;02.11.2009;;;;moritz;2;
+1250;k16r8;SR;02.11.2009;12.11.2009;IS7;;;Andreas;0;bird didn't sing
+1251;y12red;SR;02.11.2009;06.11.2009;E4;;;Andreas;0;
+1252;r8y9;SR;02.11.2009;06.11.2009;E3;;;Andreas;0;
+1253;r8y11;SR;02.11.2009;06.11.2009;IS8;;;Andreas;0;
+1254;o3r3;HVC Stim.;25.08.2009;02.11.2009;E2;;;Claude;1;
+1255;o1r3;HVC Stim.;02.09.2009;02.11.2009;;;;Claude;1;
+1256;p17r4;SR & Screw implant for Acute Exp.;03.11.2009;27.11.2009;IS3;;;Claude;1;Didn't sing well after screw implantation.
+1257;k4r8;SR;04.11.2009;08.11.2009;;;;Michael;0;
+1258;k17r8;SR;04.11.2009;13.11.2009;;;;Michael;0;
+1259;r7s7;tracer injection / head plate mount;04.11.2009;04.11.2009;;;;Michael;0;texas red into area x
+1260;g20r10;NCM-lesion;06.11.2009;12.11.2009;;;;Andreas;0;Unilateral ibotanic acid injection
+1261;g7r10;NCM-lesion;06.11.2009;07.11.2009;;;;Andreas;0;injected ibutanic acid, perfuesed animal on 7th.
+1263;k1r8;tracer experiment;06.11.2009;02.09.2010;;;;Moritz;2;
+1264;r8s9;5 color injection;10.11.2009;10.11.2009;;;;Moritz;1;Bird died under anestesia
+1265;r10s10;NCM-lesion;10.11.2009;17.11.2009;;;;Andreas;0;Bilateral Ibotenic Acid Injection
+1266;g6r10;NCM-lesion;11.11.2009;17.11.2009;;;;Andreas;0;NCM- sham injection - Bilateral injection of Cascade Blue in Ringer's Solution
+1267;g19r10;NCM-lesion;10.11.2009;17.11.2009;;;;Andreas;0;NCM- sham injection - Bilateral injection of Cascade Blue in Ringer's Solution
+1268;g20r10;perfusion;12.11.2009;12.11.2009;;;;Andreas;0;
+1269;p10r5;perfusion;12.11.2009;12.11.2009;;;;Michel;0;
+1270;r6s12;perfusion;12.11.2009;12.11.2009;;;;Michel;0;
+1271;r7y2;perfusion;12.11.2009;12.11.2009;;;;Michel;0;
+1272;p5r8;tracer injection and mounting head post;09.11.2009;09.11.2009;;;;Michael;0;texas red into areax
+1273;p5r8;tplsm;13.11.2009;13.11.2009;;;;Michael;0;
+1274;r7s7;tpslm;07.11.2009;07.11.2009;;;;Michael;0;
+1275;r6s4;ncm-lesion;16.11.2009;04.12.2009;;;;Andreas;0;ibutanic acid & electrolytic lesions
+1276;p10r10;SR;16.11.2009;23.11.2009;IS8;;;Andreas;0;
+1277;p11r10;NCM-lesion;16.11.2009;23.11.2009;IS5;;;Andreas;0;
+1278;p12r10;NCM-lesion;16.11.2009;23.11.2009;IS7;;;Andreas;0;
+1279;p13r10;NCM-lesion;16.11.2009;23.11.2009;IS4;;;Andreas;0;
+1280;g4r5;SR;17.11.2009;12.12.2009;E4;;;Andreas;1;
+1281;p19r8;MD Field L;25.09.2009;06.10.2009;E3;;;Joshua;2;not successful
+1282;r8s15;Song perturbation by El. stim.;23.09.2009;19.11.2009;E5;;;Alexei;0;
+1283;g2r10;Song development pert by El. Stim;02.10.2009;27.11.2009;E6;;;Alexei;0;
+1284;k10r8;Song dev perturb by El stim;23.09.2009;19.11.2009;E7;;;Alexei;0;
+1285;g3r10;Song development pert by El. Stim;02.10.2009;27.11.2009;E10;;;Alexei;0;
+1286;b8r7;SR & HVC Stim.;24.11.2009;23.12.2009;E2;;;Claude;1;
+1287;r3y1;As a show girl;24.11.2009;08.01.2009;;;;Claude;0;
+1289;k5r8;test surgery;24.11.2009;25.11.2009;;;;Joergen;2;first test surgery.
+1290;g9r10;5 Tracer injection;27.11.2009;27.11.2009;;;;Moritz;1;
+1291;s5y11;SR & Acute Exp.;27.11.2009;04.12.2009;AS;;;Claude;1;
+1292;r10s13;SR;30.11.2009;07.12.2009;;;;michael;1;good song
+1293;p14r8;SR;30.11.2009;07.12.2009;;;;michael;0;
+1294;o4r8;5  color tracer injection;19.11.2009;01.12.2009;;;;Moritz;2;
+1295;o18r7;test surgery and ephys test;02.12.2009;02.12.2009;;;;Joergen;2;
+1296;r10y8;test surgery, e phys;04.12.2009;04.12.2009;;;;Joergen;2;
+1297;g16r10;HSV-1 bilateral;07.12.2009;08.12.2009;;;;Daniele;2;left CMV, right 1alpha, both x and ra, same quantity as AAV. Survival 20h.
+1298;r10s14;SR;07.12.2009;15.12.2009;;;;Michael;0;
+1299;r10s1;SR;07.12.2009;15.12.2009;;;;Michael;0;
+1300;k16r8;HSV-1;07.12.2009;10.12.2009;;;;Daniele;2;same as g16r10. Survival 72h.
+1301;g10r10;HSV1 RA;09.12.2009;10.12.2009;;;;Daniele;2;same as first two animals. Survival 28h.
+1302;r10y15;test stimulation elect. Implantation;10.12.2009;10.12.2009;;;;Joergen;2;
+1303;p16r8;5 color injection;01.12.2009;16.12.2009;;;;Moritz;2;
+1304;p18r10;stimulation and ephys;18.12.2009;18.12.2009;;;;Joergen;2;
+1305;b17r10;virus injection;18.12.2009;18.12.2009;;;;Michael;2;CAG YC3.60
+1306;p3r10;virus injection;22.12.2009;22.12.2009;;;;michael;1;CAG YC3.60
+1307;r10y12;virus injection;22.12.2009;22.12.2009;;;;michael;2;CAG YC3.60
+1308;b4r10;virus injection;22.12.2009;22.12.2009;;;;michael;2;CAG YC3.60
+1309;g17r10;Record song;23.12.2009;01.04.2010;E8;;;Richard;0;Experiment closed, bird still alive.
+1310;p14r10;Connector Implant;23.12.2009;03.01.2010;E8;;;Richard;0;Implantation of omnectics connector serving as holder of microphone
+1311;k11r10;Control for song development;27.12.2009;29.06.2009;E6;;;Alexei;0;
+1312;r11s5;SR;03.01.2010;09.01.2010;IS7;;;Andreas;0;
+1313;r11s4;SR;03.01.2010;09.01.2010;IS5;;;Andreas;0;
+1314;r7y7;SR - Isolated Song;03.01.2010;08.01.2010;IS2;;;Janie;0;
+1315;r7y5;SR - Isolated Song;03.01.2010;18.01.2010;IS4;;;Janie;0;
+1316;g3r10;SR - Isolated Song;04.01.2010;08.01.2010;IS8;;;Janie;0;
+1317;b19r10;SR - TTX in LMAN;04.01.2010;01.03.2010;E1;;;Janie;0;Lots of data.
+1318;p3r10;SR;04.01.2010;12.01.2010;;;;michael;0;
+1319;b4r10;SR;04.01.2010;12.01.2010;;;;michael;0;
+1320;b17r10;SR;04.01.2010;12.01.2010;;;;michael;0;
+1321;k11r8;5 Tracer injection;06.01.2010;14.01.2010;;;;Moritz;2;
+1322;b13r10;HVC injection for CM location;07.01.2010;11.01.2010;;;;Moritz;2;
+1323;b2r10;hsv-1 injection in HVC;07.01.2010;11.01.2010;;;;Daniele;2;Injection on 08.01 in the morning, perfusion on 11.01 also in the morning. Ef1alhpa promoter left and right, RA, each 2 injections at 3 different depths. For array tomography.
+1324;b10r7;SR;08.01.2010;08.02.2010;E2;;;Claude;0;
+1325;r10s16;SR;08.01.2010;13.01.2010;IS8;;;Janie;0;Bird died in ISO chamber during SR
+1326;purple022;SR;08.01.2010;18.01.2010;IS2;;;Janie;0;
+1327;b11r10;Recording in NIf;11.01.2010;18.01.2010;E9;;;Joergen;1;
+1328;p13r8;pitch shift;12.01.2010;12.02.2010;;;;;0;
+1329;g15r10;HSV-1 for array tomography;12.01.2010;15.01.2010;;;;Daniele;2;L CMV, right ef 1alpha, RA and X
+1330;r10y12;tplsm;07.01.2010;07.01.2010;;;;michael;1;
+1332;r10s20;virus injection;14.01.2010;14.01.2010;;;;Michael;2;CAG GCamP4
+1333;p16r10;virus injection;14.01.2010;14.01.2010;;;;michael;2;GECI - CAG GCamP4
+1334;o13r10;surgery practice;28.11.2009;19.12.2009;R4;;;alessandro;0;opened the dura, practiced inserting a hook. Bird recovered completely
+1335;r11s5;ncm-lesion;09.01.2010;15.04.2010;IS7;;;Andreas;1;
+1336;r11s4;ncm-lesion;09.01.2010;15.04.2010;IS5;;;Andreas;1;
+1339;p14r10;Record Song;07.01.2010;13.01.2010;E8;;;Richard;0;Move from R7 to E8 to record song
+1340;p14r10;Record Song;15.01.2010;15.01.2010;E8;;;Richard;0;Move it to E8 from 2 to 4 pm, and put it back to an isolated cage on the top of R2
+1341;p14r10;Record Song;17.01.2010;17.01.2010;E8;;;Richard;0;Move it to E8 from 3 to 4 pm, and put it back to an isolated cage on the top of R2
+1345;purple022;SR-LMAN Microdialysis;23.01.2010;28.01.2010;IS2;;;Janie;1;LMAN probe implantation - failure, probes snapped off when putting caps in, will use for field L exp..
+1346;r10y5;Implanted michead;08.01.2010;08.01.2010;E8;;;Richard;0;Implantation of omnectics connector serving as holder of microphone
+1347;r10y5;Song Recording;17.01.2010;23.01.2010;E8;;;Richard;0;Move from R4 to E8 to record song
+1348;r10y3;Tracer/Virus injection 24h;26.01.2010;26.01.2010;;;;Moritz;2;
+1349;b17r10;tplsm;22.01.2010;22.01.2010;;;;michael;1;
+1350;o16r10;virus injection;18.12.2009;18.12.2009;;;;michael;2;CAG YC3.60
+1351;o16r10;tplsm;15.01.2010;15.01.2010;;;;michael;1;
+1352;p14r10;Record Song;28.01.2010;28.01.2010;E8;;;Richard;0;Move it to E8 from 1:25 to 7:15 pm, and put it back to an isolated cage on the top of R2
+1353;purple022;SR;28.01.2010;08.02.2010;IS2;;;Janie;0;
+1354;b15r10;virus injection herpes hmv right into hvc;28.01.2010;29.01.2010;;;;Moritz;2;burn in ml 0.5 ap 2 at .5 and 1.0 DV
+1355;r10y5;Song Recording;29.01.2010;29.01.2010;E8;;;Richard;0;Move from R4 to E8 to record song from 1:15 to 7:05 pm
+1356;b16r8;preference test;10.01.2010;30.01.2010;ptest;;;alessandro;0;
+1357;p15r5;preference test;30.01.2010;19.02.2010;ptest;;;alessandro;0;
+1358;p14r10;Record Song;31.01.2010;31.01.2010;E8;;;Richard;0;Move it to E8 from 2:45 to 3:45 pm, and put it back to an isolated cage on the top of R2
+1359;r10y5;Song Recording;31.01.2010;31.01.2010;E8;;;Richard;0;Move from R4 to E8 to record song from 3:45 to 4:45 pm
+1360;r10y5;Song Recording;01.02.2010;01.02.2010;E8;;;Richard;0;Move from R4 to E8 to record song from 2:50 to 3:50 pm
+1361;p14r10;Record Song;01.02.2010;01.02.2010;E8;;;Richard;0;Move it to E8 from 3:55 to 4:55 pm, and put it back to an isolated cage on the top of R2
+1362;p20r10;HVC injection for CM location;03.02.2010;04.02.2010;;;;Moritz;2;
+1363;o10r7;SR & HVC Stim;08.02.2010;;;;;Claude;1;
+1364;k10r8;Virus injection into HVC;08.02.2010;10.02.2010;;;;Moritz;2;
+1365;p16r10;tplsm;08.02.2010;08.02.2010;;;;michael;1;
+1366;r10s20;tplms;05.02.2010;05.02.2010;;;;Michael;1;
+1367;o1r11;Microdrive debugging;10.02.2010;10.02.2010;;;;Joergen;2;
+1368;g7r11;Microdrive debugging;12.02.2010;12.02.2010;;;;Joergen;2;
+1369;o10r11;surgery practice;13.02.2010;14.02.2010;;;;alessandro;2;
+1370;r10y4;surgery practice;14.02.2010;14.02.2010;;;;alessandro;2;
+1371;b11r11;template;19.02.2010;12.04.2010;E4;;;Andreas;0;
+1372;b12r11;template;19.02.2010;21.02.2010;IS2;;;Andreas;0;
+1373;b10r11;template;19.02.2010;20.02.2010;IS1;;;Andreas;0;
+1374;o7r10;song recording;19.02.2010;03.03.2010;;;;alessandro;0;
+1375;o20r10;HSV1 gfp and mcherry;19.02.2010;22.02.2010;;;;Daniele;2;
+1376;o8r8;SR;18.02.2010;;;;;Claude;0;
+1377;k1r10;Microdrive debugging;20.02.2010;20.02.2010;;;;Joergen;2;
+1378;g18r10;NIf recording & burns;21.02.2010;22.02.2010;;;;Joergen;2;
+1379;g2r11;Pitch-shifting;01.02.2010;22.02.2010;IS9;;;Gokcen;1;
+1380;g2r11;SR & HVC Stim.;22.02.2010;05.03.2010;E2;;;Claude;1;
+1381;r11s19;pitch shifting;22.02.2010;24.02.2010;;;;alessandro;0;inadequate song
+1382;b10r10;NIf recording;23.02.2010;25.02.2010;E9;;;Joergen;2;surgery on 25.02.2010
+1383;b4r10;tplsm;01.02.2010;01.02.2010;;;;michael;1;
+1384;b6r11;sr, pitch shift, ncm microdialysis;24.02.2010;12.07.2010;;;;Alessandro;2;
+1385;o3r11;song recording;24.02.2010;25.02.2010;;;;Alessandro;0;
+1386;o20r11;song recording;24.02.2010;01.03.2010;;;;Alessandro;0;
+1387;r10s14;tracer injection & head post mount;24.02.2010;24.02.2010;;;;Michael;2;Texas Red into AreaX
+1388;r10s8;bilat. Hvc injection af 647;24.02.2010;01.03.2010;;;;Moritz;2;
+1389;o13r8;song recording;25.02.2010;12.04.2010;;;;Alessandro;1;
+1390;g8r11;NIf recording;26.02.2010;18.03.2010;E9;;;Joergen;2;
+1391;r8y16;preference test;01.03.2010;06.03.2010;;;;alessandro;0;
+1392;r011;song recording;03.03.2010;06.03.2010;;;;alessandro;0;
+1393;r10s14;tplsm;01.03.2010;01.03.2010;;;;Michael;1;
+1394;r11s19;tracer injection / head post mount;05.03.2010;05.03.2010;;;;Michael;2;Texas Red into Area X
+1395;o12r7;SR & HVC Stim;05.03.2010;11.05.2010;E2;;;Claude;1;
+1396;g2r11;Test stability of HVC Stim over time;05.03.2010;;;;;Claude;1;
+1397;p15r5;preference test;06.03.2010;14.03.2010;ptest;;;alessandro;0;
+1398;y12red;sr;07.03.2010;09.03.2010;;;;alessandro;0;
+1399;p13r8;song recording;09.03.2010;10.03.2010;;;;alessandro;0;
+1400;p15r10;Tracer/Virus injection;10.03.2010;08.03.2010;;;;Moritz;2;
+1401;r8y11;sr;10.03.2010;11.03.2010;;;;alessandro;0;
+1402;r8y9;sr;11.03.2010;12.03.2010;;;;alessandro;0;
+1403;k6r10;Tracer and virus injection;11.03.2010;16.03.2010;;;;Moritz;2;
+1404;k11r10;sr;12.03.2010;13.03.2010;;;;alessandro;0;
+1405;b4r7;preference test;14.03.2010;02.04.2010;;;;alessandro;0;
+1406;r11s19;tplsm;10.03.2010;10.03.2010;;;;Michael;1;
+1407;r10y1;sr, pitch shift, ncm microdialysis;15.03.2010;07.07.2010;;;;alessandro;2;
+1408;r10s13;SR;15.03.2010;12.05.2010;;;;alessandro;1;
+1409;b2r11;SR;15.03.2010;23.03.2010;;;;Michael;1;
+1410;b4r11;SR;15.03.2010;23.03.2010;;;;Michael;1;
+1411;o17r11;SR;23.03.2010;30.03.2010;;;;michael;1;
+1412;p1r11;SR;15.03.2010;23.03.2010;;;;Michael;1;
+1413;r11s18;SR;15.03.2010;23.03.2010;;;;Michael;1;
+1414;r10y18;Tracer injection fast blue;21.03.2010;29.03.2010;;;;Moritz;2;
+1415;b13r11;sr;23.03.2010;27.03.2010;;;;Alessandro;0;bird found dead in the cage
+1416;b17r11;SR;23.03.2010;30.03.2010;;;;Michael;1;
+1417;o2r11;SR;23.03.2010;30.03.2010;;;;Michael;1;
+1418;b19r8;Lucifer yellow injection;29.03.2010;29.03.2010;;;;Moritz;2;
+1419;b16r11;SR;23.03.2010;30.03.2010;;;;Michael;1;
+1420;o17r11;tracer injection;01.04.2010;01.04.2010;;;;Michael;2;texas red injection into RA / fast blue into Area X (both by coordinates)
+1421;k19r8;preference test;02.04.2010;06.04.2010;;;;alessandro;0;
+1422;k20r8;preference test;06.04.2010;10.04.2010;;;;alessandro;0;
+1423;o12r8;sr, pitch shift, ncm microdialysis;07.04.2010;24.06.2010;;;;alessandro;2;
+1424;o2r11;tracer injection;08.04.2010;08.04.2010;;;;Michael;2;texas red into Area X
+1425;b16r8;preference test;10.04.2010;20.04.2010;ptest;;;alessandro;0;
+1426;b17r11;tracer injection;14.04.2010;14.04.2010;;;;michael;3;texas red into area x
+1427;b16r11;tracer injection;14.04.2010;14.04.2010;;;;michael;2;texas red into area x
+1428;b15r11;Tracer injection;15.04.2010;19.04.2010;;;;Daniele;2;AF488 and FR for embedding in LRwhite and Durcupan, with Graham's protocol and lighter potassium ferro protocol
+1429;k14r10;preference test;20.04.2010;09.05.2010;;;;alessandro;0;
+1430;k11r11;SR;23.04.2010;30.04.2010;;;;Michael;1;
+1431;k13r11;SR;23.04.2010;30.04.2010;;;;Michael;1;
+1432;k1r11;SR;23.04.2010;30.04.2010;;;;Michael;1;
+1433;k2r11;SR;23.04.2010;05.05.2010;;;;Michael;1;
+1434;r11y16;SR;23.04.2010;28.04.2010;;;;Michael;1;
+1435;r11y17;SR;23.04.2010;04.05.2010;;;;Michael;1;
+1436;r11y16;tracer injection;25.04.2010;25.04.2010;;;;Michael;2;Texas Red into Area X
+1437;p12r10;Multi color injection;18.04.2010;18.04.2010;;;;1;0;Experiment was aborted. Animal was euthanized under anestesia.
+1438;o4r11;Multi color injection;20.04.2010;26.04.2010;;;;Moritz;2;
+1439;purple022;SR;26.04.2010;12.05.2010;E1;;;Janie;0;successful intracellular recordings
+1440;k12r10;microdialysis practice;28.04.2010;30.04.2010;;;;alessandro;1;implanted 2 probes, left 1.75mm DV, right 2.55. AP about 0.5mm, ML about 0.8
+1441;r12s1;sr;30.04.2010;02.05.2010;;;;alessandro;1;
+1442;r7y7;Intracellular-Current Clamp;30.04.2010;30.04.2010;AS;Zing;;Janie;1;successful debugging and recording
+1443;k15r11;lMAN recording;01.05.2010;06.05.2010;E9;;;Joergen;2;
+1444;b16r10;SR;03.05.2010;27.05.2010;IS6;;;Janie;0;
+1445;r10s7;SR;02.05.2010;21.05.2010;IS3;;;Janie;0;bird died in IS3
+1446;purple050;SR;02.05.2010;14.06.2010;IS5;;;Janie;0;
+1447;g8r1;SR;02.05.2010;27.05.2010;IS8;;;Janie;0;
+1448;p19r10;looking for ncm;04.05.2010;04.05.2010;;;;alessandro;0;burns in both emispheres at 1, 1.5, 2 mm, then perfusion
+1449;r12s5;Microdrive preparation;04.05.2010;04.05.2010;;;;Joergen;2;
+1450;k4r8;Tracer injection Moritz;04.05.2010;;;;;Moritz;2;
+1451;k11r11;tracer injection;07.05.2010;07.05.2010;;;;Michael;2;Texas Red into Area X
+1452;k11r11;SR;07.05.2010;11.05.2010;;;;Michael;1;
+1453;o17r11;tplsm;07.04.2010;07.04.2010;;;;Michael;1;
+1454;o2r11;tplsm;13.04.2010;13.04.2010;;;;Michael;1;
+1455;r11y16;tplsm;28.04.2010;28.05.2010;;;;Michael;1;
+1456;b16r11;tplsm;20.04.2010;20.04.2010;;;;Michael;1;
+1458;r11y17;tracer injection;26.04.2010;26.04.2010;;;;Michael;2;Texas Red into Area X
+1459;r11y17;tplsm;04.05.2010;04.05.2010;;;;Michael;1;
+1460;k2r11;tracer injection;29.04.2010;29.04.2010;;;;Michael;2;texas red into area x
+1461;k2r11;tplsm;05.05.2010;05.05.2010;;;;Michael;1;
+1462;r12s7;lMAN recording;10.05.2010;18.05.2010;E9;;;Joergen;2;
+1463;k11r11;tplsm;11.05.2010;11.05.2010;;;;Michael;1;
+1464;r12s1;sr;12.05.2010;07.06.2010;;;;alessandro;1;
+1465;purple050;Intracellular in HVC;14.05.2010;14.05.2010;AS;;;Janie;0;v beautiful intracellular!!
+1466;g8r10;SR;17.05.2010;27.05.2010;IS5;;;Janie;0;
+1467;b1r10;SR;18.05.2010;27.05.2010;IS7;;;Janie;0;
+1468;p2r10;SR;18.05.2010;26.05.2010;IS4;;;Janie;0;
+1469;r11s18;Tracer injection;19.05.2010;19.05.2010;;;;Daniele;2;
+1470;r10y20;Tracer injection;20.05.2010;21.05.2010;;;;Moritz;2;
+1471;b2r11;Tracer injection;21.05.2010;21.05.2010;;;;Daniele;2;
+1472;g17r10;Recording Song;31.03.2010;10.04.2010;E8;;;Richard;0;Recording song from both head microphone and wall microphone
+1473;g17r10;Recording Song;07.05.2010;26.05.2010;E8;;;Richard;0;Recording song from both head microphone and wall microphone
+1474;r7p1;lMAN recording;25.05.2010;15.06.2010;E9;;;Joergen;2;
+1475;g5r10;SR;27.05.2010;02.06.2010;IS7;;;Janie;0;
+1476;r10s4;SR;27.05.2010;02.06.2010;IS8;;;Janie;0;
+1477;k7r8;Tracer injection;27.05.2010;28.05.2010;;;;Moritz;2;
+1478;g18r11;Texas red injection x bilateral;28.05.2010;31.05.2010;;;;Daniele;2;
+1479;b1r10;Intracellular HVC;28.05.2010;28.05.2010;AS;;;Janie;1;yeh, some data, but problems with the recorder
+1480;974;TUT SR;30.05.2010;02.06.2010;IS3;;;Janie;0;
+1481;b14r4;TUT SR;30.05.2010;02.06.2010;IS6;;;Janie;0;
+1482;r6s5;TUT SR;30.05.2010;02.06.2010;IS4;;;Janie;0;
+1483;r11s20;5 colours injections;01.06.2010;02.06.2010;;;;Moritz;2;
+1484;p2r10;HCV intracellular;01.06.2010;01.06.2010;AS;;;Janie;1;nice intracellular data!
+1485;b10r7;SR;28.05.2010;02.06.2010;IS5;;;Janie;0;
+1486;p8r8;TUT-SR;02.06.2010;04.06.2010;IS3;;;Janie;0;
+1487;o1r1;TUT-SR;02.06.2010;07.06.2010;IS4;;;Janie;0;
+1488;o10r8;TUT-SR;02.06.2010;04.06.2010;IS5;;;Janie;0;
+1489;o4r10;TUT-SR;02.06.2010;04.06.2010;IS6;;;Janie;0;
+1490;o7r10;TUT-SR;02.06.2010;04.06.2010;IS7;;;Janie;0;
+1491;o12r10;TUT-SR;02.06.2010;04.06.2010;IS8;;;Janie;0;
+1492;o1r10;TUT-SR;04.06.2010;08.06.2010;IS8;;;Janie;0;
+1493;k8r2;TUT-SR;04.06.2010;07.06.2010;IS5;;;Janie;0;
+1494;g5r10;SR - Microdrive Prep;08.06.2010;12.06.2010;E1;;;Janie;0;
+1495;r12s1;sr;08.06.2010;11.06.2010;;;;alessandro;1;
+1496;g8r10;HVC intracellular;08.06.2010;08.06.2010;AS;;;Janie;1;
+1497;b16r10;Intracellular Fileld L;10.06.2010;10.06.2010;;;;Janie;1;no success, brain was infected,
+1498;k9r11;SR for LMAN ephys;10.06.2010;15.06.2010;IS6;;;Joergen;1;
+1499;g12r2;SR;12.06.2010;13.06.2010;E4;zueri;;Andreas;1;
+1500;k5r12;SR;12.06.2010;17.06.2010;E3;;;Andreas;1;
+1501;k7r12;SR;12.06.2010;19.06.2010;E1;;;Andreas;1;
+1502;r12y3;SR;14.06.2010;18.06.2010;;;;Michael;1;
+1503;p17r12;SR;14.06.2010;21.06.2010;;;;Michael;1;
+1504;p11r12;SR;14.06.2010;21.06.2010;;;;Michael;1;
+1505;p14r12;SR;14.06.2010;25.06.2010;;;;Michael;1;
+1506;g8r1;RA intracellular;15.06.2010;15.06.2010;;;;Janie;1;found RA, no success w intracellular, lots of extracellular
+1507;k1r11;Tracer/Virus Injection;14.06.2010;16.06.2010;;;;Moritz;2;
+1508;k9r11;LMAN recording;16.06.2010;11.07.2010;E9;;;Joergen;2;
+1509;k5r12;NCM;17.06.2010;17.06.2010;E4;;;Andreas;1;md fell off.
+1511;g5r10;SR post screw implantation;17.06.2010;24.06.2010;IS6;;;Janie;0;bird sang
+1512;r10s4;SR post Screw implantation;17.06.2010;24.06.2010;IS4;;;Janie;0;bird sang
+1513;o7r11;Tracer injection;17.06.2010;17.06.2010;;;;Daniele;2;
+1514;r12y3;tracer injection;16.06.2010;16.06.2010;;;;Michael;2;Texas Red into Area X
+1515;r12y3;tplsm;18.06.2010;18.06.2010;;;;Michael;1;
+1516;r8y9;microdialysis control;19.06.2010;19.06.2010;;;;alessandro;1;bird started vomiting during surgery. Euthanized.
+1517;o19r11;microdialysis test;21.06.2010;22.06.2010;;;;alessandro;1;
+1518;g14r11;Tracer injection;21.06.2010;21.06.2010;;;;Moritz;1;
+1519;p14r12;tracer injection;22.06.2010;22.06.2010;;;;Michael;2;Texas Red into Area X
+1520;p14r12;tplsm;25.06.2010;25.06.2010;;;;Michael;1;
+1521;b16r8;preference test;26.06.2010;28.06.2010;ptest;;;alessandro;0;
+1522;r8y16;preference test;28.06.2010;30.06.2010;;;;alessandro;0;
+1523;g10r12;SR;28.06.2010;01.07.2010;IS5;;;Joergen;1;
+1524;p3r12;SR;28.06.2010;01.07.2010;IS7;;;Joergen;1;
+1525;k10r11;SR;28.06.2010;01.07.2010;IS3;;;Joergen;1;
+1526;k11r10;ncm multiunit recordings, practice;29.06.2010;29.06.2010;;;;alessandro;1;
+1527;p15r5;preference test;30.06.2010;01.07.2010;ptest;;;alessandro;0;
+1528;;;01.07.2010;;;;;;0;
+1529;o16r11;Tracer XRA;01.07.2010;05.07.2010;;;;Daniele;2;
+1530;p7r10;Tracer RA, X, Uva;02.07.2010;05.07.2010;;;;Daniele;2;
+1531;r11y18;microdialysis probe implant;03.07.2010;03.07.2010;;;;alessandro;1;
+1532;r11y18;multiunit recordings with ttx;04.07.2010;04.07.2010;;;;alessandro;1;
+1533;g19r2;preference test;01.07.2010;03.07.2010;;;;alessandro;0;
+1534;;;09.07.2010;;;;;;0;
+1535;k8r10;showgirl;09.07.2010;12.07.2010;;;;alessandro;0;
+1536;r10s1;Tracer and Virus injection;11.07.2010;13.07.2010;;;;Moritz;2;
+1537;r12s10;Tracer injection (aborted);11.07.2010;11.07.2010;;;;Moritz;1;
+1538;k7r12;NCM;19.06.2010;08.07.2010;E4;;;Andreas;1;
+1539;p10r10;Tracer/Virus injection;12.07.2010;15.07.2010;;;;Moritz;2;
+1540;p14r8;3 tracers injection;19.07.2010;24.07.2010;;;;Daniele;2;
+1541;g8r12;Tracer injection;19.07.2010;24.07.2010;;;;Daniele;2;
+1542;k8r11;3 tracers injection;20.07.2010;24.07.2010;;;;Daniele;2;
+1543;p5r12;3 tracer injection;20.07.2010;22.07.2010;;;;Daniele;2;
+1544;k14r11;SR;23.07.2010;28.07.2010;IS5;;;Joergen;1;
+1545;r12y1;SR;23.07.2010;27.07.2010;IS3;;;Joergen;1;
+1546;r12y5;SR;23.07.2010;28.07.2010;IS7;;;Joergen;1;
+1547;g17r10;Audio Recordings;15.07.2010;04.08.2010;E8;;;Sepp;0;
+1548;p1r12;practice surgery;27.07.2010;27.07.2010;;;;Lisa;1;
+1549;g10r12;LMAN recording;01.07.2010;27.07.2010;E9;;;Joergen;2;surgery on 10.07.2010
+1550;r12y1;LMAN recording;27.07.2010;20.08.2010;E9;;;Joergen;2;
+1551;g5r12;practice exp;29.07.2010;29.07.2010;;;;Lisa;1;
+1552;r10y5;Audio Recording;01.08.2010;04.08.2010;E8;;;Sepp;0;
+1553;r8y19;Showgirl;01.08.2010;;E2;;;Alexei;0;
+1554;b5r13;Control for HVC stim;29.07.2010;30.08.2010;E2;;;Alexei;0;
+1555;g20r12;Showgirl;22.07.2010;30.08.2010;E11;;;Alexei;0;
+1556;p12r13;Control for HVC stim;22.07.2010;30.08.2010;E11;;;Alexei;0;
+1557;b7r13;Control for HVC stim;29.07.2010;30.08.2010;E10;;;Alexei;0;
+1558;r12y14;Showgirl;22.07.2010;;E10;;;Alexei;0;
+1559;o12r13;HVC stim day-night;29.06.2010;02.08.2010;E7;;;Alexei;0;
+1560;g15r11;Showgirl;29.06.2010;02.08.2010;E7;;;Alexei;0;
+1561;o8r5;Showgirl;19.07.2010;02.09.2010;E6;;;Alexei;0;
+1562;p7r13;HVC stim (control animal);19.07.2010;30.08.2010;E6;;;Alexei;0;
+1563;g3r11;Showgirl;27.07.2010;;E5;;;Alexei;0;
+1564;p10r13;HVC stim day-night;27.07.2010;30.08.2010;E5;;;Alexei;0;
+1565;k2r12;SR;04.08.2010;11.08.2010;;;;michael;1;
+1566;g12r13;SR;04.08.2010;11.08.2010;;;;michael;1;
+1567;b17r13;SR;04.08.2010;11.08.2010;;;;michael;1;
+1568;g1r13;SR;04.08.2010;10.08.2010;;;;michael;1;
+1569;g13r13;SR;04.08.2010;;;;;michael;1;
+1570;r11y15;Practice;04.08.2010;04.08.2010;;;;Lisa;1;
+1571;p19r12;SR;09.08.2010;20.08.2010;IS9;;;Joergen;1;
+1572;r8y11;SR;09.08.2010;13.08.2010;IS10;;;Joergen;1;
+1573;;;;;;;;;0;
+1574;y12red;SR;09.08.2010;13.08.2010;IS1;;;Joergen;1;
+1575;g1r13;tplsm;10.08.2010;10.08.2010;;;;michael;1;
+1576;p17r12;tracer injection;29.06.2010;29.06.2010;;;;Michael;2;Texas Red into Area X
+1577;p17r12;tplsm;02.07.2010;02.07.2010;;;;Michael;1;
+1578;p11r12;Acute Av;06.07.2010;06.07.2010;;;;Michael;1;
+1579;k13r11;Acute Av;30.06.2010;30.06.2010;;;;Michael;1;
+1580;r10s15;Tracer injections;11.08.2010;14.08.2010;;;;Moritz;2;
+1581;p20r12;Tracer/virus injection;12.08.2010;14.08.2010;;;;Moritz;2;
+1582;g12r13;tplsm;13.08.2010;13.08.2010;;;;Michael;2;
+1583;k1r12;SR;16.08.2010;23.08.2010;;;;Michael;1;
+1584;k4r12;SR;16.08.2010;20.08.2010;;;;Michael;1;
+1585;p4r12;SR;16.08.2010;23.08.2010;;;;Michael;1;
+1586;k14r11;SR;16.08.2010;23.08.2010;;;;Michael;1;
+1587;r12y11;Tracer injection;17.08.2010;17.08.2010;;;;Daniele;2;
+1588;b9r12;Tracer injection;18.08.2010;23.08.2010;;;;Daniele;2;
+1589;b5r12;Tracer injection;18.08.2010;23.08.2010;;;;Moritz;2;
+1590;o3r11;tracer injection;18.08.2010;23.08.2010;;;;Moritz;2;
+1591;p3r12;Tracer  injection;19.08.2010;24.08.2010;;;;Daniele;2;
+1592;p8r10;Practice;19.08.2010;19.08.2010;;;;Lisa;1;
+1593;p19r12;LMAN recording;20.08.2010;;;;;Joergen;2;
+1594;o13r13;showgirl;20.08.2010;;;;;Joergen;0;
+1595;o18r12;Tracer injection;25.08.2010;30.08.2010;;;;Moritz;2;
+1596;r13s14;SR;25.08.2010;02.09.2010;;;;Michael;1;
+1597;r13s15;SR;25.08.2010;02.09.2010;;;;Michael;1;
+1599;r13s19;SR;25.08.2010;02.09.2010;;;;Michael;1;
+1600;b8r10;Practice;25.08.2010;25.08.2010;;;;Lisa;1;
+1601;k20r11;HVC tracer injection;26.08.2010;30.08.2010;;;;Daniele;2;
+1602;b12r12;tracer injection;27.08.2010;02.09.2010;;;;Moritz;2;
+1603;r12s1;sr/pitch shift/ncm lesions;02.09.2010;;;;;alessandro;2;
+1604;g16r12;sr/pitch shift/ncm lesions;02.09.2010;;;;;alessandro;2;
+1605;g18r12;sr/pitch shift/ncm lesions;02.09.2010;;;;;alessandro;2;
+1606;b18r12;sr/pitch shift/ncm lesions;02.09.2010;;;;;alessandro;2;
+1607;k4r12;tplsm;20.08.2010;20.08.2010;;;;Michael;1;
+1608;g13r13;Acute - Av;16.08.2010;16.08.2010;;;;Michael;1;
+1609;r13s15;tplsm;03.09.2010;03.09.2010;;;;Michael;1;
+1610;p13r8;stimulation;03.09.2010;03.09.2010;;;;Lisa;1;
+1611;r7y5;Stimulation;07.09.2010;07.09.2010;;;;Lisa;1;
+1612;r13s19;tplsm;07.09.2010;07.09.2010;;;;Michael;1;
+1613;g15r13;Tracer injection;09.09.2010;06.09.2010;;;;Daniele;2;
+1614;o2r12;Tracer injection;10.09.2010;15.09.2010;;;;Moritz;2;
+1615;b3r10;SR;10.09.2010;;IS3;;;Joergen;1;
+1616;g14r13;SR;10.09.2010;;IS5;;;Joergen;1;
+1617;p3r13;SR;10.09.2010;;IS7;;;Joergen;1;
+1618;k4r11;Tracer injection;10.09.2010;14.09.2010;;;;Daniele;2;
+1619;g3r12;tracer injection;13.09.2010;;;;;Moritz;2;
+1620;o16r12;Tracer injection;14.09.2010;;;;;Moritz;2;
+1621;o2r13;Tracer injection;14.09.2010;;;;;Moritz;2;
+1622;o11r12;Tracer injection;16.09.2010;;;;;Daniele;2;
+1623;r12y5;Microdrive Impl.;16.09.2010;;E3;;;Lisa;0;
+1624;r14s10;Area X Angle;16.09.2010;;;;;Lisa;0;
+1625;o4r13;Tracer injection;18.09.2010;;;;;Moritz;2;
+1626;b14r13;Tracer injection;19.09.2010;;;;;Moritz;2;

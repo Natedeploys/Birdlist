@@ -1,0 +1,54 @@
+{% extends "birdlist/basic/base_stats.html" %}
+{% load humanize %} 
+
+{% block context-menu %}
+    <li><a href="{% url index_stats %}" class="birdlistaction">stats overview</a></li>
+{% endblock %}
+
+
+{% block content-main %}
+
+    <br>
+
+    {% if birdlist %}
+    <h2>List of Experiments grouped by birds {% if pi %} for user {{ pi}} {% endif %}</h2>
+    <p>(sorted by start date of last experiment)</p>
+
+    {% for b in birdlist %}
+        
+        {% with b.experiments|first as firstexp %}
+        {% ifchanged %}<h2>{{ firstexp.start_date|date:"F" }}, {{ firstexp.start_date|date:"Y" }}</h2>{% endifchanged %}
+        {% endwith %}
+
+        <h4><a href="{% url bird_overview b.bird.id %}">{{ b.bird.name }}</a></h4>
+            <table>
+            <tr>
+                <td width="40%">title / description</td>
+                <td align="center" width="10%">start day</td>
+                <td align="center" width="10%">end date</td>
+                <td align="center">severity grade</td>
+                <td align="center">licence</td>
+                <td>experimenter</td>
+            </tr>     
+
+        {% for i in b.experiments %}
+            <tr>
+                <td>{{ i.get_activity_content_pretty }}</td>                    
+                <td align="center">{{ i.start_date }}</td>
+                <td align="center">{{ i.end_date|default_if_none:"" }}</td>
+                <td align="center">{{ i.severity_grade }}</td>
+                <td align="center">{{ i.animal_experiment_licence.title }}</td>
+                <td>{{ i.originator.username }}</td>                    
+            </tr>
+            
+            {% if forloop.last %}
+                </table>
+            {% endif %}
+
+        {% endfor %}
+
+    {% endfor %}
+    {% endif %}  
+
+{% endblock %}
+

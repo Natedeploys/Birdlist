@@ -1,0 +1,31 @@
+{% load markup %}
+{% load time_since_until %}
+
+<br><br>
+<hr>
+
+<div class="section" id="notes-todo">
+<h1>Next things ToDo (Notes)</h1>
+
+    {% if notes_todo %}
+    <table>
+
+    {% for i in notes_todo %}
+    {% ifchanged %}<tr><td colspan="2"><h2>{% time_since_until i.date i.schedule %}</h2></td></tr>
+        <tr class="alt">
+        <td> occasion </td> 
+        <td> entry </td> 
+        </tr> 
+    {% endifchanged %}
+        <tr>
+        <td>  <a href="{% url edit_note username i.id %}"> {{ i.occasion }} </a> </td> 
+        <td> {{ i.entry|urlize|markdown|linebreaks }} </td> 
+        </tr> 
+    {% endfor %}
+
+    </table>
+    
+    {% else %} 
+    No scheduled notes found.
+    {% endif %}
+</div>

@@ -1,0 +1,26 @@
+{% extends "lablog/basic/base_form_popup.html" %}
+
+{% block title_detail %}{% if change %}Change{% endif %}{% if add %}Add{% endif %} {{ field }}{% endblock %}
+
+{% block content-main %}
+
+<h2>{% if change %}Change{% endif %}{% if add %}Add{% endif %} {{ field }}</h2>
+<form method="POST" action="/lablog/{{ username }}/{{ field }}/popup/{% if change %}{{ item_id }}/edit/">{% endif %}{% if add %}new/">{% endif %}{% csrf_token %}
+    <fieldset class="aligned ">
+    {% include "lablog/basic/base_form_parser.html" %}
+
+        <div class="submit-row" style="overflow: auto;">
+        <p><input type="submit" value="Save {% if change %}change{% endif %}" /> | <a href="javascript:window.close()">Cancel</a></p>
+        </div>
+
+    </fieldset>
+</form>
+
+{% ifequal field 'protocol' %}
+    {% include "lablog/protocol/forms/protocol_js.html" %}
+{% else %} 
+    {% include "lablog/basic/base_form_slugify.html" %}
+{% endifequal %}
+
+{% endblock %}
+

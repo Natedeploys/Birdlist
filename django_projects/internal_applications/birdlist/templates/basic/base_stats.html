@@ -1,0 +1,14 @@
+{% extends "birdlist/basic/base_menu.html" %}
+
+{% block sectionid %}stats{% endblock %}
+ 	
+{% block title_detail %}stats{% endblock %}
+ 	
+{% block billboard %}
+    <li id="nav-exp-views"><h2>stats</h2></li>
+{% endblock %}
+
+{% block context-menu %}
+    <li><a href="{% url index_stats %}" class="birdlistaction">stats overview</a></li>
+{% endblock %}
+

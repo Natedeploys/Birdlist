@@ -1,0 +1,30 @@
+{% extends "lablog/basic/base_index.html" %}
+
+{% block custom_stylesheet %}
+<style type="text/css" media="screen">
+/* login form */
+#login ul li { list-style-type:none; margin-bottom:.4em; }
+#login li {width:150px; }
+</style>
+{% endblock %}
+
+{% block title_detail %}login{% endblock %}
+
+{% block content-main %}
+    {% include "lablog/basic/login_content.html" %}
+    {% include "registration/register_user.html" %}
+{% endblock %}
+
+
+{% block content-secondary %} 
+<h2 id="comments">Login Required</h2>
+  <p>Please use form shown above to login and use lablog or click on the link to setup a new account.</p>
+{% endblock %}
+
+{% block sidebar %}
+{% if form.errors %}
+    <h2 id="comments">Forgot password?</h2>
+    <ul><li><a href="{% url auth_password_reset %}">reset your password</a></li></ul>
+{% endif %}    
+{% endblock %}
+

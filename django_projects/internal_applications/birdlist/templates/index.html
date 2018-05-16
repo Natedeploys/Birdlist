@@ -1,0 +1,29 @@
+{% extends "birdlist/basic/base_menu.html" %}
+
+{% block sectionid %}homepage{% endblock %}
+{% block title_detail %}welcome{% endblock %}
+ 	
+{% block billboard %}
+<li id="nav-exp-views"><h2>Welcome to Birdlist {{ user.first_name }}</h2></li>
+{% endblock %}
+
+{% block content-main %}
+
+    {% if open_experiments %}
+        <h2>Your Open Experiments</h2>
+        {% with open_experiments as act_name_bn %}
+        {% with 1 as show_cage %}
+            {% include 'birdlist/basic/activity_list_include.html'%}
+        {% endwith %}    
+        {% endwith %}
+    {% endif %}
+
+    {% if recent_activities %}
+        <h2>Your Recent Birdlist Activities</h2>
+        {% with recent_activities as act_name_bn %}
+            {% include 'birdlist/basic/activity_list_include.html'%}
+        {% endwith %}
+    {% endif %}
+  
+{% endblock %}
+

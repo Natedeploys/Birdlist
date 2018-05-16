@@ -1,0 +1,26 @@
+# this is how you would add a necessary evolution
+
+SEQUENCE = [
+    'change_package_1',
+    'add_licence',
+    'delete_birdlist_activity_',
+    'add_FK_activity_type',
+    'change_content_stuff',
+    'alter_activity_model',
+    'add_activity_content',
+    'finish_bird', 
+    'finish_bird2',
+    'finish_cage',
+    'remove_room',
+    'remove_room_add',
+    'fix_bird',
+#    'add_comment_coupling',
+    'fix_coupling',
+    'big_update',
+    '10_bird',
+    '11_add_tag_to_bird',
+    '12_add_cage_restriction',
+    '13_drop_do_not_breed_add_coupling_status', 
+    '14_add_activities_timestamp',
+    '15_add_coupling_type',
+]

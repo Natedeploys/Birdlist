@@ -1,0 +1,37 @@
+<!-- used by detail_generic, in experiment_main.py -->
+{% extends "lablog/basic/base_experiments.html" %}
+
+{% block title_detail %}details for experiment {{ object.title }}  {% endblock %}
+
+{% block billboard %}
+{% endblock %}
+
+
+{% block objectcontent %}
+<div class="section" id="details">
+
+{% for k, v in tasksByTag.iteritems %}
+    <br/><b>Tag</b>: {{ k }}<br/>----------------------------------<br/>
+    {% for task in v %}
+        {% autoescape off %}{{ task }}{% endautoescape %}  <br/>
+    {% endfor %} 
+{% endfor %}
+
+<br/>
+<b>Your lists:</b><br/>
+    {% for l in client.known_lists %}
+        {% if not l.archived %}
+            {{ l.name }}<br/>
+        {% endif %}
+    {% endfor %}
+
+<br/>
+<b>Tasks in "Work" list:</b><br/>
+    {% for l in work_items %}
+            <b>{{ l.name }}</b> - <i>{% if l.completed %}completed{% else %}not done yet!{% endif %}</i><br/>
+    {% endfor %}
+</div>
+
+
+
+{% endblock %}

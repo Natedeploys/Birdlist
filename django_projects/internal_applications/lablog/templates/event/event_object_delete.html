@@ -1,0 +1,34 @@
+{% extends "lablog/basic/base_experiments.html" %}
+{% block custom_stylesheet %}
+{% include "event/event_list_pre_load_code.html" %}
+{% endblock %}
+{% block title_detail %}do you really want to delete this event?{% endblock %}
+
+{% block billboard %}
+{% if experiment %}
+<li id="nav-exp"><a href="{% url detail_experiment username experiment.slug %}">back to experiment {{ experiment.title }}</a></li>
+{% endif %}
+{% endblock %}
+
+{% block content-main %}
+<h2 style="color:red;"> Are you sure you want to delete this event?</h2>
+{% with event as i %}
+{% include "event/event_show_single_in_pretty_box.html" %}
+{% endwith %}
+
+<style type="text/css">
+.evnt_head_actions {
+    display: none;
+}
+</style>
+
+<div>&nbsp;</div>
+
+<form action="." method="POST">{% csrf_token %}
+	<input type="submit" name="cancelbutton" value="Puh, no I changed my mind. Get me out of here!" />
+	<input type="submit" name="deletebutton" value="Yes, delete it." />
+</form>
+{% endblock %}
+
+{% block content-secondary %}
+{% endblock %}

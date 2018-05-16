@@ -1,0 +1,29 @@
+{% extends "birdlist/basic/base_bird.html" %}
+
+{% block title_detail %}Birds matching {{ tag }}{% endblock %}
+
+{% block context-menu %}
+    <li><a href="{% url index_bird %}" class="birdlistaction">birds</a></li>
+    <li><a href="{% url show_bird_tags %}" class="birdlistaction">bird tags & bird coupling status</a></li>
+{% endblock %}
+
+{% block content-main %}
+    {% if object_list %}
+        <h2>Animals matching {{header_name}} "{{ tag }}" ({{ hits }})</h2>
+        
+        {% include "basic/pagination.html" %}
+        
+        <ul>
+        {% for tag in object_list %}
+            <li><a href="{% url bird_overview tag.id %}">{{tag}}</a> </li>
+        {% endfor %}
+        </ul>
+
+    {% else %}
+        <h2>No animals match your search "{{ tag }}"</h2>
+    {% endif %}
+{% endblock %}
+
+{% block content-secondary %}
+{% endblock %}
+

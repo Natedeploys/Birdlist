@@ -1,0 +1,12 @@
+
+{% include "lablog/basic/base_form_parser_logic.html" %}
+
+{% if formset %}
+<hr>
+{{ formset.management_form }}
+<table>
+{% for form in formset.forms %}
+    {% include "lablog/basic/base_form_parser_logic.html" %}
+{% endfor %}
+</table>
+{% endif %}

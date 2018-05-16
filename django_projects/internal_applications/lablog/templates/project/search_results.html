@@ -1,0 +1,67 @@
+{% extends "lablog/basic/base_projects.html" %}
+
+{% block billboard %}
+{% if project %}
+    <li id="nav-exp"><a href="{% url detail_project username project.slug %}">back to project {{ project.title }}</a></li>
+{% endif %}
+{% endblock %}
+
+
+{% block content-main %}
+{% load highlight_string %}
+{% load grammar %}
+{% load markup %}
+
+<div>
+    <h2>Search results:</h2>
+    {% if nbr_results > 0 %}    
+        <h5>{{ nbr_results }} entr{{ nbr_results|pluralize:"y,ies" }} match{{ nbr_results|pluralize:"es," }} your query <i>"{% for i in search %}{{i}}{% if forloop.last %}{%else%} {% endif %}{% endfor %}"</i></h5>
+        
+        {% if events %}
+            <br>
+            The following events ({{ events|length }}) match your search query:
+            
+            {% regroup events by experiment as events_by_experiment %}
+            {% for event in events_by_experiment %}
+                <h3><a href="{% url detail_experiment username event.grouper.slug %}">{{ event.grouper }}</a></h3>
+                <p>
+                <table>
+                    {% for event in event.list %}
+                    <tr>
+                        <td>
+                            <a href="{% url detail_event username event.pk %}">{{ event }}</a>:
+                                {{ event.text_field|highlight_string:search|markdown|grammar:event.event_type }}
+                        </td>
+                    </tr>
+                    {% endfor %}
+                </table>            
+                </p>
+            {% endfor %}
+            <br>
+        {% endif %}
+        
+        {% if notes %}
+            <br>
+            The following notes ({{notes|length}}) match your search query:
+
+            <table>
+            {% for i in notes %}
+                <tr>
+                    <td>
+                        <b>{{ i.occasion|highlight_string:search }} ({{ i.date }}):</b> 
+                            {{ i.entry|markdown|urlize|linebreaks|highlight_string:search }}
+                    </td>
+                </tr>
+            {% endfor %}
+            </table>
+            <br>
+                      
+        {% endif %}
+        
+    {% else %}
+        <h5>No entries match your query.</h5>
+    {% endif %}                
+        
+</div>
+
+{% endblock %}

@@ -1,0 +1,44 @@
+
+{% comment %}
+    show unique_together errors
+{% endcomment %}
+
+{% if form.non_field_errors %}
+    {{ form.non_field_errors }}
+{% endif %}
+
+{% for field in form %}
+
+    {% if field.errors %}
+    <div class="form-row">
+        {% comment %}
+        {{ field.label_tag }} {{ field }} {% endcomment %}
+        {{ field.errors }}
+    </div>           
+    {% endif %}
+
+    {% if field.is_hidden %}
+        {{ field }}
+    {% else %}
+
+        <div class="form-row">             
+        {% if field.field.required %}
+        <span class="required">
+        {% else %}
+        <span class="fieldWrapper">
+	    {% endif %}       
+        {{ field.label_tag }} 
+        </span>
+
+        <div style="float:left; display:inline;">    
+        {{ field }}
+        </div>
+        
+        {% if field.help_text %}
+        <p class="help" style="float:left; display:inline;"> {{ field.help_text }}</p>
+        {% endif %} 
+        </div>  
+    {% endif %}
+
+{% endfor %}
+

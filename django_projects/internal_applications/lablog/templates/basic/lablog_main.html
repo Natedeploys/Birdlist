@@ -1,0 +1,67 @@
+{% extends "lablog/basic/base_index.html" %}
+
+{% block content-main %}
+    {% if new_user %}
+    
+        {% include "lablog/basic/help_main_text.html" %}
+    
+    {% else %}
+        <!-- future events -->
+        {% with event_list_todo as event_list %}
+        {% with event_todo_title|default:"No scheduled events found" as event_title %}
+            {% include "event/event_object_list.html" %}
+        {% endwith %}
+        {% endwith %}
+        {% include "note/note_todo_object_list.html" %}
+	    <br><br>
+	    <hr>
+        {% include "experiment/experiment_object_list.html" %}
+        {% include "project/project_object_list.html" %}
+        {% include "event/event_object_list.html" %}
+        {% include "note/note_object_list.html" %}
+    {% endif %}
+{% endblock %}
+
+{% block sidebar %}
+    
+    {% if new_user %}
+        {% include "lablog/basic/help_main_sidebar.html" %}
+    {% else %}
+
+        <h2>Go directly to:</h2>
+        <ul>
+            {% if event_list_todo %}
+            <li id="nav-quick-future-event"><a href="#event-future">Future events / Things ToDo</a></li>
+            {% endif %}
+            {% if notes_todo %}
+            <li id="nav-quick-note-todo"><a href="#notes-todo">Future notes / Things ToDo</a></li>
+            {% endif %}
+            <li id="nav-quick-experiment"><a href="#experiment">Experiments</a></li>
+            <li id="nav-quick-projects"><a href="#project">Projects</a></li>
+            {% if event_list %}
+            <li id="nav-quick-event"><a href="#event">Events</a></li>
+            {% endif %}
+            {% if notes %}
+            <li id="nav-quick-note"><a href="#notes">Notes</a></li>
+            {% endif %}
+        </ul>
+        
+        {% if username == "kotowicz" or username == 'michael' %}
+            {% if last_logins %}
+            
+            <h2>Login overview</h2>
+                <ul>
+                {% for i in last_logins %}
+                    <li>{{i.username}} - {{i.last_login}} </li>
+                {% endfor %}
+                </ul>
+            
+            {% endif %}
+        {% endif %}
+    {% endif %}
+    
+{% endblock %}
+
+{% block content-secondary %}
+{% endblock %}
+

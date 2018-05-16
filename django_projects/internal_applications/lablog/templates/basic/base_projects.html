@@ -1,0 +1,12 @@
+{% extends "lablog/basic/base_menu_extended.html" %}
+
+{% block sectionid %}project{% endblock %}
+ 	
+{% block title_detail %}Projects{% endblock %}
+ 	
+{% block billboard %}
+
+<li id="nav-prj-new"><a href="{% url new_project user.username %}">new project</a></li>
+<li id="nav-prj-new-note"><a href="{% url new_note_no_project username=user.username %}">new note</a></li>
+
+{% endblock %}

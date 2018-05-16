@@ -1,0 +1,64 @@
+<!-- used by detail_generic, in experiment_main.py -->
+{% extends "lablog/basic/base_experiments.html" %}
+
+{% block title_detail %}details for experiment {{ object.title }}  {% endblock %}
+
+{% block billboard %}
+<li id="nav-exp-edit"><a href="{% url edit_experiment username=username,experiment_slug=object.slug %}">edit experiment</a></li>
+<!-- <li id="nav-exp-delete"><a href="{% url delete_experiment username=username,experiment_slug=object.slug %}">delete experiment</a></li>  --> 
+<li id="nav-exp-new-event"><a href="{% url new_event username=username, experiment_id=object.id %}">new event</a></li>
+<li id="nav-exp-event_types"><a href="{% url index_event_type username=user.username, experiment_slug=object.slug %}">event types</a></li>
+{% endblock %}
+
+
+{% block objectcontent %}
+<div class="section" id="details">
+<h2> Details for experiment: "{{ object.title }}"</h2>
+<ul>
+    <li>  project: <a href="{% url lookup_project username object.project_id %}"> {{ object.project }}</a></li>      
+    <li>  started: {{ object.start_date }}</li>
+    {% if object.end_date %}    <li>  ended: {{ object.end_date }}</li> {% endif %}
+    {% if object.description %}    <li>  description: {{ object.description }}</li> {% endif %}
+    {% if object.protocol %}    <li>  protocols: 
+        {% for i in object.protocol.all %}
+            <a href="{% url detail_protocol username i.slug %}">{{ i.title }}</a>{% if not forloop.last %}, {% endif %}
+        {% endfor %}</li> 
+    {% endif %}
+    {% if object.plan %}    <li>  plan: {{ object.plan|linebreaks }}</li> {% endif %}
+    {% if object.data %}    <li>  data: {{ object.get_data_display }}</li> {% endif %}
+    {% if object.comment %}    <li>  comment: {{ object.comment|linebreaks }}</li> {% endif %}
+    {% if object.data_path %}    <li>  data folder: {{ object.data_path }}</li> {% endif %}
+    {% if object.media_path %}    <li>  media folder: {{ object.media_path }}</li> {% endif %}
+    <li>  bird: {{ bird_name }}</li>      
+</ul>
+</div>
+
+
+{% include "event/event_object_list.html" %}
+{% include "basic/show_media_files.html" %}
+
+{% endblock %}
+
+{% block sidebar %}
+
+<h2>Go directly to:</h2>
+<ul>
+    <li id="nav-quick-details"><a href="#details">Experiment details</a></li>
+    <li id="nav-quick-event"><a href="#event">Events</a></li>
+    <li id="nav-quick-media"><a href="#media">Media files</a></li>
+</ul>
+
+<div>
+<h2>Quick Actions:</h2>
+<form action="{% url new_event username=username,experiment_id=object.id %}" method="post">{% csrf_token %}
+{% for field in form %}
+{% if field.is_hidden %}{{ field }}{% else %}
+<div>{{ field }} &nbsp; <small>{{ field.label_tag }}</small> </div>
+{% endif %}
+{% endfor %}
+<br><input type="submit" name="AddAndSaveEvent" value="Add Event"/>
+<input type="submit" name="AddAndEditEvent" value="Add & Edit Event"/>
+</form>
+</div>
+
+{% endblock %}

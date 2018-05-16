@@ -1,0 +1,29 @@
+	{% if search_url %}
+	    {% if search_project %}
+            <h2>Search this project</h2>	    
+	    {% else %}
+            <h2>Search this experiment</h2>
+        {% endif %}
+    {% else %}
+        <h2>Search this object</h2>
+    {% endif %}    
+        
+    {% if search_url %}
+        {% if search_project %}
+        <form action={% url search_project username selected_object.slug %} id="search" class="search" method="post">{% csrf_token %}
+        {% else %}
+        <form action={% url search_experiment username selected_object.slug %} id="search" class="search" method="post">{% csrf_token %}
+        {% endif %}
+    {% else %}
+        <form action="." id="search" class="search" method="post">{% csrf_token %}
+    {% endif %}
+            <div>
+                <!--
+                <input type="hidden" name="cx" value="009763561546736975936:e88ek0eurf4" />
+                <input type="hidden" name="cof" value="FORID:11" />
+                <input type="hidden" name="ie" value="UTF-8" />
+                <input type="hidden" name="hl" value="" /> -->
+                <input id="id_search_q" type="text" class="query" name="terms" />
+                <input type="submit" name="sa" class="submit" value="Search" />
+            </div>
+        </form>

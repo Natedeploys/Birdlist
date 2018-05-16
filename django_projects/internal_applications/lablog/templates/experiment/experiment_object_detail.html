@@ -1,0 +1,103 @@
+{% extends "lablog/basic/base_experiments.html" %}
+
+{% block title_detail %}details for experiment {{ selected_object.title }}  {% endblock %}
+
+{% block billboard %}
+<li id="nav-exp-edit"><a href="{% url edit_experiment username=username,experiment_slug=selected_object.slug %}" title="Edit this experiment">edit experiment</a></li>
+<li id="nav-exp-new-event"><a href="{% url new_event username=username, experiment_id=selected_object.id %}" title="Create new event">new event</a></li>
+<li id="nav-exp-event_types"><a href="{% url index_event_type username=user.username, experiment_slug=selected_object.slug %}" title="Browse list of your event types">event types</a></li>
+<li id="nav-exp-delete"><a href="{% url delete_experiment username=username,experiment_slug=selected_object.slug %}" style="color:red;" title="Delete this experiment">delete experiment</a></li>
+{% endblock %}
+
+
+{% block objectcontent %}
+<div class="section" id="details">
+<h1> At a glance: </h1>
+<h2> experiment "{{ selected_object.title }}"</h2>
+<ul>
+    <li>  project: <a href="{% url lookup_project username selected_object.project_id %}"> {{ selected_object.project }}</a></li>      
+    <li>  started: {{ selected_object.start_date }}{% if phd_start_experiment %}; bird age: {{ phd_start_experiment }} {% endif %}</li>
+    {% if selected_object.end_date %}    <li>  ended: {{ selected_object.end_date }}{% if phd_end_experiment %}; bird age: {{ phd_end_experiment }} {% endif %}</li> {% endif %}
+    {% if selected_object.description %}    <li>  description: {{ selected_object.description }}</li> {% endif %}
+    {% if selected_object.protocol %}    <li>  protocols: 
+        {% for i in selected_object.protocol.all %}
+            <a href="{% url detail_protocol username i.slug %}">{{ i.title }}</a>{% if not forloop.last %}, {% endif %}
+        {% endfor %}</li> 
+    {% endif %}
+    {% if selected_object.plan %}    <li>  plan: {{ selected_object.plan|linebreaks }}</li> {% endif %}
+    {% if selected_object.data %}    <li>  data: {{ selected_object.get_data_display }}</li> {% endif %}
+    {% if selected_object.comment %}    <li>  comment: {{ selected_object.comment|linebreaks }}</li> {% endif %}
+    {% if selected_object.data_path %}    <li>  data folder: {{ selected_object.data_path }}</li> {% endif %}
+    {% if selected_object.media_path %}    <li>  media folder: {{ selected_object.media_path }} </li> {% endif %}
+    {% if media_error_message %}
+    <p style="color:red;">Can not access your media directory: {{ media_error_message }}</p>
+    {% endif %}
+    {% if PRE_DB_KICKOFF and not bird %}
+        <li>
+        <a href="{% url merge_experiment_with_animal_list username selected_object.slug %}" title="merge this experiment with the animal database">merge</a>
+        </li>
+    {% else %}        
+        <li>  bird: 
+            {% if bird %} 
+                <a href="{% url bird_overview bird.id %}">{{ bird }}</a> 
+            {% else %} 
+                {{ bird_name }} 
+            {% endif %}
+        </li>
+    {% endif %}
+</ul>
+</div>
+
+<!-- future events -->
+{% with event_list_todo as event_list %}
+{% with event_todo_title|default:"No scheduled events found" as event_title %}
+{% include "event/event_object_list.html" %}
+{% endwith %}
+{% endwith %}
+
+<!-- past events -->
+{% include "event/event_object_list.html" %}
+
+<!-- media -->
+<br><br>
+<hr>
+{% include "basic/show_media_files.html" %}
+
+{% endblock %}
+
+{% block sidebar %}
+<h2>Quick Actions:</h2>
+<ul>
+<li><h2>Add new Event</h2></li>
+<form action="{% url new_event username=username,experiment_id=selected_object.id %}" method="post">{% csrf_token %}
+{% for field in form %}
+{% if field.is_hidden %}{{ field }}{% else %}
+<div>{{ field }} &nbsp; <small>{{ field.label_tag }}</small> </div>
+{% endif %}
+{% endfor %}
+<input type="submit" name="AddAndSaveEvent" value="Add Event"/>
+<input type="submit" name="AddAndEditEvent" value="Add & Edit Event"/>
+</form>
+
+<li>
+{% include "lablog/basic/sidebar_search.html" %}
+</li>
+
+</ul>
+
+<h2>Go to:</h2>
+<ul>
+    <li id="nav-quick-details"><a href="#details">Experiment info</a></li>
+    {% if event_todo_title %} 
+    <li id="nav-quick-future-event"><a href="#event-future">Future events / Things ToDo</a></li>
+    {% endif %}
+    {% if event_title %}
+    <li id="nav-quick-event"><a href="#event">{{ event_title }}</a></li>
+    {% endif %}
+    {% if media_file_urls %}<li id="nav-quick-media"><a href="#media">Media files</a></li>{% endif %}
+    {% if event_title %}
+    {% include "event/event_links_sidebar.html" %}
+    {% endif %}
+</ul>
+
+{% endblock %}

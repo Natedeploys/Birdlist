@@ -1,0 +1,76 @@
+{% extends "birdlist/basic/base_bird.html" %}
+
+{% block context-menu %}
+    {% if show_link_reservations_pdf %}
+        <li><a href="{% url show_common_reservations_pdf %}" class="birdlistaction" title="Generate pdf of reserved animals">generate pdf</a></li>
+    {% endif %}
+    {% if show_link_juveniles_by_age_pdf %}
+        <li><a href="{% url show_juveniles_by_age_pdf %}" class="birdlistaction" title="Generate pdf of juveniles by age">generate pdf</a></li>
+    {% endif %}
+{% endblock %}
+
+
+{% block content-main %}
+
+{% if object_list %}
+
+    <h1>{% if header %}{{ header }}{% else %}List of birds{% endif %}</h1>
+    <h3>Number of birds: {{ object_list|length }}</h3>
+    
+    <style>
+    ul.twocolumn li {
+    width: 380px;
+    float: left;
+    }
+    </style>    
+
+    {% if view_type == "cage" %}
+
+        {% regroup object_list by cage as birds_by_cage %}
+        {% for cage in birds_by_cage %}
+            <div style="display:block; float:left;">
+                <div><h2><a href="{% url cage_overview cage.grouper.name %}">{{ cage.grouper.name }}</a></h2>
+                <div>
+                <ul class="twocolumn">
+                        {% for bird in cage.list %}
+                            <li>
+                            <a href="{% url bird_overview bird.id %}">{{ bird.name }}</a> age: {{bird.get_phd}}phd ({{bird.age_uncertainty}}). 
+                                {% if bird.reserved_by %}
+                                    Reserved by {{bird.reserved_by}}.
+                                {% endif %}
+                            </li>
+                        {% endfor %}
+
+                </ul>
+                </div>
+                </div>
+            </div>    
+        {% endfor %}    
+
+    {% endif %}
+    {% if view_type == "agelist" %}
+
+        {% for bird in object_list %}
+                <ul>
+                            <li>
+                            <a href="{% url bird_overview bird.id %}">{{ bird.name }}</a> age: {{bird.get_phd}}phd ({{bird.age_uncertainty}}),  {{bird.sex}},
+                            {% if bird.reserved_by %}
+                                reserved by {{bird.reserved_by}},
+                            {% endif %}
+                            cage <a href="{% url cage_overview bird.cage.name %}">{{ bird.cage.name }}</a>
+                </ul>
+        {% endfor %}    
+
+    {% endif %}
+
+{% else %}
+    <h2><p>No birds found for your selection {% if header %}"{{ header }}"{% endif %}.</p></h2>
+{% endif %}
+
+
+
+{% if img %}
+<img src="{{ img }}">
+{% endif %}
+
+{% endblock %}

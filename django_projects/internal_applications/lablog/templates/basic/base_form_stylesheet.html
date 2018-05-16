@@ -1,0 +1,57 @@
+
+        <style type="text/css" media="screen">
+
+        /* TEXT STYLES & MODIFIERS */
+        .help, p.help { font-size:10px !important; color:#999; }
+        p img, h1 img, h2 img, h3 img, h4 img, td img { vertical-align:middle; }
+
+        /* MODULES */
+        .module { border:1px solid #ccc; margin-bottom:5px; background:white; }
+        .module h2, .module caption, .inline-group h2 { margin:0; padding:2px 5px 3px 5px; font-size:11px; text-align:left; font-weight:bold; background:#7CA0C7 url({{ admin_media_url }}img/admin/default-bg.gif) top left repeat-x; color:white; }
+        
+        
+        /* MESSAGES & ERRORS */
+        ul.messagelist { padding:0 0 5px 0; margin:0; }
+        ul.messagelist li { font-size:12px; display:block; padding:4px 5px 4px 25px; margin:0 0 3px 0; border-bottom:1px solid #ddd; color:#666; background:#ffc url({{ admin_media_url }}img/admin/icon_success.gif) 5px .3em no-repeat; }
+        .errornote { font-size:12px !important; display:block; padding:4px 5px 4px 25px; margin:0 0 3px 0; border:1px solid red; color:red;background:#ffc url({{ admin_media_url }}img/admin/icon_error.gif) 5px .3em no-repeat; }
+        ul.errorlist { margin:0 !important; padding:0 !important; }
+        .errorlist li { font-size:12px !important; display:block; padding:4px 5px 4px 25px; margin:0 0 3px 0; border:1px solid red; color:white; background:red url({{ admin_media_url }}img/admin/icon_alert.gif) 5px .3em no-repeat; }
+        td ul.errorlist { margin:0 !important; padding:0 !important; }
+        td ul.errorlist li { margin:0 !important; }
+        .errors { background:#ffc; }
+        .errors input, .errors select { border:1px solid red; }
+        div.system-message { background: #ffc; margin: 10px; padding: 6px 8px; font-size: .8em; }
+        div.system-message p.system-message-title { padding:4px 5px 4px 25px; margin:0; color:red; background:#ffc url({{ admin_media_url }}img/admin/icon_error.gif) 5px .3em no-repeat; }
+        .description { font-size:12px; padding:5px 0 0 12px; }
+
+        
+
+        /* not really needed */
+        .module p, .module ul, .module h3, .module h4, .module dl, .module pre { padding-left:10px; padding-right:10px; }
+        .module blockquote { margin-left:12px; }
+        .module ul, .module ol { margin-left:1.5em; }
+        .module h3 { margin-top:.6em; }
+        .module table { border-collapse: collapse; }
+        
+        </style>
+
+        <link href="{{ STATIC_URL }}songbird/css/smoothness/jquery-ui-1.8.7.custom.css" type="text/css" media="screen" rel="stylesheet" />
+        <link href="{{ STATIC_URL }}lablog/css/forms.css" type="text/css" media="all" rel="stylesheet" />
+        
+        <script type="text/javascript" src="/jsi18n/"></script>
+        <script type="text/javascript" src="{{ admin_media_url }}js/core.js"></script>
+        <script type="text/javascript" src="{{ admin_media_url }}js/admin/RelatedObjectLookups.js"></script>
+        <script type="text/javascript" src="{{ admin_media_url }}js/urlify.js"></script>
+        <script type="text/javascript" src="{{ admin_media_url }}js/calendar.js"></script>
+        <script type="text/javascript" src="{{ admin_media_url }}js/admin/DateTimeShortcuts.js"></script>
+        <script type="text/javascript" src="{{ admin_media_url }}js/SelectBox.js"></script>
+        <script type="text/javascript" src="{{ admin_media_url }}js/SelectFilter2.js"></script>
+        <script type="text/javascript" src="{{ STATIC_URL }}songbird/js/ajax_filtered_fields.js"></script>
+        <script type="text/javascript" src="{{ STATIC_URL }}songbird/js/jquery-1.4.4.min.js"></script>        
+        <script type="text/javascript" src="{{ STATIC_URL }}songbird/js/jquery-ui-1.8.7.custom.min.js"></script>
+        <script type="text/javascript" src="{{ STATIC_URL }}songbird/js/tagging_autocomplete.js"></script>
+        <script type="text/javascript" src="{{ STATIC_URL }}songbird/js/jquery_autocomplete.js"></script>        
+        
+        {% load adminmedia %}
+        <script type="text/javascript">window.__admin_media_prefix__ = "{% filter escapejs %}{% admin_media_prefix %}{% endfilter %}";</script>
+        

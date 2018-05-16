@@ -1,0 +1,16 @@
+        <script type="text/javascript">document.getElementById("id_title").focus();</script>
+        <script type="text/javascript">
+
+            document.getElementById("id_slug").onchange = function() { this._changed = true; };
+            
+            document.getElementById("id_title").onkeyup = function() {
+                var e = document.getElementById("id_slug");
+                if (!e._changed) { e.value = URLify(document.getElementById("id_title").value + ' ' + document.getElementById("id_start_date").value, 50); }
+            }
+            
+            document.getElementById("id_start_date").onkeyup = function() {
+                var e = document.getElementById("id_slug");
+                if (!e._changed) { e.value = URLify(document.getElementById("id_title").value + ' ' + document.getElementById("id_start_date").value, 50); }
+            }
+
+        </script>

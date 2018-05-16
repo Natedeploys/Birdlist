@@ -1,0 +1,374 @@
+ID;Male;Female;Cage;Coupling Date;Separation Date;Success;Comment
+5;purple20;purple13;O1;27.02.2006;10.09.2006;3 Gen.;
+6;yellow14;blue2;O1;24.10.2005;27.02.2006;1 Gen.;
+8;red14;red2;O3;02.03.2006;31.12.2006;3 Gen.;remove nest @19.11.2006, divide @ 18.12.2006
+9;red14;purple8;M7;23.06.2005;25.01.2006;;Eggs look full. Please monitor
+10;o4k-p2;green13;O4;07.04.2006;02.02.2007;2 Gen.;
+11;r12k-ch900;g4k;O5;16.04.2006;02.02.2007;2 Gen.;
+12;silvergreen8;purple5;U5;15.02.2006;10.09.2006;1 Gen.;not very succesful couple
+13;red16;green12;M3;13.03.2006;04.03.2007;3 Gen.;
+14;silver2;p6k-y8;M4;19.03.2006;01.12.2006;3 Gen.;divide @ 26.11.2006
+15;g14k;orange16;M6;24.01.2006;22.09.2006;4 Gen.;
+17;p11k-ch900;g16k;M7;24.01.2006;16.09.2006;3 Gen.;
+18;red11;purple8;U3;12.09.2005;24.11.2006;3 Gen.;
+19;b3k;blue3;U4;09.12.2005;07.07.2006;3 Gen.;
+20;goldch900;silver1;U5;09.09.2005;26.05.2006;4 Gen.;
+21;yellow6;green10;U6;12.09.2005;28.04.2006;3 Gen.;
+22;s3k-y8;green14;ZZ2;23.03.2006;12.05.2006;No Success;Female died
+23;r9k-s17;p8k;ZZ1;23.03.2006;08.06.2006;1 Gen.;offspring used for song tutoring
+25;purple2;yellow8;O3;09.09.2005;13.03.2006;3 Gen.;
+26;silver6;green9;U5;21.07.2005;09.09.2005;1 Gen.;
+28;silver17;blue10;M3;09.09.2005;13.03.2006;3 Gen.;
+29;y13k-s17;p19k-o3;U6;28.04.2006;10.09.2006;3 Gen.;good couple.
+30;silverblack;green3;O2;01.07.2004;17.12.2005;4 Gen.;very good couple, female is white
+31;silverblack;purple17;O2;13.03.2006;06.10.2006;3 Gen.;removed nest, separate @ 6.10.2006
+32;s3k-y8;g1k;ZZ2;12.05.2006;07.06.2006;1 Gen.;Offspring to be song tutored
+33;yellow1;blue7;U3;21.07.2005;13.03.2006;3 Gen.;has been coupled before with red18 and silver6, no success
+35;yellow8;g5k;U4;07.07.2006;16.02.2007;3 Gen.;"nest removed; divide on 11.02.2007"
+36;orange3;red5;O5;23.09.2005;01.04.2006;1 Gen.;
+37;silver15;green16;O4;17.09.2005;07.04.2006;1 Gen.;
+38;r9k-s17;p8k;ZZ2;07.07.2006;27.03.2007;1 Gen.;
+39;s3k-y8;g1k;ZZ2;07.07.2006;08.09.2006;1 Gen.;
+41;silver17;blue10;U6;10.09.2006;17.03.2007;2 Gen.;
+42;goldch900;silver1;O1;10.09.2006;26.01.2007;;
+43;yellow20;blue2;U5;10.09.2006;27.04.2007;3 Gen.;
+45;orange3;red5;M7;16.09.2006;25.02.2007;3 Gen.;
+46;p14k-p2;k10k-p11k;M6;22.09.2006;28.01.2007;No Success;
+48;s17o;s8k-p11k;O2;16.10.2006;13.05.2007;2 Gen.;nest removed
+49;yellow14;green16;M3B;30.10.2006;02.02.2007;1 Gen.;
+50;s19o;green10;M4B;30.10.2006;13.05.2007;3 Gen.;Removed father! Separate when offspring is 60dph.
+52;red11;purple16;U3B;30.10.2006;13.05.2007;3 Gen.;Nest removed
+53;o11o-r12k;b20o-ch900;U4B;30.10.2006;17.03.2007;No Success;
+54;r19o-r11;g1k;ZZ1;25.11.2006;27.03.2007;1 Gen.;
+55;silverblack;blue3;U3;24.11.2006;08.06.2007;2 Gen.;
+57;purple20;purple13;M1;01.12.2006;13.07.2007;3 Gen.;
+58;yellow1;p19k-o3;M1B;01.12.2006;27.03.2007;1 Gen.;seperated
+59;y13k-s17;purple5;M2;01.12.2006;17.03.2007;1 Gen.;
+61;s14k-r16;p3o-sb;M5;09.12.2006;01.06.2007;3 Gen.;Nest removed, separate when offsprings are 60dph
+62;y7o-r16;r11o-o4k;M5B;09.12.2006;05.08.2007;4 Gen.;nest removed
+63;s18o;orange16;M2B;01.12.2006;27.04.2007;1 Gen.;Only one generation, separated
+64;p11k-ch900;g16k;M4;14.12.2006;17.03.2007;;
+66;b11o-p11k;g9b-o4k;U2;05.01.2007;27.03.2007;No Success;
+67;g14k;p14b-r16;U2B;05.01.2007;27.03.2007;No Success;
+68;s3k-y8;k9k-ch900;O3;28.01.2007;05.08.2007;4 Gen.;good couple!
+70;silver15;p6k-y8;M6;02.02.2007;06.07.2007;2 Gen.;
+71;b3k;green9;O1;02.02.2007;08.06.2007;1 Gen.;Only 1 Gen
+75;silver2;green16;O4;09.02.2007;13.05.2007;1 Gen.;
+76;red14;red2;M3B;10.02.2007;31.08.2007;1 Gen.;90d without offsprings
+79;yellow14;k10k-p11k;O5;19.02.2007;23.04.2007;No Success;
+80;p14k-p2;purple8;U4;05.03.2007;31.08.2007;3 Gen.;
+82;y16p-s2;o12o-r12k;M3;10.03.2007;30.11.2007;3 Gen.;
+83;red16;g18k-y6;M7;10.03.2007;07.12.2007;5 Gen.;
+85;b8o-p11k;r2b-o3;O4B;24.03.2007;27.07.2007;2 Gen.;
+86;s20o-yellow20;b4p-red11;U5B;24.03.2007;06.07.2007;1 Gen.;
+87;orange3;g4k;U6B;21.03.2007;01.06.2007;No Success;
+88;goldch900;purple17;M4;21.03.2007;31.08.2007;2 Gen.;96d without offsprings
+89;o4k-p2;green13;U4B;21.03.2007;07.10.2007;3 Gen.;
+91;o20o-ch900;r12o-o4k;U6;21.03.2007;16.09.2007;2 Gen.;
+92;silvergreen8;silver1;M2;21.03.2007;04.07.2007;1 Gen.;
+94;b5p-red11;b16p-y13k;ZZ1;27.03.2007;08.06.2007;No Success;
+95;g1o-g14k;g15p-purple20;ZZ2;27.03.2007;28.12.2007;2 Gen.;
+96;r5p-red11;o1p-silver17;U2;28.03.2007;08.06.2007;No Success;Unsuccesful
+97;r3p-r19o;r16o-r11;U2B;28.03.2007;07.10.2007;3 Gen.;.
+98;b13g-red11;s11p-yellow8;M1B;28.03.2007;30.11.2007;3 Gen.;
+99;g13p-purple20;s13p-yellow8;M7B;01.04.2007;06.07.2007;1 Gen.;
+100;r12p-y7o;o8p-y8;U7;04.05.2007;10.12.2007;3 Gen.;
+101;r6p-r9k;b9p-red16;M2B;04.05.2007;13.07.2007;;
+102;s2b-y8;r8p-s19o;U5;04.05.2007;27.10.2007;3 Gen.;nest removed
+103;b11o-p11k;g9b-o4k;U3B;20.05.2007;07.09.2007;1 Gen.;
+104;yellow1;green12;O4;20.05.2007;24.11.2007;1 Gen.;separated
+105;yellow20;blue2;M4B;20.05.2007;30.11.2007;3 Gen.;
+106;r12k-ch900;g16k;O2;27.05.2007;31.08.2007;No Success;96d together, no offsprings
+107;p11k-ch900;b20o-ch900;O2B;27.05.2007;25.01.2008;2 Gen.;
+108;s14k-r16;b18p-s14k;M5;08.06.2007;07.09.2007;;Separate if no offspring by 7.9
+110;orange3;r9p-s19o;U6B;08.06.2007;12.10.2007;1 Gen.;Separated after 1 gen
+112;y13k-s17;g4k;O1;17.06.2007;07.09.2007;No Success;
+113;red11;p3o-sb;U2;17.06.2007;11.01.2008;4 Gen.;nest removed
+114;s17o;green10;U3;17.06.2007;14.12.2007;3 Gen.;nest removed
+116;p20p-b3k;r7g-yellow8;ZZ1;25.06.2007;07.10.2007;;
+118;s20o-yellow20;p19k-o3;M2;15.07.2007;14.03.2008;2 Gen.;seperated
+119;r6p-r9k;red5;M6;15.07.2007;15.12.2007;1 Gen.;
+120;silvergreen8;green16;M7B;15.07.2007;20.02.2008;4 Gen.;
+122;g7r1;orange16;M2B;18.07.2007;25.01.2008;2 Gen.;
+123;g8r1;b7br-b3k;M1;20.07.2007;04.02.2008;3 Gen.;Nest removed.
+124;g6r1;p14b-r16;U5B;20.07.2007;29.02.2008;4 Gen.;
+125;y7o-r16;purple16;O4B;05.08.2007;20.02.2008;3 Gen.;nest removed
+127;g5r1;purple13;M5B;11.08.2007;12.07.2008;4 Gen.;good couple!
+128;g2r1;r1y17;O3;31.08.2007;11.01.2008;2 Gen.;
+132;g4r1;r2b-o3;O2;07.09.2007;11.01.2008;3 Gen.;
+133;g1r1;o9o10;M3B;14.09.2007;20.09.2007;;g1r1 died
+134;g3r1;purple8;M4;14.09.2007;08.02.2008;1 Gen.;
+135;g9r1;b4p-red11;M5;14.09.2007;19.07.2008;5 Gen.;
+136;p16p-r11;s11o-sb;U3B;23.09.2007;30.11.2007;;
+137;y13k-s17;r14w-silver17;O1;23.09.2007;11.01.2008;1 Gen.;
+139;y5o-s3k;purple17;U6;23.09.2007;03.02.2008;2 Gen.;
+142;yellow10;o9o10;M3B;23.09.2007;12.07.2008;3 Gen.;
+143;b8o-p11k;s13p-yellow8;U4;01.10.2007;19.06.2008;4 Gen.;nest removed
+144;o18r1;r10br-o4k;U2B;12.10.2007;11.01.2008;1 Gen.;
+145;r2r7;r1y16;U4B;12.10.2007;11.01.2008;No Success;
+146;b16r1;p10r2;U6B;07.03.2008;10.03.2008;2 Gen.;The father of the juveniles o15r3, o16r3 and o17r3.
+147;s2b-y8;k9k-ch900;U5;17.11.2007;10.02.2008;1 Gen.;
+148;r2s4;y8o-r16;M3;07.12.2007;11.08.2008;3 Gen.;
+150;o1r1;r7g-yellow8;M4B;07.12.2007;01.08.2008;3 Gen.;nest removed
+151;r2s7;b12r2;M1B;07.12.2007;14.03.2008;1 Gen.;divided
+152;s3k-y8;r11o-o4k;M7;28.12.2007;09.05.2008;1 Gen.;
+154;g13p-purple20;r8p-s19o;O4;28.12.2007;09.05.2008;1 Gen.;
+155;r3p-r19o;s11p-yellow8;U3B;28.12.2007;05.09.2008;3 Gen.;
+156;o20o;r16o-r11;U3;28.12.2007;21.08.2008;3 Gen.;nest removed
+157;silver15;o8p-y8;M6;07.01.2008;29.08.2008;3 Gen.;
+158;p16p-r11;green10;U1;07.01.2008;05.09.2008;3 Gen.;
+159;p14k-p2;blue2;U7;07.01.2008;19.07.2008;3 Gen.;
+161;g8r2;b11r2;O1;18.01.2008;26.07.2008;3 Gen.;
+162;k7r1;r14w-silver17;O2;18.01.2008;21.08.2008;3 Gen.;nest removed
+164;p9r1;g7r2;O3;18.01.2008;18.04.2008;1 Gen.;
+165;o18r1;b10r2;U2;18.01.2008;18.04.2008;1 Gen.;
+166;r5r16;r2y9;U2B;18.01.2008;16.05.2008;;At 90d since coupled didn't have nesting material
+168;r3y12;r3y10;2M4;29.01.2008;19.12.2008;1 Gen.;
+169;r3y7;r3y4;O2B;29.01.2008;03.10.2008;No Success;
+170;r3y11;r3y2;U4B;29.01.2008;14.08.2008;No Success;no offspring for 7 months
+173;r2s6;r2y1;M1;14.03.2008;29.08.2008;3 Gen.;nest removed
+174;o19r2;r2s20;O4B;14.03.2008;22.09.2008;3 Gen.;
+175;r3s3;k12r2;M7B;14.03.2008;28.12.2008;3 Gen.;
+176;r3y3;r3y9;M2;17.03.2008;14.08.2008;No Success;no offspring after 5 months
+177;r3y1;K-K-K209-15;2M4B;08.04.2008;30.01.2009;3 Gen.;
+178;p11-r3;r3y5;M4;08.04.2008;11.08.2008;No Success;BF - don't separate for at least 120 days!
+180;r3y8;g-v12;M1B;08.04.2008;14.08.2008;No Success;didn't work out for 4 months!
+181;p9green;R-G-K209-91;U5;08.04.2008;03.10.2008;No Success;
+182;b14r3;r1y17;U2;25.04.2008;28.11.2008;3 Gen.;
+183;b11r3;k5r2;O3;25.04.2008;14.08.2008;1 Gen.;
+184;r3y6;r3y1;U2B;03.06.2008;03.10.2008;No Success;
+185;g12r2;p10r2;U6B;07.03.2008;29.08.2008;3 Gen.;
+186;b7r3;p20r3;O4;13.06.2008;28.11.2008;2 Gen.;
+187;g6r1;p9r2;M7;13.06.2008;19.12.2008;3 Gen.;
+188;g8r1;k10r2;U6;13.06.2008;12.12.2008;2 Gen.;
+189;r12p-y7o;green16;M3B;19.07.2008;22.01.2009;1 Gen.;
+192;k8r2;k9k-ch900;M5B;19.07.2008;28.11.2008;No Success;
+193;p11k-ch900;s11o-sb;U7;01.08.2008;12.12.2008;;nesting
+195;g7r1;r11o-o4k;M5;01.08.2008;14.11.2008;No Success;separate if no success
+196;g13p-purple20;p14b-r16;O1;01.08.2008;23.02.2009;3 Gen.;
+197;k9r2;purple8;M4B;11.08.2008;24.11.2008;1 Gen.;separation because female died
+198;y7o-r16;b20o-ch900;M3;14.08.2008;30.01.2009;2 Gen.;
+199;k13r2;red5;M4;14.08.2008;22.01.2009;2 Gen.;
+200;b11r3;o8r3;U4;21.08.2008;06.12.2008;1 Gen.;
+202;b14r4;o12r3;M2;21.08.2008;26.03.2009;3 Gen.;nest removed -> separate after juveniles moved out
+203;purple20;r2b-o3;U4B;21.08.2008;29.08.2008;No Success;was removed by accident
+204;b13r3;g13r2;O3;21.08.2008;03.09.2008;;female died
+205;s3k-y8;p10r2;O2;29.08.2008;22.01.2009;2 Gen.;
+208;g2r1;r16o-r11;U3;29.08.2008;13.02.2009;3 Gen.;
+209;k2r2;p9r2;M1B;21.08.2008;16.01.2009;1 Gen.;
+210;g9r1;b4p-red11;M1;11.09.2008;12.12.2008;1 Gen.;
+211;b13r3;p3o-sb;O3;11.09.2008;06.12.2008;1 Gen.;
+212;p17r2;b13r4;U3B;11.09.2008;30.01.2009;1 Gen.;
+215;y16p-s2;blue2;M6;22.09.2008;30.01.2009;2 Gen.;
+216;red11;b7br-b3k;U1;22.09.2008;27.04.2009;3 Gen.;19.3.09 - nest removed -> separate after juveniles moved out
+217;b10r3;b11r2;U6B;22.09.2008;27.01.2009;1 Gen.;
+218;p14k-p2;purple16;U4B;22.09.2008;06.12.2008;No Success;
+219;g12r2;r8p-s19o;O5;29.09.2008;26.03.2009;2 Gen.;
+221;p1r5;p15r4;2M1;03.10.2008;30.01.2009;1 Gen.;
+222;r011;green10;2M1B;03.10.2008;22.01.2009;1 Gen.;
+223;p2r5;r2y1;2M2;03.10.2008;09.04.2009;3 Gen.;nest removed, 19.3.09
+224;p4r5;o1r5;2M2B;03.10.2008;13.02.2009;1 Gen.;
+225;p5r5;r2s18;2M3;03.10.2008;09.05.2009;1 Gen.;
+226;k7r2;o3r5;2U1;03.10.2008;30.01.2009;;mysterious  couple, not found 30th Jan
+228;o1r1;k5r2;2U1B;03.10.2008;13.03.2009;1 Gen.;
+229;g4r1;b9r4;M2B;10.10.2008;22.01.2009;1 Gen.;
+230;yellow20;o6r4;U2B;10.10.2008;13.03.2009;1 Gen.;
+231;b10r5;r2b-o3;2U2;17.10.2008;10.07.2009;3 Gen.;
+232;b11r5;g18k-y6;2U3B;17.10.2008;16.01.2009;1 Gen.;Male is used by Georg in IS7.
+233;b15r5;o5r5;2M3B;17.10.2008;26.03.2009;3 Gen.;nest removed -> separate after juveniles moved out
+235;b1r5;o2r5;2O3;17.10.2008;22.01.2009;;nesting
+236;b2r5;p12r4;2O4;17.10.2008;04.11.2008;No Success;New couple - male looks sick (31.10.08) moitor! Male found dead in cage on 04.11.08. keep female in cage to quarantine until 24.11.08
+237;b3r5;o7r5;2U2B;17.10.2008;09.04.2009;2 Gen.;
+238;b4r5;g10r3;2U3;17.10.2008;06.02.2009;;
+239;b6r5;o8r5;2U4;17.10.2008;22.01.2009;;
+240;b7r5;g19r2;2O2;17.10.2008;09.04.2009;2 Gen.;
+241;b9r5;o8p-y8;2U4B;17.10.2008;14.05.2009;2 Gen.;
+243;s17o;r7g-yellow8;U5B;17.10.2008;22.05.2009;3 Gen.;separated after juvies were old enough
+244;b14r5;g7r5;U5;17.10.2008;22.01.2009;1 Gen.;
+245;y12red;p12r4;2O4;14.11.2008;09.04.2009;3 Gen.;19.3.09 - nest removed
+246;r5y19;o19r5;M4;05.12.2008;30.05.2009;3 Gen.;couple probably never existed
+247;r5s14;o17r6;U2;05.12.2008;06.02.2009;;
+248;r5y15;r5s2;O4;12.12.2008;22.05.2009;2 Gen.;Tutor is missing. Put a new tutor once all juveniles are transferred.
+249;k5r5;r11o-o4k;U4;12.12.2008;19.03.2009;;
+250;r5y11;r5s13;O3;12.12.2008;17.04.2009;3 Gen.;
+251;k16r5;p20r3;U4B;12.12.2008;16.01.2009;No Success;
+252;k16r5;s11o-sb;U4;16.01.2009;14.05.2009;No Success;had 2 eggs, please separate May 15th if no offspring
+253;g14r5;purple16;M5;16.01.2009;19.03.2009;;
+254;p12r5;r1y17;M7;16.01.2009;19.03.2009;;
+255;p14r6;o15r6;M1;22.01.2009;09.04.2009;;
+256;b13r3;b11r6;M1;22.01.2009;05.06.2009;1 Gen.;
+257;b8p-s14k;p2r6;2M1;30.01.2009;30.04.2009;2 Gen.;
+258;;;;;;;
+259;k8r2;r5s4;2O3;30.01.2009;09.05.2009;2 Gen.;female was missing
+260;o5r6;g2r5;2U3;30.01.2009;14.05.2009;1 Gen.;male bird is missing. Put new father once all juveniles are transferred.
+261;b6r5;r5y18;2U4;30.01.2009;14.05.2009;1 Gen.;
+262;r6y10;b15r6;O6;06.02.2009;16.06.2009;1 Gen.;no success after 1 generation
+263;b16r6;o13r5;O2;06.02.2009;28.06.2009;3 Gen.;Not a good couple (4 Js in 3 gens)
+264;p11r6;b18r6;O7;06.02.2009;09.05.2009;;
+265;y16p-s2;o8r5;U6;06.02.2009;30.04.2009;1 Gen.;
+266;b4r6;p15r5;M3;05.03.2009;09.05.2009;;
+268;g6r6;p8r6;M6;05.03.2009;09.05.2009;;
+270;g13p-purple20;r6s10;O1;05.03.2009;17.04.2009;1 Gen.;Song deprivation
+271;g4r6;r6s4;U3;05.03.2009;05.06.2009;1 Gen.;
+272;g19r7;g20r7;2M2B;12.03.2009;19.03.2009;;who coupled them? -> fictive coupling date
+275;r7s5;o6r7;M5;26.03.2009;09.05.2009;1 Gen.;female was missing!
+276;r7s7;o17r6;M7;26.03.2009;30.05.2009;No Success;
+277;o1r1;k14r6;2U1;04.04.2009;30.05.2009;No Success;new couple
+278;k13r2;o2r5;U2;03.04.2009;05.09.2009;3 Gen.;- separated to isolate juveniles - good couple: 2+3+5Js
+279;b14r3;r6s13;2M4;01.05.2009;28.11.2009;2 Gen.;
+280;b11r5;r5s1;2M2;09.05.2009;10.07.2009;No Success;
+281;r5s14;r2s20;2M1;09.05.2009;22.06.2009;1 Gen.;new couple
+282;k8r2;r2s18;2O3;09.05.2009;10.07.2009;No Success;
+283;r7s5;p8r6;M5;09.05.2009;21.06.2009;;
+284;r5y11;p15r5;O3;09.05.2009;30.07.2009;2 Gen.;Good Couple: 4 Js + 1 J
+285;o2r7;p12r4;2O2;14.05.2009;17.07.2009;No Success;Separate this couple - no offspring in 2 months
+286;s3k-y8;o15r7;2O4;14.05.2009;10.07.2009;No Success;
+290;r7p1;p13r5;U1;14.05.2009;13.09.2009;3 Gen.;- separated to isolate juveniles - excellent couple: 4+5+5Js
+291;r7s2;o17r7;O5;14.05.2009;10.07.2009;No Success;
+292;o7r7;o15r6;M3;14.05.2009;10.07.2009;No Success;
+293;p3r6;r5y18;U6;14.05.2009;28.11.2009;3 Gen.;nest removed
+295;p11k-ch900;o18r7;M2;14.05.2009;10.07.2009;No Success;
+296;g12r2;g4r7;2U3;22.05.2009;06.12.2009;3 Gen.;nest removed
+297;b8r7;b4r7;2U4;22.05.2009;25.07.2009;No Success;Separate this couple - no offspring in 2 months
+298;r5y15;o12r3;2M3;22.05.2009;26.11.2009;3 Gen.;
+299;974;g2r5;U4;22.05.2009;15.11.2009;3 Gen.;
+300;p2s2;b7br-b3k;U5;30.05.2009;30.07.2009;1 Gen.;Good couple: 3 Js
+301;p10r6;purple16;M6;30.05.2009;25.07.2009;No Success;Separate this couple - no offspring in 2 months
+302;b6r5;r7y4;O7;30.05.2009;07.07.2009;1 Gen.;Good Couple: 5 Js
+303;p2r5;b5r7;U3;17.06.2009;19.11.2009;2 Gen.;
+304;r5y14;r7y1;U7;17.06.2009;15.11.2009;3 Gen.;
+305;p1r5;p4r7;2U1;17.06.2009;24.08.2009;No Success;
+306;;;;;;;
+307;b7r7;r6s10;O6;21.06.2009;15.11.2009;3 Gen.;nest removed
+308;;;;;;;
+309;o1r1;r2y1;M4;10.06.2009;21.11.2009;3 Gen.;nest removed -white offsprings
+310;r011;o8r5;M7;10.06.2009;19.11.2009;2 Gen.;
+311;g2r8;r7y2;O1;10.06.2009;24.08.2009;No Success;
+312;g8r1;r5s13;O4;10.06.2009;24.08.2009;No Success;
+315;g13r8;r2s20;2M1;09.05.2009;06.12.2009;3 Gen.;nest removed
+316;b10r7;b15r6;M5;27.06.2009;29.01.2010;3 Gen.;nest removed - no tutor (claude)
+317;b1r5;k10r7;2O1;03.07.2009;04.09.2009;No Success;
+318;y12red;p15r6;O2;03.07.2009;04.09.2009;No Success;
+319;b14r4;o19r5;M1;05.06.2009;06.12.2009;3 Gen.;nest removed
+320;k8r2;o7r5;2M2;17.07.2009;29.01.2010;3 Gen.;nest removed
+321;o10r8;r5s1;2O2;25.07.2009;20.12.2009;3 Gen.;Separated after 3 Generations
+322;purple022;g17r8;2O3;25.07.2009;19.11.2009;1 Gen.;
+323;o7r8;p10r5;2O4;25.07.2009;28.09.2009;No Success;
+324;o1r8;o17r7;2U2;25.07.2009;28.09.2009;No Success;
+326;o4r8;p5r7;M3;25.07.2009;19.11.2009;1 Gen.;white offspring
+327;o8r8;k5r2;O5;25.07.2009;06.02.2010;2 Gen.;
+328;purple050;o18r7;O7;25.07.2009;28.11.2009;1 Gen.;
+329;o13r8;b4r7;M2;25.07.2009;24.01.2010;3 Gen.;nest removed
+330;o2r8;o13r7;2U4;30.07.2009;28.09.2009;No Success;
+331;o5r8;k10r2;M6;30.07.2009;28.11.2009;2 Gen.;nest removed (only 2 gen, not 3)
+332;o11r8;g15r8;U5;07.08.2009;28.11.2009;1 Gen.;
+333;o12r8;g19r2;O3;07.08.2009;24.01.2010;3 Gen.;nest removed
+334;p14k;r5s4;2U1;29.08.2009;23.12.2009;3 Gen.;Sep. after 3 gen.
+335;r6s5;o6r7;O1;29.08.2009;26.12.2009;3 Gen.;
+336;p5r3;p12r4;O4;29.08.2009;28.10.2009;No Success;No offspring - maybe don't use this female (p12r4)
+337;b20r8;o15r8;2O1;18.09.2009;25.10.2009;;No success breeding.
+338;p13r8;r7s6;U2;18.09.2009;15.11.2009;No Success;no offspring in 60 days
+339;b19r8;o20r8;O2;18.09.2009;15.11.2009;No Success;no offspring in 60 days
+340;g19r8;p3o-sb;U1;18.09.2009;01.10.2009;No Success;Male died.
+341;p10r8;b11r8;2O4;06.10.2009;06.02.2010;2 Gen.;
+342;p7r8k;k10r7;2U2;06.10.2009;13.03.2010;3 Gen.;
+343;p8r8;r8y19;2U4;06.10.2009;06.12.2009;No Success;No progeny during 61 days
+344;p5r3;r8s8;U1;01.11.2009;28.01.2010;2 Gen.;Juveniles were taken for isolation
+345;k13r2;o2r5;2O1;13.11.2009;25.02.2010;3 Gen.;3 gen
+346;r7p1;p13r5;O4;13.11.2009;15.01.2010;No Success;
+348;o1r10;o8r5;O2;19.11.2009;03.04.2010;3 Gen.;white female offspring, 3 gen separation
+349;o10r10;o18r8;U2;19.11.2009;29.01.2010;No Success;
+350;b11r7;o17r7;U7;19.11.2009;29.01.2010;No Success;
+351;o12r10;p18r8;O6;21.11.2009;25.04.2010;2 Gen.;
+352;o2r10;r8y18;U4;21.11.2009;24.01.2010;;
+353;o8r10;o15r8;2O3;28.11.2009;05.03.2010;1 Gen.;white female offspring
+354;o5r10;r8y20;M3;28.11.2009;05.03.2010;1 Gen.;
+355;g18r10;r7s6;M7;28.11.2009;29.01.2010;No Success;
+356;o7r10;b5r7;E11;28.11.2009;03.02.2010;2 Gen.;fast breeding couple
+357;o4r10;k15r8;M4;28.11.2009;05.04.2010;3 Gen.;3 generations
+358;g13r8;r2s20;2M1;06.12.2009;06.12.2009;3 Gen.;
+359;purple050;r8p-s19o;O7;07.12.2009;05.03.2010;1 Gen.;
+360;k17r8;r6s13;M6;07.12.2009;11.06.2010;3 Gen.;
+361;g8r1;p5r7;U5;07.12.2009;14.02.2010;No Success;Bad male, should not be used for coupling
+362;p15r8;r2y1;U6;07.12.2009;15.05.2010;3 Gen.;super couple, 3 gen
+363;b14r3;r8s7;2M3;07.12.2009;27.03.2010;1 Gen.;watch the mother, she is losing a lot of feathers
+364;o1r1;g15r8;2M4;07.12.2009;05.03.2010;1 Gen.;
+365;k11r8;p12r4;M1;20.12.2009;30.12.2009;No Success;female died
+366;r10s16;b18r10;2U4;20.12.2009;08.01.2010;;-This couple never existed (was r10s15)
+367;r10s5;r10s17;2U3;20.12.2009;30.06.2010;4 Gen.+;
+368;b10r10;r10s12;2M1;20.12.2009;20.02.2010;No Success;
+369;b1r10;p3o-sb;2O2;16.12.2009;20.02.2010;No Success;
+370;o5r8;k10r2;O1;02.01.2010;18.07.2010;4 Gen.;nest removed
+371;r5y14;r7y1;2U1;02.01.2010;18.06.2010;3 Gen.;
+372;r10s15;b18r10;2U4;20.12.2009;20.02.2010;No Success;
+373;p2r5;b12r8;M1;09.01.2010;21.05.2010;1 Gen.;white female offspring
+374;b14r10;p13r5;O4;24.01.2010;02.07.2010;3 Gen.;nest removed, separated
+375;b16r1;o11p-p20;U6B;02.12.2007;07.03.2008;;
+376;p20r8;o6r7;M2;29.01.2010;02.07.2010;3 Gen.;nest removed, separated
+377;p3r6;g2r5;O3;29.01.2010;11.06.2010;2 Gen.;
+378;974;r5y18;U1;29.01.2010;16.05.2010;2 Gen.;partner exchange test
+379;b7r7;r6s10;U3;29.01.2010;06.06.2010;2 Gen.;no offspring for 60 days
+380;r10y17;p4r8;U4;29.01.2010;09.07.2010;3 Gen.;
+381;r10y2;o18r8;U2;06.02.2010;11.06.2010;1 Gen.;
+382;g4r10;r10s11;U7;06.02.2010;05.06.2010;3 Gen.;3 gen., Juveniles isolated
+383;p2r10;o13r7;M7;06.02.2010;18.02.2010;No Success;female died
+384;r10y10;b7br-b3k;M5;06.02.2010;31.07.2010;2 Gen.;no offspring for 60 days
+385;r7p1;b5r10;2M2;06.02.2010;04.04.2010;No Success;Remove all nesting material from the nest
+386;b12r10;g19r2;O5;14.02.2010;18.06.2010;3 Gen.;
+387;o11r10;r8y18;2O4;14.02.2010;31.07.2010;3 Gen.;good couple
+388;p5r3;o12r3;U5;20.02.2010;25.04.2010;No Success;
+389;p11r10;o17r7;M7;27.02.2010;30.06.2010;3 Gen.;Separated 3 gen to isolate juveniles
+390;o3r10;r10y19;2O1;05.03.2010;30.05.2010;1 Gen.;no success (1 dead from 1st generation) couple destroys nest
+391;o5r10;o15r8;2O2;05.03.2010;01.05.2010;No Success;
+392;o3r8;b18r10;2M1;05.03.2010;06.08.2010;3 Gen.;good couple
+393;o7r10;b5r7;2U4;05.03.2010;26.05.2010;2 Gen.;white female offspring, separated to isolate juveniles
+394;o10r10;g5r11;2O3;14.03.2010;27.06.2010;1 Gen.;
+395;g4r11;p15r6;2M4;14.03.2010;10.06.2010;2 Gen.;Separated to isolate juveniles
+396;b8r10;r10y13;M3;14.03.2010;11.06.2010;1 Gen.;
+397;o3r11;p4r7;O7;14.03.2010;01.05.2010;No Success;
+398;o8r10;o7r5;2U2;18.03.2010;06.06.2010;1 Gen.;no offspring for 60 days
+399;g12r2;g4r7;2M3;04.04.2010;06.08.2010;2 Gen.;
+400;r10y14;r10y7;M4;12.04.2010;27.06.2010;1 Gen.;brother and sister wtf!! Their offspring have no claws (alessandro)
+401;r5y15;r5s1;O2;16.04.2010;12.08.2010;3 Gen.;Separated to isolate juveniles
+402;g13r8;r2s20;U5;02.05.2010;;3 Gen.;
+403;p14k;b15r6;O6;02.05.2010;02.07.2010;No Success;Not successful, separated
+404;o13r8;b4r7;O7;02.05.2010;09.07.2010;;
+405;k13r2;o2r5;U6;30.05.2010;09.08.2010;2 Gen.;separated to isolate juveniles
+406;o8r8;k5r2;M1;30.05.2010;31.07.2010;No Success;
+407;p10r8;b11r8;U1;30.05.2010;;2 Gen.;
+408;r10s13;p3r7;2O1;04.06.2010;08.07.2010;2 Gen.;Separated to isolate juveniles
+409;r6s5;o19r5;2U2;11.06.2010;;2 Gen.;
+410;o1r1;g17r8;U3;11.06.2010;02.09.2010;1 Gen.;
+411;o7r10;r8s8;U7;11.06.2010;;2 Gen.;
+412;r12s11;b13r12;M3;18.06.2010;;2 Gen.;
+413;r12s12;k16r11;O3;18.06.2010;;1 Gen.;
+414;p13r10;o14r11;U2;18.06.2010;17.09.2010;2 Gen.;good couple, seperated isolates
+415;o2r10;r11y2;M6;18.06.2010;;1 Gen.;
+416;b14r4;k5r11;O5;27.06.2010;;1 Gen.;
+417;o10r8;r11y8;2U1;27.06.2010;11.09.2010;1 Gen.;male died
+418;o1r10;o15r8;2M4;27.06.2010;17.09.2010;2 Gen.;separated isolates, good couple!
+419;o4r10;r12s2;2U4;02.07.2010;;2 Gen.;
+420;k8r2;o12r3;2U3;02.07.2010;08.07.2010;;Mistake. Male is paired with other female
+421;r11s16;o13r10;M4;02.07.2010;;1 Gen.;
+422;;;;;;;
+423;p1r11;p18r8;M7;02.07.2010;;1 Gen.;newborn on day 61
+424;k8r2;r7y1;2U3;09.07.2010;13.09.2010;No Success;
+425;g4r11;r5y18;2O1;09.07.2010;;2 Gen.;
+426;b14r10;r6s13;M2;09.07.2010;13.08.2010;1 Gen.;Separated to isolate juveniles
+427;g4r10;r2y1;O4;09.07.2010;12.08.2010;1 Gen.;separated to isolate juveniles
+428;r10s13;p13r5;O6;09.07.2010;;1 Gen.;breeding for pitch shift (alessandro)
+429;g20r11;r12y20;U4;18.07.2010;;1 Gen.;
+430;g3r13;r6s10;O7;18.07.2010;07.09.2010;1 Gen.;Separated to isolate juveniles
+431;r11y9;b3r13;O1;23.07.2010;;;
+432;p11r10;o16r13;M2;15.08.2010;;;
+433;o5r8;g19r13;M5;15.08.2010;;1 Gen.;
+434;o12r10;p4r13;O4;15.08.2010;;;
+435;r10s5;b2r13;O2;15.08.2010;;1 Gen.;
+436;r5y14;b15r6;U6;15.08.2010;;1 Gen.;
+438;974;p15r6;M1;20.08.2010;;1 Gen.;new couple
+439;r10y14;b5r7;2O4;02.09.2010;;;new couple
+440;r10y2;p3r7;2M3;02.09.2010;;;new couple, breeding for pitch shift (alessandro)
+441;p20r8;r10s17;O7;13.09.2010;;;
+442;b12r10;g19r2;u3;13.09.2010;;;
+443;r12s14;b4r7;2U3;17.09.2010;;;
+444;p8r12;o2r5;2U1;17.09.2010;;;

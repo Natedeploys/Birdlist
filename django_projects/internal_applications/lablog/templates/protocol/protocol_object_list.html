@@ -1,0 +1,10 @@
+    {% if latest_protocol %}
+        <h2>Your latest protocols:</h2>
+        <ul>
+            {% for protocol in latest_protocol %}
+            <li><a href="{% url detail_protocol username protocol.slug %}">{{ protocol.title }}</a></li>
+            {% endfor %}
+        </ul>
+    {% else %}
+        <h2>You have no protocols defined yet. You can change this by creating a <a href="{% url new_protocol request.user %}">new protocol</a>.</h2>
+    {% endif %}

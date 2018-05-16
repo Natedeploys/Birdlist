@@ -1,0 +1,22 @@
+{% extends "birdlist/basic/base_menu.html" %}
+
+{% block sectionid %}{% if section_id %}{{ section_id }}{% else %}homepage{% endif %}{% endblock %}
+{% block title_detail %}{{ title }}{% endblock %}
+
+
+{% block content-main %}
+<h2>{{ title }}</h2>
+<p>{{ description }}</p> 
+<ul>
+    <li>Go to main page <a href="{{ main_page }}">here</a>.</li>
+    {% ifnotequal referer main_page %}
+    <li>Go back to previous page <a href="{{ referer }}">here</a>.</li>
+    {% endifnotequal %}
+</ul>
+
+{% block content-secondary %} 
+{% endblock %}
+{% endblock %}
+
+
+ {% block sidebar %}{% endblock %} 

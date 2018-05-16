@@ -1,0 +1,59 @@
+{% extends "birdlist/basic/base_cage.html" %}
+
+{% block context-menu %}
+    {% comment %}
+         disabling these buttongs because only admins should create a new cage and
+         "show all birds in cage" is already implemented on this page.
+        <li id="nav_show_birds_in_cage"><a href="{% url show_birds_in_cage %}" class="birdlistaction">show all birds in cage</a></li>
+    {% endcomment %}
+    <li id="nav_admin"><span class="birdlistadmin" style="display:inline">only administrators can create a new cage</span></li>
+    <li id="nav_list_of_cages_by_room"><a href="{% url index_cage %}" class="birdlistaction">list of cages by room</a></li>
+    <li id="nav_list_of_cages_by_function"><a href="{% url index_cage_by_function %}" class="birdlistaction">list of cages by function</a></li>
+    {% if occupancy_link == "True" %}
+        <li id="nav_show_birds_in_cage"><a href="{% url index_cage_with_occupancy %}" class="birdlistaction">show cages and occupancy</a></li>
+    {% else %}
+        <li id="nav_cages_over_capacity"><a href="{% url cages_over_capacity %}" class="birdlistaction">cages over capacity</a></li>
+    {% endif %}
+{% endblock %}
+
+
+{% block content-main %}
+
+    <br>
+    {% if not title %}
+    <h1>Cage and #birds per cage - <a class="edit" href="{% url cages_with_occupancy_pdf %}" title="generate pdf of this list">pdf</a></h1>
+    {% else %}
+    <h1>{{ title }}</h1>
+    {% endif %}
+
+
+    <style>
+    ul.twocolumn li {
+    width: 190px;
+    float: left;
+    }
+    </style>
+
+
+    {% regroup cages by room as cages_by_room %}
+    {% for cage in cages_by_room %}
+        <div style="display:block; float:left;">
+            <h3>{{ cage.grouper }}</h3>
+            <div>
+            <ul class="twocolumn">
+                {% for cage in cage.list %}
+                <li>
+                    <a href="{% url cage_overview cage.name %}">{{ cage.name }}</a> - 
+                    {% if cage.occupancy > cage.max_occupancy %} 
+                        <span style="color:red;">({{ cage.occupancy }}/{{cage.max_occupancy }})</span>
+                    {% else %}
+                        ({{ cage.occupancy }}/{{cage.max_occupancy }}) 
+                    {% endif %} 
+                </li>
+                {% endfor %}
+            </ul>
+            </div>
+        </div>
+    {% endfor %}
+
+{% endblock %}

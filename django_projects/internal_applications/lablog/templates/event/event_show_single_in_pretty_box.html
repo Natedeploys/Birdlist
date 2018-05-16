@@ -1,0 +1,57 @@
+{% load markup %}
+{% load grammar grammar2 returnStringBasedOnBoolean %}
+{% load tagging_tags %}
+
+		{% tags_for_object i as tag_list %}
+        <div class="evnt_box" style="{% if i.event_type.flag_color %} 
+                                        background-color: {{ i.event_type.flag_color|returnStringBasedOnBoolean:i.flag_box }};
+                                     {% endif %}">
+            <div class="evnt_head_resize">
+		        <img class="evnt_img" src="{{ STATIC_URL }}lablog/img/collapse.gif" alt="Show Div" border="0" />
+		        <small><b>@{{ i.time }} - <i>{{ i.event_type }}</i></b></small>
+            </div>
+            <div class="evnt_head_tag">
+		        {% if tag_list %}
+				    <small>Tags: 
+				        {% for j in tag_list %}
+			                <a href="{% url show_user_tags username j %}" title="Show all events with tag '{{j}}'" style="display:inline; padding:0px;">{{j}}</a>
+			                <a href="{% url tag_event_delete username i.id j.id %}" title="remove tag '{{j}}'" style="color:black;text-decoration:none;display:inline;margin-left:-4px;">
+			                <small style="vertical-align:super;color:black;text-decoration:none;display:inline;">(X)</small></a>
+				        {% endfor %}
+				    </small>
+		        {% endif %}
+            </div>
+            {% if TagForm %}
+            <div class="add_tag" style="display:inline;">
+                <small>
+                <form action="{% url tag_event username=username event_id=i.id %}" method="post" style="display:inline;">{% csrf_token %}
+                {% comment %}
+		            <!-- this is the clean way of doing it but I can't increase the id_tag variable -->
+		            {% for field in TagForm %}
+		            <div style="display:inline;">{{ field }}</div>
+		            {% endfor %}
+                {% endcomment %}                
+                <div style="display:inline;">
+                <input class="vTextField" type="text" name="tag" id="id_tag-{{forloop.counter0}}" /> 
+				<script type="text/javascript">$(function() {installTaggingAutocompleate("id_tag-{{forloop.counter0}}", "/tagging_autocomplete/list") });</script>
+				</div>
+                <input type="submit" name="AddTag" value="Add Tag" style="display:inline;" />
+                <input type="hidden" name="current_url" value="{{ request.path_info }}" /> 
+                </form>
+                </small>
+            </div>
+            {% endif %}
+            <div class="evnt_head_actions">
+		        <small>
+				    {% if TagForm %}
+				    <a class="add_tag_action" style="display:inline; cursor:pointer;">add new tag</a>
+				    {% endif %}
+				    <a href="{% url edit_event username i.id %}" title="Edit this event">edit</a>
+				    <a href="{% url delete_event username i.id %}" title="Delete this event">delete</a>
+		        </small>
+            </div>
+            <div class="evnt_body">
+                <b>{{ i.flag_box|grammar2:i.event_type }}</b> {{ i.text_field|markdown|grammar:i.event_type }}
+            </div>
+        </div>
+

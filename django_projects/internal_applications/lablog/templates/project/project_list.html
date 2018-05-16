@@ -1,0 +1,7 @@
+{% extends "lablog/basic/base_projects.html" %}
+
+{% block title_detail %}projects owned by {{ user }} {% endblock %}
+
+{% block content-main %}
+    {% include "project/project_object_list.html" %}
+{% endblock %}

@@ -1,0 +1,78 @@
+{% load cage_animal_to_link %}
+
+<!-- activity name, birdname, -->
+{% if act_name_bn %}
+    <table>
+        <tr>
+            <th>bird name</th>
+            {% if show_cage %}
+            <th>cage</th>
+            {% endif %}
+            <th>activity type</th>
+            <th width=50%>activity content</th>
+            <th>start date</th><th>end date</th>
+        </tr>
+        {% for act in act_name_bn %}
+        <tr>
+            <td><a href="{{ act.bird.get_absolute_url }}">{{ act.bird.name }}</a></td>
+            {% if show_cage %}
+            <td>{{ act.bird.cage.name }}</td>
+            {% endif %}    
+            <td><a href="{{ act.get_edit_url }}">{{ act.activity_type.name }}</a></td>
+            <td>{{ act.activity_content|cage_animal_to_link|linebreaks }} </td>
+            <td>{{ act.start_date }} </td>
+            <td>{{ act.end_date }} </td>
+        </tr>
+        {% endfor %}
+    </table>
+{% endif %}
+
+
+<!-- birdname, cage, room, start date, pi with link for bird-->
+{% if bn_cage_room_sd_pi_links %}
+    <table>
+        <tr>
+            <th>bird name</th>
+            <th>cage</th>
+            <th>room</th>
+            <th width=50%>experiment content</th>
+            <th>start date</th>
+            <th>experimenter</th>
+        </tr>
+    {% for act in bn_cage_room_sd_pi_links %}
+    <tr>
+        <td><a href="{{ act.bird.get_absolute_url }}">{{ act.bird.name }}</a></td>
+        <td>{{ act.bird.cage.name }}</td>
+        <td>{{ act.bird.cage.room.room_number }}</td>
+        <td>{{ act.activity_content|linebreaks|cage_animal_to_link }} </td>
+        <td>{{ act.start_date }} </td>
+        <td>{{ act.originator.username }} </td>
+    </tr>
+    {% endfor %}
+    </table>
+{% endif %}
+
+
+<!-- activity name, originator, -->
+{% if act_name_orig %}
+    <table>
+        <tr>
+            <th>activity type</th>
+            <th width=50%>activity content</th>
+            <th>start date</th>
+            <th>end date</th>
+            <th>user</th>
+        </tr>
+    {% for act in act_name_orig %}
+    <tr>
+        <td><a href="{{ act.get_edit_url }}">{{ act.activity_type.name }}</a></td>
+        <td>{{ act.activity_content|cage_animal_to_link|linebreaks  }} </td>
+        <td>{{ act.start_date }} </td>
+        <td>{{ act.end_date }} </td>
+        <td>{{ act.originator }} </td>
+    {% endfor %}
+    </table>
+{% endif %}
+
+
+

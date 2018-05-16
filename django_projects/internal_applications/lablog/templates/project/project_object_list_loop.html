@@ -1,0 +1,7 @@
+<h2> latest {{ model_name }} </h2>
+<ul>
+    {% for y in object_list %}
+    <li>  <a href="{% url detail_project username y.slug %}">{{ y.title }}</a></li>
+    
+    {% endfor %}
+</ul>

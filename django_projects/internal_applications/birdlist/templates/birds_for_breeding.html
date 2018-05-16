@@ -1,0 +1,114 @@
+{% extends "birdlist/basic/base_breeding.html" %}
+
+{% block billboard %}
+    <li id="nav-exp-views"><h2>{% if method %}Breeding candidates - exact (birds did not breed in last 60 days){% else %}Breeding candidates - sloppy (birds might have bred in last 60 days){% endif %}</h2></li>
+{% endblock %}
+
+{% block context-menu %}
+    {% if method %}
+        <li id="nav_"><a href="{% url birds_for_breeding_exact_pdf %}?sort={{sort_by}}" class="birdlistaction" title="generate pdf of current list">pdf</a></li>
+        <li id="nav_"><a href="{% url birds_for_breeding %}?sort={{sort_by}}" class="birdlistaction" title="show any available birds - they might have bred during the last 60 days">show birds for breeding</a></li>
+    {% else %}
+        <li id="nav_"><a href="{% url birds_for_breeding_pdf %}?sort={{sort_by}}" class="birdlistaction" title="generate pdf of current list">pdf</a></li>
+        <li id="nav_"><a href="{% url birds_for_breeding_exact %}?sort={{sort_by}}" class="birdlistaction" title="show only birds that didn't breed during the last 60 days">show birds for breeding (exact)</a></li>
+    {% endif %}
+{% endblock %}
+
+{% block content-main %}
+
+    <h2>Previously successful couples - available today ({{ couples|length }})</h2>
+    {% if not method %}
+    <p style="color: red;">Please do not use birds that have been separated (previous breeding couple) less than 60 days ago!</p>
+    {% endif %}
+    {% if couples %}
+
+        <table>
+            <tr><th><a href="{{request.path}}?sort=male">male</a></th>
+                <th><a href="{{request.path}}?sort=male_cage">cage</a></th>
+                <th><a href="{{request.path}}?sort=male_age">age</a></th>
+                <th><a href="{{request.path}}?sort=female">female</a></th>
+                <th><a href="{{request.path}}?sort=female_cage">cage</a></th>
+                <th><a href="{{request.path}}?sort=female_age">age</a></th>
+                <th><a href="{{request.path}}?sort=broods" title="Average number of broods per coupling">avg # broods</a></th>
+                <th><a href="{{request.path}}?sort=juveniles" title="Average number of juveniles per coupling">avg # juveniles</a></th>
+                <th># days separated (m / f)</th>
+            </tr>
+        {% for c in couples %}
+        <tr>
+
+            <td><a href="{% url bird_overview c.male.id %}">{{ c.male }}</a></td>
+            <td>{{ c.male_cage }}</td>
+            <td>{{ c.male_age }}</td>
+            <td><a href="{% url bird_overview c.female.id %}">{{ c.female }}</a></td>
+            <td>{{ c.female_cage }}</td>
+            <td>{{ c.female_age }}</td>
+         
+            <td align="center">{{ c.AvgNoBroods|floatformat }}</td>
+            <td align="center">{{ c.AvgNoJuvs|floatformat }}</td>
+            <td>
+
+                {% if c.male_last_separation < 60 %}
+                    <span style="color:red;">{{c.male_last_separation}}</span>
+                {% else %}
+                    {{c.male_last_separation}}
+                {% endif %}
+                / 
+                {% if c.female_last_separation < 60 %}
+                    <span style="color:red;">{{c.female_last_separation}}</span>
+                {% else %}
+                    {{c.female_last_separation}}
+                {% endif %}            
+
+            </td>            
+        </tr>
+        {% endfor %}
+        </table>
+
+    {% endif %}
+
+
+    <h2>Males for breeding - {{ males|length }} found </h2>
+    {% if males %}
+        {% with males as birdlist_with_links %}
+            {% include 'birdlist/basic/bird_list_include_for_breeding.html' %}
+        {% endwith %}
+    {% endif %}
+
+    <h2>Females for breeding - {{ females|length }} found </h2>
+    {% if females %}
+        {% with females as birdlist_with_links %}
+            {% include 'birdlist/basic/bird_list_include_for_breeding.html' %}
+        {% endwith %}
+    {% endif %}
+
+
+{% endblock %} 
+
+{% block sidebar %}
+    {% if user.is_authenticated %}
+        <div id="help">
+            <h2>How are previously successful couples determined?</h2>
+            <p>
+            On average, we observe 1.7 broods per coupling. In order to promote
+            good couples, only couples with an average of 2 or more generations
+            per coupling are shown in the "Previously successful couples" list.</p>
+            
+            <h2>What does "avg # broods" mean?</h2>
+            <p>
+            "avg # broods" stands for "Average number of broods per coupling".</p>
+            
+            <h2>What does "avg # juveniles" mean?</h2>
+            <p>
+            "avg # juveniles" stands for "Average number of juveniles per coupling".</p>
+            
+        
+        </div>
+     
+        <br>
+        <br>
+        {% include "birdlist/basic/sidebar.html" %}
+    {% endif %}            
+{% endblock %}
+
+
+

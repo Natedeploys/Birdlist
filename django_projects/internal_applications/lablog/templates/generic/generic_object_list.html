@@ -1,0 +1,7 @@
+{% extends "lablog/basic/base_menu_extended.html" %}
+
+{% block title_detail %}{{ model_name }} owned by {{ user }} {% endblock %}
+
+{% block objectcontent %}
+    {% include "generic/generic_object_list_loop.html" %}
+{% endblock %}

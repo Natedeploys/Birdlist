@@ -1,0 +1,53 @@
+{% extends "birdlist/basic/base_help.html" %}
+
+{% block billboard %}
+<li id="nav-exp-views"><h2>Help</h2></li>
+{% endblock %}
+
+{% block content-main %}
+<br>
+<h2>Modifying cage information</h2>
+<ul>
+    <li>If a cage function, its capacity, its location, etc, has changed, you need
+    to file a <a href="{% url helpdesk_submit %}?queue=10">bug report</a> and the 
+    administrators will eventually take care of it.</li>
+</ul>
+<h2>Add animal without parent information</h2>
+<ul>
+    <li>Only animals that are the result of a breeding couple, can be added to
+    the database. If the parents are unknown, or if a new animal has been 
+    introduced to the colony, you need
+    to file a <a href="{% url helpdesk_submit %}?queue=10">bug report</a> and the 
+    administrators will eventually take care of it.</li>
+</ul>
+<h2>Existing bugs / feature requests</h2>
+<ul>
+    <li>Check <a href="{% url helpdesk_list %}?saved_query=9">this</a> list.</li>
+</ul>
+
+<h2>Submit bug / feature request</h2>
+
+<ul>
+    <li>
+        Submit a bug / feature request <a href="{% url helpdesk_submit %}?queue=10">here</a>.
+        <br>
+    </li>
+
+    <li id="backdate">
+        Submit your change, delete or backdating request <a href="{% url helpdesk_submit %}?queue=11">here</a>.
+    </li>
+</ul>
+
+{% endblock %} 
+
+
+{% block sidebar %}
+<div>
+<h2>Your account settings</h2>
+<p>Click on your username to change your password. More options are coming soon!</p>
+</div>
+{% endblock %} 
+
+{% block content-secondary %}
+{% endblock %} 
+

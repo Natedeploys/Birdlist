@@ -1,0 +1,31 @@
+{% extends "lablog/basic/base_experiments.html" %}
+
+{% block objectcontent %} 
+{% load highlight_string markup grammar grammar2 returnStringBasedOnBoolean %}
+
+<div class="section">
+    <h2>Search results:</h2>
+    {% if nbr_results > 0 %}    
+        <h5>{{nbr_results}} entr{{ nbr_results|pluralize:"y,ies" }} match{{ nbr_results|pluralize:"es," }} your query <i>"{% for i in search %}{{i}}{% if forloop.last %}{%else%} {%endif%}{%endfor%}"</i></h5>
+        
+        {% if events %}
+            <br>
+            The following events match your search query:
+            
+            <table>
+            {% for i in events %}
+                <tr>
+                    <td>{{ i.text_field|markdown|grammar:i.event_type|highlight_string:search }}</td>
+                </tr>
+            {% endfor %}
+            </table>            
+            <br>
+                       
+        {% endif %}
+        
+    {% else %}
+        <h5>No entries match your query.</h5>
+    {% endif %}                
+</div>
+
+{% endblock %}

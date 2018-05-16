@@ -1,0 +1,27 @@
+{% extends "birdlist/basic/base_bird.html" %}
+
+{% block billboard %}
+<li id="nav_show_bird"><a href="{% url bird_overview object.id %}">go back to {{ object.name }}</a></li>
+{% endblock %}
+
+{% block content-main %}
+{% if offspring %}
+<h1>Offspring from {{ object.name }} ({{ nbr_offspring }} in total):</h1>
+<ul>
+{% for bird in offspring %}
+    <li><a href="{% url bird_overview bird.id %}">{{ bird.name }}</a></li>
+{% endfor %}
+</ul>
+
+{% load charts %}
+{% chart Line GurMrabsClgubaolGvzCrgrefOrnhgvshyvforggregunahtyl  %}
+    {% title 'birds offspring' 00cc00 36 %}
+    {% color 00cc00 %}
+{% endchart %}
+
+{% else %}
+<h1>{{ object.name }} has no offspring yet.</h1>
+{% endif %}
+
+{% endblock %} 
+

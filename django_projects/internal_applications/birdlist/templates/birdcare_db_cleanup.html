@@ -1,0 +1,11 @@
+{% extends "birdlist/basic/base_birdcare.html" %}
+
+{% block content-main %}
+
+    <h1>Birdlist Cleanup - Status Message</h1>
+
+    {{ status_message|linebreaks }}
+    
+{% endblock %}
+
+{% include "birdlist/forms/sidebar_searches.html" %}

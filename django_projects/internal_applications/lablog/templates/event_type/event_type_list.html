@@ -1,0 +1,53 @@
+{% extends "lablog/basic/base_experiments.html" %}
+
+{% block title_detail %}Event Types owned by {{ user }} {% endblock %}
+
+{% block billboard %}
+{% if experiment %}
+	<li id="nav-exp"><a href="{% url detail_experiment username experiment.slug %}">back to experiment {{ experiment.title }}</a></li>
+{% endif %}
+{% endblock %}
+
+{% block content-main %}
+
+    {% if event_type_list %}
+            <h2>Your event types:</h2>
+                {% for i in event_type_list %}
+				{% ifchanged %}<h3> Importance {{ i.display_order }}</h3>{% endifchanged %}
+            	<ul>
+                	<li><a href="{% url delete_event_type username experiment.slug i.id %}">delete</a> 
+                		<a href="{% url edit_EventType username experiment.slug i.id %}">edit</a> 
+                		&nbsp; &nbsp; {{ i.event_type }}
+                	</li>
+            	</ul>
+                {% endfor %}
+
+    {% else %}
+       <h2>You have no event types defined yet. You can change this by creating a <a href="{% url popup_new_EventType request.user %}">new event type</a>.</h2>
+    {% endif %}
+
+{% endblock %}
+
+{% block sidebar %}
+<h2>Number of elements to show:</h2>
+<ul>
+	<li><a href="{% url index_event_type username experiment.slug 0 %}">Show all</a></li>
+	<li><a href="{% url index_event_type username experiment.slug 10 %}">Show 10 per page</a></li>
+	<li><a href="{% url index_event_type username experiment.slug 20 %}">Show 20 per page</a></li>
+</ul>	
+{% comment %}
+doesn't work nicely with pagingation
+<h2>Sort by</h2>
+<ul>	
+	<li><a href="{% url index_event_type username experiment.slug nbr_entries_to_show %}?sort=desc">High importance first</a></li>
+	<li><a href="{% url index_event_type username experiment.slug nbr_entries_to_show %}?sort=asc">Low importance first</a></li>
+</ul>
+{% endcomment %}
+{% include "basic/pagination.html" %}
+{% endblock %}
+
+
+{% block content-secondary %}
+
+{% endblock %}
+

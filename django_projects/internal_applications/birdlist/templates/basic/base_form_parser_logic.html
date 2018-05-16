@@ -1,0 +1,40 @@
+
+{% comment %}
+    show unique_together errors
+{% endcomment %}
+
+{% if form.non_field_errors %}
+    {{ form.non_field_errors }}
+{% endif %}
+
+{% for field in form %}
+    {% if field.errors %}
+        {% comment %}
+        {{ field.label_tag }} {{ field }}
+        {% endcomment %}
+        {{ field.errors }}
+    {% endif %}
+
+    {% if field.is_hidden %}
+        {{ field }}
+        
+    {% else %}                
+        {% if field.field.required %}
+            <div class="required">
+       {% else %}
+            <div class="fieldWrapper">
+        {% endif %}        
+	    
+        {{ field.label_tag }} {{ field }}
+                <div><p class="help">
+                {% if field.help_text %}{{ field.help_text }}{% endif %}
+                </p><br></div>
+            </div>
+    {% endif %}
+{% endfor %}
+
+{% if prev %}
+    <input type="Hidden" name="prev" value="{{prev}}">
+{% endif %}
+
+

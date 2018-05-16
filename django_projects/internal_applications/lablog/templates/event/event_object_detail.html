@@ -1,0 +1,26 @@
+{% extends "lablog/basic/base_experiments.html" %}
+
+{% block custom_stylesheet %}
+        <script type="text/javascript" src="{{ STATIC_URL }}js/admin/RelatedObjectLookups.js"></script>
+ {% endblock %}
+
+{% block title_detail %}details for event {% endblock %}
+
+{% block billboard %}
+<li id="nav-exp-edit"><a href="{% url edit_event username selected_object.pk %}">edit event</a></li>
+<li id="nav-exp-change"><a href="{% url delete_event username selected_object.pk %}">delete event</a></li>
+<li id="nav-exp-new-event"><a href={% url new_event username=username, experiment_id=experiment.id %}>new event</a></li>   
+{% endblock %}
+
+{% block objectcontent %}
+
+{% load grammar grammar2 %}
+{% load markup %}
+<h2> Experiment: <a href="{% url detail_experiment username experiment.slug %}">{{ experiment.title }}</a> </h2>
+<ul>
+    <li>  event type: <a href="{% url popup_edit_EventType username selected_object.event_type.id %}" onclick="return showAddAnotherPopup(this);" >{{ selected_object.event_type }}</a></li>
+    <li>  date: {{ selected_object.date }}, time: {{ selected_object.time }}</li>
+    <li>  comment: <b>{{ selected_object.flag_box|grammar2:selected_object.event_type }}</b> {{ selected_object.text_field|markdown|grammar:selected_object.event_type }} </li>    
+</ul>
+
+{% endblock %}

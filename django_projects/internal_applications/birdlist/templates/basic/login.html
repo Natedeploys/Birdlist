@@ -1,0 +1,34 @@
+{% extends "birdlist/basic/base_index.html" %}
+
+{% block custom_stylesheet %}
+<style type="text/css" media="screen">
+/* login form */
+#login ul li { list-style-type:none; margin-bottom:.4em; }
+#login li {width:150px; }
+</style>
+{% endblock %}
+
+{% block title_detail %}login{% endblock %}
+
+{% block content-main %}
+    {% include "birdlist/basic/login_content.html" %}
+    {% comment %}
+    DISABLE REGISTRATION UNTIL EVERYONE HAS ACTIVATED HIS ACCOUNT
+    {% include "registration/register_user.html" %}
+    {% endcomment %}    
+{% endblock %}
+
+
+{% block content-secondary %} 
+<h2 id="comments">Login Required</h2>
+<p>
+If you don't have an account yet or you forgot your login, talk to HOB.
+</p>
+{% endblock %}
+
+{% block sidebar %}
+{% if form.errors %}
+    <h2 id="comments">Forgot password?</h2>
+    <ul><li><a href="{% url auth_password_reset %}">reset your password</a></li></ul>
+{% endif %}    
+{% endblock %}

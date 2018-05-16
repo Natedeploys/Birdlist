@@ -1,0 +1,17 @@
+{% extends "lablog/registration/base_registration.html" %}
+ 
+{% block content-main %}
+<h2> Please fill out the following form to register a new account.</h2>
+<form method="post" action="">{% csrf_token %}
+<dl>
+{% for field in form %}
+<dt>{{ field.label_tag }}</dt>
+<dd>{{ field }}</dd>
+{% if field.help_text %}<dd>{{ field.help_text }}</dd>{% endif %}
+{% if field.errors %}<dd class="myerrors">{{ field.errors }}</dd>{% endif %}
+{% endfor %}
+</dl>
+<input type="submit" />
+</form>
+
+{% endblock %}

@@ -1,0 +1,16 @@
+{% extends "lablog/basic/base_form.html" %}
+
+{% block sectionid %}project{% endblock %}
+
+{% block billboard %}
+{% if project %}
+<li id="nav-exp"><a href="{% url detail_project username project.slug %}">back to project {{ project.title }}</a></li>
+{% endif %}
+{% endblock %}
+
+{% block form-js %}
+{% if add %}
+{% include "lablog/note/forms/note_js.html" %}
+{% endif %}
+{% endblock %}
+

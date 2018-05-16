@@ -1,0 +1,30 @@
+{% extends "birdlist/basic/base_bird.html" %}
+
+{% block context-menu %}
+{% endblock %}
+
+{% block content-main %}
+    <h2>Show</h2>
+    <ul>
+        <li><a href="{% url show_juveniles %}">all juveniles (age < 70)</a></li>
+        <li><a href="{% url show_juveniles_by_age %}">all juveniles (age < 70) - sorted by age</a></li>
+        <li><a href="{% url show_adults %}">all adults (age > 90)</a></li>
+        <li><a href="{% url show_personal_reservations %}">all my reservations</a></li>
+        <li><a href="{% url show_common_reservations %}">all reservations</a></li>
+        <li><a href="{% url show_bird_tags %}">bird tags & bird coupling status</a></li>
+        <li><a href="{% url list_all_birds_alive %}">list of all birds alive</a>
+        <br>-----------------------------------------------------------------
+        <br>filter by appending <b>/species/sex/cagetype/ </b> to the above url<br>
+        species: zf / bf / all<br>
+        sex: m / f / u / v / all<br>
+        cagetype: storage / breeding / breedingbreak / all
+        </li>
+        <li><a href="{% url list_all_birds %}">list of all birds</a></li>           
+    </ul>
+
+{% endblock %}
+
+{% if img %}
+    <img src="{{ img }}">
+{% endif %}
+

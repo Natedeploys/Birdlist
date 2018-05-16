@@ -1,0 +1,40 @@
+
+<div class="section" id="experiment">
+    {% if experiments or experiments_in_animal_list %}
+        {% if experiments_in_animal_list %}
+            <h2>Experiments ({{ experiments_in_animal_list|length }}) created through birdlist (but not in lablog yet):</h2>
+            <ul>
+                
+                {% for i in experiments_in_animal_list %}
+                    <form action="{% url import_from_animal_list username %}" method="post">{% csrf_token %}
+                    <input type="hidden" name="activity_id" value="{{i.id}}" />
+                    <li><a href="{% url bird_overview i.bird.id %}"> {{ i.bird }}</a>: {{ i.activity_content }} &nbsp; <input type="submit" name="import into lablog" value="import into lablog" /></li>
+                    </form>
+                {% endfor %}
+
+            </ul>
+        {% endif %}    
+        {% if active_experiments %}
+            <h2>Active experiments:</h2>
+            <ul>
+                {% for i in active_experiments %}
+                    <li><a href="{% url detail_experiment username i.slug %}">{{ i.title }}</a>
+                    {% if i.plan %} - {{ i.plan }}{% endif %}
+                    {% if i.can_be_merged_with_animallist %}<i>; <a href="{% url merge_experiment_with_animal_list username i.slug %}" title="merge this experiment with the animal database">merge with birdlist</a></i>{% endif %}</li>
+                {% endfor %}
+            </ul>
+        {% endif %}
+        {% if finished_experiments %}
+            <h2>Finished experiments:</h2>
+            <ul>
+                {% for i in finished_experiments %}
+                    <li><a href="{% url detail_experiment username i.slug %}">{{ i.title }}</a>
+                    {% if i.plan %} - {{ i.plan }}{% endif %}
+                    {% if i.can_be_merged_with_animallist %}<i>; <a href="{% url merge_experiment_with_animal_list username i.slug %}" title="merge this experiment with the animal database">merge with birdlist</a></i>{% endif %}</li>
+                {% endfor %}
+            </ul>
+        {% endif %}
+    {% else %}
+       <h2>You have no experiments defined yet. You can change this by creating a <a href="{% url new_experiment username %}">new experiment</a>.</h2>
+    {% endif %}
+</div>

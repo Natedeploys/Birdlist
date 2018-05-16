@@ -1,0 +1,14 @@
+
+    <li id="event-browser">Browse past events:</li>
+    <ul>
+
+        <li id="nav-quick-event-list"><a href="{% url list_events username selected_object.slug %}">by page</a></li>
+        <li id="nav-quick-event-list-all"><a href="{% url list_all_events username selected_object.slug %}">Show entire list</a></li>
+        <li id="nav-quick-event-list-between">Filter Events:</li>
+        <form action="{% url list_events_between_start username selected_object.slug %}" method="post">{% csrf_token %}
+            {% for field in betweenform %}{% if field.is_hidden %}{{ field }}{% else %}<div>{{ field }}</div>{% endif %}{% endfor %}
+            <br><input type="submit" name="ShowSelectedOnly" value="Show selected only"/>
+            <br><input type="submit" name="ShowBetweenSelected" value="Show events between selected"/>
+        </form>
+    </ul>
+

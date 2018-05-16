@@ -1,0 +1,11 @@
+{% extends "lablog/basic/base_menu_extended.html" %}
+
+{% block sectionid %}protocol{% endblock %}
+ 	
+{% block title_detail %}Protocols{% endblock %}
+ 	
+{% block billboard %}
+
+<li id="nav-pro-new"><a href={% url new_protocol user.username %}>new protocol</a></li>  
+
+{% endblock %}

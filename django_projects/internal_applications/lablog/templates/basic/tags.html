@@ -1,0 +1,21 @@
+{% extends "lablog/basic/base_experiments.html" %}
+
+{% block title_detail %}events matching {{ tag }}{% endblock %}
+
+{% block billboard %}
+<li id="nav-tag-results">Events matching {{ tag }}</li>
+{% endblock %}
+
+
+{% block content-main %}
+    {% if object_list %}
+    <ul>
+    {% for tag in object_list %}
+    <li><a href="{% url detail_event username tag.id %}">{{tag}}</a> - <a href="{% url detail_experiment username tag.experiment.slug %}">{{tag.experiment}}</a></li>
+    {% endfor %}
+    </ul>
+    {% endif %}
+{% endblock %}
+
+{% block content-secondary %}
+{% endblock %}

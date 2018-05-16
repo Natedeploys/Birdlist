@@ -1,0 +1,60 @@
+{% extends "lablog/basic/base_menu_extended.html" %}
+
+{% block stylesheet %}
+{% include "lablog/basic/base_form_stylesheet.html" %}
+{% endblock %}
+
+{% block title_detail %}{% if change %}Change{% endif %}{% if add %}Create new {% endif %} {{ form_object_name }}{% endblock %}
+{% block sectionid %}{{ form_object_name }}{% endblock %}
+
+{% block billboard %}
+{% endblock %}
+
+
+{% block content-main %}
+<h2>{% block form-title %}{% if change %}Change{% endif %}{% if add %}Create new {% endif %} {{ form_object_name }}{% endblock %}</h2>
+<form action="." method="post">{% csrf_token %}
+    <fieldset class="module aligned ">
+    
+    {% block form-content %}
+    {% include "lablog/basic/base_form_parser.html" %}
+    {% endblock %}
+    
+    {% block form-buttons %}
+        <div class="submit-row" > 
+        {% block form-button-save %}
+            {% if change %}
+                <input type="submit" name="savebutton" value="Save changes" />
+            {% endif %}
+        {% endblock %}
+
+        {% block form-button-new %}
+            {% if add %}
+                <input type="submit" name="newbutton" value={% if add %}"Save as new '{{ form_object_name }}'"{% endif %}/>
+            {% endif %}
+        {% endblock %}
+
+        {% block form-button-cancel %}
+            <input type="submit" name="cancelbutton" value="Cancel" />
+        {% endblock %}
+        </div>
+
+    {% endblock %}
+    </fieldset>
+</form>
+
+{% block form-js %}
+    {% if add %}
+    {% include "lablog/basic/base_form_slugify.html" %}
+    {% endif %}
+{% endblock %}
+
+{% endblock %}
+
+{% block content-secondary %}
+<h2 id="comments">Form help:</h2>
+  <p>Please fill out all mandatory fields which are highlighted in bold face.</p>
+{% endblock %}
+
+{% block sidebar %}
+{% endblock %}

@@ -1,0 +1,53 @@
+{% if birdlist_with_links %}
+
+<table>
+    <tr>
+        <th width="50"><a href="{{request.path}}?sort=name">name</a></th>
+        <th width="30"><a href="{{request.path}}?sort=cage">cage</a></th>
+        <th width="70"><a href="{{request.path}}?sort=age">age (+-)</a></th>
+        <th>father</th>
+        <th>mother</th>
+        <th width="15%">prev. mates</th>
+        <th># days separated</th>
+        <th>reserv.</th>        
+        <th width="25%">comment</th>
+    </tr>
+        {% for b in birdlist_with_links %}
+        <tr>
+            <td><a href="{% url bird_overview b.bird.id %}">{{ b.bird.name }}</a></td>
+            <td title="{{ b.bird.cage.get_function_display }}">{{ b.bird.cage.name }}</td>
+            <td>{{ b.age }} ({{ b.bird.age_uncertainty }})</td>
+            
+
+            {% if b.father %}
+                <td><a href="{% url bird_overview b.father.id %}">{{b.father}}</a></td>
+            {% else %}
+                <td>None</td>
+            {% endif %}
+            
+
+            {% if b.mother %}
+                <td><a href="{% url bird_overview b.mother.id %}">{{b.mother}}</a></td>
+            {% else %}
+                <td>None</td>
+            {% endif %}
+
+            
+            <td>{{ b.mates }}</td>
+            <td>
+
+            {% if b.last_separation < 60 %}
+                <span style="color:red;">{{b.last_separation}}</span>
+            {% else %}
+                {{b.last_separation}}
+            {% endif %}
+
+            </td>
+            <td>{% if b.bird.reserved_until %}YES{% endif %}</td>
+            <td>{% if b.bird.comment %}{{ b.bird.comment|linebreaks }}{% endif %}</td>
+        </tr>
+        {% endfor %}
+</table>
+{% endif %}
+
+

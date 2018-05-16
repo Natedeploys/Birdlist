@@ -1,0 +1,18 @@
+{% extends "birdlist/basic/base_birdcare.html" %}
+
+{% block billboard %}
+<li id="nav-exp-views"><h2>Birdcare - checklist</h2></li>
+{% endblock %}
+
+{% block content-main %}
+
+<h2>Birdcare Checklist - 
+    <a class="edit" href="{% url print_birdcare_checklist %}" onclick="return popitup('{% url print_birdcare_checklist %}')">print</a>
+    <a class="edit" href="{% url birdcare_todo_pdf %}">pdf</a>
+</h2>
+<p>Please check all breeding cages listed here.</p>
+{% for cage in cage_list %}
+    {% include "birdlist/basic/birdcare_checklist_include.html" %}
+{% endfor %}
+
+{% endblock %}

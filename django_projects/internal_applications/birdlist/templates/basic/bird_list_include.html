@@ -1,0 +1,83 @@
+<!-- bird in cage info with links-->
+{% if birdlist_with_links %}
+{% load in_group %}
+<table>
+    <tr>
+        <th width="50">name</th>
+        <th width="30">sex</th>
+        {% if show_cage %}
+            <th>cage</th>
+        {% endif %}
+        <th width="50">age (-)</th>
+        <th>father</th>
+        <th>mother</th>
+        {% if show_mates %}
+        <th width="20%">coupling status /<br>mates</th>
+        {% endif %}
+        <th>reserved by</th>        
+        <th width="30%">comment</th>
+        {% if show_do %}
+            <th>do</th>
+        {% endif %}
+    </tr>
+    
+        {% for bird in birdlist_with_links %}
+        <tr>
+
+            <td><a href="{% url bird_overview bird.id %}">{{ bird.name }}</a></td>
+            <td>{{ bird.get_sex_display }}</td>
+            {% if show_cage %}
+                <td>{{ bird.cage.name }}</td>
+            {% endif %} 
+            <td>{% if bird.exit_date = None %}{{ bird.get_phd }} ({{ bird.age_uncertainty }}){% else %}-{% endif %}</td>
+            
+            {% with bird.get_mother_and_father as parents %}
+                
+                {% if parents.1 %}
+                    <td><a href="{% url bird_overview parents.1.id %}">{{ parents.1 }}</a></td>
+                {% else %}
+                    <td>Unknown</td>
+                {% endif %}
+                
+                {% if parents.0 %}
+                    <td><a href="{% url bird_overview parents.0.id %}">{{ parents.0 }}</a></td>
+                {% else %}
+                    <td>Unknown</td>
+                {% endif %}
+                
+            {% endwith %}
+            
+            {% if show_mates  %}
+            <td><b>{{ bird.get_coupling_status_display }}</b><br>{{ bird.get_mates_string }}</td>
+            {% endif %}
+            <td>{{ bird.reserved_by.username }}</td>
+            <td>{% if bird.comment %}{{ bird.comment|linebreaks }}{% endif %}</td>
+            
+            
+            {% comment %}
+                allow transfer of non breeding animals only
+            {% endcomment %}
+            
+            {% if show_do %}
+                <td>
+                {% if not bird.is_breeding and not bird.exit_date %}
+                    <a href="{% url transfer_bird_id bird.id %}?prev={{request.path}}" title="transfer animal">transfer</a>
+                    {% if bird.sex == bird.SEX_UNKNOWN_JUVENILE %}
+                    <a href="{% url sex_bird_id bird.id %}?prev={{request.path}}" title="sex animal">sex</a>
+                    {% endif %}
+                    <a href="{% url bird_edit bird.id %}?prev={{request.path}}" title="edit animal information">edit</a>
+                {% endif %}
+                {% if user.is_staff and user|in_group:"superuser" %}
+                    <a href="{% url admin:birdlist_bird_change bird.id %}" title="edit animal information as admin">admin edit</a>
+                {% endif %}
+                </td>
+                
+            {% endif %}
+                
+        </tr>
+        {% endfor %}
+        
+</table>
+{% endif %}
+
+

@@ -1,0 +1,54 @@
+<!--
+to add a 'Save changes' button you have to pass a variable 'change'=True
+to add a 'Save new' button you have to pass a variable 'new'=True
+the cancel button will always show up
+-->
+
+{% block form-button-save %}
+    {% comment %} 
+    
+        debug the 'new' problem.
+    
+            change {{ change }}<br>
+            new {{ new }}<br>
+            add {{ add }}<br>
+            separate {{ separate }}<br>
+            search {{ search }}<br>
+            move {{ move }}<br>
+    {% endcomment %}
+    
+    {% if change %}
+        <input type="submit" name="savebutton" value="Save changes" />
+    {% endif %}
+    
+    {% comment %} 
+    
+        not used by any view. Leads to problems with new being [{}] - I don't know why.
+        
+            {% if new %}
+                <input type="submit" name="savebutton" value="Save new" />
+            {% endif %}
+    {% endcomment %}
+    
+    {% if add %}
+        <input type="submit" name="addbutton" value="Add" />
+    {% endif %}
+    {% if separate %}
+        <input type="submit" name="separatebutton" value="Separate" />
+    {% endif %}
+    {% if search %}
+        <input type="submit" name="searchbutton" value="Search" />
+    {% endif %}
+    {% if move %}
+        <input type="submit" name="movebutton" value="Move" />
+    {% endif %}     
+    
+{% endblock %}
+
+{% block form-button-cancel %}
+    {% if do_not_show_cancel %}
+    {% else %}
+        <input type="submit" name="cancelbutton" value="Cancel" />
+    {% endif %}
+{% endblock %}
+

@@ -1,0 +1,25 @@
+{% extends "lablog/basic/base_experiments.html" %}
+
+{% block title_detail %}experiments owned by {{ user }} {% endblock %}
+
+{% block content-main %}
+    {% include "lablog/experiment/experiment_object_list.html" %}
+{% endblock %}
+
+
+            
+{% block sidebar %}
+{% if experiments_in_animal_list %}
+    <div>
+    <h2>Merging with old lablog experiments</h2>
+    <ul>
+    <li>
+    If you have been using lablog before the <br> 
+    birdlist 2.0 transition, please use the 'merge'<br>
+    button that you see on the page of your <br>
+    lablog experiment. <br>
+    </li>
+    </ul>
+
+{% endif %}
+{% endblock %}

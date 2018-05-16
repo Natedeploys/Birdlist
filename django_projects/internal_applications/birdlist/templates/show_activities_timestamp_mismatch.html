@@ -1,0 +1,100 @@
+{% extends "birdlist/basic/base_stats.html" %}
+{% load cage_animal_to_link %}
+{% block content-main %}
+
+    <br>
+    
+    <h2>List of activities with timestamp mismatch (excluding "hob" and "OutOfColony" moves)</h2>
+    <br><br>
+
+    {% if activities %}
+        <h3>List of activities (created after June 23rd 2011 @ 17:50) with timestamp mismatch ({{ activities|length }}):</h3>
+        
+                <table>
+                    <tr>
+                        <td align="center" width="10%"><b>bird</b></td>
+                        <td align="center" width="10%"><b>timestamp created</b></td>
+                        <td align="center" width="10%"><b>timestamp modified</b></td>
+                        <td align="center" width="10%"><b>start day</b></td>
+                        <td align="center" width="10%"><b>end date</b></td>
+                        <td><b>type</b></td>
+                        <td width="50%"><b>content</b></td>
+                        <td><b>user</b></td>
+                    </tr>
+        
+            {% for i in activities %}
+                    <tr>
+                        <td align="center"><a href="{% url bird_overview i.bird.id %}"> {{ i.bird }}</a></td>
+                        <td align="center">{{ i.timestamp_created}}</td>
+                        <td align="center">{{ i.timestamp_modified}}</td>
+                        <td align="center">{{ i.start_date }}</td>
+                        <td align="center">{{ i.end_date|default_if_none:"" }}</td>
+                        <td><a href="{{ i.get_edit_url }}">{{ i.activity_type}}</a></td>
+                        <td>{{ i.get_activity_content_pretty|cage_animal_to_link }}</td>
+                        <td>{{ i.originator }}</td>
+                    </tr>
+
+                {% if forloop.last %}
+                    </table>
+                {% endif %}
+            {% endfor %}
+            
+    {% else %}
+        <h3>No activities with timestamp mismatch (created after June 23rd 2011 @ 17:50) found.</h3>
+        <br><br><br><br>
+    {% endif %}
+    
+    
+    {% if activities_old %}
+        <h3>List of activities (created before June 23rd 2011 @ 17:50) with timestamp mismatch ({{ activities_old|length }}):</h3>
+
+            {% for i, possible_date in activities_old %}
+            
+             {% with i.start_date as this_date %}
+             {% with forloop.counter0 as for_loop_counter %}
+
+                    {% ifchanged this_date  %}
+                    
+                        {% if forloop.counter0 > 0 %}
+                            </table>
+                        {% endif %}    
+                        
+                        <br><h4>Original 'Start date': {{ this_date }}</h4>
+                        
+                        <table>
+                            <tr>
+                                <td align="center" width="10%"><b>bird</b></td>
+                                <td align="center" width="10%"><b>possible creation date</b></td>
+                                <td align="center" width="10%"><b>end date</b></td>
+                                <td><b>type</b></td>
+                                <td width="50%"><b>content</b></td>
+                                <td><b>user</b></td>
+                            </tr>  
+                    
+                    {% endifchanged %}
+            
+                    <tr>
+                        <td align="center"><a href="{% url bird_overview i.bird.id %}"> {{ i.bird }}</a></td>
+                        <td align="center">{{ possible_date }}</td>
+                        <td align="center">{{ i.end_date|default_if_none:"" }}</td>
+                        <td><a href="{{ i.get_edit_url }}">{{ i.activity_type}}</a></td>
+                        <td>{{ i.activity_content }}</td>
+                        <td>{{ i.originator }}</td>
+                    </tr>
+                {% endwith %}
+                {% endwith %}
+
+                {% if forloop.last %}
+                    </table>
+                {% endif %}
+            {% endfor %}
+            
+    {% else %}
+        <h3>No activities with timestamp mismatch (created before June 23rd 2011 @ 17:50) found.</h3>
+        <br><br><br><br>
+    {% endif %}
+    
+    
+
+{% endblock %}
+

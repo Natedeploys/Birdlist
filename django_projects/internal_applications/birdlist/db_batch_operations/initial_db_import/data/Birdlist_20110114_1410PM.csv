@@ -1,0 +1,2576 @@
+Birdname;Species;Sex;Birthday;Uncertainty;Cage;Father;Mother;Date of death;Cause of death;Comment;Reserved
+974;ZF;M;01.07.2006;0;M1;;;;;Breeder. Left behind by Sandra. Good singer. Use as Tutor;TRUE
+a3-r16;ZF;;29.12.2006;4;;red16;green12;12.02.2007;End of Exp.;;FALSE
+a4-yellow1;ZF;M;11.06.2007;3;;yellow1;green12;25.07.2007;End of Exp.;;FALSE
+a5-yellow1;ZF;M;11.06.2007;3;;yellow1;green12;30.07.2007;End of Exp.;;FALSE
+a6-r12p;ZF;;01.07.2007;3;;r12p-y7o;o8p-y8;21.08.2007;End of Exp.;;FALSE
+a7-o20o;ZF;M;15.07.2007;2;;o20o-ch900;r12o-o4k;22.08.2007;End of Exp.;;FALSE
+a8-g6r1;ZF;;01.09.2008;4;;g6r1;p9r2;10.10.2008;End of Exp.;;FALSE
+a9-g6r1;ZF;M;01.09.2008;4;;g6r1;p9r2;13.10.2008;End of Exp.;;FALSE
+b10br-b3k;ZF;F;24.03.2007;5;;b3k;green9;25.06.2009;NE;not in KU 01.11.2007. Not found, presumed dead. (-janie, 25.june.2009);FALSE
+b10br-y16p;ZF;F;02.04.2007;3;;y16p-s2;o12o-r12k;24.07.2007;Given away;Given away to Johanna;FALSE
+b10k-y6;ZF;M;02.01.2006;0;;yellow6;;24.09.2006;NE;One syllable.;FALSE
+b10o-p11k;ZF;M;06.06.2006;2;;p11k-ch900;g16k;16.01.2007;End of Exp.;;FALSE
+b10p-red16;ZF;F;29.12.2006;4;;red16;green12;29.03.2007;End of Exp.;;FALSE
+b10r1;ZF;M;07.06.2007;1;;y7o-r16;r11o-o4k;17.12.2007;End of Exp.;;FALSE
+b10r10;ZF;M;11.09.2009;5;;p2r5;b5r7;25.02.2010;End of Exp.;;FALSE
+b10r11;ZF;;20.01.2010;1;;o7r10;b5r7;20.02.2010;Perished;found bird dead in bath.;FALSE
+b10r12;ZF;M;18.02.2010;5;A-U;r10s5;r10s17;;;;FALSE
+b10r13;ZF;F;24.06.2010;4;;r10s13;p3r7;16.09.2010;NE;;FALSE
+b10r14;ZF;M;01.10.2010;3;;r12s12;k16r11;03.01.2011;End of Exp.;;FALSE
+b10r15;ZF;M;24.10.2010;3;IS6;b14r4;k5r11;;;;FALSE
+b10r2;ZF;F;01.09.2007;5;;yellow1;green12;21.08.2008;NE;euthanized;FALSE
+b10r3;ZF;M;28.12.2007;4;;b16r1;o11p-p20;06.11.2009;End of Exp.;"There is a bird ringed b10r3 which was listed in the database during coupling as g12r2. Claude marked this ""b10r3"" as dead bird since it no longer exists.  (01.05.2009). Janie resurrected this bird, as it was found in KO on 20 June 2009. Reserved for Janie";FALSE
+b10r4;ZF;M;07.03.2008;1;;s3k-y8;r11o-o4k;18.06.2008;Perished;Bird perishe after third urethane injection.;FALSE
+b10r5;ZF;M;;0;;;;24.07.2009;End of Exp.;bought from qualipet on 10.10.08;FALSE
+b10r6;ZF;M;08.11.2008;4;;b7r5;g19r2;02.03.2009;End of Exp.;;FALSE
+b10r7;ZF;M;04.02.2009;7;A-U;p5r5;r2s18;;;Reserved by Claude.;TRUE
+b10r8;ZF;;05.06.2009;4;;r7p1;p13r5;22.08.2009;NE;;FALSE
+b11o-p11k;ZF;M;06.06.2006;2;;p11k-ch900;g16k;23.07.2008;End of Exp.;;FALSE
+b11p-red16;ZF;F;29.12.2006;4;;red16;green12;24.07.2007;Given away;Given away to Johanna;FALSE
+b11r1;ZF;F;30.06.2007;1;;r3p-r19o;r16o-r11;01.11.2007;Given away;Given away to Johanna;FALSE
+b11r10;ZF;M;11.09.2009;5;;p2r5;b5r7;18.01.2010;NE;;FALSE
+b11r11;ZF;;20.01.2010;1;KO;o7r10;b5r7;;;this bird grew up in isolation, till phd 82! Use it for surgeries and imaging.;FALSE
+b11r12;ZF;F;18.02.2010;5;;r10s5;r10s17;28.07.2010;Surgery;Test animal for muting surgery;FALSE
+b11r13;ZF;F;24.06.2010;4;;r10s13;p3r7;16.09.2010;NE;;FALSE
+b11r14;ZF;;04.10.2010;0;KO;o8r10;r11y2;;;;FALSE
+b11r15;ZF;M;24.10.2010;3;IS4;b14r4;k5r11;;;;FALSE
+b11r2;ZF;F;01.09.2007;5;;yellow1;green12;20.03.2009;NE;;FALSE
+b11r3;ZF;M;28.12.2007;4;;b16r1;o11p-p20;;End of Exp.;;FALSE
+b11r4;ZF;F;08.04.2008;3;;g9r1;b4p-red11;05.10.2008;End of Exp.;;FALSE
+b11r5;ZF;M;;0;;;;27.07.2009;End of Exp.;bought from qualipet on 10.10.08;FALSE
+b11r6;ZF;F;08.11.2008;4;;b7r5;g19r2;27.06.2009;NE;;FALSE
+b11r7;ZF;M;02.03.2009;0;;y16p-s2;o8r5;17.06.2010;NE;;FALSE
+b11r8;ZF;F;30.05.2009;4;FJ7;r5y11;p15r5;;;Breeder - couple with male p10r8;TRUE
+b12o-g14k;ZF;M;12.06.2006;0;;g14k;orange16;17.04.2007;End of Exp.;;FALSE
+b12p-red16;ZF;F;29.12.2006;4;;red16;green12;24.07.2007;Given away;Given away to Johanna;FALSE
+b12r1;ZF;M;30.06.2007;1;;r3p-r19o;r16o-r11;04.09.2007;Perished;Bird was found dead in cage. Inspection of the body showed no particuliar signs of illness or agression. Natural death presumed.;FALSE
+b12r10;ZF;M;11.09.2009;5;A-U;p2r5;b5r7;;;last couple separation date: 18.06.2010;FALSE
+b12r11;ZF;;20.01.2010;1;;o7r10;b5r7;21.02.2010;Perished;found dead in cage.;FALSE
+b12r12;ZF;M;18.02.2010;5;;r10s5;r10s17;02.09.2010;End of Exp.;;FALSE
+b12r13;ZF;M;30.05.2010;4;;o11r10;r8y18;05.10.2010;Surgery;;FALSE
+b12r14;ZF;M;01.10.2010;3;R6;g20r11;r12y20;;;Alexei + Josh, Tutor;TRUE
+b12r15;ZF;F;24.10.2010;3;;b14r4;k5r11;08.12.2010;End of Exp.;;FALSE
+b12r2;ZF;F;01.09.2007;5;;yellow1;green12;21.08.2008;NE;euthanized, not found in ZZ-O on 09.06.08;FALSE
+b12r3;ZF;M;28.12.2007;4;;b16r1;o11p-p20;25.06.2009;NE;missing since 3.7.08. Not found, presumed dead. (-janie, 25.june.2009);FALSE
+b12r4;ZF;M;04.04.2008;2;;r2s6;r2y1;14.07.2008;Perished;Bird escapes cage in isochamber on 14th of july and is really weak when we find it. -> euthanasia;FALSE
+b12r5;ZF;M;;0;;;;27.10.2008;End of Exp.;bought from qualipet on 10.10.08;FALSE
+b12r6;ZF;F;08.11.2008;4;;b7r5;g19r2;20.03.2009;NE;;FALSE
+b12r7;ZF;;02.03.2009;0;;y16p-s2;o8r5;;;;FALSE
+b12r8;ZF;F;30.05.2009;4;;r5y11;p15r5;04.08.2010;NE;;FALSE
+b13g-red11;ZF;M;01.01.2007;5;;red11;purple16;25.10.2008;End of Exp.;cochlear rem. by Claude;FALSE
+b13o-g14k;ZF;M;09.06.2006;0;;g14k;orange16;25.09.2006;NE;found by Johanna in Cage M1. She wrote that she has found b3o*. But this bird is supposed to be a female that's why I mark the b13o  as dead.;FALSE
+b13p-y13k;ZF;F;22.12.2006;2;;y13k-s17;purple5;24.07.2007;Given away;Given away to Johanna;FALSE
+b13r10;ZF;M;11.09.2009;5;;p2r5;b5r7;11.01.2010;End of Exp.;;FALSE
+b13r11;ZF;M;20.01.2010;1;;o7r10;b5r7;27.03.2010;Perished;raised in isolation;FALSE
+b13r12;ZF;F;18.02.2010;5;2O1;r10s5;r10s17;;;;FALSE
+b13r13;ZF;M;30.05.2010;4;;o11r10;r8y18;09.01.2011;End of Exp.;;FALSE
+b13r14;ZF;M;01.10.2010;3;R6;g20r11;r12y20;;;Relatively good song, can be used as tutor if needed;FALSE
+b13r15;ZF;;24.10.2010;3;;b14r4;k5r11;03.12.2010;Surgery;sex unknown till the end.;FALSE
+b13r2;ZF;M;28.12.2007;4;;b16r1;o11p-p20;05.02.2008;End of Exp.;;FALSE
+b13r3;ZF;M;05.09.2007;2;;g6r1;p14b-r16;24.06.2009;End of Exp.;;FALSE
+b13r4;ZF;F;08.04.2008;1;;r2s4;y8o-r16;20.03.2009;NE;;FALSE
+b13r5;ZF;M;;0;;;;15.10.2008;End of Exp.;bought from qualipet on 10.10.08;FALSE
+b13r6;ZF;F;08.11.2008;4;;b7r5;g19r2;20.03.2009;NE;;FALSE
+b13r7;ZF;;20.02.2009;1;;red11;b7br-b3k;05.05.2009;End of Exp.;;FALSE
+b13r8;ZF;F;30.05.2009;4;;r5y11;p15r5;04.08.2010;NE;;FALSE
+b14k-p11k;ZF;M;02.03.2006;0;;p11k-ch900;g16k;28.06.2006;End of Exp.;;FALSE
+b14o-sb;ZF;M;26.06.2006;0;;silverblack;purple17;07.09.2006;End of Exp.;Pipette fell off possibly due to lack of insect pin.;FALSE
+b14p-y13k;ZF;F;22.12.2006;2;;y13k-s17;purple5;20.04.2007;End of Exp.;;FALSE
+b14r1;ZF;M;17.07.2007;5;;red16;g18k-y6;23.11.2007;End of Exp.;;FALSE
+b14r10;ZF;M;11.09.2009;5;2U4;p2r5;b5r7;;;;TRUE
+b14r11;ZF;M;28.12.2009;1;?;o1r1;g15r8;;;not found in A-U on 31.Oct.2010 - jo;FALSE
+b14r12;ZF;M;28.02.2010;5;KM;o5r8;k10r2;;;;FALSE
+b14r13;ZF;M;30.05.2010;4;;o11r10;r8y18;19.09.2010;End of Exp.;was euthanized under anestesia;FALSE
+b14r14;ZF;M;01.10.2010;3;;g20r11;r12y20;06.01.2011;End of Exp.;;FALSE
+b14r15;ZF;M;08.11.2010;3;A-U;o12r10;p4r13;;;;FALSE
+b14r2;ZF;M;05.09.2007;2;;g6r1;p14b-r16;22.01.2008;End of Exp.;;FALSE
+b14r3;ZF;M;28.12.2007;4;KO;b16r1;o11p-p20;;;for breeding;TRUE
+b14r4;ZF;M;08.04.2008;1;O5;r2s4;y8o-r16;;;Breeder - couple with female o19r5. Do not kill this bird - we need it's song! (AK + AC);TRUE
+b14r5;ZF;M;;0;;;;12.05.2009;End of Exp.;bought from qualipet on 10.10.08;FALSE
+b14r6;ZF;F;;0;;r011;;15.01.2009;NE;No juvenile record and found in 2M1B looking like 60 days old. (13.01.2009 Claude).;FALSE
+b14r7;ZF;M;14.03.2009;0;;b16r6;o13r5;17.08.2009;End of Exp.;bird did not sing in isochamber. -Michael. Not found in KM on 20 June 2009 - Janie. I found it in KM on 21.06.2009. -Claude.;FALSE
+b14r8;ZF;F;30.05.2009;4;;r5y11;p15r5;08.03.2010;NE;;FALSE
+b15g-red11;ZF;F;01.01.2007;5;;red11;purple16;20.04.2007;End of Exp.;;FALSE
+b15k-p11k;ZF;F;03.03.2006;0;;p11k-ch900;g16k;06.10.2006;NE;;FALSE
+b15o-sb;ZF;F;26.06.2006;0;;silverblack;purple17;06.10.2006;NE;;FALSE
+b15p-y13k;ZF;F;22.12.2006;2;;y13k-s17;purple5;24.07.2007;Given away;Given away to Johanna;FALSE
+b15r1;ZF;F;17.07.2007;5;;red16;g18k-y6;01.11.2007;Given away;Given away to Johanna;FALSE
+b15r10;ZF;M;17.09.2009;3;;974;g2r5;29.01.2010;End of Exp.;;FALSE
+b15r11;ZF;M;28.12.2009;1;;o1r1;g15r8;19.04.2010;End of Exp.;;FALSE
+b15r12;ZF;M;28.02.2010;5;KM;o5r8;k10r2;;;;FALSE
+b15r13;ZF;F;30.05.2010;4;;r10y10;b7br-b3k;16.09.2010;NE;;FALSE
+b15r14;ZF;M;01.10.2010;3;;g20r11;r12y20;07.01.2011;End of Exp.;;FALSE
+b15r15;ZF;M;13.11.2010;4;;g16r12;o17r7;03.01.2011;NE;;FALSE
+b15r2;ZF;M;05.09.2007;2;;g6r1;p14b-r16;19.05.2008;;;FALSE
+b15r3;ZF;F;19.01.2008;5;;g13p-purple20;r8p-s19o;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+b15r4;ZF;F;16.04.2008;3;;g8r2;b11r2;21.08.2008;NE;euthanized;FALSE
+b15r5;ZF;M;;0;;;;05.05.2009;End of Exp.;bought from qualipet on 10.10.08;FALSE
+b15r6;ZF;F;05.11.2008;4;U6;b15r5;o5r5;;;Breeder;TRUE
+b15r7;ZF;M;02.03.2009;1;;b8p-s14k;p2r6;02.05.2009;NE;bird was sick, Daniele killed it.;FALSE
+b15r8;ZF;M;22.06.2009;5;;b6r5;r7y4;23.09.2009;End of Exp.;;FALSE
+b16g-red11;ZF;F;01.01.2007;5;;red11;purple16;01.11.2007;Given away;Given away to Johanna;FALSE
+b16k-r16;ZF;M;03.04.2006;5;;red16;green12;12.01.2007;End of Exp.;very nervous in setup, do not put in small cages for experiment;FALSE
+b16o-sb;ZF;F;27.06.2006;0;;silverblack;purple17;06.10.2006;NE;;FALSE
+b16p-y13k;ZF;F;22.12.2006;2;;y13k-s17;purple5;25.06.2007;End of Exp.;;FALSE
+b16r1;ZF;M;17.07.2007;5;;red16;g18k-y6;09.03.2008;Perished;"Attacked by his ex-wife ""o11p-p20"". Now with a new wife ""p10r2"". But when he sang to p10r2, there was only beak movement without song. So I put another tutor ""g12r2"" together with them (07.03.2008). Unfortunately this bird was killed by the new comers. (10.03.2008). Claude.";FALSE
+b16r10;ZF;M;17.09.2009;3;;974;g2r5;10.06.2010;End of Exp.;;FALSE
+b16r11;ZF;M;21.12.2009;5;;o8r10;o15r8;20.05.2010;End of Exp.;michael - reserved till 31.10.2010;TRUE
+b16r12;ZF;M;28.02.2010;5;KM;o5r8;k10r2;;;;FALSE
+b16r13;ZF;M;30.05.2010;4;KM;r10y10;b7br-b3k;;;;FALSE
+b16r14;ZF;M;01.10.2010;3;2M2;g20r11;r12y20;;;;FALSE
+b16r15;ZF;M;13.11.2010;4;;g16r12;o17r7;03.01.2011;NE;;FALSE
+b16r2;ZF;F;28.09.2007;0;;s20o-yellow20;p19k-o3;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+b16r3;ZF;F;15.01.2008;1;;r2s7;b12r2;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+b16r4;ZF;M;16.04.2008;3;;g8r2;b11r2;15.10.2008;End of Exp.;;FALSE
+b16r5;ZF;M;22.08.2008;0;;;;05.11.2008;End of Exp.;bought from Qualipet on 22.10.08, birthday estimated;FALSE
+b16r6;ZF;M;05.11.2008;4;;b15r5;o5r5;03.08.2009;End of Exp.;;FALSE
+b16r7;ZF;F;19.02.2009;3;;b14r3;o6r5;24.06.2009;End of Exp.;;FALSE
+b16r8;ZF;F;22.06.2009;5;;b6r5;r7y4;15.09.2010;NE;isolated female;FALSE
+b17k-sb;ZF;F;13.04.2006;0;;silverblack;purple17;06.10.2006;NE;;FALSE
+b17p-y13k;ZF;F;22.12.2006;2;;y13k-s17;purple5;24.07.2007;Given away;Given away to Johanna;FALSE
+b17r1;ZF;M;08.06.2007;3;;yellow20;blue2;09.10.2007;End of Exp.;;FALSE
+b17r10;ZF;M;17.09.2009;3;;974;g2r5;22.01.2010;Surgery;michael - GECIP YC3.60;TRUE
+b17r11;ZF;M;21.12.2009;5;;o8r10;o15r8;21.04.2010;Perished;bird one day after tracer injection;FALSE
+b17r12;ZF;F;28.02.2010;5;;o5r8;k10r2;01.05.2010;NE;;FALSE
+b17r13;ZF;M;30.05.2010;4;;r10y10;b7br-b3k;21.09.2010;End of Exp.;;FALSE
+b17r14;ZF;M;11.09.2010;2;;g4r11;r5y18;13.11.2010;NE;;FALSE
+b17r15;ZF;F;13.11.2010;4;;g16r12;o17r7;03.01.2011;NE;;FALSE
+b17r2;ZF;F;28.09.2007;0;;s20o-yellow20;p19k-o3;21.08.2008;NE;euthanized;FALSE
+b17r3;ZF;M;08.01.2008;0;;s20o-yellow20;p19k-o3;19.03.2008;End of Exp.;;FALSE
+b17r4;ZF;F;16.04.2008;3;;g8r2;b11r2;21.08.2008;NE;euthanized;FALSE
+b17r5;ZF;M;22.06.2008;0;;;;27.10.2008;End of Exp.;bought from Qualipet on 22.10.08, birthday estimated;FALSE
+b17r6;ZF;M;08.11.2008;3;;b3r5;o7r5;10.02.2009;End of Exp.;;FALSE
+b17r7;ZF;M;13.03.2009;3;;b9r5;o8p-y8;26.05.2009;End of Exp.;;FALSE
+b17r8;ZF;F;01.07.2009;2;;p3r6;r5y18;23.11.2009;NE;Was moved to R1 because was mistreated by his father;FALSE
+b18o-silver2;ZF;F;14.08.2006;2;;silver2;p6k-y8;10.11.2006;Surgery;;FALSE
+b18p-p20;ZF;M;14.02.2007;3;;purple20;purple13;03.06.2007;End of Exp.;;FALSE
+b18p-s14k;ZF;F;31.12.2006;0;;s14k-r16;p3o-sb;01.11.2007;Given away;Given away to Johanna;FALSE
+b18r1;ZF;F;07.06.2007;1;;y7o-r16;r11o-o4k;25.10.2007;End of Exp.;;FALSE
+b18r10;ZF;F;12.09.2009;2;2O2;o11r8;g15r8;;;last couple separation: 06.08.2010;FALSE
+b18r11;ZF;F;21.12.2009;5;;o8r10;o15r8;08.03.2010;NE;;FALSE
+b18r12;ZF;M;28.02.2010;5;ISO5;o5r8;k10r2;;;;FALSE
+b18r14;ZF;M;11.09.2010;2;A-U;g4r11;r5y18;;;;FALSE
+b18r15;ZF;F;13.11.2010;4;;g16r12;o17r7;03.01.2011;NE;;FALSE
+b18r2;ZF;M;15.10.2007;3;;g2r1;r1y17;05.02.2008;End of Exp.;;FALSE
+b18r3;ZF;F;27.01.2008;5;;silver15;o8p-y8;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+b18r4;ZF;M;10.04.2008;5;;o1r1;r7g-yellow8;10.07.2008;Perished;;FALSE
+b18r5;ZF;M;22.06.2008;0;;;;10.11.2008;End of Exp.;bought from Qualipet on 22.10.08, birthday estimated;FALSE
+b18r6;ZF;F;08.11.2008;3;;b3r5;o7r5;25.06.2009;NE;Not found in R4 on 24 June 2009. - Janie. Not found, presumed dead. (-janie, 25.june.2009);FALSE
+b18r7;ZF;M;13.03.2009;2;;b6r5;r5y18;08.07.2009;End of Exp.;;FALSE
+b19k-r11;ZF;M;03.04.2006;0;;red11;purple8;01.11.2006;End of Exp.;;FALSE
+b19o-sb;ZF;F;27.06.2006;0;;silverblack;purple17;06.10.2006;NE;;FALSE
+b19p-s14k;ZF;F;31.12.2006;0;;s14k-r16;p3o-sb;18.05.2007;End of Exp.;DOUBLE;FALSE
+b19p-s3k;ZF;F;19.02.2007;2;;s3k-y8;k9k-ch900;03.12.2007;End of Exp.;DOUBLE;FALSE
+b19r1;ZF;F;08.06.2007;3;;yellow20;blue2;01.11.2007;Given away;Given away to Johanna;FALSE
+b19r10;ZF;M;12.09.2009;2;;o11r8;g15r8;01.03.2010;End of Exp.;janie, acute experiment when >120 dph;TRUE
+b19r11;ZF;F;21.12.2009;5;;o8r10;o15r8;20.02.2010;NE;white female;FALSE
+b19r12;;;19.03.2010;1;;o1r10;o8r5;06.05.2010;End of Exp.;Reserved Alexei till 30.04.2010;FALSE
+b19r13;ZF;F;30.05.2010;4;;r10y10;b7br-b3k;04.08.2010;NE;;FALSE
+b19r14;ZF;M;04.10.2010;3;E4;r12s11;b13r12;;;;FALSE
+b19r15;ZF;;13.11.2010;4;;g16r12;o17r7;03.01.2011;NE;;FALSE
+b19r2;ZF;F;15.10.2007;3;;g2r1;r1y17;21.08.2008;NE;euthanized;FALSE
+b19r3;ZF;F;27.01.2008;5;;silver15;o8p-y8;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+b19r4;ZF;F;10.04.2008;5;;o1r1;r7g-yellow8;21.08.2008;NE;euthanized;FALSE
+b19r5;ZF;M;22.06.2008;0;;;;29.10.2008;End of Exp.;bought from Qualipet on 22.10.08, birthday estimated;FALSE
+b19r6;ZF;M;08.11.2008;3;;b3r5;o7r5;05.03.2009;Surgery;Died under anestia;FALSE
+b19r7;ZF;M;13.03.2009;5;;o5r6;g2r5;13.05.2009;NE;after isolation in isochambers, the bird after 2 days looked very ill and trembled a lot.. No recovery, therefore the bird was given an overdose.;FALSE
+b19r8;ZF;M;30.04.2009;0;;;;29.03.2010;End of Exp.;;FALSE
+b1b2;ZF;M;30.01.2009;5;;b3r5;o7r5;07.07.2009;End of Exp.;reserved for michael;FALSE
+b1o-b3k;ZF;F;01.04.2006;0;;b3k;blue3;06.10.2006;NE;;FALSE
+b1p-red11;ZF;M;23.11.2006;2;;red11;purple16;12.02.2007;End of Exp.;;FALSE
+b1r1;ZF;M;29.03.2007;5;;silverblack;blue3;31.08.2007;End of Exp.;;FALSE
+b1r10;ZF;M;01.09.2009;2;;r5y15;o12r3;28.05.2010;End of Exp.;;FALSE
+b1r11;ZF;F;21.12.2009;0;;o7r10;b5r7;08.03.2010;NE;;FALSE
+b1r12;ZF;M;20.02.2010;4;R5;r10y17;p4r8;;;missing red ring;FALSE
+b1r13;ZF;F;29.04.2010;2;KU;b14r10;p13r5;;;;FALSE
+b1r14;ZF;F;06.08.2010;2;;r11s16;o13r10;23.10.2010;NE;;FALSE
+b1r15;ZF;M;06.10.2010;4;;p8r12;o2r5;18.12.2010;End of Exp.;;FALSE
+b1r2;ZF;M;17.08.2007;5;;s2b-y8;r8p-s19o;25.06.2008;End of Exp.;;FALSE
+b1r3;ZF;;06.01.2008;2;;silvergreen8;green16;08.02.2008;Perished;;FALSE
+b1r4;ZF;F;18.03.2008;7;;k7r1;r14w-silver17;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+b1r5;ZF;M;;0;;;;15.09.2009;End of Exp.;bought from qualipet on 10.10.08;FALSE
+b1r6;ZF;M;02.10.2008;6;;b13r3;p3o-sb;11.12.2008;End of Exp.;;FALSE
+b1r7;ZF;F;05.12.2008;5;;p5r5;r2s18;13.04.2009;NE;cute white lil guy;FALSE
+b1r8;ZF;M;18.05.2009;3;;k13r2;o2r5;06.08.2009;End of Exp.;Transferred in KO when 53 dph because of aggressive parents;FALSE
+b20k-sg8;ZF;F;03.03.2006;0;;silvergreen8;purple5;16.02.2007;Given away;Given Away to Marianne;FALSE
+b20o-ch900;ZF;F;24.03.2006;0;;goldch900;silver1;25.06.2009;NE;Used as show girl. Not found in KM on 20 June 2009. - Janie. Not found, presumed dead. (-janie, 25.june.2009);FALSE
+b20p-red16;ZF;;29.12.2006;4;;red16;green12;29.03.2007;End of Exp.;;FALSE
+b20r1;ZF;M;08.06.2007;3;;yellow20;blue2;20.09.2008;End of Exp.;Reserved for Janie;FALSE
+b20r10;ZF;M;12.09.2009;2;;o11r8;g15r8;;;missing from cage, 13.01.2010 - michael;FALSE
+b20r11;ZF;F;21.12.2009;5;;o8r10;o15r8;20.02.2010;NE;white female;FALSE
+b20r12;;;19.03.2010;1;;o1r10;o8r5;06.05.2010;End of Exp.;Reserved Alexei till 30.04.2010;FALSE
+b20r13;ZF;F;30.05.2010;4;KU;r10y10;b7br-b3k;;;showgirl;FALSE
+b20r14;ZF;;01.10.2010;3;U3;o12r10;p4r13;;;;FALSE
+b20r15;ZF;;13.11.2010;4;;g16r12;o17r7;03.01.2011;NE;;FALSE
+b20r2;ZF;M;15.10.2007;3;;g2r1;r1y17;14.06.2008;End of Exp.;;FALSE
+b20r3;ZF;F;27.01.2008;5;;silver15;o8p-y8;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+b20r4;ZF;F;10.04.2008;5;;o1r1;r7g-yellow8;20.03.2009;NE;;FALSE
+b20r7;ZF;;05.12.2008;5;;p5r5;r2s18;25.03.2009;End of Exp.;;FALSE
+b20r8;ZF;M;30.04.2009;0;;;;02.11.2009;End of Exp.;Bought from Qualipet on 31 Aug. 2009. Estimated age.;FALSE
+b2o-b3k;ZF;F;04.05.2006;3;;b3k;blue3;06.10.2006;NE;;FALSE
+b2p-red11;ZF;M;23.11.2006;2;;red11;purple16;19.06.2007;End of Exp.;;FALSE
+b2r1;ZF;M;29.03.2007;5;;silverblack;blue3;14.11.2007;NE;malformed feet. Could no longer grasp branches.;FALSE
+b2r10;ZF;M;01.09.2009;2;;r5y15;o12r3;11.01.2010;End of Exp.;;FALSE
+b2r11;ZF;M;28.11.2009;1;;b10r7;b15r6;21.05.2010;End of Exp.;;FALSE
+b2r12;ZF;F;20.02.2010;4;;r10y17;p4r8;;NE;;FALSE
+b2r13;ZF;F;29.04.2010;2;;b14r10;p13r5;04.12.2010;NE;Killed because the offspring was with deformed beaks;FALSE
+b2r14;ZF;M;06.08.2010;2;KM;r11s16;o13r10;;;;FALSE
+b2r15;ZF;M;06.10.2010;4;;p8r12;o2r5;18.12.2010;End of Exp.;;FALSE
+b2r2;ZF;F;17.08.2007;5;;s2b-y8;r8p-s19o;01.11.2007;Given away;Given away to Johanna;FALSE
+b2r3;ZF;;06.01.2008;2;;silvergreen8;green16;02.02.2008;End of Exp.;;FALSE
+b2r4;ZF;M;18.03.2008;7;;k7r1;r14w-silver17;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+b2r5;ZF;M;;0;;;;04.11.2008;NE;bought from qualipet on 10.10.08. Bird found dead in cage after few days of illness.;FALSE
+b2r6;ZF;F;12.11.2008;3;;b14r4;o12r3;20.03.2009;NE;;FALSE
+b2r7;ZF;F;05.12.2008;5;;p5r5;r2s18;;;cute lil white guy, bird is missing on june 15, 2009;FALSE
+b2r8;ZF;;09.06.2009;4;;r7s5;p8r6;20.07.2009;NE;;FALSE
+b3b4;ZF;M;30.01.2009;5;;b3r5;o7r5;11.05.2009;NE;;FALSE
+b3k;ZF;M;;0;;;;02.07.2007;End of Exp.;father of  p16k-b3 (ibutenic acid NIf lesion);FALSE
+b3o-b3k;ZF;F;04.05.2006;3;;b3k;blue3;06.10.2006;NE;;FALSE
+b3p-red11;ZF;M;23.11.2006;4;;red11;purple16;29.03.2007;End of Exp.;;FALSE
+b3r1;ZF;M;14.04.2007;3;;o4k-p2;green13;14.04.2007;End of Exp.;;FALSE
+b3r10;ZF;M;01.09.2009;2;;r5y15;o12r3;14.01.2011;NE;bird did not sing at all in iso chamber after > 1 week...killed because screw implanataion was getting old;FALSE
+b3r12;ZF;M;20.02.2010;4;;r10y17;p4r8;29.10.2010;End of Exp.;missing b3 ring? - make sure this bird is really in R5..;FALSE
+b3r13;ZF;F;29.04.2010;2;KU;b14r10;p13r5;;;;FALSE
+b3r15;ZF;M;06.10.2010;4;;p8r12;o2r5;18.12.2010;End of Exp.;;FALSE
+b3r3;ZF;M;17.01.2008;4;;yellow10;o9o10;11.02.2008;End of Exp.;;FALSE
+B3r4;ZF;F;03.03.2008;4;;g13p-purple20;r8p-s19o;25.06.2009;NE;not in ZZ-U on 09.06.08. Not found, presumed dead. (-janie, 25.june.2009);FALSE
+b3r5;ZF;M;;0;;;;13.04.2009;NE;bought from qualipet on 10.10.08;FALSE
+b3r6;ZF;F;12.11.2008;3;;b14r4;o12r3;20.03.2009;NE;;FALSE
+b3r7;ZF;F;05.12.2008;5;;p5r5;r2s18;14.03.2009;NE;cute lil white guy;FALSE
+b3r8;ZF;;09.06.2009;4;;r7s5;p8r6;15.07.2009;NE;Bad feeding by the female;FALSE
+b4o-b3k;ZF;M;04.05.2006;3;;b3k;blue3;09.08.2006;End of Exp.;;FALSE
+b4p-red11;ZF;F;23.11.2006;4;;red11;purple16;04.10.2009;NE;;FALSE
+b4r1;ZF;M;14.04.2007;3;;o4k-p2;green13;18.07.2007;End of Exp.;;FALSE
+b4r10;ZF;M;27.09.2009;2;;o10r8;r5s1;01.02.2010;End of Exp.;michael - GECIP YC3.60 - reserved till 31.3.2010;TRUE
+b4r11;ZF;M;26.11.2009;4;;o12r8;g19r2;28.07.2010;Given away;Given to Kynan 28.7.2010;FALSE
+b4r12;ZF;M;16.02.2010;3;U1;b7r7;r6s10;;;;FALSE
+b4r14;ZF;;05.10.2010;4;;r11s16;o13r10;09.11.2010;NE;;FALSE
+b4r15;ZF;F;06.10.2010;4;;p8r12;o2r5;22.11.2010;End of Exp.;;FALSE
+b4r2;ZF;M;17.08.2007;5;;s2b-y8;r8p-s19o;26.05.2008;End of Exp.;;FALSE
+b4r3;ZF;F;04.12.2007;2;;yellow10;o9o10;28.04.2008;NE;one foot was missing. Euthanized.;FALSE
+b4r4;ZF;F;02.04.2008;1;;o19r2;r2s20;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+b4r5;ZF;M;;0;;;;;Given away;bought from qualipet on 10.10.08 (It's given away by Richard.);FALSE
+b4r6;ZF;M;12.11.2008;3;;b14r4;o12r3;29.06.2009;End of Exp.;;FALSE
+b4r7;ZF;F;06.02.2009;6;2U3;b7r5;g19r2;;;Breeder - couple with male o13r8.;TRUE
+b4r8;ZF;;09.06.2009;4;;r7s5;p8r6;21.07.2009;NE;;FALSE
+b5o-g14k;ZF;M;10.05.2006;2;;g14k;orange16;28.09.2006;End of Exp.;TRC;FALSE
+b5p-red11;ZF;M;23.11.2006;4;;red11;purple16;12.07.2007;End of Exp.;;FALSE
+b5r1;ZF;M;14.04.2007;3;;o4k-p2;green13;18.09.2007;End of Exp.;;FALSE
+b5r10;ZF;F;15.09.2009;3;;p14k;r5s4;02.06.2010;NE;;FALSE
+b5r11;ZF;F;26.11.2009;4;;o12r8;g19r2;10.04.2010;NE;;FALSE
+b5r12;ZF;M;16.02.2010;3;;b7r7;r6s10;23.08.2010;End of Exp.;;FALSE
+b5r13;ZF;M;24.06.2010;4;;r10s13;p3r7;04.10.2010;End of Exp.;Alexei;TRUE
+b5r14;ZF;M;20.08.2010;2;A-U;o8r10;r11y2;;;;FALSE
+b5r15;ZF;F;22.10.2010;2;KU;g4r10;r10s11;;;;FALSE
+b5r2;ZF;M;17.08.2007;5;;s2b-y8;r8p-s19o;;;missing;FALSE
+b5r3;ZF;F;04.12.2007;2;;yellow10;o9o10;26.02.2008;End of Exp.;;FALSE
+b5r4;ZF;F;02.04.2008;1;;o19r2;r2s20;21.08.2008;NE;euthanized;FALSE
+b5r5;ZF;M;;0;;;;14.10.2008;Surgery;bought from qualipet on 10.10.08;FALSE
+b5r6;ZF;F;21.11.2008;5;;red11;b7br-b3k;;;bird is missing on june 15, 2009;FALSE
+b5r7;ZF;F;06.02.2009;6;;b7r5;g19r2;29.11.2010;NE;;FALSE
+b5r8;ZF;M;09.06.2009;4;;r7s5;p8r6;18.09.2009;End of Exp.;Was isolated as juvenile;FALSE
+b6k-s15;ZF;F;17.10.2005;0;;silver15;;16.02.2007;Given away;Given Away to Marianne;FALSE
+b6o-p11k;ZF;M;06.06.2006;2;;p11k-ch900;g16k;10.04.2007;End of Exp.;;FALSE
+b6p-yellow20;ZF;M;17.11.2006;0;;yellow20;blue2;15.02.2007;Surgery;;FALSE
+b6r1;ZF;F;03.06.2007;4;;s3k-y8;k9k-ch900;01.11.2007;Given away;Given away to Johanna;FALSE
+b6r11;ZF;M;18.11.2009;1;;o13r8;b4r7;12.07.2010;End of Exp.;;FALSE
+b6r12;ZF;M;16.02.2010;3;;b7r7;r6s10;;;Missed (dead or unknown location), last registered in R8, isolated as juvenile;FALSE
+b6r3;ZF;M;04.12.2007;2;;yellow10;o9o10;18.08.2008;End of Exp.;(kotowicz): I found this bird in M6 and it looked very bad. It was bleeding and was missing many feathers. I decided to put it back to its parents in M3B     Moritz> looked fine to me and was transferred to KO;FALSE
+b6r4;ZF;M;02.04.2008;1;;o19r2;r2s20;28.08.2008;End of Exp.;crappy sound!!!!;FALSE
+b6r5;ZF;M;;0;;;;07.08.2009;End of Exp.;bought from qualipet on 10.10.08;FALSE
+b6r6;ZF;M;21.11.2008;5;;red11;b7br-b3k;04.06.2009;End of Exp.;;FALSE
+b6r7;ZF;F;;0;;;;24.06.2009;End of Exp.;created, cause found but not in db, June 15, 2009, michael;FALSE
+b6r8;ZF;M;05.06.2009;4;;r7p1;p13r5;30.07.2009;Perished;found bird dead in cage;FALSE
+b7br-b3k;ZF;F;24.03.2007;5;;b3k;green9;16.09.2010;NE;;FALSE
+b7o-p11k;ZF;M;06.06.2006;2;;p11k-ch900;g16k;20.11.2006;End of Exp.;;FALSE
+b7p-y13k;ZF;F;22.12.2006;2;;y13k-s17;purple5;20.04.2007;End of Exp.;;FALSE
+b7r1;ZF;M;03.06.2007;4;;s3k-y8;k9k-ch900;10.12.2007;End of Exp.;;FALSE
+b7r10;ZF;M;15.09.2009;3;;p14k;r5s4;26.12.2009;NE;;FALSE
+b7r11;ZF;F;28.11.2009;1;;b10r7;b15r6;23.10.2010;NE;;FALSE
+b7r12;ZF;M;16.02.2010;3;A-U;b7r7;r6s10;;;;FALSE
+b7r13;ZF;M;24.06.2010;4;;r10s13;p3r7;04.10.2010;End of Exp.;Alexei;TRUE
+b7r14;ZF;F;01.10.2010;3;;r12s12;k16r11;12.11.2010;NE;;FALSE
+b7r15;ZF;M;22.10.2010;2;;g4r10;r10s11;17.12.2010;End of Exp.;;FALSE
+b7r3;ZF;M;04.12.2007;2;;yellow10;o9o10;11.12.2008;End of Exp.;;FALSE
+b7r4;ZF;M;27.03.2008;1;;o20o;r16o-r11;17.08.2008;End of Exp.;;FALSE
+b7r5;ZF;M;;0;;;;17.06.2009;End of Exp.;bought from qualipet on 10.10.08, reserved for michael;FALSE
+b7r6;ZF;F;21.11.2008;5;;red11;b7br-b3k;20.03.2009;NE;;FALSE
+b7r7;ZF;M;04.02.2009;7;KO;p2r5;r2y1;;;;FALSE
+b7r8;ZF;;05.06.2009;4;;r7p1;p13r5;22.08.2009;NE;;FALSE
+b8;BF;F;;0;;;;19.10.2007;Perished;was sick (Legestau) and therefore killed. Moritz;FALSE
+b8br-b3k;ZF;F;24.03.2007;5;;b3k;green9;24.07.2007;Given away;Given away to Johanna;FALSE
+b8k;ZF;F;01.11.2005;0;;;;16.02.2007;Given away;Given Away to Marianne;FALSE
+b8o-p11k;ZF;M;06.06.2006;2;;p11k-ch900;g16k;02.10.2008;Surgery;Bird died after a Nembutal injection during experiment;FALSE
+b8p-s14k;ZF;M;31.12.2006;0;;s14k-r16;p3o-sb;22.05.2009;NE;Euthanized due to swollen foot on 'p' leg;FALSE
+b8r1;ZF;F;01.06.2007;2;;red14;red2;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+b8r10;ZF;M;15.09.2009;3;;p14k;r5s4;25.08.2010;End of Exp.;;FALSE
+b8r12;ZF;F;23.02.2010;1;;k17r8;r6s13;;Given away;Given to Virginia Meskenaite 22.07.2010;FALSE
+b8r13;ZF;F;24.06.2010;4;;r10s13;p3r7;23.10.2010;NE;;FALSE
+b8r14;ZF;F;01.10.2010;3;;r12s12;k16r11;05.11.2010;NE;;FALSE
+b8r15;ZF;M;23.09.2010;2;2U1;g13r8;r2s20;;;;FALSE
+b8r3;ZF;M;17.01.2008;4;;yellow10;o9o10;14.02.2008;End of Exp.;;FALSE
+b8r4;ZF;M;02.04.2008;0;;g12r2;p10r2;18.08.2008;End of Exp.;;FALSE
+b8r5;ZF;M;;0;;;;20.10.2008;End of Exp.;bought from qualipet on 10.10.08;FALSE
+b8r6;ZF;M;21.11.2008;5;;red11;b7br-b3k;16.03.2009;End of Exp.;;FALSE
+b8r7;ZF;M;04.02.2009;7;;p2r5;r2y1;23.12.2009;End of Exp.;reserved for gokcen and Claude.;TRUE
+b8r8;ZF;;05.06.2009;4;;r7p1;p13r5;03.11.2009;NE;;FALSE
+b9o-p11k;ZF;M;06.06.2006;2;;p11k-ch900;g16k;22.03.2007;End of Exp.;;FALSE
+b9p-red16;ZF;F;29.12.2006;4;;red16;green12;25.06.2009;NE;not in U1 - missing. Not found, presumed dead. (-janie, 25.june.2009);FALSE
+b9r1;ZF;F;08.06.2007;3;;yellow20;blue2;01.11.2007;Given away;Given away to Johanna;FALSE
+b9r12;ZF;M;18.02.2010;5;;r10s5;r10s17;23.08.2010;End of Exp.;;FALSE
+b9r14;ZF;M;01.10.2010;3;R6;r12s12;k16r11;;;Good tutor copy, can be used as a tutor;FALSE
+b9r15;ZF;M;23.09.2010;2;IS8;g13r8;r2s20;;;;FALSE
+b9r2;ZF;F;17.08.2007;5;;s2b-y8;r8p-s19o;01.11.2007;Given away;Given away to Johanna;FALSE
+b9r4;ZF;F;02.04.2008;0;;g12r2;p10r2;;;bird is missing on june 15, 2009;FALSE
+b9r5;ZF;M;;0;;;;19.06.2009;End of Exp.;bought from qualipet on 10.10.08;FALSE
+b9r6;ZF;F;21.11.2008;5;;red11;b7br-b3k;20.03.2009;NE;;FALSE
+b9r7;ZF;M;04.02.2009;7;;p2r5;r2s18;14.04.2009;NE;bird was sick.;FALSE
+basdfa;ZF;;27.05.2007;3;;goldch900;purple17;;;;FALSE
+blue10;ZF;F;01.03.2005;0;;;;24.07.2007;Given away;Given away to Johanna;FALSE
+blue18;ZF;F;;0;;;;16.06.2006;NE;"Do not use for coupling! -> abgegeben an Z""uchter";FALSE
+blue2;ZF;F;22.04.2005;0;;;;20.03.2009;NE;;FALSE
+blue3;ZF;F;22.04.2005;0;;;;24.07.2007;Given away;Given away to Johanna;FALSE
+blue7;ZF;F;;3;;;;;;is here in the database entered as to be located in M5. I found it ( did I?) in U1 and I gave it away.. Because I couldn't find an entry.;FALSE
+B-R-K209-64;BF;F;01.01.2007;0;;;;20.12.2010;NE;white bird. Found dead by Heiko;FALSE
+ch8587;ZF;M;07.08.2008;0;;;;04.12.2008;End of Exp.;bought from qualipet on 07.11.08. birthday estimated (minimum age).;FALSE
+cj1;ZF;M;26.05.2008;2;;g8r2;b11r2;13.08.2008;End of Exp.;;FALSE
+cj10;ZF;;13.03.2009;5;;o5r6;g2r5;09.07.2009;End of Exp.;;FALSE
+cj11;ZF;M;02.06.2009;3;;g13r8;r2s20;20.07.2009;Surgery;;FALSE
+cj2;ZF;M;30.06.2008;5;;r2s6;r2y1;15.08.2008;End of Exp.;;FALSE
+cj3;ZF;M;26.06.2008;7;;g12r2;p10r2;01.09.2008;End of Exp.;;FALSE
+cj4;ZF;M;07.07.2008;3;;p16p-r11;green10;08.09.2008;End of Exp.;;FALSE
+cj5;ZF;M;07.08.2008;4;;b14r3;r1y17;29.09.2008;Perished;;FALSE
+cj7;ZF;;06.02.2009;6;;b7r5;g19r2;03.04.2009;End of Exp.;;FALSE
+cj8;ZF;M;06.02.2009;6;;b7r5;g19r2;24.03.2009;End of Exp.;;FALSE
+cj9;ZF;;20.02.2009;1;;red11;b7br-b3k;30.04.2009;End of Exp.;;FALSE
+d2M2e;ZF;;04.02.2009;7;;k11r8;r2s18;19.03.2009;NE;;FALSE
+dddJM5d;ZF;F;20.10.2010;4;;o5r8;g19r13;26.12.2010;NE;;FALSE
+dddJO5a;ZF;;04.12.2010;0;;b14r4;k5r11;26.12.2010;NE;;FALSE
+dddJO5b;ZF;;29.07.2010;1;;b14r4;k5r11;;;-not found in O5 on 20.aug.2010, presumed dead - jo;FALSE
+ddJ2O4a;ZF;F;30.05.2010;4;;o11r10;r8y18;31.07.2010;NE;white female;FALSE
+ddJ2O4b;ZF;;06.11.2009;1;;p10r8;b11r8;15.11.2009;NE;;FALSE
+ddJ2O4c;ZF;F;30.05.2010;4;;o11r10;r8y18;31.07.2010;NE;white female;FALSE
+ddJ2U1d;ZF;;31.10.2009;1;;r10s16;r5s4;15.11.2009;NE;;FALSE
+ddJFJ3b;ZF;;30.10.2010;3;;r10s5;b2r13;04.12.2010;NE;Killed because of deformed beak;FALSE
+ddJFJ3c;ZF;;30.10.2010;3;;r10s5;b2r13;04.12.2010;NE;Killed because of deformed beak;FALSE
+ddJM1d;ZF;;24.11.2010;9;;974;p15r6;07.01.2011;NE;white female;FALSE
+ddJM5d;ZF;;16.04.2010;2;;r10y10;b7br-b3k;18.05.2010;NE;found dead inside the nest;FALSE
+ddJM6c;ZF;;03.11.2010;2;;o8r10;r11y2;;;;FALSE
+ddJM6e;ZF;;23.09.2009;6;;o5r8;k10r2;23.11.2009;NE;Found dead in cage.;FALSE
+ddJO3f;ZF;;05.10.2009;5;;o12r8;g19r2;15.11.2009;NE;;FALSE
+ddJO5a;ZF;;29.07.2010;1;;b14r4;k5r11;;;-not found in O5 on 20.aug.2010, presumed dead - jo;FALSE
+ddJO5b;ZF;;17.05.2010;1;;b12r10;g19r2;30.05.2010;NE;;FALSE
+ddJO7b;ZF;;07.11.2010;1;;p20r8;r10s17;12.12.2010;NE;;FALSE
+ddJU1a;ZF;;12.11.2010;0;;b4r12;o6r7;19.11.2010;NE;;FALSE
+ddJU2f;ZF;;09.04.2010;5;;r10y2;o18r8;01.05.2010;NE;;FALSE
+ddJU6a;ZF;F;20.10.2010;5;;r5y14;b15r6;26.12.2010;NE;;FALSE
+ddJU6b;ZF;F;20.10.2010;5;;r5y14;b15r6;26.12.2010;Perished;;FALSE
+deadJ2O4a;ZF;F;24.09.2010;2;;r10y14;b5r7;27.11.2010;NE;;FALSE
+deadJ2O4b;ZF;F;24.09.2010;2;;r10y14;b5r7;27.11.2010;NE;;FALSE
+deadJU2c;ZF;;22.10.2010;2;;g4r10;r10s11;28.11.2010;NE;;FALSE
+deadJU5d;ZF;F;23.09.2010;2;;g13r8;r2s20;27.11.2010;NE;;FALSE
+deadJU7a;ZF;;24.09.2010;3;;o7r10;r8s8;27.11.2010;NE;white;FALSE
+deadJU7b;ZF;;24.09.2010;3;;o7r10;r8s8;27.11.2010;NE;white;FALSE
+dFJ3lA;ZF;;02.09.2010;5;;o1r10;o15r8;14.10.2010;NE;;FALSE
+dFJ3lB;ZF;;02.09.2010;5;;o1r10;o15r8;14.10.2010;NE;;FALSE
+dFJ3lC;ZF;;02.09.2010;0;;o1r10;o15r8;14.10.2010;NE;;FALSE
+dFJ3lD;ZF;;02.09.2010;5;;o1r10;o15r8;14.10.2010;NE;;FALSE
+dFJ3lE;ZF;;02.09.2010;5;;o1r10;o15r8;14.10.2010;NE;;FALSE
+dFJ3lF;ZF;;02.09.2010;5;;o1r10;o15r8;14.10.2010;NE;;FALSE
+dFJ3rB;ZF;;02.09.2010;0;;p13r10;o14r11;14.10.2010;NE;;FALSE
+dFJ3rC;ZF;;02.09.2010;4;;p13r10;o14r11;14.10.2010;NE;;FALSE
+dJ2M1d;ZF;;18.11.2008;5;;b10r10;p15r4;16.01.2009;NE;;FALSE
+dJ2M1e;ZF;;18.11.2008;5;;p1r5;p15r4;16.01.2009;NE;;FALSE
+dJ2M2;ZF;;04.09.2009;0;;p10r8;o7r5;18.09.2009;NE;bird never existed;FALSE
+dJ2M2Bc;ZF;;12.12.2008;3;;p4r5;o1r5;;;bird missing, coult not find it in cage 2M2B on 6.2.2009, michael . Declared dead by andreas (13.3);FALSE
+dJ2M2c;ZF;;19.11.2008;4;;p2r5;r2y1;10.12.2008;Perished;;FALSE
+dJ2M3Bc;ZF;;05.11.2008;4;;b15r5;o5r5;19.12.2008;NE;;FALSE
+dJ2M3Bd;ZF;;05.11.2008;4;;b15r5;o5r5;19.12.2008;NE;;FALSE
+dJ2M3f;ZF;;20.09.2010;4;;r10y2;p3r7;24.10.2010;NE;;FALSE
+dJ2O1a;ZF;;10.01.2010;0;;k13r2;o2r5;;Perished;;FALSE
+dJ2O1b;ZF;;09.04.2010;0;;o3r10;r10y19;25.04.2010;NE;;FALSE
+dJ2O1c;ZF;;09.04.2010;0;;o3r10;r10y19;14.04.2010;NE;;FALSE
+dJ2O1d;ZF;;11.09.2010;2;;g4r11;r5y18;13.11.2010;NE;;FALSE
+dJ2O1e;ZF;;20.04.2010;4;;r10s13;p3r7;05.08.2010;NE;bird doesn't seem to exist;FALSE
+dJ2O1f;ZF;;20.04.2010;4;;r10s13;p3r7;05.08.2010;NE;bird doesn't seem to exist;FALSE
+dJ2O1g;ZF;;20.04.2010;4;;r10s13;p3r7;05.08.2010;NE;bird doesn't seem to exist;FALSE
+dJ2O1h;ZF;;20.04.2010;4;;r10s13;p3r7;05.08.2010;NE;bird doesn't seem to exist;FALSE
+dJ2O1i;ZF;;11.09.2010;2;;g4r11;r5y18;13.11.2010;NE;;FALSE
+dJ2O1j;ZF;;11.09.2010;2;;g4r11;r5y18;13.11.2010;NE;;FALSE
+dJ2O2g;ZF;;06.02.2009;6;;b7r5;g19r2;05.03.2009;NE;;FALSE
+dJ2O3a;ZF;;22.02.2009;4;;k8r2;r5s4;03.04.2009;NE;not found in cage on 3.4.09;FALSE
+dJ2O3b;ZF;;22.02.2009;4;;k8r2;r5s4;03.04.2009;NE;not found in cage on 3.4.09;FALSE
+dJ2O3c;ZF;;22.02.2009;4;;k8r2;r5s4;03.04.2009;NE;not found in cage on 3.4.09;FALSE
+dJ2O3d;ZF;;22.04.2010;0;;o10r10;g5r11;27.06.2010;NE;Whitie;FALSE
+dJ2O3f;ZF;;21.08.2009;5;;purple022;g17r8;12.09.2009;NE;;FALSE
+dJ2O3f1;ZF;;21.12.2009;5;;o8r10;o15r8;03.02.2010;NE;;FALSE
+dJ2O4a;ZF;F;08.02.2009;5;;y12red;p12r4;09.11.2009;NE;bird is missing on june 15, 2009;FALSE
+dJ2O4b;ZF;;08.02.2009;5;;y12red;p12r4;13.03.2009;NE;;FALSE
+dJ2O4c;ZF;;19.12.2008;6;;y12red;p12r4;06.02.2009;NE;;FALSE
+dJ2O4ca;ZF;;08.02.2009;5;;y12red;p12r4;13.03.2009;NE;;FALSE
+dJ2O4d;ZF;;08.02.2009;5;;y12red;p12r4;13.03.2009;NE;;FALSE
+dJ2O4e;ZF;;08.02.2009;5;;y12red;p12r4;05.03.2009;NE;;FALSE
+dJ2O4ef;ZF;;15.04.2010;4;;o11r10;r8y18;31.07.2010;NE;found in the database, nobody entered the right date of death;FALSE
+dJ2O4g;ZF;;07.03.2010;3;;o11r10;r8y18;06.04.2010;Perished;;FALSE
+dJ2U1a;ZF;;09.08.2010;0;;o10r8;r11y8;13.09.2010;NE;;FALSE
+dJ2U1c;ZF;;24.01.2010;3;;r5y14;r7y1;29.01.2010;NE;;FALSE
+dJ2U1d;ZF;;15.09.2009;3;;p14k;r5s4;27.09.2009;NE;;FALSE
+dJ2U2Bf;ZF;;30.01.2009;5;;b3r5;o7r5;05.03.2009;NE;;FALSE
+DJ2U3a;ZF;;30.05.2010;0;;r10s5;r10s17;06.06.2010;Perished;;FALSE
+dJ2U3b;ZF;;07.01.2010;1;;r10s5;r10s17;09.02.2010;NE;;FALSE
+dJ2U3c;ZF;;19.11.2010;2;;r12s14;b4r7;26.12.2010;NE;;FALSE
+dJ2U3e;ZF;;06.10.2010;4;;r12s14;b4r7;24.10.2010;NE;;FALSE
+dJ2U4a;ZF;;13.03.2009;2;;b6r5;r5y18;;NE;;FALSE
+dJ2U4b;ZF;;11.09.2010;3;;o4r10;r12s2;13.11.2010;NE;;FALSE
+dJ2U4c;ZF;;11.09.2010;3;;o4r10;r12s2;13.11.2010;NE;;FALSE
+dJ2U4d;ZF;;11.09.2010;3;;o4r10;r12s2;13.11.2010;NE;;FALSE
+dJ2U4e;ZF;;;3;;;;;;;FALSE
+dJAd;BF;;28.10.2008;7;;;;24.11.2008;NE;;FALSE
+dJAe;BF;;28.10.2008;7;;;;24.11.2008;NE;;FALSE
+dJAf;BF;;28.10.2008;7;;;;24.11.2008;NE;;FALSE
+dJAg;BF;;28.10.2008;7;;;;24.11.2008;NE;;FALSE
+dJAh;BF;;28.10.2008;7;;;;24.11.2008;NE;;FALSE
+dJAi;BF;;28.10.2008;7;;;;24.11.2008;NE;;FALSE
+dJA-Oh;BF;;01.07.2010;15;;;;31.07.2010;NE;bird probably never existed;FALSE
+dJE12d;ZF;;05.10.2010;4;;r11s16;o13r10;09.11.2010;NE;;FALSE
+dJE12e;ZF;;05.10.2010;4;;r11s16;o13r10;31.10.2010;NE;;FALSE
+dJFJ2c;ZF;F;28.10.2010;2;;o3r8;b18r10;02.12.2010;NE;;FALSE
+dJFJ2d;ZF;;07.12.2010;2;;p15r8;r2y1;11.01.2011;NE;alexei + josh;TRUE
+dJFJ2e;ZF;;21.08.2009;4;;k13r2;o2r5;08.09.2009;Perished;used to be JU2e;FALSE
+dJFJ3a;ZF;;30.10.2010;3;;r10s5;b2r13;04.12.2010;NE;Killed because deformed beak;FALSE
+dJFJ3b;ZF;F;04.10.2010;3;;r12s11;b13r12;12.11.2010;NE;;FALSE
+dJFJ3c;ZF;F;04.10.2010;3;;r12s11;b13r12;12.11.2010;NE;;FALSE
+dJFJ3d;ZF;F;04.10.2010;3;;r12s11;b13r12;12.11.2010;NE;;FALSE
+dJFJ3e;ZF;;10.12.2010;2;;p8r12;o2r5;14.01.2011;NE;alexei + josh;TRUE
+dJFJ4b;ZF;;03.11.2010;2;;o8r10;r11y2;08.12.2010;NE;;FALSE
+dJFJ5b;ZF;;25.04.2009;2;;r7s5;o6r7;12.05.2009;NE;;FALSE
+dJFJ5c;ZF;;25.04.2009;2;;r7s5;o6r7;12.05.2009;NE;;FALSE
+dJFJ5d;ZF;;25.04.2009;2;;r7s5;o6r7;12.05.2009;NE;;FALSE
+dJM1a;ZF;;14.05.2008;5;;r2s6;r2y1;13.06.2008;NE;;FALSE
+dJM1b;ZF;;31.10.2010;0;;974;p15r6;13.11.2010;NE;;FALSE
+dJM1Bi;ZF;;28.09.2007;2;;b13g-red11;s11p-yellow8;19.10.2007;NE;;FALSE
+dJM1d;ZF;;04.04.2008;2;;r2s6;r2y1;;;;FALSE
+dJM1dd;ZF;;02.10.2009;3;;b14r4;o19r5;28.10.2009;NE;bird had lost almost all of its feathers - probably a white female;FALSE
+dJM1e;ZF;;14.05.2008;5;;r2s6;r2y1;20.06.2008;Perished;;FALSE
+dJM1ee;ZF;;24.11.2010;9;;974;p15r6;;;;FALSE
+dJM1f;ZF;;30.06.2008;5;;r2s6;r2y1;15.08.2008;NE;;FALSE
+dJM1q;ZF;;10.09.2010;3;;974;p15r6;29.11.2010;NE;;FALSE
+dJM2a;ZF;;25.12.2010;1;;o1r14;g5r14;;;;FALSE
+dJM2b;ZF;;25.12.2010;1;;o1r14;g5r14;;;;FALSE
+dJM2Ba;ZF;;02.01.2007;2;;s18o;orange16;31.01.2007;NE;Malformed feet.;FALSE
+dJM2Bb;ZF;;02.01.2007;2;;s18o;orange16;29.01.2007;NE;malformed feet.;FALSE
+dJM2Bc;ZF;M;24.11.2007;5;;g7r1;orange16;20.01.2008;NE;;FALSE
+dJM3b;ZF;;01.10.2007;2;;y16p-s2;o12o-r12k;19.10.2007;NE;;FALSE
+dJM3Ba;ZF;;20.11.2006;3;;yellow14;green16;22.12.2006;NE;;FALSE
+djM3Ba(24.4.2008);ZF;;17.04.2008;1;;yellow10;o9o10;24.04.2008;;;FALSE
+djM3Bb(24.4.2008);ZF;;17.04.2008;1;;yellow10;o9o10;24.04.2008;;;FALSE
+dJM3Bc;ZF;;04.05.2008;5;;yellow10;o9o10;20.06.2008;NE;;FALSE
+dJM3Bd;ZF;;09.03.2008;3;;yellow10;o9o10;;;;FALSE
+dJM3Be;ZF;;04.05.2008;5;;yellow10;o9o10;;;;FALSE
+dJM3c;ZF;;04.07.2007;3;;y16p-s2;o12o-r12k;04.07.2007;NE;;FALSE
+dJM3d;ZF;;15.05.2006;2;;red16;green12;25.05.2006;NE;Dead in the cage.;FALSE
+dJM3e;ZF;;04.07.2007;3;;y16p-s2;o12o-r12k;04.07.2007;NE;;FALSE
+dJM4a;ZF;;02.06.2006;0;;silver2;p6k-y8;09.06.2006;NE;;FALSE
+dJM4b;ZF;;05.05.2010;1;;r10y14;r10y7;27.06.2010;NE;;FALSE
+dJM4Bg;ZF;;21.11.2006;6;;s19o;green10;22.12.2006;NE;;FALSE
+dJM4c;ZF;;29.06.2009;3;;o1r1;r2y1;;;;FALSE
+dJM4d;ZF;;05.05.2010;1;;r10y14;r10y7;27.06.2010;NE;;FALSE
+dJM4f;ZF;;07.08.2009;5;;o1r1;r2y1;12.09.2009;NE;;FALSE
+dJM5a;ZF;;25.04.2009;2;;r7s5;o6r7;14.05.2009;NE;;FALSE
+dJM5b;ZF;F;20.10.2010;4;;o5r8;g19r13;26.12.2010;NE;;FALSE
+dJM5Bf;ZF;;11.02.2008;3;;g5r1;purple13;;;;FALSE
+dJM5c;ZF;;13.02.2008;4;;g9r1;b4p-red11;;;;FALSE
+dJM5d;ZF;;13.02.2008;4;;g9r1;b4p-red11;;;;FALSE
+dJM5h;ZF;F;20.10.2010;4;;o5r8;g19r13;26.12.2010;NE;;FALSE
+dJM6a;ZF;;20.08.2010;2;;o8r10;r11y2;27.08.2010;NE;;FALSE
+dJM6b;ZF;;20.08.2010;2;;p8r12;r11y2;;;;FALSE
+dJM6c;ZF;F;10.04.2010;7;;k17r8;r6s13;11.06.2010;Given away;;FALSE
+dJM6d;ZF;;03.10.2007;3;;r6p-r9k;red5;22.11.2007;NE;;FALSE
+dJM6e;ZF;;03.10.2007;3;;r6p-r9k;red5;27.10.2007;NE;;FALSE
+dJM6f;ZF;;25.06.2008;4;;silver15;o8p-y8;;;;FALSE
+dJM7a;ZF;;17.11.2006;0;;orange3;red5;30.11.2006;NE;dead in nest;FALSE
+dJM7b;ZF;;17.11.2006;0;;orange3;red5;30.11.2006;NE;dead in nest;FALSE
+dJM7Ba;ZF;;01.06.2008;3;;r3s3;k12r2;13.06.2008;NE;;FALSE
+dJM7Bf;ZF;;01.06.2008;6;;r3s3;k12r2;23.06.2008;NE;;FALSE
+dJM7c;ZF;;20.09.2010;2;;p1r11;p18r8;19.11.2010;NE;;FALSE
+dJM7d;ZF;F;19.08.2009;3;;r011;o8r5;06.11.2009;NE;;FALSE
+dJM7e;ZF;F;19.08.2009;3;;r011;o8r5;06.11.2009;NE;;FALSE
+dJM7q;ZF;;20.09.2010;2;;r13s8;p18r8;;;;FALSE
+dJM7qq;ZF;;20.09.2010;2;;g3r13;p18r8;;;;FALSE
+dJO1a;ZF;;06.12.2009;0;;r6s5;o6r7;17.12.2009;NE;;FALSE
+dJO1b;ZF;;11.04.2010;4;;o5r8;k10r2;25.04.2010;NE;;FALSE
+dJO1c;ZF;;11.04.2010;4;;o5r8;k10r2;25.04.2010;NE;;FALSE
+dJO1d;ZF;;11.04.2010;4;;o5r8;k10r2;25.04.2010;NE;;FALSE
+dJO1f;ZF;;24.03.2006;0;;purple20;purple13;28.04.2006;NE;;FALSE
+dJO1q;ZF;;26.05.2010;1;;o5r8;k10r2;21.06.2010;Perished;;FALSE
+dJO2a;ZF;;23.02.2010;1;;o1r10;o8r5;05.03.2010;NE;;FALSE
+dJO2b;ZF;;30.10.2010;3;;r10s5;b2r13;13.11.2010;NE;;FALSE
+dJO2e;ZF;;07.11.2007;4;;yellow1;green12;19.06.2008;NE;;FALSE
+dJO2f;ZF;;10.09.2010;6;;r12s14;b2r13;;;;FALSE
+dJO3a;ZF;;16.02.2008;0;;p9r1;g7r2;22.02.2008;NE;;FALSE
+dJO3c;ZF;;13.06.2006;0;;red14;red2;16.06.2006;NE;;FALSE
+dJO3e;ZF;;13.06.2006;2;;red14;red2;16.06.2006;NE;;FALSE
+dJO3f;ZF;;30.05.2009;4;;r5y11;p15r5;10.07.2009;NE;;FALSE
+dJO3u;ZF;;18.08.2010;3;;r12s12;k16r11;20.09.2010;NE;;FALSE
+dJO4aa;ZF;;23.10.2008;2;;b7r3;p20r3;01.11.2008;NE;;FALSE
+dJO4b;ZF;;08.11.2010;3;;o12r10;p4r13;07.01.2011;NE;white female;FALSE
+dJO4Ba;ZF;;06.05.2008;0;;o19r2;r2s20;;;;FALSE
+dJO4Bb;ZF;;19.07.2008;0;;o19r2;r2s20;13.08.2008;NE;;FALSE
+dJO4bc;ZF;;23.10.2008;2;;b7r3;p20r3;01.11.2008;NE;;FALSE
+dJO4c;ZF;;08.11.2010;3;;o12r10;p4r13;07.01.2011;NE;white female;FALSE
+dJO4d;ZF;;01.10.2010;3;;o12r10;p4r13;04.11.2010;NE;found dead in the nest;FALSE
+dJO4v;ZF;;08.11.2010;3;;o12r10;p4r13;07.01.2011;NE;white female;FALSE
+dJO5a;ZF;;11.05.2006;0;;r12k-ch900;g4k;19.05.2005;NE;;FALSE
+dJO5aa;ZF;;10.09.2009;1;;o8r8;k5r2;18.09.2009;NE;bird never existed;FALSE
+dJO5aaa;ZF;;17.05.2010;1;;b12r10;g19r2;10.06.2010;NE;;FALSE
+dJO5b;ZF;;22.09.2006;1;;r12k-ch900;g4k;27.09.2006;NE;;FALSE
+dJO5ba;ZF;;10.09.2009;1;;o8r8;k5r2;18.09.2009;NE;bird never existed;FALSE
+dJO5d;ZF;F;16.08.2010;3;;b14r4;k5r11;15.10.2010;NE;;FALSE
+dJO5q;ZF;;16.08.2010;3;;b14r4;k5r11;;;;FALSE
+dJO5qq;ZF;;16.08.2010;3;;b14r4;k5r11;;;;FALSE
+dJO6a;ZF;;10.07.2009;1;;b7r7;r6s10;;;;FALSE
+dJO6e;ZF;;15.09.2009;4;;b7r7;r6s10;01.11.2009;NE;Not found in cage on 01.Nov.2009, presumed to be dead. - janie;FALSE
+dJO7b;ZF;;09.09.2009;3;;purple050;o18r7;18.09.2009;NE;died;FALSE
+dJO7c;ZF;;22.06.2009;5;;b6r5;r7y4;29.06.2009;NE;;FALSE
+dJO7ca;ZF;;09.09.2009;3;;purple050;o18r7;18.09.2009;NE;bird died.;FALSE
+dJO7d;ZF;;22.06.2009;5;;b6r5;r7y4;29.06.2009;NE;;FALSE
+dJO7da;ZF;;09.09.2009;3;;purple050;o18r7;18.09.2009;NE;bird never existed;FALSE
+dJO7e;ZF;;22.06.2009;5;;b6r5;r7y4;29.06.2009;NE;;FALSE
+DJsubsong;ZF;M;27.05.2007;3;;goldch900;purple17;17.07.2007;End of Exp.;;FALSE
+DJsubsong2;ZF;M;11.06.2007;3;;yellow1;green12;28.07.2007;Perished;;FALSE
+dJU1a;ZF;;13.03.2010;5;;974;r5y18;25.04.2010;NE;;FALSE
+dJU1b;ZF;;02.12.2010;1;;b4r12;o6r7;10.12.2010;Perished;;FALSE
+dJU1c;ZF;;29.05.2008;3;;p16p-r11;green10;13.06.2008;NE;;FALSE
+dJU1d;ZF;;07.07.2008;3;;p16p-r11;green10;13.08.2008;NE;;FALSE
+dJU1e;ZF;;19.06.2010;5;;p10r8;b11r8;;;;FALSE
+dJU1f;ZF;;06.01.2009;4;;red11;b7br-b3k;11.02.2009;NE;;FALSE
+dJU1fa;ZF;;17.10.2008;5;;red11;b7br-b3k;01.11.2008;NE;;FALSE
+dJU1g;ZF;;06.01.2009;4;;red11;b7br-b3k;25.06.2009;NE;bird is missing, could not find it in cage U1 on 6.2.2009, michael. Not found, presumed dead. (-janie, 25.june.2009);FALSE
+dJU2Ba;ZF;;19.12.2008;0;;yellow20;o6r4;;;;FALSE
+dJU2Bc;ZF;;30.06.2007;1;;r3p-r19o;r16o-r11;06.07.2007;NE;;FALSE
+dJU2c;ZF;;18.05.2009;3;;k13r2;o2r5;30.05.2009;NE;bird probably never existed;FALSE
+dJU2c2;ZF;;01.07.2009;3;;k13r2;o2r5;17.07.2009;;;FALSE
+dJU2d;ZF;;09.06.2008;3;;b14r3;r1y17;11.08.2008;NE;;FALSE
+dJU2f;ZF;;25.02.2010;6;;r10y2;o18r8;18.03.2010;NE;if male, it may be used to shift some pitch. Reserved until 31.12.2019 (alessandro);FALSE
+dJU2fa;ZF;;26.09.2008;0;;b14r3;r1y17;01.11.2008;NE;;FALSE
+dJU2fx;ZF;;27.11.2010;5;;g4r10;r10s11;09.12.2010;Perished;;FALSE
+dJU3a;ZF;;30.06.2010;0;;o1r1;g17r8;31.07.2010;NE;not found in the cage;FALSE
+dJU3b;ZF;;06.04.2010;0;;b7r7;r6s10;25.04.2010;NE;;FALSE
+dJU3Ba;ZF;;16.04.2008;5;;r3p-r19o;s11p-yellow8;28.04.2008;NE;found dead on floor;FALSE
+dJU3Bb;ZF;;16.04.2008;5;;r3p-r19o;s11p-yellow8;28.04.2008;NE;found dead on floor;FALSE
+dJU3Bc;ZF;;16.04.2008;5;;r3p-r19o;s11p-yellow8;28.04.2008;NE;found dead on floor;FALSE
+dJU3Bd;ZF;;11.06.2007;4;;b11o-p11k;g9b-o4k;06.07.2007;NE;;FALSE
+dJU3Bd2;ZF;;16.04.2008;5;;r3p-r19o;s11p-yellow8;28.04.2008;NE;found dead on floor;FALSE
+dJU3Be;ZF;;16.04.2008;5;;r3p-r19o;s11p-yellow8;28.04.2008;NE;found dead on floor;FALSE
+dJU3c;ZF;;04.03.2007;1;;silverblack;blue3;10.03.2007;NE;;FALSE
+dJU3d;ZF;;04.03.2007;0;;silverblack;blue3;10.03.2007;NE;;FALSE
+dJU3e;ZF;;04.03.2007;0;;silverblack;blue3;10.03.2007;NE;;FALSE
+dJU3f;ZF;;18.09.2006;3;;red11;purple8;19.10.2006;NE;;FALSE
+dJU3k;ZF;;28.08.2007;0;;s17o;green10;20.09.2007;NE;;FALSE
+dJU4b;ZF;;25.06.2007;3;;p14k-p2;purple8;06.07.2007;NE;;FALSE
+dJU4f;ZF;F;01.10.2010;3;;g20r11;r12y20;06.11.2010;NE;;FALSE
+dJU5a;ZF;;08.12.2006;3;;yellow20;blue2;15.12.2006;NE;;FALSE
+dJU5b;ZF;;20.07.2007;0;;s2b-y8;r8p-s19o;;;;FALSE
+dJU5Be;ZF;;30.12.2007;4;;g6r1;p14b-r16;;;;FALSE
+dJU5c;ZF;F;23.09.2010;2;;g13r8;r2s20;27.11.2010;NE;;FALSE
+dJU5d;ZF;;15.07.2009;3;;p2s2;b7br-b3k;;;this bird never existed;FALSE
+dJU5e;ZF;;23.09.2010;2;;g13r8;r2s20;29.11.2010;NE;;FALSE
+dJU6a;ZF;;11.04.2007;3;;o20o-ch900;r12o-o4k;08.05.2007;NE;Moritz: was baddly picked by father - separated from parents.;FALSE
+dJU6b;ZF;;01.07.2009;2;;p3r6;r5y18;17.07.2009;NE;;FALSE
+dJU6bb;ZF;;24.12.2010;2;;r5y14;b15r6;;;;FALSE
+dJU6Be;ZF;;26.06.2008;7;;g12r2;p10r2;17.10.2008;NE;;FALSE
+dJU6c;ZF;M;14.07.2006;2;;y13k-s17;p19k-o3;01.09.2006;NE;;FALSE
+dJU6cc;ZF;;24.12.2010;2;;r5y14;b15r6;;;;FALSE
+dJU6d;ZF;F;03.09.2010;4;;r5y14;b15r6;24.10.2010;NE;;FALSE
+dJU6e;ZF;;11.04.2009;4;;y16p-s2;o8r5;;;;FALSE
+dJU6f;ZF;;26.12.2009;6;;p15r8;r2y1;29.01.2010;NE;;FALSE
+dJU6fa;ZF;;26.07.2010;5;;k13r2;o2r5;;;;FALSE
+dJU6k;ZF;F;03.09.2010;4;;r5y14;b15r6;24.10.2010;NE;;FALSE
+dJU7a;ZF;;15.07.2009;1;;r5y14;r7y1;;;;FALSE
+dJU7b;ZF;;12.04.2010;3;;g4r10;r10s11;25.04.2010;NE;;FALSE
+dJU7c;ZF;;02.10.2007;2;;r12p-y7o;o8p-y8;10.10.2007;NE;;FALSE
+dJU7d;ZF;;12.04.2010;2;;g4r10;r10s11;25.04.2010;NE;;FALSE
+dJU7e;ZF;;13.08.2010;5;;o7r10;r8s8;27.08.2010;NE;;FALSE
+dJU7f;ZF;;13.08.2010;5;;o7r10;r8s8;27.08.2010;NE;;FALSE
+dJU7x;ZF;;21.05.2010;2;;g4r10;r10s11;05.06.2010;NE;;FALSE
+dJZZ2b;ZF;;10.10.2007;2;;g1o-g14k;g15p-purple20;12.11.2007;NE;;FALSE
+dneJ2O2e;ZF;;;4;;;;;;;FALSE
+dneJM2Bd;ZF;;;4;;;;;;;FALSE
+dummy;ZF;;01.07.2009;4;;o11r8;o19r5;;;;FALSE
+dummy2;ZF;;30.07.2009;0;;o12r8;r7y2;;;;FALSE
+g10o-g14k;ZF;M;21.07.2006;4;;g14k;orange16;22.03.2007;End of Exp.;;FALSE
+g10p-s19o;ZF;F;21.11.2006;2;;s19o;green10;16.02.2007;Given away;Given Away to Marianne;FALSE
+g10r1;ZF;M;18.07.2007;5;;s17o;green10;26.10.2007;End of Exp.;;FALSE
+g10r10;ZF;M;19.08.2009;3;;r011;o8r5;10.12.2009;End of Exp.;;FALSE
+g10r11;ZF;F;21.12.2009;1;;o1r10;o8r5;20.02.2010;NE;white female;FALSE
+g10r12;ZF;M;26.03.2010;2;;o7r10;b5r7;27.07.2010;End of Exp.;;FALSE
+g10r13;ZF;F;10.05.2010;2;?;o7r10;b5r7;;;did not find in R10, 15 Sept 2010 - jo;FALSE
+g10r14;ZF;M;31.07.2010;3;;g4r11;r5y18;23.11.2010;End of Exp.;;FALSE
+g10r15;ZF;M;10.12.2010;2;E10;p8r12;o2r5;;;alexei + josh;TRUE
+g10r2;ZF;M;28.09.2007;2;;b13g-red11;s11p-yellow8;29.05.2008;End of Exp.;;FALSE
+g10r3;ZF;M;12.02.2008;5;;o20o;r16o-r11;26.05.2008;End of Exp.;;FALSE
+g10r4;ZF;M;25.06.2008;4;;silver15;o8p-y8;09.12.2008;End of Exp.;;FALSE
+g10r5;ZF;F;07.07.2008;7;;g8r1;k10r2;20.03.2009;NE;possibly 10 days of uncertainty - slipped through into next cage;FALSE
+g10r7;ZF;M;05.12.2008;5;;p5r5;r2s18;25.03.2009;End of Exp.;;FALSE
+g10r8;ZF;M;28.03.2009;3;;r6y10;b15r6;09.06.2009;End of Exp.;Reserved for Patrick;FALSE
+g11o-g14k;ZF;M;21.07.2006;4;;g14k;orange16;06.12.2006;End of Exp.;;FALSE
+g11p-s19o;ZF;M;21.11.2006;2;;s19o;green10;19.01.2007;End of Exp.;;FALSE
+g11r1;ZF;F;18.07.2007;5;;s17o;green10;01.11.2007;Given away;Given away to Johanna;FALSE
+g11r11;ZF;F;21.12.2009;1;;o1r10;o8r5;08.03.2010;NE;;FALSE
+g11r12;ZF;F;26.03.2010;2;;o7r10;b5r7;05.06.2010;NE;White;FALSE
+g11r13;ZF;F;10.05.2010;2;;o7r10;b5r7;23.10.2010;NE;;FALSE
+g11r14;ZF;F;31.07.2010;1;;o1r10;o15r8;17.09.2010;NE;;FALSE
+g11r15;ZF;;10.12.2010;2;E11;p8r12;o2r5;;;alexei + josh;TRUE
+g11r2;ZF;M;28.09.2007;0;;yellow20;blue2;14.12.2007;End of Exp.;;FALSE
+g11r3;ZF;M;05.02.2008;4;;o1r1;r7g-yellow8;16.05.2008;End of Exp.;tried to record from auditory neurons in ovoidalis. Didn't find any. Did burns.;FALSE
+g11r4;ZF;M;25.06.2008;4;;silver15;o8p-y8;10.12.2008;Surgery;;FALSE
+g11r5;ZF;F;07.08.2008;4;;b14r3;r1y17;09.01.2009;NE;;FALSE
+g11r6;ZF;F;16.11.2008;3;;b11r5;g18k-y6;20.03.2009;NE;;FALSE
+g11r7;ZF;F;19.12.2008;2;;g13p-purple20;p14b-r16;20.03.2009;NE;;FALSE
+g11r8;ZF;F;27.03.2009;3;;g4r6;r6s4;31.07.2009;End of Exp.;;FALSE
+g12k-y8;ZF;F;14.11.2005;0;;yellow8;;15.11.2006;End of Exp.;Used as show girl.;FALSE
+g12o-g14k;ZF;M;21.07.2006;4;;g14k;orange16;16.11.2006;End of Exp.;;FALSE
+g12p-s19o;ZF;M;21.11.2006;6;;s19o;green10;02.03.2007;End of Exp.;;FALSE
+g12r1;ZF;M;18.07.2007;5;;s17o;green10;23.10.2007;End of Exp.;;FALSE
+g12r11;ZF;F;27.12.2009;1;;purple050;r8p-s19o;10.04.2010;NE;;FALSE
+g12r12;ZF;M;17.04.2010;7;R4;g4r10;r10s11;;;bird has white stuff at the top of his beak. (18.10.2010);TRUE
+g12r13;ZF;M;03.05.2010;2;;r5y15;r5s1;13.08.2010;Surgery;;FALSE
+g12r14;ZF;F;31.07.2010;1;;o1r10;o15r8;17.09.2010;NE;;FALSE
+g12r15;ZF;;10.12.2010;2;E12;p8r12;o2r5;;;alexei + josh;TRUE
+g12r2;ZF;M;17.11.2007;3;A-U;y7o-r16;purple16;;;;FALSE
+g12r3;ZF;F;05.02.2008;4;;o1r1;r7g-yellow8;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+g12r4;ZF;M;25.06.2008;4;;silver15;o8p-y8;09.12.2008;End of Exp.;;FALSE
+g12r5;ZF;F;07.08.2008;4;;b14r3;r1y17;13.11.2008;End of Exp.;;FALSE
+g12r6;ZF;M;01.12.2008;5;;g12r2;r8p-s19o;10.02.2009;End of Exp.;;FALSE
+g12r7;ZF;M;17.01.2009;5;;b9r5;o8p-y8;21.05.2009;End of Exp.;;FALSE
+g12r8;ZF;F;27.03.2009;3;?;g4r6;r6s4;;;9.11.2009 (AK): didn't find bird in KU;FALSE
+g13o-g14k;ZF;F;21.07.2006;4;;g14k;orange16;01.10.2007;NE;;FALSE
+g13p-purple20;ZF;M;31.12.2006;3;;purple20;purple13;18.06.2009;End of Exp.;reserved for michael;FALSE
+g13r1;ZF;F;01.07.2007;7;;orange3;r9p-s19o;01.11.2007;Given away;Given away to Johanna;FALSE
+g13r11;ZF;F;27.12.2009;1;;purple050;r8p-s19o;08.03.2010;NE;;FALSE
+g13r12;ZF;M;23.04.2010;2;;974;r5y18;30.05.2010;Surgery;;FALSE
+g13r13;ZF;M;03.05.2010;2;;r5y15;r5s1;16.08.2010;End of Exp.;;FALSE
+g13r14;ZF;M;28.07.2010;0;;o4r10;r12s2;14.10.2010;End of Exp.;;FALSE
+g13r2;ZF;F;11.10.2007;5;;s17o;green10;03.09.2008;NE;;FALSE
+g13r3;ZF;F;05.02.2008;4;;o1r1;r7g-yellow8;08.05.2008;End of Exp.;;FALSE
+g13r4;ZF;M;26.06.2008;7;;g12r2;p10r2;21.10.2008;End of Exp.;;FALSE
+g13r5;ZF;M;07.08.2008;4;;b14r3;r1y17;10.09.2008;End of Exp.;;FALSE
+g13r6;ZF;F;01.12.2008;5;;g12r2;r8p-s19o;20.03.2009;NE;;FALSE
+g13r7;ZF;F;21.12.2008;3;;s17o;r7g-yellow8;20.03.2009;NE;;FALSE
+g13r8;ZF;M;17.09.2008;3;2O3;s3k-y8;p10r2;;;Breeder - couple with female r2s20. Re-ringed : formerly know as r5s14. michael, 22. juni 2009 -;TRUE
+g14k;ZF;M;;0;;;;01.06.2007;End of Exp.;good song.;FALSE
+g14o-g14k;ZF;M;21.07.2006;4;;g14k;orange16;18.12.2006;End of Exp.;;FALSE
+g14p-p20;ZF;F;31.12.2006;3;;purple20;purple13;25.04.2007;End of Exp.;;FALSE
+g14r1;ZF;M;01.07.2007;7;;orange3;r9p-s19o;24.09.2007;End of Exp.;;FALSE
+g14r10;ZF;F;21.08.2009;4;;purple022;g17r8;06.11.2009;NE;;FALSE
+g14r11;ZF;M;21.01.2010;3;;o5r8;k10r2;21.06.2010;Surgery;died under anestesia.;FALSE
+g14r12;ZF;F;23.04.2010;2;;974;r5y18;03.06.2010;End of Exp.;;FALSE
+g14r13;ZF;M;03.05.2010;2;;r5y15;r5s1;20.09.2010;End of Exp.;;FALSE
+g14r14;ZF;M;17.08.2010;3;KM;g13r8;r2s20;;;;FALSE
+g14r15;ZF;M;04.10.2010;0;O1;p11r10;o16r13;;;;FALSE
+g14r2;ZF;F;11.10.2007;5;;s17o;green10;27.02.2008;Perished;;FALSE
+g14r3;ZF;F;05.02.2008;4;;o1r1;r7g-yellow8;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+g14r4;ZF;M;26.06.2008;7;;g12r2;p10r2;03.11.2009;End of Exp.;Georg, Reserved by Claude for HVC Stim.;FALSE
+g14r5;ZF;M;10.10.2008;4;;y16p-s2;blue2;03.06.2009;End of Exp.;reserved for michael;FALSE
+g14r6;ZF;M;01.12.2008;5;;g12r2;r8p-s19o;20.02.2009;End of Exp.;;FALSE
+g14r7;ZF;;21.12.2008;3;;s17o;r7g-yellow8;20.03.2009;NE;;FALSE
+g14r8;ZF;M;27.04.2009;3;;b16r6;o13r5;16.07.2009;End of Exp.;;FALSE
+g15o-r14;ZF;M;26.07.2006;0;;red14;red2;06.10.2006;End of Exp.;;FALSE
+g15p-purple20;ZF;F;31.12.2006;3;;purple20;purple13;21.08.2008;NE;euthanized;FALSE
+g15r1;ZF;M;01.07.2007;7;;orange3;r9p-s19o;18.10.2007;End of Exp.;;FALSE
+g15r10;ZF;M;21.08.2009;4;;purple022;g17r8;15.01.2010;End of Exp.;Daniele;TRUE
+g15r11;ZF;F;21.01.2010;3;KU;o5r8;k10r2;;;;FALSE
+g15r12;ZF;F;23.04.2010;2;;974;r5y18;03.06.2010;End of Exp.;;FALSE
+g15r13;ZF;M;16.04.2010;4;;r5y14;r7y1;13.09.2010;End of Exp.;;FALSE
+g15r14;ZF;F;17.08.2010;3;;g13r8;r2s20;23.10.2010;NE;;FALSE
+g15r15;ZF;M;19.11.2010;2;;r12s14;b4r7;11.01.2011;End of Exp.;;FALSE
+g15r2;ZF;M;11.10.2007;5;;s17o;green10;24.04.2008;End of Exp.;;FALSE
+g15r3;ZF;M;06.03.2008;3;;g8r2;b11r2;17.06.2008;End of Exp.;;FALSE
+g15r4;ZF;M;09.06.2008;3;;b14r3;r1y17;14.10.2008;End of Exp.;;FALSE
+g15r5;ZF;M;09.10.2008;7;;;;20.01.2009;End of Exp.;origin of bird unclear, age approximately right;FALSE
+g15r6;ZF;M;01.12.2008;5;;g12r2;r8p-s19o;05.05.2009;Surgery;;FALSE
+g15r7;ZF;;21.12.2008;3;;s17o;r7g-yellow8;20.03.2009;NE;;FALSE
+g15r8;ZF;F;27.04.2009;3;;b16r6;o13r5;02.06.2010;NE;;FALSE
+g16k;ZF;F;;0;;;;01.11.2007;Given away;Given away to Johanna;FALSE
+g16o-r14;ZF;F;26.07.2006;0;;red14;red2;06.10.2006;NE;;FALSE
+g16p-yellow1;ZF;M;12.01.2007;3;;yellow1;p19k-o3;09.05.2007;;end of experiment;FALSE
+g16r1;ZF;M;01.07.2007;7;;orange3;r9p-s19o;15.10.2007;End of Exp.;;FALSE
+g16r10;ZF;M;21.08.2009;4;;purple022;g17r8;08.12.2009;End of Exp.;Daniele;TRUE
+g16r11;ZF;F;21.01.2010;3;;o5r8;k10r2;02.06.2010;NE;;FALSE
+g16r12;ZF;M;09.04.2010;5;;r10y2;o18r8;06.12.2010;NE;died during sound recording while being a breeding couple. Super strange.;FALSE
+g16r13;ZF;M;16.04.2010;4;?;r5y14;r7y1;;Given away;"NOT FOUND in KM on 21.Oct.2010 - jo. old comment: ""Given to Virginia Meskenaite 22.07.2010."" But found in KM on 23.07.2010, for sure male, was labeled as female. Joergen. It could be that two animals have the same name, age could therefore be wrong!";FALSE
+g16r14;ZF;M;17.08.2010;3;;g13r8;r2s20;28.11.2010;End of Exp.;;FALSE
+g16r15;ZF;F;19.11.2010;2;2U3;r12s14;b4r7;;;;FALSE
+g16r2;ZF;M;11.10.2007;5;;s17o;green10;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+g16r3;ZF;M;06.03.2008;3;;g8r2;b11r2;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+g16r4;ZF;F;09.06.2008;3;;b14r3;r1y17;21.08.2008;NE;euthanized;FALSE
+g16r5;ZF;F;10.10.2008;4;;y16p-s2;blue2;09.01.2009;NE;;FALSE
+g16r6;ZF;M;01.12.2008;5;;g12r2;r8p-s19o;14.02.2009;End of Exp.;;FALSE
+g16r7;ZF;F;20.12.2008;7;;p2r5;r2y1;20.03.2009;NE;;FALSE
+g16r8;ZF;F;27.04.2009;1;;b16r6;o13r5;06.11.2009;NE;;FALSE
+g17k-p2;ZF;M;02.01.2006;0;;purple2;;14.07.2006;End of Exp.;;FALSE
+g17o-r14;ZF;M;26.07.2006;0;;red14;red2;11.10.2006;End of Exp.;;FALSE
+g17p-yellow1;ZF;F;12.01.2007;3;;yellow1;p19k-o3;12.06.2007;Surgery;;FALSE
+g17r1;ZF;F;01.07.2007;7;;orange3;r9p-s19o;01.11.2007;Given away;Given away to Johanna;FALSE
+g17r10;ZF;M;21.08.2009;4;;purple022;g17r8;25.10.2010;NE;"Connector detached from skull; bird was euthanized";FALSE
+g17r11;ZF;F;21.01.2010;3;;o5r8;k10r2;10.04.2010;NE;;FALSE
+g17r12;ZF;F;09.04.2010;5;KU;r10y2;o18r8;;;not found in KU on 2010-08-04;FALSE
+g17r13;ZF;M;16.04.2010;4;R5;r5y14;r7y1;;;bird has simple song - ok for me (janie);FALSE
+g17r14;ZF;M;13.08.2010;5;E1;o7r10;r8s8;;;;FALSE
+g17r2;ZF;M;11.10.2007;5;;s17o;green10;09.06.2008;Given away;Reserverd by Claude!!!  Sing A-B-C-C. Given away to Johanna on 09.06.08;FALSE
+g17r3;ZF;F;06.03.2008;3;;g8r2;b11r2;21.08.2008;NE;euthanized;FALSE
+g17r4;ZF;F;09.06.2008;3;;b14r3;r1y17;21.08.2008;NE;euthanized;FALSE
+g17r5;ZF;M;10.10.2008;4;;y16p-s2;blue2;19.02.2009;End of Exp.;;FALSE
+g17r6;ZF;F;23.11.2008;3;;p17r2;b13r4;20.03.2009;NE;;FALSE
+g17r7;ZF;F;25.12.2008;0;;b7r5;g19r2;20.03.2009;NE;;FALSE
+g17r8;ZF;F;09.05.2009;0;;b10r5;r2b-o3;04.01.2011;NE;breeder, showgirl;TRUE
+g18k-y6;ZF;F;05.01.2006;0;;yellow6;;20.03.2009;NE;;FALSE
+g18o-r14;ZF;F;26.07.2006;0;;red14;red2;06.10.2006;NE;;FALSE
+g18p-yellow1;ZF;;12.01.2007;3;;yellow1;p19k-o3;20.02.2007;End of Exp.;;FALSE
+g18r1;ZF;M;01.07.2007;7;;orange3;r9p-s19o;26.12.2007;End of Exp.;;FALSE
+g18r10;ZF;M;21.08.2009;4;;purple022;g17r8;22.02.2010;End of Exp.;;FALSE
+g18r11;ZF;M;20.01.2010;2;;r5y14;r7y1;31.05.2010;End of Exp.;;FALSE
+g18r12;ZF;M;09.04.2010;5;KM;r10y2;o18r8;;;;FALSE
+g18r13;ZF;M;16.04.2010;4;A-U;r5y14;r7y1;;;removed r13 ring because it was killing the foot - jo;FALSE
+g18r14;ZF;M;13.08.2010;5;;o7r10;r8s8;11.11.2010;End of Exp.;;FALSE
+g18r2;ZF;M;11.10.2007;5;;s17o;green10;30.06.2008;End of Exp.;;FALSE
+g18r3;ZF;M;09.03.2008;3;;yellow10;o9o10;22.05.2008;End of Exp.;;FALSE
+g18r4;ZF;F;09.06.2008;0;;r2s4;y8o-r16;21.08.2008;NE;euthanized;FALSE
+g18r5;ZF;M;10.10.2008;4;;y16p-s2;blue2;09.05.2009;End of Exp.;;FALSE
+g18r6;ZF;M;23.11.2008;3;;p17r2;b13r4;06.04.2009;End of Exp.;;FALSE
+g18r7;ZF;M;20.12.2008;7;;p2r5;r2y1;25.06.2009;NE;Not found in KM on 20 June 2009. - Janie. Not found, presumed dead. (-janie, 25.june.2009);FALSE
+g18r8;ZF;M;01.07.2009;4;;b14r4;o19r5;14.09.2009;;Josh;FALSE
+g19o-silver2;ZF;M;14.08.2006;2;;silver2;p6k-y8;27.03.2007;End of Exp.;Reserved by Claude.;FALSE
+g19p-purple20;ZF;M;31.12.2006;3;;purple20;purple13;04.06.2007;End of Exp.;;FALSE
+g19r1;ZF;F;17.07.2007;5;;red16;g18k-y6;01.11.2007;Given away;Given away to Johanna;FALSE
+g19r10;ZF;F;26.08.2009;1;;b14r3;r6s13;17.11.2009;End of Exp.;;FALSE
+g19r11;ZF;F;20.01.2010;2;;r5y14;r7y1;02.06.2010;NE;;FALSE
+g19r12;ZF;M;09.04.2010;5;;r10y2;o18r8;11.06.2010;Given away;;FALSE
+g19r13;ZF;F;16.04.2010;4;M5;r5y14;r7y1;;;;FALSE
+g19r14;ZF;F;13.08.2010;5;;o7r10;r8s8;15.10.2010;NE;;FALSE
+g19r2;ZF;F;27.10.2007;5;KU;b8o-p11k;s13p-yellow8;;;last separation date: 18.06.2010;FALSE
+g19r3;ZF;M;09.03.2008;3;;yellow10;o9o10;09.06.2008;Given away;sleeps on his back in your hand! Really cute! Moritz Given away to Johanna on 09.06.08;FALSE
+g19r4;ZF;F;17.06.2008;2;;k7r1;r14w-silver17;21.08.2008;NE;euthanized;FALSE
+g19r5;BF;;15.09.2008;1;A-O;v-v10;K-K-K209-15;;;;FALSE
+g19r6;ZF;F;23.11.2008;3;;p17r2;b13r4;20.03.2009;NE;;FALSE
+g19r7;ZF;M;20.12.2008;7;;p2r5;r2y1;26.05.2009;End of Exp.;;FALSE
+g19r8;ZF;M;30.04.2009;0;;;;01.10.2009;NE;Bought from Qualipet on 31 Aug. 2009. Estimated age.;FALSE
+g1k;ZF;F;;0;;;;24.07.2007;Given away;Had three times only ONE generation of offspring, Given away to Johanna;FALSE
+g1o-g14k;ZF;M;26.03.2006;0;;g14k;orange16;25.07.2008;End of Exp.;;FALSE
+g1p-sb;ZF;M;29.03.2007;5;;silverblack;blue3;09.08.2007;Surgery;;FALSE
+g1r1;ZF;M;;.;;;;20.09.2007;NE;bought from Qualipet Glattzentrum on 17.07.07. Georg.;FALSE
+g1r10;ZF;F;29.08.2009;4;;r7p1;p13r5;15.09.2010;NE;isolated female;FALSE
+g1r11;ZF;F;08.11.2009;1;;o8r8;k5r2;04.08.2010;NE;;FALSE
+g1r12;ZF;M;13.03.2010;5;R1;p2r5;b12r8;;;;FALSE
+g1r13;ZF;;04.05.2010;0;;p3r6;g2r5;10.08.2010;Surgery;;FALSE
+g1r14;ZF;;13.07.2010;4;;p13r10;o14r11;15.09.2010;NE;;FALSE
+g1r15;ZF;M;07.11.2010;1;R6;p20r8;r10s17;;;;FALSE
+g1r2;ZF;F;05.10.2007;4;;g3r1;purple8;11.12.2007;End of Exp.;;FALSE
+g1r3;ZF;M;03.03.2008;5;;g13p-purple20;r8p-s19o;02.11.2009;End of Exp.;Right-Cochlear removed by Claude.;FALSE
+g1r4;ZF;F;12.03.2008;1;;p16p-r11;green10;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+g1r5;ZF;M;23.07.2008;2;;r3s3;k12r2;14.10.2008;End of Exp.;;FALSE
+g1r6;ZF;F;16.11.2008;2;;k2r2;p9r2;;;;FALSE
+g1r7;ZF;M;27.12.2008;6;;r5y19;o19r5;02.04.2009;End of Exp.;;FALSE
+g1r8;ZF;F;06.04.2009;1;;r5y15;r5s2;29.05.2009;NE;;FALSE
+g20o-ch900;ZF;M;23.03.2006;0;;goldch900;silver1;27.01.2007;End of Exp.;Sleep most of time after bilateral lesion.;FALSE
+g20p-s17o;ZF;F;08.12.2006;0;;s17o;s8k-p11k;16.02.2007;Given away;Given Away to Marianne;FALSE
+g20r1;ZF;F;04.08.2007;1;;silvergreen8;green16;01.11.2007;Given away;Given away to Johanna;FALSE
+g20r10;ZF;F;26.08.2009;1;;b14r3;r6s13;12.11.2009;End of Exp.;;FALSE
+g20r11;ZF;M;20.01.2010;2;O7;r5y14;r7y1;;;;FALSE
+g20r12;ZF;F;09.04.2010;5;2O2;r10y2;o18r8;;;;FALSE
+g20r13;ZF;;07.07.2010;2;;o8r10;r11y2;13.09.2010;NE;white bird;FALSE
+g20r14;ZF;F;13.08.2010;5;;o7r10;r8s8;15.10.2010;NE;;FALSE
+g20r2;ZF;F;27.10.2007;5;;b8o-p11k;s13p-yellow8;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+g20r3;ZF;M;09.03.2008;3;;yellow10;o9o10;19.07.2008;End of Exp.;;FALSE
+g20r5;ZF;M;17.06.2008;2;;k7r1;r14w-silver17;16.06.2009;End of Exp.;;FALSE
+g20r6;ZF;F;23.11.2008;3;?;p17r2;b13r4;;;9.11.2009 (AK): didn't find bird in KU;FALSE
+g20r7;ZF;M;20.12.2008;7;;p2r5;r2y1;26.05.2009;End of Exp.;;FALSE
+g20r8;ZF;M;30.04.2009;0;;;;22.11.2009;End of Exp.;Bought from Qualipet on 31 Aug. 2009. Estimated age.;FALSE
+g2o-r16;ZF;M;15.05.2006;2;;red16;green12;19.06.2006;End of Exp.;;FALSE
+g2p-sb;ZF;M;29.03.2007;5;;silverblack;blue3;25.07.2007;End of Exp.;;FALSE
+g2r1;ZF;M;;0;;;;12.01.2009;NE;bought from Qualipet Glattzentrum on 17.07.07. Georg. Strangled himself on a piece of string in cage.;FALSE
+g2r10;ZF;M;29.08.2009;4;;r7p1;p13r5;04.12.2009;;used to be JU1d;FALSE
+g2r11;ZF;M;08.11.2009;1;R8;o8r8;k5r2;;;Electrode implantation done by Claude;FALSE
+g2r12;ZF;F;13.03.2010;5;;p2r5;b12r8;02.06.2010;NE;;FALSE
+g2r13;ZF;M;10.04.2010;7;;k17r8;r6s13;03.12.2010;End of Exp.;;FALSE
+g2r14;ZF;;13.07.2010;4;;p13r10;o14r11;15.09.2010;NE;;FALSE
+g2r15;ZF;F;07.11.2010;2;;o6r11;g20r12;20.12.2010;NE;;FALSE
+g2r2;ZF;F;05.10.2007;4;;g3r1;purple8;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+g2r3;ZF;F;11.02.2008;3;;g5r1;purple13;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+g2r4;ZF;F;10.04.2008;5;;o1r1;r7g-yellow8;21.08.2008;NE;euthanized;FALSE
+g2r5;ZF;F;23.07.2008;2;;r3s3;k12r2;04.08.2010;NE;;FALSE
+g2r6;ZF;F;16.11.2008;2;?;k2r2;p9r2;;;9.11.2009 (AK): didn't find bird in KU;FALSE
+g2r7;ZF;M;27.12.2008;6;;r5y19;o19r5;12.03.2009;End of Exp.;;FALSE
+g2r8;ZF;M;27.03.2009;3;;g4r6;r6s4;07.09.2009;End of Exp.;;FALSE
+g3o-r11;ZF;M;19.05.2006;0;;red11;purple8;18.10.2006;End of Exp.;no sleep bursts;FALSE
+g3p-sb;ZF;M;29.03.2007;5;;silverblack;blue3;25.06.2007;End of Exp.;;FALSE
+g3r1;ZF;M;;0;;;;25.06.2009;NE;bought from Qualipet Glattzentrum on 17.07.07. Georg. missing since 3.7.08 (If you find this bird, please don't use it and let Claude know ASAP. Thanks. 16.06.2009). Not found, presumed dead. (-janie, 25.june.2009);FALSE
+g3r10;ZF;M;29.08.2009;4;KM;r7p1;p13r5;;;Isolated as juvenile. Has v simple song (recorded).;FALSE
+g3r11;ZF;F;18.11.2009;1;;o13r8;b4r7;23.12.2010;End of Exp.;showgirl.;FALSE
+g3r12;ZF;M;13.03.2010;5;;p2r5;b12r8;19.09.2010;End of Exp.;;FALSE
+g3r13;ZF;M;10.04.2010;7;O6;k17r8;r6s13;;;;FALSE
+g3r14;ZF;;13.07.2010;4;;p13r10;o14r11;16.09.2010;NE;;FALSE
+g3r15;ZF;;07.11.2010;2;R6;o6r11;g20r12;;;;FALSE
+g3r2;ZF;M;05.10.2007;4;;g3r1;purple8;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+g3r3;ZF;M;11.02.2008;3;;g5r1;purple13;09.06.2008;End of Exp.;;FALSE
+g3r4;ZF;M;10.04.2008;5;;o1r1;r7g-yellow8;28.07.2008;End of Exp.;;FALSE
+g3r5;BF;;19.07.2008;5;A-O;v-v10;K-K-K209-15;;;;FALSE
+g3r6;ZF;F;16.11.2008;3;;y7o-r16;b20o-ch900;;;cage F, wtf?! Bird missing;FALSE
+g3r7;ZF;M;27.12.2008;0;;r5y19;o19r5;12.03.2009;End of Exp.;;FALSE
+g3r8;ZF;F;28.03.2009;3;;r5y10;b15r6;;;bird is missing on june 15, 2009;FALSE
+g4k;ZF;F;19.08.2005;0;;;;01.11.2007;Given away;Given away to Johanna;FALSE
+g4o-r11;ZF;F;19.05.2006;0;;red11;purple8;06.10.2006;NE;;FALSE
+g4p-y16p;ZF;M;02.04.2007;3;;y16p-s2;o12o-r12k;25.06.2009;NE;did not find bird during KM/KO search. Claude. Not found, presumed dead. (-janie, 25.june.2009);FALSE
+g4r1;ZF;M;;0;;;;27.02.2009;End of Exp.;bought from Qualipet Glattzentrum on 17.07.07. Georg.;FALSE
+g4r10;ZF;M;21.09.2009;1;U2;r6s5;o6r7;;;Reserved by Alexei till 30.09.2010;FALSE
+g4r11;ZF;M;30.11.2009;5;A-U;k8r2;o7r5;;;;FALSE
+g4r12;ZF;F;06.04.2010;3;;r10s5;r10s17;07.07.2010;NE;bird given away to Virginia Meskenaite, Anatomisches Institut;FALSE
+g4r13;ZF;M;09.04.2010;4;A-U;b8r10;r10y13;;;;FALSE
+g4r14;ZF;;13.07.2010;4;;p13r10;o14r11;16.09.2010;NE;;FALSE
+g4r15;ZF;M;07.12.2010;2;E5;p15r8;r2y1;;;alexei + josh;TRUE
+g4r2;ZF;F;05.10.2007;4;;g3r1;purple8;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+g4r3;ZF;M;11.02.2008;3;;g5r1;purple13;19.05.2008;End of Exp.;;FALSE
+g4r4;ZF;M;13.05.2008;5;;p14k-p2;blue2;25.09.2008;End of Exp.;Reserved for Janie;FALSE
+g4r5;BF;M;19.07.2008;4;A-O;v-v10;K-K-K209-15;;;;FALSE
+g4r6;ZF;M;16.11.2008;4;;y7o-r16;b20o-ch900;12.07.2009;End of Exp.;;FALSE
+g4r7;ZF;F;27.12.2008;0;KU;r5y19;o19r5;;;;FALSE
+g4r8;ZF;F;27.03.2009;3;;g4r6;r6s4;22.08.2009;NE;;FALSE
+g5k;ZF;F;22.08.2005;0;;;;23.07.2007;End of Exp.;;FALSE
+g5o-p20;ZF;F;30.06.2006;0;;purple20;purple13;17.11.2006;NE;as compagnion;FALSE
+g5p-s19o;ZF;F;21.11.2006;2;;s19o;green10;19.01.2007;End of Exp.;White bird.;FALSE
+g5r1;ZF;M;;0;;;;22.07.2008;End of Exp.;;FALSE
+g5r10;ZF;M;21.09.2009;1;;r6s5;o6r7;22.10.2010;End of Exp.;- no r10 ring - Reserved for Janie;TRUE
+g5r11;ZF;F;30.11.2009;5;;k8r2;o7r5;28.06.2010;NE;;FALSE
+g5r12;ZF;F;06.04.2010;3;;r10s5;r10s17;29.07.2010;End of Exp.;;FALSE
+g5r13;ZF;M;09.04.2010;4;M6;b8r10;r10y13;;;;FALSE
+g5r14;ZF;F;31.07.2010;3;M2;g4r11;r5y18;;;;FALSE
+g5r15;ZF;M;07.12.2010;2;E6;p15r8;r2y1;;;alexei + josh;TRUE
+g5r2;ZF;M;05.10.2007;4;;g3r1;purple8;07.03.2008;End of Exp.;;FALSE
+g5r3;ZF;F;11.02.2008;3;;g5r1;purple13;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+g5r4;ZF;M;13.05.2008;5;;p14k-p2;blue2;25.08.2008;End of Exp.;;FALSE
+g5r5;BF;;19.07.2008;0;A-O;v-v10;K-K-K209-15;;;;FALSE
+g5r6;ZF;F;16.11.2008;3;;y7o-r16;b20o-ch900;20.03.2009;NE;;FALSE
+g5r7;ZF;M;08.01.2009;0;;r5y11;r5s13;16.03.2009;End of Exp.;;FALSE
+g5r8;ZF;F;28.03.2009;3;;r6y10;b15r6;28.07.2009;NE;;FALSE
+g6k-b12;ZF;F;05.10.2005;0;;;;16.02.2007;Given away;Given Away to Marianne;FALSE
+g6o-r12k;ZF;M;02.06.2006;0;;r12k-ch900;g4k;23.10.2006;End of Exp.;;FALSE
+g6p-s19o;ZF;F;21.11.2006;2;;s19o;green10;16.02.2007;Given away;White bird.  Given Away to Marianne;FALSE
+g6r1;ZF;M;;0;;;;17.01.2009;End of Exp.;bought from Qualipet Glattzentrum on 17.07.07. Georg.;FALSE
+g6r10;ZF;F;01.09.2009;3;;b10r7;b15r6;17.11.2009;End of Exp.;;FALSE
+g6r13;ZF;M;09.04.2010;4;A-U;b8r10;r10y13;;;;FALSE
+g6r2;ZF;F;28.09.2007;2;;b13g-red11;s11p-yellow8;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+g6r3;ZF;M;11.02.2008;3;;g5r1;purple13;24.09.2008;End of Exp.;;FALSE
+g6r4;ZF;M;13.05.2008;5;;p14k-p2;blue2;20.08.2008;End of Exp.;;FALSE
+g6r5;ZF;M;30.07.2008;7;;b7r3;p20r3;28.10.2008;Perished;Age uncertain!! Probably up to 10 days correct.;FALSE
+g6r5-x;ZF;F;15.05.2008;0;;;;;;Left behind by Sandra. Has GFP injection in Area X, bird is missing on june 15, 2009;FALSE
+g6r6;ZF;M;16.11.2008;3;;b11r5;g18k-y6;02.06.2009;End of Exp.;;FALSE
+g6r7;ZF;F;06.01.2009;4;;red11;b7br-b3k;20.03.2009;NE;;FALSE
+g7o-r12k;ZF;M;02.06.2006;0;;r12k-ch900;g4k;06.11.2006;End of Exp.;;FALSE
+g7p-s19o;ZF;F;21.11.2006;2;;s19o;green10;16.02.2007;Given away;White bird. Given Away to Marianne;FALSE
+g7r1;ZF;M;;0;;;;03.12.2008;End of Exp.;bought from Qualipet Glattzentrum on 17.07.07. Georg.;FALSE
+g7r10;ZF;F;01.09.2009;3;;b10r7;b15r6;07.11.2009;End of Exp.;;FALSE
+g7r11;ZF;F;30.11.2009;5;;k8r2;o7r5;12.02.2010;End of Exp.;;FALSE
+g7r12;ZF;F;26.03.2010;2;;o7r10;b5r7;02.06.2010;NE;White;FALSE
+g7r13;ZF;M;09.04.2010;4;O2;b8r10;r10y13;;;;FALSE
+g7r14;ZF;F;31.07.2010;3;2O4;g4r11;r5y18;;;;FALSE
+g7r15;ZF;M;07.12.2010;2;E7;p15r8;r2y1;;;alexei + josh;TRUE
+g7r2;ZF;F;28.09.2007;2;;b13g-red11;s11p-yellow8;21.08.2008;NE;euthanized. Not found in ZZ-M on 09.06.08;FALSE
+g7r3;ZF;F;12.02.2008;5;;o20o;r16o-r11;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+g7r4;ZF;F;04.05.2008;5;;yellow10;o9o10;21.08.2008;NE;euthanized;FALSE
+g7r5;ZF;F;19.07.2008;0;;o19r2;r2s20;20.03.2009;NE;;FALSE
+g7r6;ZF;F;16.11.2008;3;;b11r5;g18k-y6;20.03.2009;NE;;FALSE
+g7r7;ZF;F;06.01.2009;4;;red11;b7br-b3k;20.03.2009;NE;;FALSE
+g7r8;ZF;;28.03.2009;3;;r6y10;b15r6;09.06.2009;End of Exp.;Reserved for Patrick;FALSE
+g8b-o4k;ZF;M;22.09.2006;0;;o4k-p2;green13;05.12.2006;End of Exp.;;FALSE
+g8o*;ZF;;22.12.2006;2;;y13k-s17;purple5;05.02.2007;End of Exp.;;FALSE
+g8o-r12k;ZF;M;02.06.2006;0;;r12k-ch900;g4k;14.12.2006;End of Exp.;;FALSE
+g8r1;ZF;M;;0;;;;15.06.2010;End of Exp.;Janie. Bought from Qualipet Glattzentrum on 17.07.07. No r1 ring. Do not use for breeding.;TRUE
+g8r10;ZF;M;01.09.2009;3;;b10r7;b15r6;08.06.2010;End of Exp.;;FALSE
+g8r11;ZF;M;30.11.2009;5;;k8r2;o7r5;18.03.2010;End of Exp.;;FALSE
+g8r12;ZF;M;26.03.2010;2;;o7r10;b5r7;24.07.2010;End of Exp.;;FALSE
+g8r13;ZF;M;10.05.2010;2;;o7r10;b5r7;16.07.2010;Surgery;;FALSE
+g8r14;ZF;M;31.07.2010;3;;g4r11;r5y18;23.10.2010;NE;;FALSE
+g8r15;ZF;M;10.12.2010;2;E2;p8r12;o2r5;;;alexei + josh;TRUE
+g8r2;ZF;M;28.09.2007;2;;b13g-red11;s11p-yellow8;08.10.2008;End of Exp.;;FALSE
+g8r3;ZF;M;12.02.2008;5;;o20o;r16o-r11;16.09.2008;Surgery;;FALSE
+g8r4;ZF;;23.05.2008;1;;r3p-r19o;s11p-yellow8;07.07.2008;End of Exp.;;FALSE
+g8r5;ZF;M;07.07.2008;7;R8;g8r1;k10r2;;;possibly 10 days of uncertainty - slipped through into next cage. Bilateral cochlear Removed. Reserved by Claude.;FALSE
+g8r6;ZF;M;16.11.2008;3;;b11r5;g18k-y6;02.06.2009;End of Exp.;;FALSE
+g8r7;ZF;M;06.01.2009;4;;red11;b7br-b3k;29.03.2009;End of Exp.;;FALSE
+g9b-o4k;ZF;F;22.09.2006;0;;o4k-p2;green13;01.11.2007;Given away;Given away to Johanna;FALSE
+g9o-r12k;ZF;M;02.06.2006;0;;r12k-ch900;g4k;08.12.2006;End of Exp.;;FALSE
+g9r1;ZF;M;;0;;;;27.01.2009;End of Exp.;bought from Qualipet Glattzentrum on 17.07.07. Georg.;FALSE
+g9r10;ZF;M;19.08.2009;3;;r011;o8r5;27.11.2009;End of Exp.;Died under anestesia.;FALSE
+g9r2;ZF;M;28.09.2007;2;;b13g-red11;s11p-yellow8;;;;FALSE
+g9r3;ZF;F;12.02.2008;5;;o20o;r16o-r11;16.06.2008;End of Exp.;;FALSE
+g9r4;ZF;M;04.05.2008;5;;yellow10;o9o10;15.08.2008;End of Exp.;;FALSE
+g9r5;ZF;F;07.07.2008;7;;g8r1;k10r2;26.09.2008;End of Exp.;possibly 10 days of uncertainty - slipped through into next cage;FALSE
+g9r6;ZF;;16.11.2008;3;;y7o-r16;b20o-ch900;14.07.2009;End of Exp.;Found in KM on 20 June 2009 . Was previously marked as NE on 22.01.2009. - Janie;FALSE
+g9r7;ZF;F;06.01.2009;4;;red11;b7br-b3k;;;bird is missing on june 15, 2009;FALSE
+gg10r7;ZF;F;06.01.2009;4;;red11;b7br-b3k;20.03.2009;NE;"""gg"" is not typo. Somebody also rang ""g10r7"" for a male. So I rename this brid as ""gg10r7"". Claude 05.03.2009";FALSE
+goldch900;ZF;M;;0;;;;11.01.2008;NE;luxation on right leg.;FALSE
+green10;ZF;F;;0;;;;20.03.2009;NE;;FALSE
+green12;ZF;F;;0;;;;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+green13;ZF;F;;0;;;;25.06.2009;NE;not in U1 - missing. Not found, presumed dead. (-janie, 25.june.2009);FALSE
+green14;ZF;F;19.05.2005;0;;;;12.05.2006;NE;;FALSE
+green16;ZF;F;19.05.2005;0;;;;20.03.2009;NE;;FALSE
+green3;ZF;F;;1;;;;16.06.2006;NE;"white  -> abgegeben an Z""uchter";FALSE
+green4;ZF;M;;0;;;;03.11.2009;NE;Had surgery.;FALSE
+green9;ZF;F;30.12.2004;0;;;;10.07.2007;End of Exp.;;FALSE
+G-TT69-73;BF;M;01.01.2007;0;A-O;;;;;crappy song!;FALSE
+g-v12;BF;F;01.01.2007;0;?;;;;;Not found in cage A on 25 Aug., 2009 - Janie.;FALSE
+J;ZF;;;0;;;;;;;FALSE
+J04a;ZF;;01.10.2010;3;;o12r10;p4r13;09.10.2010;NE;;FALSE
+J04b;ZF;;01.10.2010;3;;o12r10;p4r13;08.10.2010;NE;;FALSE
+J2M2Bb;ZF;;12.12.2008;3;;p4r5;o1r5;25.06.2009;NE;bird missing, could not find it in cage 2M2B on 6.2.2009, michael. Not found, presumed dead. (-janie, 25.june.2009);FALSE
+J2M3a;ZF;;07.01.2011;0;2M3;r10y2;p3r7;;;;FALSE
+J2M3b;ZF;;07.01.2011;0;2M3;r10y2;p3r7;;;;FALSE
+J2M4a;ZF;;02.01.2011;1;2M4;k17r8;r11y8;;;;FALSE
+J2M4b;ZF;;02.01.2011;1;2M4;k17r8;r11y8;;;;FALSE
+J2O1a;ZF;;18.12.2010;6;2O1;r12s11;b13r12;;;;FALSE
+J2O1b;ZF;;18.12.2010;6;2O1;r12s11;b13r12;;;;FALSE
+J2O1c;ZF;;18.12.2010;6;2O1;r12s11;b13r12;;;;FALSE
+J2O1d;ZF;;18.12.2010;6;2O1;r12s11;b13r12;;;;FALSE
+J2O1e;ZF;;18.12.2010;6;2O1;r12s11;b13r12;;;;FALSE
+J2O1f;ZF;;18.12.2010;6;2O1;r12s11;b13r12;;;;FALSE
+J2O1g;ZF;;18.12.2010;6;2O1;r12s11;b13r12;;;;FALSE
+J2U2a;ZF;;23.12.2010;1;2U2;p13r10;r14y18;;;;FALSE
+J2U2b;ZF;;23.12.2010;1;2U2;p13r10;r14y18;;;;FALSE
+J2U3a;ZF;;31.12.2010;1;2U3;r12s14;b4r7;;;;FALSE
+J2U3b;ZF;;31.12.2010;1;2U3;r12s14;b4r7;;;;FALSE
+J2U3c dead;ZF;;06.04.2010;3;;r10s5;r10s17;14.04.2010;NE;;FALSE
+J2U4a;ZF;;22.12.2010;0;2U4;b14r10;r5s13;;;;FALSE
+J2U4d;ZF;;11.09.2010;5;;;;;;This record is BS.;FALSE
+JFJ6a;ZF;;14.12.2010;1;FJ6;k8r2;o19r5;;;alexei + josh;TRUE
+JFJ6b;ZF;;14.12.2010;1;FJ6;k8r2;o19r5;;;alexei + josh;FALSE
+JFJ6c;ZF;;14.12.2010;1;FJ6;k8r2;o19r5;;;alexei + josh;TRUE
+JFJ6d;ZF;;14.12.2010;1;FJ6;k8r2;o19r5;;;alexei + josh;TRUE
+JFJ6e;ZF;;14.12.2010;1;FJ6;k8r2;o19r5;;;alexei + josh;TRUE
+JFJ7a;ZF;;15.12.2010;1;Fj7;r6s5;b11r8;;;alexei + josh;TRUE
+JFJ7b;ZF;;15.12.2010;1;FJ7;r6s5;b11r8;;;alexei + josh;TRUE
+JFJ7c;ZF;;15.12.2010;1;FJ7;r6s5;b11r8;;;alexei + josh;TRUE
+JFJ7d;ZF;;15.12.2010;1;FJ7;r6s5;b11r8;;;alexei + josh;TRUE
+JFJ7e;ZF;;15.12.2010;1;FJ7;r6s5;b11r8;;;alexei + josh;TRUE
+JIS2a;ZF;;02.01.2011;1;IS2;k13r2;k10r2;;;;FALSE
+JIS2b;ZF;;02.01.2011;1;IS2;k13r2;k10r2;;;;FALSE
+JM1a;ZF;;24.11.2010;9;M1;974;p15r6;;;;FALSE
+JM1b;ZF;;24.11.2010;9;M1;974;p15r6;;;;FALSE
+JM1c;ZF;;24.11.2010;9;M1;974;p15r6;;;;FALSE
+JM2a;ZF;;05.01.2011;0;M2;o1r14;g5r14;;;;FALSE
+JM2f;ZF;;30.07.2010;4;??;b14r10;r6s13;;;did  not find in M2 on 20.aug.2010, presumed to not exist. - jo;FALSE
+JM3a;ZF;;27.12.2010;3;M3;o6r11;o7r15;;;;FALSE
+JM3b;ZF;;27.12.2010;3;M3;o6r11;o7r15;;;;FALSE
+JM3c;ZF;;27.12.2010;3;M3;o6r11;o7r15;;;;FALSE
+JM3d;ZF;;27.12.2010;3;M3;o6r11;o7r15;;;;FALSE
+JM5a;ZF;;02.01.2011;3;M5;o5r8;g19r13;;;;FALSE
+JM5b;ZF;;02.01.2011;3;M5;o5r8;g19r13;;;;FALSE
+JM5c;ZF;;02.01.2011;3;M5;o5r8;g19r13;;;;FALSE
+JM5d;ZF;;02.01.2011;3;M5;o5r8;g19r13;;;;FALSE
+JM6a;ZF;;11.12.2010;2;M6;g5r13;r12y20;;;;FALSE
+JM6b;ZF;;11.12.2010;2;M6;g5r13;r12y20;;;;FALSE
+JM6c;ZF;;11.12.2010;2;M6;g5r13;r12y20;;;;FALSE
+JM7a;ZF;;22.12.2010;3;M7;r13s8;r14s20;;;;FALSE
+JM7b;ZF;;22.12.2010;3;M7;r13s8;r14s20;;;;FALSE
+JM7c;ZF;;22.12.2010;3;M7;r13s8;r14s20;;;;FALSE
+JM7d;ZF;;22.12.2010;3;M7;r13s8;r14s20;;;;FALSE
+JO3a;ZF;;08.12.2010;0;O3;r5y15;r5s1;;;;FALSE
+JO4a;ZF;;05.01.2011;3;O4;o12r10;p4r13;;;;FALSE
+JO4b;ZF;;05.01.2011;3;O4;o12r10;p4r13;;;;FALSE
+JO4c;ZF;;05.01.2011;3;O4;o12r10;p4r13;;;;FALSE
+JO4d;ZF;;05.01.2011;3;O4;o12r10;p4r13;;;;FALSE
+JO6a;ZF;;05.01.2011;1;O6;g3r13;r14y14;;;;FALSE
+JO6b;ZF;;05.01.2011;1;O6;g3r13;r14y14;;;;FALSE
+JO7a;ZF;;18.12.2010;4;O7;g20r11;o11r13;;;;FALSE
+JO7b;ZF;;18.12.2010;4;O7;g20r11;o11r13;;;;FALSE
+JO7c;ZF;;18.12.2010;4;O7;g20r11;o11r13;;;;FALSE
+JO7d;ZF;;18.12.2010;4;O7;g20r11;o11r13;;;;FALSE
+JO7e;ZF;;18.12.2010;3;O7;g20r11;o11r13;;;;FALSE
+JU1a;ZF;;02.12.2010;1;U1;b4r12;o6r7;;;;FALSE
+JU2a;ZF;;27.11.2010;5;U2;g4r10;r10s11;;;;FALSE
+JU2b;ZF;;27.11.2010;5;U2;g4r10;r10s11;;;;FALSE
+JU2c;ZF;;27.11.2010;5;U2;g4r10;r10s11;;;;FALSE
+JU2d;ZF;;27.11.2010;5;U2;g4r10;r10s11;;;;FALSE
+JU2e;ZF;;27.11.2010;5;U2;g4r10;r10s11;;;;FALSE
+JU4a;ZF;;23.12.2010;5;U4;p3r6;k8r13;;;;FALSE
+JU4b;ZF;;23.12.2010;5;U4;p3r6;k8r13;;;;FALSE
+JU4c;ZF;;23.12.2010;5;U4;p3r6;k8r13;;;;FALSE
+JU4d;ZF;;23.12.2010;5;U4;p3r6;k8r13;;;;FALSE
+JU4e;ZF;;23.12.2010;5;U4;p3r6;k8r13;;;;FALSE
+JU4f;ZF;;23.12.2010;5;U4;p3r6;k8r13;;;;FALSE
+JU5a;ZF;;24.12.2010;3;U5;r10s5;k8r10;;;;FALSE
+JU5b;ZF;;24.12.2010;3;U5;r10s5;k8r10;;;;FALSE
+JU5c;ZF;;24.12.2010;3;U5;r10s5;k8r10;;;;FALSE
+JU5d;ZF;;24.12.2010;3;U5;r10s5;k8r10;;;;FALSE
+JU6a;ZF;;24.12.2010;0;U6;r5y14;b15r6;;;;FALSE
+JU7a;ZF;;24.12.2010;3;U7;p5r3;o13r10;;;;FALSE
+JU7b;ZF;;24.12.2010;3;U7;p5r3;o13r10;;;;FALSE
+JU7c;ZF;;24.12.2010;3;U7;p5r3;o13r10;;;;FALSE
+JU7d;ZF;;24.12.2010;3;U7;p5r3;o13r10;;;;FALSE
+juvM3Bb;ZF;;04.05.2008;5;;yellow10;o9o10;19.06.2008;End of Exp.;;FALSE
+juvM6a;ZF;M;19.04.2008;5;;silver15;o8p-y8;18.06.2007;End of Exp.;Not successful (misimplant) - burned for histology.;FALSE
+juvO2a;ZF;;05.05.2008;5;;k7r1;r14w-silver17;26.06.2008;End of Exp.;;FALSE
+k10k-p11k;ZF;F;03.03.2006;0;;p11k-ch900;g16k;21.08.2008;NE;euthanized. Offered Bird to employee Franco Patituci Tel 50376?? Came back;FALSE
+k10r1;ZF;M;14.08.2007;3;;b13g-red11;s11p-yellow8;18.12.2007;End of Exp.;;FALSE
+k10r10;ZF;F;11.11.2009;4;;r5y15;o12r3;15.09.2010;NE;isolated female;FALSE
+k10r11;ZF;M;17.02.2010;1;;p20r8;o6r7;;;Given to Kynan 28.7.2010;FALSE
+k10r2;ZF;F;17.11.2007;4;IS2;g5r1;purple13;;;;FALSE
+k10r3;ZF;M;09.02.2008;3;;o18r1;b10r2;04.07.2008;End of Exp.;;FALSE
+k10r5;ZF;M;17.06.2008;2;;o20o;r16o-r11;24.09.2008;Surgery;;FALSE
+k10r7;ZF;F;13.03.2009;3;;b9r5;o8p-y8;06.04.2010;Perished;;FALSE
+k10r8;ZF;M;21.08.2009;4;;k13r2;o2r5;10.02.2010;End of Exp.;Was isolated as juvenile. Has i.Impaired song. Use at your own risk.;FALSE
+k11k-p11k;ZF;F;03.03.2006;0;;p11k-ch900;g16k;16.02.2007;Given away;Given Away to Marianne;FALSE
+k11r1;ZF;M;17.08.2007;0;;s20o-yellow20;p19k-o3;20.02.2008;End of Exp.;;FALSE
+k11r10;ZF;M;11.11.2009;4;;r5y15;o12r3;29.06.2010;End of Exp.;;FALSE
+k11r11;ZF;M;08.02.2010;2;;o4r10;k15r8;11.05.2010;End of Exp.;;FALSE
+k11r2;ZF;F;17.11.2007;4;;g5r1;purple13;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+k11r5;ZF;M;17.06.2008;2;;o20o;r16o-r11;13.10.2008;End of Exp.;;FALSE
+k11r6;ZF;M;18.11.2008;3;;b14r5;g7r5;25.02.2009;End of Exp.;;FALSE
+k11r7;ZF;M;17.03.2009;4;;s17o;r7g-yellow8;26.05.2009;End of Exp.;;FALSE
+k11r8;ZF;M;04.08.2009;5;;p3r6;r5y18;14.01.2010;End of Exp.;;TRUE
+k12r1;ZF;M;09.08.2007;3;;y16p-s2;o12o-r12k;11.12.2007;Surgery;;FALSE
+k12r10;ZF;F;11.11.2009;4;;r5y15;o12r3;30.04.2010;End of Exp.;isolated (not anymore) female.;FALSE
+k12r11;ZF;F;08.02.2010;2;;o4r10;k15r8;10.04.2010;NE;;FALSE
+k12r2;ZF;F;05.12.2007;0;;silvergreen8;green16;09.01.2009;NE;;FALSE
+k12r3;ZF;F;12.03.2008;3;;silver15;o8p-y8;21.08.2008;NE;euthanized;FALSE
+k12r5;ZF;M;23.07.2008;8;;b7r3;p20r3;14.10.2008;End of Exp.;;FALSE
+k12r6;ZF;M;18.11.2008;3;;b14r5;g7r5;02.06.2009;End of Exp.;;FALSE
+k12r8;ZF;F;04.08.2009;5;;p3r6;r5y18;06.11.2009;NE;;FALSE
+k13k-r16;ZF;M;03.04.2006;5;;red16;green12;24.06.2006;End of Exp.;;FALSE
+k13r1;ZF;M;09.08.2007;3;;y16p-s2;o12o-r12k;;;missing;FALSE
+k13r10;ZF;F;11.11.2009;4;;r5y15;o12r3;15.09.2010;NE;isolated female;FALSE
+k13r11;ZF;M;08.02.2010;2;;o4r10;k15r8;30.06.2010;End of Exp.;;FALSE
+k13r2;ZF;M;22.11.2007;0;IS2;b16r1;o11p-p20;;;Breeder;FALSE
+k13r3;ZF;M;12.03.2008;3;;silver15;o8p-y8;12.09.2008;End of Exp.;;FALSE
+k13r5;ZF;F;23.07.2008;8;;b7r3;p20r3;22.10.2008;End of Exp.;;FALSE
+k13r6;ZF;F;18.11.2008;3;;b14r5;g7r5;20.03.2009;NE;;FALSE
+k13r8;ZF;F;04.08.2009;5;;p3r6;r5y18;06.11.2009;NE;;FALSE
+k14k-sb;ZF;M;03.04.2006;0;;silverblack;purple17;17.11.2006;NE;Bird broke leg.;FALSE
+k14r1;ZF;M;09.08.2007;3;;y16p-s2;o12o-r12k;26.02.2008;End of Exp.;;FALSE
+k14r10;ZF;F;11.11.2009;4;;r5y15;o12r3;15.09.2010;NE;isolated female;FALSE
+k14r11;ZF;M;17.02.2010;3;;p3r6;g2r5;10.09.2010;End of Exp.;;FALSE
+k14r3;ZF;F;12.03.2008;3;;silver15;o8p-y8;21.08.2008;NE;euthanized;FALSE
+k14r5;ZF;F;23.07.2008;8;;b7r3;p20r3;04.11.2008;End of Exp.;;FALSE
+k14r6;ZF;F;30.11.2008;5;;b10r3;b11r2;03.09.2009;End of Exp.;;FALSE
+k14r8;ZF;M;04.08.2009;5;;p3r6;r5y18;23.10.2010;NE;reserved by Moritz. Reservation expires at death by natural cause.;FALSE
+k15k-g14k;ZF;F;26.03.2006;0;;g14k;orange16;25.05.2006;NE;Killed due to her white color.;FALSE
+k15r1;ZF;M;09.08.2007;3;;y16p-s2;o12o-r12k;01.11.2007;Given away;Given away to Johanna;FALSE
+k15r11;ZF;M;17.02.2010;3;;p3r6;g2r5;06.05.2010;End of Exp.;not found in KM on 2.May.2010 - jo;FALSE
+k15r2;ZF;M;07.11.2007;4;;g4r1;r2b-o3;04.02.2008;End of Exp.;;FALSE
+k15r4;ZF;M;12.03.2008;3;;silver15;o8p-y8;12.06.2008;End of Exp.;;FALSE
+k15r5;ZF;F;23.07.2008;8;;b7r3;p20r3;06.11.2008;End of Exp.;;FALSE
+k15r6;ZF;M;29.11.2008;5;;b10r3;b11r2;29.01.2009;Surgery;;FALSE
+k15r8;ZF;F;04.08.2009;5;;p3r6;r5y18;02.06.2010;NE;;FALSE
+k16k-p20;ZF;F;19.03.2006;0;;purple20;purple13;16.06.2006;NE;"don't know the sex. If you know, please transfer.         --> abgegeben an Z""uchter";FALSE
+k16r1;ZF;M;09.08.2007;3;;y16p-s2;o12o-r12k;01.11.2007;Given away;Given away to Johanna;FALSE
+k16r11;ZF;F;17.02.2010;3;2O2;p3r6;g2r5;;;;FALSE
+k16r2;ZF;M;07.11.2007;4;;g4r1;r2b-o3;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+k16r4;ZF;F;23.07.2008;8;;b7r3;p20r3;23.03.2009;NE;;FALSE
+k16r5;ZF;M;18.09.2008;4;;b11r3;o8r3;01.06.2009;End of Exp.;;FALSE
+k16r6;ZF;M;29.11.2008;5;;b10r3;b11r2;07.02.2009;End of Exp.;;FALSE
+k16r8;ZF;M;07.08.2009;3;;r5y14;r7y1;10.12.2009;End of Exp.;"Moritz & Daniele; bird doesn't sing -> great for Mo&Da";TRUE
+k17k-g14k;ZF;F;26.03.2006;0;;g14k;orange16;25.05.2006;NE;Killed due to her white color.;FALSE
+k17r1;ZF;M;09.08.2007;2;;p11k-ch900;b20o-ch900;16.11.2007;End of Exp.;;FALSE
+k17r11;ZF;F;13.02.2010;2;;b14r10;p13r5;02.06.2010;NE;;FALSE
+k17r2;ZF;F;07.11.2007;4;;g4r1;r2b-o3;14.02.2008;End of Exp.;;FALSE
+k17r4;ZF;M;28.01.2008;1;;p14k-p2;blue2;25.06.2008;End of Exp.;;FALSE
+k17r6;BF;;27.11.2008;0;;v-v10;K-K-K209-15;25.11.2010;NE;;FALSE
+k17r8;ZF;M;07.08.2009;3;2M4;r5y14;r7y1;;;bird did not sing nice song in ISO, michael. last couple separation date: 11.06.2010;FALSE
+k18k-r11;ZF;M;03.04.2006;0;;red11;purple8;04.01.2007;End of Exp.;;FALSE
+k18r1;ZF;M;09.08.2007;2;;p11k-ch900;b20o-ch900;25.06.2009;NE;Not found, presumed dead. (-janie, 25.june.2009);FALSE
+k18r2;ZF;F;07.11.2007;4;;g4r1;r2b-o3;12.02.2008;End of Exp.;;FALSE
+k18r4;ZF;M;28.01.2008;0;;p14k-p2;blue2;10.07.2008;End of Exp.;;FALSE
+k18r8;ZF;F;07.08.2009;3;;r5y14;r7y1;06.11.2009;NE;;FALSE
+k19k-g14k;ZF;M;01.04.2006;0;;g14k;orange16;13.03.2007;End of Exp.;;FALSE
+k19r1;ZF;F;27.08.2007;2;;y7o-r16;purple16;01.11.2007;Given away;Given away to Johanna;FALSE
+k19r11;ZF;M;13.02.2010;2;;b14r10;p13r5;07.07.2010;NE;bird given away to Virginia Meskenaite, Anatomisches Institut;FALSE
+k19r2;ZF;F;06.11.2007;1;;g4r1;r2b-o3;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+k19r4;ZF;F;;0;;;;21.08.2008;NE;euthanized, Bird from U4 without any records in database. Claude 29.04.2008. -- There is another female bird k19r4 in the database!! Michael 21.8.2008;FALSE
+k19r4-b;ZF;F;17.06.2008;2;;o20o;r16o-r11;21.08.2008;NE;euthanized, There is another female bird k19r4 in the database .. - Michael 21.8.2008;FALSE
+k19r8;ZF;F;29.08.2009;4;;r7p1;p13r5;15.09.2010;NE;isolated female;FALSE
+k1r10;ZF;F;18.09.2009;3;;o4r8;p5r7;20.02.2010;End of Exp.;white bird - getting pecked;FALSE
+k1r11;ZF;M;05.02.2010;7;;p15r8;r2y1;16.06.2010;End of Exp.;;FALSE
+k1r12;ZF;M;15.05.2010;3;R3;o5r8;k10r2;;;;FALSE
+k1r14;ZF;;05.10.2010;4;;r11s16;o13r10;31.10.2010;NE;;FALSE
+k1r1-s3k;ZF;M;03.06.2007;4;;s3k-y8;k9k-ch900;19.07.2007;End of Exp.;;FALSE
+k1r3;ZF;F;13.02.2008;4;;g9r1;b4p-red11;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+k1r4;ZF;F;10.06.2008;6;;b11r3;k5r2;21.08.2008;NE;euthanized;FALSE
+k1r5;ZF;F;24.09.2008;2;;g2r1;r16o-r11;25.06.2009;NE;Can't find in ZZ on 22 Feb 2009 (Janie). Not found, presumed dead. (-janie, 25.june.2009);FALSE
+k1r6;ZF;F;29.10.2008;7;;s3k-y8;p10r2;09.01.2009;NE;;FALSE
+k1r7;ZF;;21.04.2009;2;;b8p-s14k;p2r6;17.07.2009;NE;bird was isolated as juvenile, Alexei, 16.06.2009. This bird has an abnormal song system - USE in experiments AT YOUR OWN RISK!!!;FALSE
+k1r8;ZF;M;01.08.2009;4;;b7r7;r6s10;02.09.2010;End of Exp.;;FALSE
+k20k-sg8;ZF;M;03.03.2006;0;;silvergreen8;purple5;06.06.2006;End of Exp.;;FALSE
+k20r1;ZF;F;27.08.2007;2;;y7o-r16;purple16;01.11.2007;Given away;Given away to Johanna;FALSE
+k20r11;ZF;M;13.02.2010;2;;b14r10;p13r5;30.08.2010;End of Exp.;;FALSE
+k20r2;ZF;F;06.11.2007;2;;g6r1;p14b-r16;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+k20r4;ZF;;12.03.2008;3;;silver15;o8p-y8;21.08.2008;NE;euthanized;FALSE
+k20r4-b;ZF;F;17.06.2008;2;;o20o;r16o-r11;21.08.2008;NE;euthanized, There is another female k20r4 in the database .. - Michael 21.8.2008;FALSE
+k20r6;ZF;M;21.11.2008;3;;y16p-s2;blue2;01.02.2009;NE;found dead in KM.;FALSE
+k20r8;ZF;F;29.08.2009;4;;r7p1;p13r5;15.09.2010;NE;isolated female;FALSE
+k2r1;ZF;M;09.08.2007;4;;g8r1;b7br-b3k;23.04.2008;End of Exp.;;FALSE
+k2r10;ZF;F;18.09.2009;3;;o4r8;p5r7;23.11.2009;Given away;white bird;FALSE
+k2r11;ZF;M;05.02.2010;7;;p15r8;r2y1;05.05.2010;End of Exp.;;FALSE
+k2r12;ZF;M;15.05.2010;3;R3;o5r8;k10r2;;;;FALSE
+k2r13;ZF;M;19.06.2010;5;KO;p10r8;b11r8;;;;FALSE
+k2r2;ZF;M;13.11.2007;5;;g9r1;b4p-red11;16.03.2009;End of Exp.;;FALSE
+k2r3;ZF;F;04.03.2008;1;;r2s4;y8o-r16;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+k2r4;ZF;F;10.06.2008;6;;b11r3;k5r2;21.08.2008;NE;euthanized;FALSE
+k2r5;ZF;F;24.09.2008;2;;g2r1;r16o-r11;09.01.2009;NE;;FALSE
+k2r6;ZF;M;29.10.2008;7;;s3k-y8;p10r2;18.05.2009;End of Exp.;;FALSE
+k2r7;ZF;;21.04.2009;0;;b8p-s14k;p2r6;19.06.2009;End of Exp.;;FALSE
+k2r8;ZF;F;01.08.2009;4;;b7r7;r6s10;06.11.2009;NE;;FALSE
+k3k-s17;ZF;F;05.01.2006;0;;silver17;;16.02.2007;Given away;Given Away to Marianne;FALSE
+k3r1;ZF;M;09.08.2007;4;;g8r1;b7br-b3k;07.01.2008;End of Exp.;;FALSE
+k3r10;ZF;F;28.10.2009;0;;o10r8;r5s1;06.03.2010;Perished;White chick;FALSE
+k3r11;ZF;F;05.02.2010;7;;p15r8;r2y1;02.06.2010;NE;;FALSE
+k3r12;ZF;F;15.05.2010;3;KU;o5r8;k10r2;;;good showgirl;FALSE
+k3r13;ZF;F;19.06.2010;5;;p10r8;b11r8;16.09.2010;NE;;FALSE
+k3r2;ZF;M;13.11.2007;5;;g9r1;b4p-red11;04.06.2008;End of Exp.;Right-Cochlear successfully removed by Claude. In MK waiting for further experiment.;FALSE
+k3r3;ZF;M;04.03.2008;1;;r2s4;y8o-r16;27.05.2008;End of Exp.;;FALSE
+k3r4;ZF;M;10.06.2008;6;;b11r3;k5r2;17.09.2008;End of Exp.;;FALSE
+k3r5;ZF;M;24.09.2008;2;;g2r1;r16o-r11;09.03.2009;End of Exp.;Reserved for Janie. Not found in MK (Claude 01.05.2009);FALSE
+k3r6;ZF;M;29.10.2008;7;;s3k-y8;p10r2;20.05.2009;End of Exp.;;FALSE
+k3r7;ZF;M;19.04.2009;4;;k8r2;r5s4;18.08.2009;End of Exp.;;FALSE
+k3r8;ZF;F;01.08.2009;4;;b7r7;r6s10;06.11.2009;NE;;FALSE
+k4r1;ZF;M;09.08.2007;4;;g8r1;b7br-b3k;22.10.2008;End of Exp.;Very nice song. Use for Breeding! - Sorry, there is no other bird phd +/-300 around for the RAexperiment Aymeric;FALSE
+k4r10;BF;;23.09.2009;4;A-O;;;;;;FALSE
+k4r11;ZF;M;05.02.2010;7;;p15r8;r2y1;14.09.2010;End of Exp.;;FALSE
+k4r12;ZF;;15.05.2010;3;;o5r8;k10r2;20.08.2010;End of Exp.;;FALSE
+k4r13;ZF;F;19.06.2010;5;;p10r8;b11r8;15.09.2010;NE;;FALSE
+k4r2;ZF;F;13.11.2007;5;;g9r1;b4p-red11;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+k4r3;ZF;F;13.02.2008;4;;g9r1;b4p-red11;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+k4r4;ZF;M;10.06.2008;6;;b11r3;k5r2;23.09.2008;End of Exp.;;FALSE
+k4r5;ZF;M;24.09.2008;2;;g2r1;r16o-r11;19.03.2009;End of Exp.;;FALSE
+k4r6;ZF;M;29.10.2008;7;;s3k-y8;p10r2;04.06.2009;End of Exp.;;FALSE
+k4r7;ZF;;19.04.2009;4;;k8r2;r5s4;19.06.2009;End of Exp.;;FALSE
+k4r8;ZF;M;01.08.2009;4;;b7r7;r6s10;07.05.2010;End of Exp.;;FALSE
+k5k-s15;ZF;F;10.02.2006;0;;silver15;;16.02.2007;Given away;Given Away to Marianne;FALSE
+k5r1;ZF;M;09.08.2007;4;;g8r1;b7br-b3k;10.01.2008;End of Exp.;;FALSE
+k5r10;BF;;23.09.2009;4;A-O;;;;;;FALSE
+k5r11;ZF;F;05.02.2010;7;O5;p15r8;r2y1;;;;FALSE
+k5r12;ZF;M;19.04.2010;4;;g12r2;g4r7;17.06.2010;End of Exp.;microdrive fell off.;FALSE
+k5r13;ZF;F;19.06.2010;5;;p10r8;b11r8;16.09.2010;NE;;FALSE
+k5r2;ZF;F;13.11.2007;5;;g9r1;b4p-red11;04.08.2010;NE;;FALSE
+k5r3;ZF;M;09.02.2008;3;;o18r1;b10r2;28.05.2008;End of Exp.;;FALSE
+k5r4;ZF;F;10.06.2008;6;;b11r3;k5r2;21.08.2008;NE;euthanized;FALSE
+k5r5;ZF;M;24.09.2008;2;;g2r1;r16o-r11;10.06.2009;End of Exp.;reserved for michael;FALSE
+k5r6;ZF;F;29.10.2008;6;;s3k-y8;p10r2;09.01.2009;NE;;FALSE
+k5r7;ZF;;19.04.2009;4;;k8r2;r5s4;19.06.2009;End of Exp.;;FALSE
+k5r8;ZF;F;05.08.2009;1;;974;g2r5;25.11.2009;End of Exp.;;FALSE
+k6k-g14k;ZF;M;17.02.2006;4;;g14k;orange16;25.07.2006;End of Exp.;;FALSE
+k6r1;ZF;F;09.08.2007;4;;g8r1;b7br-b3k;01.11.2007;Given away;Given away to Johanna;FALSE
+k6r10;ZF;M;30.10.2009;2;;p14k;r5s4;16.03.2010;;;FALSE
+k6r11;ZF;F;05.02.2010;7;;p15r8;r2y1;16.09.2010;NE;;FALSE
+k6r12;ZF;M;19.04.2010;4;A-U;g12r2;g4r7;;;;FALSE
+k6r13;ZF;M;05.07.2010;3;R5;g13r8;r2s20;;;;FALSE
+k6r2;ZF;M;13.11.2007;5;;g9r1;b4p-red11;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+k6r3;ZF;F;09.02.2008;3;;o18r1;b10r2;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+k6r6;ZF;M;29.10.2008;7;;s3k-y8;p10r2;11.05.2009;End of Exp.;;FALSE
+k6r7;ZF;F;13.03.2009;1;;b10r5;r2b-o3;22.05.2009;NE;Found dead in cage;FALSE
+k7k-b3k;ZF;F;24.02.2006;0;;b3k;blue3;14.11.2006;Surgery;;FALSE
+k7r1;ZF;M;09.08.2007;4;;g8r1;b7br-b3k;01.09.2008;End of Exp.;;FALSE
+k7r10;ZF;F;30.10.2009;2;;p14k;r5s4;08.03.2010;NE;;FALSE
+k7r11;ZF;F;20.01.2010;2;;b14r3;r8s7;02.06.2010;NE;;FALSE
+k7r12;ZF;M;19.04.2010;4;;g12r2;g4r7;08.07.2010;End of Exp.;;FALSE
+k7r13;ZF;M;05.07.2010;3;;g13r8;r2s20;07.11.2010;End of Exp.;;FALSE
+k7r2;ZF;M;13.11.2007;5;;g9r1;b4p-red11;30.09.2009;End of Exp.;Found in KO on 20 June 2009. - Janie;FALSE
+k7r3;ZF;M;09.02.2008;3;;o18r1;b10r2;26.06.2008;End of Exp.;;FALSE
+k7r5;ZF;M;17.06.2008;2;;o20o;r16o-r11;25.09.2008;Surgery;;FALSE
+k7r6;ZF;M;29.10.2008;7;;s3k-y8;p10r2;20.05.2009;End of Exp.;;FALSE
+k7r7;ZF;F;13.03.2009;5;;o5r6;g2r5;;;bird is missing on june 15, 2009;FALSE
+k7r8;ZF;M;05.08.2009;1;;974;g2r5;28.05.2010;End of Exp.;;FALSE
+k8k-b3k;ZF;M;24.02.2006;;;b3k;blue3;04.10.2006;End of Exp.;good sleep activity in RA, slept very good;FALSE
+k8r1;ZF;F;14.08.2007;3;;b13g-red11;s11p-yellow8;21.08.2008;NE;euthanized;FALSE
+k8r10;ZF;F;30.10.2009;2;U5;p14k;r5s4;;;;FALSE
+k8r11;ZF;M;20.01.2010;2;;b14r3;r8s7;24.07.2010;End of Exp.;;FALSE
+k8r12;ZF;M;19.04.2010;4;;g12r2;g4r7;22.09.2010;Perished;;FALSE
+k8r13;ZF;F;05.07.2010;3;U4;g13r8;r2s20;;;;FALSE
+k8r2;ZF;M;17.11.2007;4;2M1;g5r1;purple13;;;Breeder - couple with female o7r5. Song recorded.;TRUE
+k8r3;ZF;M;09.02.2008;3;;o18r1;b10r2;25.06.2009;NE;Reserved for Janie... Found missing from ZZU on 29.Sept.2008. Not found, presumed dead. (-janie, 25.june.2009);FALSE
+k8r5;ZF;F;17.06.2008;2;;k7r1;r14w-silver17;21.08.2008;NE;euthanized;FALSE
+k8r6;ZF;M;29.10.2008;7;;s3k-y8;p10r2;21.04.2009;End of Exp.;;FALSE
+k8r7;ZF;F;13.03.2009;3;;b9r5;o8p-y8;17.06.2009;End of Exp.;;FALSE
+k8r8;ZF;F;01.08.2009;4;;b7r7;r6s10;06.11.2009;NE;;FALSE
+k9k-ch900;ZF;F;14.02.2006;0;;;;17.02.2009;NE;Euthanized, very old lady bird, she was pecking herself until she was bleeding!;FALSE
+k9r1;ZF;F;14.08.2007;3;;b13g-red11;s11p-yellow8;01.11.2007;Given away;Given away to Johanna;FALSE
+k9r11;ZF;M;17.02.2010;1;;p20r8;o6r7;11.07.2010;End of Exp.;;FALSE
+k9r13;ZF;F;05.07.2010;3;;g13r8;r2s20;15.09.2010;NE;;FALSE
+k9r2;ZF;M;17.11.2007;4;;g5r1;purple13;08.12.2008;End of Exp.;;FALSE
+k9r3;ZF;F;09.02.2008;3;;o18r1;b10r2;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+K-G-K209-14;BF;;;0;A-O;;;;;Found in cage A on 25 Aug, 2009 - Janie;FALSE
+K-G-K209-19;BF;;;0;A-O;;;;;Found in cage A on 25 Aug, 2009 - Janie;FALSE
+K-G-K209-54;BF;M;01.01.2007;0;;;;29.11.2010;NE;;FALSE
+K-K-K209-15;BF;F;01.01.2007;0;A-O;;;;;;FALSE
+K-K-K209-52;BF;M;01.01.2007;0;?;;;;;Not found in cage A on 25 Aug., 2009 - Janie.;FALSE
+K-K-K209-78;BF;M;01.01.2007;0;;;;30.10.2008;NE;swollen foot;FALSE
+n2g;ZF;M;02.09.2008;0;;g8r1;k10r2;03.12.2008;End of Exp.;;FALSE
+o10k-g14;ZF;M;17.02.2006;0;;g14k;;28.04.2006;End of Exp.;;FALSE
+o10o-r12k;ZF;M;11.08.2006;3;;r12k-ch900;g4k;15.12.2006;Surgery;tried acut UVA. No success. Bird dead;FALSE
+o10p-r16;ZF;;30.11.2006;0;;red16;green16;19.01.2007;End of Exp.;;FALSE
+o10r1;ZF;M;07.07.2007;5;;red11;p3o-sb;08.05.2008;End of Exp.;;FALSE
+o10r10;ZF;M;06.08.2009;7;;;;11.01.2011;End of Exp.;bought from Erika Bolliger on November 6th 09, michael. Cage unknown. Last transfer by Janie. Found in KM by Lisa;FALSE
+o10r11;ZF;F;26.12.2009;6;;p15r8;r2y1;14.02.2010;End of Exp.;;FALSE
+o10r12;ZF;M;21.03.2010;3;;o4r10;k15r8;;Surgery;Reserved Alexei till 30.04.2010;FALSE
+o10r13;ZF;M;21.05.2010;2;;g4r10;r10s11;24.07.2010;End of Exp.;;FALSE
+o10r14;ZF;M;05.09.2010;4;IS1;o5r8;g19r13;;;;FALSE
+o10r15;ZF;F;15.11.2010;4;IS2;k13r2;k10r2;;;AK & AC;TRUE
+o10r2;ZF;M;29.08.2007;8;;s17o;green10;26.02.2008;End of Exp.;;FALSE
+o10r3;ZF;F;09.12.2007;3;;s2b-y8;k9k-ch900;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+o10r4;ZF;F;19.04.2008;5;;silver15;o8p-y8;21.08.2008;NE;euthanized;FALSE
+o10r5;ZF;M;07.09.2008;5;;r3s3;k12r2;14.01.2009;End of Exp.;plastic song of this bird on linsrv;FALSE
+o10r6;ZF;M;17.10.2008;5;;red11;b7br-b3k;30.01.2009;End of Exp.;reserved for michael;FALSE
+o10r7;BF;M;14.01.2009;7;A-O;;;;;;FALSE
+o10r8;ZF;M;01.04.2009;7;;;;11.09.2010;Perished;"Breeder - couple with female r5s1. bought from qualipet on July 13th 2009, michael; white chick k3r10";FALSE
+o10w;BF;M;;0;;;;22.02.2008;NE;broken toe?;FALSE
+o11k-p20;ZF;F;24.03.2006;0;;purple20;purple13;16.06.2006;NE;"-> abgegeben an Z""uchter";FALSE
+o11o12;ZF;M;12.04.2007;4;;b8o-p11k;r2b-o3;10.08.2007;End of Exp.;;FALSE
+o11o-r12k;ZF;M;11.08.2006;3;;r12k-ch900;g4k;06.06.2007;End of Exp.;;FALSE
+o11p-p20;ZF;F;26.03.2007;1;;purple20;purple13;07.03.2008;End of Exp.;Killed by Claude because she crazily attacked all the family (tutor, and children).;FALSE
+o11r1;ZF;M;07.07.2007;5;;red11;p3o-sb;27.08.2008;End of Exp.;Song recording, but bird never sang;FALSE
+o11r10;ZF;M;01.10.2009;7;A-U;;;;;bought from Erika Bolliger on November 6th 09, michael. Not good breeder.;FALSE
+o11r11;ZF;;11.01.2010;4;;p5r3;r8s8;20.02.2010;Surgery;;FALSE
+o11r12;ZF;M;24.03.2010;3;;p20r8;o6r7;22.09.2010;End of Exp.;;FALSE
+o11r13;ZF;F;21.05.2010;2;O7;g4r10;r10s11;;;;FALSE
+o11r14;ZF;F;05.09.2010;4;KU;o5r8;g19r13;;;;FALSE
+o11r15;ZF;M;15.11.2010;4;IS2;k13r2;k10r2;;;AK & AC;TRUE
+o11r2;ZF;M;29.08.2007;8;;s17o;green10;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+o11r3;ZF;M;09.12.2007;3;;s2b-y8;k9k-ch900;30.07.2008;End of Exp.;;FALSE
+o11r4;ZF;F;05.05.2008;5;;k7r1;r14w-silver17;21.08.2008;NE;euthanized;FALSE
+o11r5;ZF;F;07.09.2008;5;;r3s3;k12r2;09.01.2009;NE;;FALSE
+o11r6;ZF;M;17.10.2008;5;;red11;b7br-b3k;27.05.2009;End of Exp.;;FALSE
+o11r7;BF;;14.01.2009;7;A-O;;;;;;FALSE
+o11r8;ZF;M;01.04.2009;7;;;;;;"for breeding; bought from qualipet on July 13th 2009, michael - missing from cage, april 23rd 2010, michael";TRUE
+o12k-p20;ZF;F;24.03.2006;0;;purple20;purple13;06.10.2006;NE;;FALSE
+o12o-r12k;ZF;F;11.08.2006;3;;r12k-ch900;g4k;30.11.2007;NE;sick, thick feet (ring too tight). Killed by injection.;FALSE
+o12p-ch900;ZF;F;23.10.2006;4;;goldch900;silver1;16.02.2007;Given away;Given Away to Marianne;FALSE
+o12r1;ZF;F;07.07.2007;5;;red11;p3o-sb;01.11.2007;Given away;Given away to Johanna;FALSE
+o12r10;ZF;M;06.08.2009;7;O4;;;;;Breeder - couple with female p18r8. bought from Erika Bolliger on November 6th 09, michael;TRUE
+o12r11;ZF;;11.01.2010;4;;p5r3;r8s8;14.04.2010;End of Exp.;;FALSE
+o12r12;ZF;F;24.03.2010;3;;p20r8;o6r7;30.05.2010;NE;;FALSE
+o12r13;ZF;M;26.05.2010;3;;g4r11;p15r6;02.08.2010;End of Exp.;;FALSE
+o12r14;ZF;F;05.09.2010;4;;o5r8;g19r13;04.01.2011;NE;showgirl;FALSE
+o12r15;ZF;M;15.11.2010;4;;k13r2;k10r2;21.12.2010;End of Exp.;;FALSE
+o12r2;ZF;F;29.08.2007;8;;s17o;green10;01.11.2007;Given away;Given away to Johanna;FALSE
+o12r3;ZF;F;09.12.2007;3;KU;s2b-y8;k9k-ch900;;;;FALSE
+o12r4;ZF;F;05.05.2008;5;;k7r1;r14w-silver17;21.08.2008;NE;euthanized;FALSE
+o12r5;ZF;F;07.09.2008;5;;r3s3;k12r2;15.01.2009;NE;;FALSE
+o12r6;ZF;M;17.10.2008;5;;red11;b7br-b3k;16.02.2009;End of Exp.;;FALSE
+o12r7;BF;;14.01.2009;7;;;;11.05.2010;End of Exp.;;FALSE
+o12r8;ZF;M;01.04.2009;7;;;;24.06.2010;End of Exp.;bought from qualipet on July 13th 2009, michael;FALSE
+o13k-sb;ZF;F;04.04.2006;0;;silverblack;purple17;06.10.2006;NE;;FALSE
+o13o14;ZF;M;12.04.2007;4;;b8o-p11k;r2b-o3;17.08.2007;End of Exp.;;FALSE
+o13o-y8;ZF;F;26.07.2006;0;;yellow8;g5k;27.11.2006;End of Exp.;;FALSE
+o13p-ch900;ZF;F;23.10.2006;4;;goldch900;silver1;16.02.2007;Given away;Given Away to Marianne;FALSE
+o13r1;ZF;F;04.07.2007;3;;b13g-red11;s11p-yellow8;01.11.2007;Given away;Given away to Johanna;FALSE
+o13r10;ZF;F;02.10.2009;0;U7;o8r8;k5r2;;;;FALSE
+o13r11;ZF;;11.01.2010;4;;p5r3;r8s8;17.02.2010;Surgery;;FALSE
+o13r12;ZF;F;24.03.2010;3;;p20r8;o6r7;30.05.2010;NE;;FALSE
+o13r13;ZF;F;26.05.2010;3;;g4r11;p15r6;23.10.2010;NE;;FALSE
+o13r14;ZF;M;03.09.2010;4;KO;r5y14;b15r6;;;;FALSE
+o13r15;ZF;M;15.11.2010;4;IS2;k13r2;k10r2;;;AK & AC;TRUE
+o13r2;ZF;M;15.09.2007;1;;g7r1;orange16;05.06.2008;End of Exp.;mistreated by father, separated while still young and put in separate MK.;FALSE
+o13r3;ZF;M;09.12.2007;3;;s2b-y8;k9k-ch900;10.04.2008;End of Exp.;;FALSE
+o13r4;ZF;F;05.05.2008;5;;k7r1;r14w-silver17;18.08.2008;NE;Died in cage;FALSE
+o13r5;ZF;F;07.09.2008;5;;r3s3;k12r2;06.11.2009;NE;;FALSE
+o13r6;ZF;M;17.10.2008;5;;red11;b7br-b3k;15.01.2009;Surgery;;FALSE
+o13r7;ZF;F;21.02.2009;2;;r5y11;r5s13;18.02.2010;Perished;;FALSE
+o13r8;ZF;M;01.04.2009;7;?;;;;;not found in A-U on 31.Oct.2010 - jo. bought from qualipet on July 13th 2009, michael. Reserved until the end of the world (alessandro);TRUE
+o14k-sb;ZF;M;04.04.2006;0;;silverblack;purple17;22.08.2006;End of Exp.;recorded data as ok4-p2;FALSE
+o14o-y8;ZF;F;26.07.2006;0;;yellow8;g5k;06.10.2006;NE;;FALSE
+o14p-ch900;ZF;F;19.10.2006;0;;red14;red2;16.02.2007;Given away;Given Away to Marianne;FALSE
+o14r1;ZF;F;04.07.2007;3;;b13g-red11;s11p-yellow8;01.11.2007;Given away;Given away to Johanna;FALSE
+o14r10;ZF;F;17.09.2009;5;;r5y14;r7y1;23.11.2009;Given away;;FALSE
+o14r11;ZF;F;14.12.2009;0;;o12r10;p18r8;14.10.2010;NE;;FALSE
+o14r12;ZF;M;24.03.2010;3;R1;p20r8;o6r7;;;;FALSE
+o14r13;ZF;F;26.05.2010;3;;g4r11;p15r6;16.09.2010;NE;;FALSE
+o14r14;ZF;M;03.09.2010;4;;r5y14;b15r6;03.12.2010;End of Exp.;;FALSE
+o14r15;ZF;M;28.10.2010;2;R6;o3r8;b18r10;;;;FALSE
+o14r2;ZF;M;28.09.2007;3;;g4r1;r2b-o3;06.02.2008;End of Exp.;;FALSE
+o14r3;ZF;F;09.12.2007;3;;s2b-y8;k9k-ch900;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+o14r4;ZF;F;04.05.2008;5;;k7r1;r14w-silver17;21.08.2008;NE;euthanized;FALSE
+o14r5;ZF;F;07.09.2008;5;;r3s3;k12r2;09.01.2009;NE;;FALSE
+o14r6;ZF;M;17.10.2008;5;;red11;b7br-b3k;12.01.2009;End of Exp.;;FALSE
+o14r7;ZF;M;21.02.2009;2;;r5y11;r5s13;05.05.2009;End of Exp.;;FALSE
+o14r8;ZF;M;01.04.2009;7;;;;18.08.2009;End of Exp.;bought from qualipet on July 13th 2009, michael;FALSE
+o15o-y8;ZF;F;26.07.2006;0;;yellow8;g5k;06.10.2006;NE;;FALSE
+o15p-r16;ZF;;30.11.2006;0;;red16;green12;24.01.2007;;;FALSE
+o15r1;ZF;F;04.07.2007;3;;b13g-red11;s11p-yellow8;01.11.2007;Given away;Given away to Johanna;FALSE
+o15r10;ZF;F;17.09.2009;5;;r5y14;r7y1;23.11.2009;Given away;;FALSE
+o15r11;ZF;M;26.12.2009;4;;o4r10;k15r8;12.05.2010;NE;;FALSE
+o15r12;ZF;F;06.03.2010;5;;b12r10;g19r2;01.05.2010;NE;;FALSE
+o15r13;ZF;F;26.05.2010;3;;g4r11;p15r6;23.10.2010;NE;;FALSE
+o15r14;ZF;M;03.09.2010;4;KO;r5y14;b15r6;;;;FALSE
+o15r15;ZF;M;28.10.2010;2;R6;o3r8;b18r10;;;;FALSE
+o15r2;ZF;F;28.09.2007;3;;g4r1;r2b-o3;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+o15r3;ZF;;13.02.2008;;;b16r1;o11p-p20;10.03.2008;Perished;Right-Cochlear removed by Claude. Killed by a extra-tutor I put in the same cage.;FALSE
+o15r4;ZF;F;04.05.2008;2;;o20o;r16o-r11;21.08.2008;NE;euthanized;FALSE
+o15r5;ZF;F;01.09.2008;4;;g6r1;p9r2;09.11.2008;End of Exp.;;FALSE
+o15r6;ZF;F;29.09.2008;4;;y7o-r16;b20o-ch900;22.08.2009;NE;origin unclear due to cage tunneling;FALSE
+o15r7;ZF;F;21.02.2009;2;;r5y11;r5s13;02.06.2010;NE;;FALSE
+o15r8;ZF;F;19.06.2009;3;;974;g2r5;14.10.2010;NE;Breeder - white offspring, eliminated because of this;TRUE
+o16k-p20;ZF;M;19.03.2006;0;;purple20;purple13;14.06.2006;End of Exp.;;FALSE
+o16o-y8;ZF;F;26.07.2006;0;;yellow8;g5k;06.10.2006;NE;;FALSE
+o16p-ch900;ZF;M;23.10.2006;4;;goldch900;silver1;02.03.2007;End of Exp.;;FALSE
+o16r1;ZF;M;01.07.2007;3;;r12p-y7o;o8p-y8;01.11.2007;Given away;Given away to Johanna;FALSE
+o16r10;ZF;M;17.09.2009;5;;r5y14;r7y1;15.01.2010;End of Exp.;michael - GECIP YC3.60;TRUE
+o16r11;ZF;M;26.12.2009;4;;o4r10;k15r8;05.07.2010;End of Exp.;;FALSE
+o16r12;ZF;M;06.03.2010;5;;b12r10;g19r2;19.09.2010;End of Exp.;;FALSE
+o16r13;ZF;F;01.05.2010;3;2U1;p20r8;o6r7;;;;FALSE
+o16r14;ZF;M;20.09.2010;4;;r10y2;p3r7;08.12.2010;End of Exp.;;FALSE
+o16r15;ZF;M;03.11.2010;2;R6;o8r10;r11y2;;;;FALSE
+o16r2;ZF;F;28.09.2007;3;;g4r1;r2b-o3;25.01.2008;End of Exp.;;FALSE
+o16r3;ZF;;13.02.2008;6;;b16r1;o11p-p20;10.03.2008;Perished;Right-Cochlear removed by Claude. Killed by a extra-tutor I put in the same cage.;FALSE
+o16r4;ZF;F;04.05.2008;2;;o20o;r16o-r11;21.08.2008;NE;euthanized;FALSE
+o16r5;ZF;F;01.09.2008;4;;g6r1;p9r2;14.03.2009;NE;Found in ZZ on 22 Feb 2009;FALSE
+o16r6;ZF;F;29.09.2008;4;;y7o-r16;b20o-ch900;17.06.2009;End of Exp.;origin unclear due to cage tunneling;FALSE
+o16r7;ZF;F;18.02.2009;2;;r5y15;r5s2;22.08.2009;NE;;FALSE
+o16r8;ZF;F;19.06.2009;3;;974;g2r5;22.08.2009;NE;;FALSE
+o17k-g14k;ZF;M;29.03.2006;0;;g14k;orange16;29.08.2006;End of Exp.;IS7=time reversed;FALSE
+o17o-y8;ZF;F;26.07.2006;0;;yellow8;g5k;06.10.2006;NE;;FALSE
+o17p-r12k;ZF;M;30.10.2006;0;;r12k-ch900;g4k;05.04.2007;End of Exp.;Reserved by Claude for Richard.;FALSE
+o17r1;ZF;F;01.07.2007;3;;r12p-y7o;o8p-y8;01.11.2007;Given away;Given away to Johanna;FALSE
+o17r11;ZF;M;26.12.2009;4;;o4r10;k15r8;07.04.2010;End of Exp.;;FALSE
+o17r12;ZF;F;06.03.2010;5;;b12r10;g19r2;01.05.2010;NE;white female;FALSE
+o17r13;ZF;M;01.05.2010;3;KO;p20r8;o6r7;;;;FALSE
+o17r14;ZF;M;20.09.2010;4;;r10y2;p3r7;08.12.2010;End of Exp.;;FALSE
+o17r2;ZF;M;03.10.2007;2;;red11;p3o-sb;07.09.2008;End of Exp.;;FALSE
+o17r3;ZF;;13.02.2008;6;;b16r1;o11p-p20;10.03.2008;Perished;Right-Cochlear removed by Claude. Killed by a extra-tutor I put in the same cage.;FALSE
+o17r4;ZF;;14.05.2008;5;;r2s6;r2y1;22.09.2008;Perished;Euthanized because of necrotic leg due to poor ringing =(;FALSE
+o17r5;ZF;M;20.10.2010;4;2M2;o5r8;g19r13;;;;FALSE
+o17r6;ZF;F;29.09.2008;4;;y7o-r16;b20o-ch900;30.05.2009;NE;origin unclear due to cage tunneling;FALSE
+o17r7;ZF;F;18.02.2009;2;;r5y15;r5s2;03.01.2011;NE;;FALSE
+o18k-g14k;ZF;F;26.03.2006;0;;g14k;orange16;25.05.2006;NE;Killed because white.;FALSE
+o18o-y13k;ZF;F;14.07.2006;2;;y13k-s17;p19k-o3;16.02.2007;Given away;Given Away to Marianne;FALSE
+o18p-ch900;ZF;F;23.10.2006;4;;goldch900;silver1;16.02.2007;Given away;Given Away to Marianne;FALSE
+o18r1;ZF;M;01.07.2007;3;;r12p-y7o;o8p-y8;02.05.2008;End of Exp.;;FALSE
+o18r10;ZF;F;17.09.2009;5;;r5y14;r7y1;23.11.2009;Given away;;FALSE
+o18r11;ZF;F;26.12.2009;4;;o4r10;k15r8;08.03.2010;NE;;FALSE
+o18r12;ZF;M;06.03.2010;5;;b12r10;g19r2;30.08.2010;End of Exp.;o18 is hard to read;FALSE
+o18r13;ZF;F;01.05.2010;3;;p20r8;o6r7;04.08.2010;NE;;FALSE
+o18r14;ZF;M;20.09.2010;4;;r10y2;p3r7;08.12.2010;End of Exp.;;FALSE
+o18r2;ZF;F;03.10.2007;2;;red11;p3o-sb;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+o18r3;ZF;;13.02.2008;6;;b16r1;o11p-p20;08.03.2008;End of Exp.;Right-Cochlear removed by Claude.;FALSE
+o18r4;ZF;;14.05.2008;5;;r2s6;r2y1;19.08.2008;End of Exp.;;FALSE
+o18r6;ZF;M;02.10.2008;6;;b13r3;p3o-sb;30.12.2008;End of Exp.;;FALSE
+o18r7;ZF;F;18.02.2009;2;;r5y15;r5s2;02.12.2009;End of Exp.;;FALSE
+o18r8;ZF;F;29.06.2009;3;;o1r1;r2y1;;;Given to Kynan 28.7.2010;FALSE
+o19k-r16;ZF;M;08.04.2006;5;;red16;green12;20.06.2006;End of Exp.;;FALSE
+o19o-y13k;ZF;F;14.07.2006;2;;y13k-s17;p19k-o3;06.10.2006;NE;;FALSE
+o19p-ch900;ZF;M;23.10.2006;4;;goldch900;silver1;02.05.2007;End of Exp.;;FALSE
+o19r1;ZF;M;18.07.2007;5;;s17o;green10;19.06.2008;End of Exp.;;FALSE
+o19r10;ZF;M;17.09.2009;5;;r5y14;r7y1;;;missing in cage, 18. dez. 09 : michael;FALSE
+o19r11;ZF;M;21.12.2009;2;;o5r10;r8y20;22.06.2010;End of Exp.;;FALSE
+o19r14;ZF;F;20.09.2010;4;;r10y2;p3r7;04.11.2010;End of Exp.;;FALSE
+o19r15;ZF;F;26.11.2010;3;2M3;r10y2;p3r7;;;;FALSE
+o19r2;ZF;M;01.09.2007;5;;yellow1;green12;06.10.2008;End of Exp.;;FALSE
+o19r3;ZF;M;13.02.2008;4;;g9r1;b4p-red11;22.05.2008;End of Exp.;Right-Cochlear removed by Claude.;FALSE
+o19r4;ZF;M;13.05.2008;5;;p14k-p2;blue2;25.06.2009;NE;missing. Not found, presumed dead. (-janie, 25.june.2009);FALSE
+o19r5;ZF;F;01.09.2008;4;FJ6;g6r1;p9r2;;;Breeder - couple with male b14r4;TRUE
+o19r6;ZF;M;22.10.2008;3;;g13p-purple20;p14b-r16;25.06.2009;NE;Not found in KO on 20 June 2009. Not found, presumed dead. (-janie, 25.june.2009);FALSE
+o19r7;ZF;M;06.02.2009;6;;b7r5;g19r2;01.07.2009;End of Exp.;no histology, because brain was in very bad shape.;FALSE
+o19r8;ZF;M;19.06.2009;3;;974;g2r5;19.10.2009;End of Exp.;;FALSE
+o1o2;ZF;F;11.04.2007;3;;red16;g18k-y6;24.07.2007;Given away;Given away to Johanna;FALSE
+o1o-b3k;ZF;F;01.04.2006;0;;b3k;blue3;06.10.2006;NE;;FALSE
+o1p-silver17;ZF;F;06.11.2006;0;;silver17;blue10;01.11.2007;Given away;Given away to Johanna;FALSE
+o1r1;ZF;M;04.07.2007;3;KO;y16p-s2;o12o-r12k;;;;TRUE
+o1r10;ZF;M;06.08.2009;7;A-U;;;;;bought from Erika Bolliger on November 6th 09, michael. Had white offspring, do not breed.;FALSE
+o1r11;ZF;F;06.12.2009;3;;p10r8;b11r8;10.02.2010;End of Exp.;;FALSE
+o1r12;ZF;M;03.03.2010;5;A-U;r5y14;r7y1;;;;FALSE
+o1r13;ZF;F;05.05.2010;0;;o3r8;b18r10;04.08.2010;NE;;FALSE
+o1r14;ZF;M;13.08.2010;1;M2;g20r11;r12y20;;;;FALSE
+o1r15;ZF;F;06.10.2010;4;KU;r12s14;b4r7;;;;FALSE
+o1r2;ZF;M;05.08.2007;1;;o4k-p2;green13;15.11.2007;End of Exp.;;FALSE
+o1r3;ZF;M;27.12.2007;4;;g3r1;purple8;02.11.2009;End of Exp.;"Reserved by Claude for ""HVC Stim on Brothers"".";FALSE
+o1r3-BF;BF;;01.01.2007;0;A-O;;;;;found in R8 on 11.3.2010, was not in the database (alessandro);FALSE
+o1r4;ZF;M;04.04.2008;2;;r2s6;r2y1;18.09.2008;End of Exp.;Reserved for Janie;FALSE
+o1r5;ZF;F;30.06.2008;5;;r2s6;r2y1;20.03.2009;NE;;FALSE
+o1r6;ZF;F;26.09.2008;0;;b14r3;r1y17;09.01.2009;NE;;FALSE
+o1r7;ZF;M;17.01.2009;5;;b9r5;o8p-y8;21.06.2009;End of Exp.;reserved for michael;FALSE
+o1r8;ZF;M;01.04.2009;7;;;;05.10.2009;End of Exp.;bought from qualipet on July 13th 2009, michael;FALSE
+o20k-sg8;ZF;M;03.03.2006;0;;silvergreen8;purple5;03.04.2007;End of Exp.;Short song, iABC. Reserved by Claude for Richard.;FALSE
+o20o;ZF;M;;0;;;;29.09.2008;End of Exp.;;FALSE
+o20o-ch900;ZF;M;23.03.2006;0;;goldch900;silver1;13.09.2007;Perished;Hurt his wing in breeding cage and died (Johanna found the bird);FALSE
+o20p-ch900;ZF;M;23.10.2006;4;;goldch900;silver1;08.05.2007;End of Exp.;;FALSE
+o20r1;ZF;F;15.07.2007;2;;o20o-ch900;r12o-o4k;01.11.2007;Given away;Given away to Johanna;FALSE
+o20r10;ZF;;06.11.2009;1;;p10r8;b11r8;22.02.2010;End of Exp.;;FALSE
+o20r11;ZF;M;21.12.2009;2;;o5r10;r8y20;04.11.2010;End of Exp.;;FALSE
+o20r12;ZF;F;13.03.2010;5;;p2r5;b12r8;05.06.2010;NE;;FALSE
+o20r13;ZF;M;07.07.2010;2;;o8r10;r11y2;19.10.2010;End of Exp.;;FALSE
+o20r14;ZF;F;20.09.2010;4;;r10y2;p3r7;04.11.2010;End of Exp.;;FALSE
+o20r15;ZF;M;26.11.2010;3;2M3;r10y2;p3r7;;;;FALSE
+o20r2;ZF;M;01.09.2007;5;;yellow1;green12;22.01.2008;End of Exp.;;FALSE
+o20r3;ZF;;13.02.2008;4;;g9r1;b4p-red11;07.03.2008;End of Exp.;Right-Cochlear removed by Claude.;FALSE
+o20r4;ZF;M;13.05.2008;5;;p14k-p2;blue2;12.08.2008;End of Exp.;;FALSE
+o20r6;ZF;M;22.10.2008;3;;g13p-purple20;p14b-r16;18.05.2009;End of Exp.;;FALSE
+o20r7;ZF;M;06.02.2009;6;;b7r5;g19r2;04.05.2009;End of Exp.;;FALSE
+o20r8;ZF;F;19.06.2009;3;;974;g2r5;02.06.2010;NE;;FALSE
+o2o-g14k;ZF;F;12.06.2006;0;;g14k;orange16;06.10.2006;NE;;FALSE
+o2p-silver17;ZF;M;06.11.2006;2;;silver17;blue10;09.02.2007;End of Exp.;;FALSE
+o2r1;ZF;M;04.07.2007;3;;y16p-s2;o12o-r12k;16.08.2007;End of Exp.;;FALSE
+o2r10;ZF;M;06.08.2009;7;;;;02.12.2010;End of Exp.;bought from Erika Bolliger on November 6th 09, michael;FALSE
+o2r11;ZF;M;06.12.2009;3;;p10r8;b11r8;13.04.2010;End of Exp.;michael - reserved till 31.10.2010;TRUE
+o2r12;ZF;M;03.03.2010;0;;r5y14;r7y1;15.09.2010;End of Exp.;;FALSE
+o2r13;ZF;M;07.04.2010;0;;o8r10;o7r5;19.09.2010;End of Exp.;;FALSE
+o2r14;ZF;M;02.09.2010;4;;p13r10;o14r11;17.12.2010;End of Exp.;;FALSE
+o2r15;ZF;F;06.10.2010;4;KU;r12s14;b4r7;;;;FALSE
+o2r2;ZF;F;17.08.2007;3;;r12p-y7o;o8p-y8;01.11.2007;Given away;Given away to Johanna;FALSE
+o2r3;ZF;M;27.12.2007;4;;g3r1;purple8;22.08.2009;End of Exp.;"Reserved by Claude for ""HVC Stim on Brothers"".";FALSE
+o2r4;ZF;F;04.04.2008;2;;r2s6;r2y1;21.08.2008;NE;euthanized;FALSE
+o2r5;ZF;F;30.06.2008;5;2O2;r2s6;r2y1;;;Breeder;TRUE
+o2r6;ZF;M;26.09.2008;0;;b14r3;r1y17;14.12.2008;End of Exp.;;FALSE
+o2r7;ZF;M;17.01.2009;5;;b9r5;o8p-y8;03.09.2009;End of Exp.;Bird did not sing at all in the Isochamber for 6 days;FALSE
+o2r8;ZF;M;01.04.2009;7;;;;07.10.2009;End of Exp.;bought from qualipet on July 13th 2009, michael;FALSE
+o3o15;ZF;M;11.04.2007;3;;red16;g18k-y6;26.02.2008;Surgery;;FALSE
+o3o-g14k;ZF;F;13.06.2006;0;;g14k;orange16;06.10.2006;NE;;FALSE
+o3p-silver17;ZF;M;07.11.2006;3;;silver17;blue10;25.01.2007;End of Exp.;;FALSE
+o3r1;ZF;M;25.06.2007;1;;p11k-ch900;b20o-ch900;14.11.2007;End of Exp.;tracer exp. Moritz;FALSE
+o3r10;ZF;M;01.10.2009;7;;;;04.11.2010;End of Exp.;bought from Erika Bolliger on November 6th 09, michael;FALSE
+o3r11;ZF;M;06.12.2009;3;;p10r8;b11r8;23.08.2010;End of Exp.;;FALSE
+o3r12;ZF;M;03.03.2010;5;;r5y14;r7y1;01.10.2010;End of Exp.;white feathers;FALSE
+o3r13;ZF;M;07.04.2010;0;;o8r10;o7r5;09.12.2010;End of Exp.;;FALSE
+o3r14;ZF;M;02.09.2010;4;;p13r10;o14r11;22.12.2010;End of Exp.;;FALSE
+o3r15;ZF;F;06.10.2010;4;KU;r12s14;b4r7;;;;FALSE
+o3r2;ZF;F;17.08.2007;3;;r12p-y7o;o8p-y8;01.11.2007;Given away;Given away to Johanna;FALSE
+o3r3;ZF;M;27.12.2007;4;;g3r1;purple8;02.11.2009;End of Exp.;"Reserved by Claude for ""HVC Stim on Brothers"".";FALSE
+o3r4;ZF;M;14.04.2008;6;;b8o-p11k;s13p-yellow8;22.07.2008;Surgery;Bird was euthanized after the surgery because it did not recover from surgery.;FALSE
+o3r5;ZF;F;25.06.2008;4;;silver15;o8p-y8;22.08.2009;NE;found in KU on June 15, 2009, michael;FALSE
+o3r6;ZF;M;26.09.2008;0;;b14r3;r1y17;27.05.2009;End of Exp.;;FALSE
+o3r7;ZF;M;06.02.2009;2;;s17o;r7g-yellow8;28.04.2009;NE;white;FALSE
+o3r8;ZF;M;01.04.2009;7;2O3;;;;;bought from qualipet on July 13th 2009, michael. 06.08.2010;FALSE
+o4k-p2;ZF;M;02.01.2006;0;;purple2;yellow8;30.01.2008;End of Exp.;His black ring is gone. Please ring again. Data recorded from o14k-sb under his name. Claude gave him a black ring on 16.09.2006. Swollen feet with the black ring. The other ring is lost. Claude kill it for cohlea removal practice. 30.01.2008.;FALSE
+o4o-r14;ZF;F;12.06.2006;0;;red14;red2;06.10.2006;NE;;FALSE
+o4p-silver17;ZF;F;06.11.2006;2;;silver17;blue10;16.02.2007;Given away;Given Away to Marianne;FALSE
+o4r1;ZF;M;25.06.2007;1;;p11k-ch900;b20o-ch900;19.11.2007;End of Exp.;Perfusion for Tokuyasu method. No surgery;FALSE
+o4r10;ZF;M;06.08.2009;7;A-U;;;;;Breeder - couple with female k15r8. bought from Erika Bolliger on November 6th 09, michael;TRUE
+o4r11;ZF;M;26.12.2009;6;;p15r8;r2y1;26.04.2010;End of Exp.;Moritz till bird reaches 1000 ph;TRUE
+o4r12;ZF;F;03.03.2010;5;;r5y14;r7y1;01.05.2010;NE;;FALSE
+o4r13;ZF;M;03.05.2010;3;;p11r10;o17r7;22.09.2010;End of Exp.;;FALSE
+o4r14;ZF;M;02.09.2010;0;;p13r10;o14r11;25.12.2010;End of Exp.;;FALSE
+o4r15;ZF;F;06.10.2010;4;R7;r12s14;b4r7;;;;FALSE
+o4r2;ZF;M;17.08.2007;3;;r12p-y7o;o9p-y8;;;missing;FALSE
+o4r3;ZF;M;25.12.2007;2;;r7g-yellow8;o1r1;22.05.2008;Surgery;died in acute, probably because of overdose;FALSE
+o4r4;ZF;;14.04.2008;6;;b8o-p11k;s13p-yellow8;29.07.2008;End of Exp.;;FALSE
+o4r5;ZF;;26.06.2008;7;;g12r2;p10r2;02.10.2008;End of Exp.;possibly 10 days of uncertainty - slipped through into next cage;FALSE
+o4r6;ZF;M;26.09.2008;0;;b14r3;r1y17;;Given away;If not found in KO, this bird was a female given away on 9.1.2009. Not found in KO on 20 June 2009, so marked as given away. -Janie;FALSE
+o4r7;ZF;M;06.02.2009;2;R1;s17o;r7g-yellow8;;;white;FALSE
+o4r8;ZF;M;01.04.2009;7;;;;01.12.2009;End of Exp.;bought from qualipet on July 13th 2009, michael;FALSE
+o5k-s17;ZF;M;10.01.2006;0;;silver17;blue10;11.08.2006;End of Exp.;the bird has some sheets and data with the name o15k or even o25k.;FALSE
+o5o6;ZF;M;11.04.2007;3;;red16;g18k-y6;14.08.2007;End of Exp.;;FALSE
+o5o-r14;ZF;F;12.06.2006;0;;red14;red2;16.02.2007;Given away;Given Away to Marianne;FALSE
+o5p-silver17;ZF;;04.11.2006;2;;silver17;blue10;16.02.2007;Given away;Given Away to Marianne;FALSE
+o5r1;ZF;M;25.06.2007;1;;p11k-ch900;b20o-ch900;05.10.2007;End of Exp.;;FALSE
+o5r10;ZF;M;06.08.2009;7;;;;;Surgery;bought from Erika Bolliger on November 6th 09, michael;FALSE
+o5r11;ZF;M;26.12.2009;6;KO;p15r8;r2y1;;;Moritz till bird reaches 1000 ph;TRUE
+o5r12;ZF;F;21.03.2010;3;;o4r10;k15r8;07.05.2010;End of Exp.;Reserved Alexei till 30.04.2010;FALSE
+o5r13;ZF;F;03.05.2010;3;;p11r10;o17r7;04.08.2010;NE;;FALSE
+o5r14;ZF;M;16.08.2010;3;KM;b14r4;k5r11;;;;FALSE
+o5r15;ZF;F;20.09.2010;2;;r6s5;o19r5;18.12.2010;NE;;FALSE
+o5r2;ZF;F;17.08.2007;3;;r12p-y7o;o8p-y8;01.11.2007;Given away;Given away to Johanna;FALSE
+o5r3;ZF;M;25.12.2007;2;;r7g-yellow8;o1r1;13.06.2008;End of Exp.;;FALSE
+o5r4;ZF;F;19.04.2008;5;;silver15;o8p-y8;21.08.2008;NE;euthanized;FALSE
+o5r5;ZF;F;04.07.2008;0;;g6r1;p9r2;22.08.2009;NE;;FALSE
+o5r6;ZF;M;26.09.2008;0;;b14r3;r1y17;14.07.2009;End of Exp.;;FALSE
+o5r7;ZF;;06.02.2009;2;;s17o;r7g-yellow8;28.04.2009;NE;white;FALSE
+o5r8;ZF;M;01.04.2009;7;M5;;;;;bought from qualipet on July 13th 2009, michael. Breeder for pitch shift (alessandro);TRUE
+o6o-r12k;ZF;M;02.06.2006;0;;r12k-ch900;g4k;03.05.2007;End of Exp.;;FALSE
+o6p-y8;ZF;M;31.10.2006;0;;yellow8;g5k;01.02.2007;End of Exp.;;FALSE
+o6r1;ZF;F;11.06.2007;3;;yellow1;green12;01.11.2007;Given away;Given away to Johanna;FALSE
+o6r11;ZF;M;26.12.2009;6;M3;p15r8;r2y1;;;;TRUE
+o6r13;ZF;M;03.05.2010;3;;p11r10;o17r7;11.01.2011;End of Exp.;;FALSE
+o6r2;ZF;M;28.08.2007;0;;red16;g18k-y6;01.11.2007;Given away;Given away to Johanna;FALSE
+o6r3;ZF;F;25.12.2007;2;;r7g-yellow8;o1r1;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+o6r4;ZF;F;19.04.2008;5;;silver15;o8p-y8;;;;FALSE
+o6r5;ZF;F;07.07.2008;3;;p16p-r11;green10;16.01.2009;NE;Show girl.;FALSE
+o6r6;ZF;M;26.09.2008;0;;b14r3;r1y17;12.03.2009;End of Exp.;;FALSE
+o6r7;ZF;F;21.01.2009;3;U1;b15r5;o5r5;;;last couple separation date: 02.07.2010;FALSE
+o7k-y14;ZF;F;25.12.2005;0;;yellow14;blue2;08.09.2006;End of Exp.;Used as showgirl. Killed for anatomical study. Found oval window beautifully.;FALSE
+o7o8;ZF;F;12.04.2007;4;;b8o-p11k;r2b-o3;24.07.2007;Given away;Given away to Johanna;FALSE
+o7o-p20;ZF;F;10.07.2006;0;;purple20;purple13;21.09.2006;End of Exp.;Test surgery for locating the DM.;FALSE
+o7p-y8;ZF;M;31.10.2006;0;;yellow8;g5k;05.02.2007;End of Exp.;;FALSE
+o7r1;ZF;M;25.06.2007;3;;p14k-p2;purple8;15.05.2008;End of Exp.;;FALSE
+o7r10;ZF;M;06.08.2009;7;A-U;;;;;bought from Erika Bolliger on November 6th 09, michael. White chicks. Do not breed.;FALSE
+o7r11;ZF;M;26.12.2009;6;;p15r8;r2y1;17.06.2010;End of Exp.;Moritz till bird reaches 1000 ph;FALSE
+o7r12;ZF;F;21.03.2010;3;;o4r10;k15r8;07.05.2010;End of Exp.;Reserved Alexei till 30.04.2010;FALSE
+o7r13;ZF;F;03.05.2010;3;;p11r10;o17r7;04.08.2010;NE;;FALSE
+o7r14;ZF;M;05.09.2010;4;IS9;o5r8;g19r13;;;;FALSE
+o7r15;ZF;F;20.09.2010;2;M3;r6s5;o19r5;;;;FALSE
+o7r2;ZF;;29.08.2007;8;;s17o;green10;01.11.2007;Given away;Given away to Johanna;FALSE
+o7r3;ZF;F;09.12.2007;2;;b8o-p11k;s13p-yellow8;02.09.2008;End of Exp.;there is also a male ringed with o7r3, its database entry and thus its name is o7r3-b;FALSE
+o7r3-b;ZF;M;14.04.2008;6;;b8o-p11k;s13p-yellow8;16.07.2008;End of Exp.;;FALSE
+o7r5;ZF;F;07.07.2008;1;;r3p-r19o;s11p-yellow8;04.08.2010;NE;;FALSE
+o7r6;ZF;F;17.10.2008;2;;p17r2;b13r4;09.01.2009;NE;;FALSE
+o7r7;ZF;M;21.01.2009;3;;b15r5;o5r5;15.07.2009;End of Exp.;;FALSE
+o7r8;ZF;M;01.04.2009;7;;;;30.09.2009;End of Exp.;bought from qualipet on July 13th 2009, michael;FALSE
+o8k-y6;ZF;M;05.01.2006;0;;yellow6;;22.01.2008;End of Exp.;Song: A-B-B-C. Reserved by Claude.;FALSE
+o8o-s3k;ZF;F;02.06.2006;0;;s3k-y8;g1k;06.10.2006;NE;;FALSE
+o8p-y8;ZF;F;31.10.2006;0;;yellow8;g5k;08.03.2010;NE;;FALSE
+o8r1;ZF;F;07.07.2007;5;;red11;p3o-sb;21.09.2007;End of Exp.;;FALSE
+o8r10;ZF;M;06.08.2009;7;2O3;;;;;bought from Erika Bolliger on November 6th 09, michael;FALSE
+o8r11;ZF;M;26.12.2009;6;;p15r8;r2y1;05.10.2010;End of Exp.;;FALSE
+o8r12;ZF;F;21.03.2010;3;?;o4r10;k15r8;07.05.2010;End of Exp.;Reserved Alexei till 30.04.2010. Not found in KU on 2 June 2010.;FALSE
+o8r13;ZF;F;01.05.2010;3;;p20r8;o6r7;04.08.2010;NE;;FALSE
+o8r14;ZF;M;05.09.2010;4;IS10;o5r8;g19r13;;;;FALSE
+o8r15;ZF;M;20.09.2010;2;KO;r6s5;o19r5;;;;FALSE
+o8r2;ZF;F;29.08.2007;8;;s17o;green10;01.11.2007;Given away;Given away to Johanna;FALSE
+o8r3;ZF;F;09.12.2007;2;;b8o-p11k;s13p-yellow8;;;bird is missing in cage on June 15, 2009, michael;FALSE
+o8r4;ZF;M;14.04.2008;6;;b8o-p11k;s13p-yellow8;14.09.2008;End of Exp.;;FALSE
+o8r5;ZF;F;07.07.2008;1;KU;r3p-r19o;s11p-yellow8;;;showgirl;FALSE
+o8r6;ZF;M;17.10.2008;2;;p17r2;b13r4;06.03.2009;End of Exp.;;FALSE
+o8r7;ZF;M;21.01.2009;3;;b15r5;o5r5;30.07.2009;End of Exp.;Found in KM on 20 June 2009. - Janie;FALSE
+o8r8;ZF;M;01.04.2009;7;A-U;;;;;bought from qualipet on July 13th 2009, michael.;FALSE
+o9o10;ZF;F;12.04.2007;4;;b8o-p11k;r2b-o3;21.08.2008;NE;euthanized;FALSE
+o9o-s3k;ZF;F;02.06.2006;0;;s3k-y8;g1k;06.10.2006;NE;;FALSE
+o9p-y8;ZF;M;30.10.2006;0;;yellow8;g5k;15.02.2007;End of Exp.;;FALSE
+o9r1;ZF;F;07.07.2007;5;;red11;p3o-sb;01.11.2007;Given away;Given away to Johanna;FALSE
+o9r2;ZF;M;29.08.2007;8;;s17o;green10;01.11.2007;Given away;Given away to Johanna;FALSE
+o9r3;ZF;F;09.12.2007;2;;b8o-p11k;s13p-yellow8;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+o9r4;ZF;F;19.04.2008;5;;silver15;o8p-y8;21.08.2008;NE;euthanized;FALSE
+o9r5;ZF;M;07.07.2008;1;;r3p-r19o;s11p-yellow8;06.10.2008;End of Exp.;;FALSE
+o9r6;ZF;F;17.10.2008;2;;p17r2;b13r4;10.04.2010;NE;;FALSE
+o9r7;BF;;14.01.2009;7;A-O;;;;;;FALSE
+orange16;ZF;F;;0;;;;01.11.2008;NE;has 2 rings (green018ch) Show girl.;FALSE
+orange3;ZF;M;;0;;;;;;missing;FALSE
+p10k-y1;ZF;F;11.10.2005;0;;yellow1;;16.02.2007;Given away;Given Away to Marianne;FALSE
+p10o-s3k;ZF;M;07.08.2006;0;;s3k-y8;g1k;09.02.2007;End of Exp.;;FALSE
+p10p;BF;;;0;A-O;;;;;Found in cage A on 25 Aug, 2009 - Janie;FALSE
+p10p-s18o;ZF;M;08.02.2007;7;;s18o;orange16;16.05.2007;End of Exp.;;FALSE
+p10r1;ZF;F;27.08.2007;2;;y7o-r16;purple16;01.11.2007;Given away;Given away to Johanna;FALSE
+p10r10;ZF;M;05.10.2009;4;;o12r8;g19r2;15.07.2010;End of Exp.;reserved by Moritz. Reservation expires at death by natural cause.;TRUE
+p10r12;ZF;F;26.03.2010;1;;b14r10;p13r5;30.05.2010;NE;;FALSE
+p10r13;ZF;M;18.06.2010;4;;p11r10;o17r7;04.10.2010;End of Exp.;Alexei;TRUE
+p10r14;ZF;M;10.09.2010;3;R1;974;p15r6;;;;FALSE
+p10r2;ZF;F;17.11.2007;1;;s20o-yellow20;p19k-o3;20.03.2009;NE;;FALSE
+p10r4;ZF;F;14.05.2008;2;;g9r1;b4p-red11;21.08.2008;NE;euthanized;FALSE
+p10r5;ZF;F;18.09.2008;4;;b14r4;o12r3;12.11.2009;End of Exp.;;FALSE
+p10r6;ZF;M;17.10.2008;4;;b10r3;b11r2;01.10.2009;End of Exp.;;FALSE
+p10r7;ZF;M;19.01.2009;3;;b14r4;o12r3;19.05.2009;End of Exp.;;FALSE
+p10r8;ZF;M;12.07.2009;8;M4;r7p1;p13r5;;;Breeder - couple with female b11r8;TRUE
+p11k-ch900;ZF;M;07.11.2005;0;;;;;Perished;in IS4 and IS1 as tutor. Did not entred in the database when I changed between IS1 and 4.;FALSE
+p11o-r9k;ZF;F;11.08.2006;2;;r9k-s17;p8k;16.02.2007;Given away;Born in the small food box. Given Away to Marianne;FALSE
+p11r1;ZF;M;17.08.2007;7;;red11;p3o-sb;03.12.2007;End of Exp.;;FALSE
+p11r10;ZF;M;05.10.2009;4;KM;o12r8;g19r2;;;;FALSE
+p11r12;ZF;M;19.03.2010;3;;p11r10;o17r7;06.07.2010;End of Exp.;;FALSE
+p11r13;ZF;F;18.06.2010;4;;p11r10;o17r7;29.07.2010;End of Exp.;;FALSE
+p11r14;ZF;M;10.09.2010;3;A-U;974;p15r6;;;;FALSE
+p11r2;ZF;F;10.11.2007;2;;red11;p3o-sb;26.05.2008;End of Exp.;;FALSE
+p11-r3;BF;M;01.01.2007;0;;;;11.08.2008;NE;;FALSE
+p11r4;ZF;M;14.05.2008;2;;g9r1;b4p-red11;22.09.2008;End of Exp.;reserved for Janie;FALSE
+p11r5;ZF;M;18.09.2008;4;;b14r4;o12r3;07.07.2009;End of Exp.;Found in KM on 20 June 2009. - Janie;FALSE
+p11r6;ZF;M;17.10.2008;4;;b10r3;b11r2;20.07.2009;End of Exp.;;FALSE
+p11r7;ZF;M;10.01.2009;3;;b10r5;r2b-o3;09.09.2009;End of Exp.;;FALSE
+p11r8;ZF;M;30.04.2009;0;;;;01.09.2009;End of Exp.;Bought from Qualipet on 31 Aug. 2009. Estimated age.;FALSE
+p12o-r9k;ZF;M;11.08.2006;2;;r9k-s17;p8k;03.01.2008;End of Exp.;Born in the small food box.;FALSE
+p12p-s17o;ZF;F;07.03.2007;5;;s17o;s8k-p11k;01.11.2007;Given away;Given away to Johanna;FALSE
+p12r1;ZF;M;17.08.2007;7;;red11;p3o-sb;27.07.2008;NE;found dead in cage;FALSE
+p12r10;ZF;M;05.10.2009;4;;o12r8;g19r2;18.04.2010;End of Exp.;reserved by Moritz. Reservation expires at death by natural cause.;FALSE
+p12r12;ZF;F;19.03.2010;3;;p11r10;o17r7;;Given away;Given to Virginia Meskenaite 22.07.2010;FALSE
+p12r13;ZF;M;18.06.2010;4;;p11r10;o17r7;04.10.2010;End of Exp.;Alexei;TRUE
+p12r14;ZF;M;10.09.2010;3;A-U;974;p15r6;;;;FALSE
+p12r2;ZF;M;10.11.2007;2;;red11;p3o-sb;16.04.2008;End of Exp.;;FALSE
+p12r4;ZF;F;14.05.2008;2;;g9r1;b4p-red11;30.12.2009;Perished;;FALSE
+p12r5;ZF;M;14.09.2008;6;;k13r2;red5;09.06.2009;End of Exp.;Batch from M4 and M4B mixed, unsure if parents are correct // reserved for michael;FALSE
+p12r6;ZF;;04.11.2008;1;;g2r1;r16o-r11;19.02.2009;End of Exp.;;FALSE
+p12r7;ZF;M;17.01.2009;5;;b9r5;o8p-y8;25.05.2009;End of Exp.;;FALSE
+p12r8;ZF;M;30.04.2009;0;;;;04.09.2009;End of Exp.;Bought from Qualipet on 31 Aug. 2009. Estimated age.;FALSE
+p13o-r9k;ZF;F;11.08.2006;2;;r9k-s17;p8k;16.02.2007;Given away;Born in the small food box. Given Away to Marianne;FALSE
+p13p-p14k;ZF;F;31.03.2007;2;;p14k-p2;purple8;24.07.2007;Given away;Given away to Johanna;FALSE
+p13r1;ZF;F;17.08.2007;7;;red11;p3o-sb;01.11.2007;Given away;Given away to Johanna;FALSE
+p13r10;ZF;M;05.10.2009;4;2U2;o12r8;g19r2;;;reserved by Moritz. Reservation expires at death by natural cause. Good for breeding.;TRUE
+p13r12;ZF;M;19.03.2010;3;;p11r10;o17r7;07.07.2010;NE;bird given away to Virginia Meskenaite, Anatomisches Institut;FALSE
+p13r13;ZF;F;18.06.2010;4;;p11r10;o17r7;30.07.2010;End of Exp.;;FALSE
+p13r14;ZF;M;10.09.2010;6;;r10s5;b2r13;13.11.2010;NE;malformed beak - weak bird;FALSE
+p13r2;ZF;M;10.11.2007;2;;red11;p3o-sb;;;missing;FALSE
+p13r3;ZF;M;09.03.2008;3;;r3p-r19o;s11p-yellow8;01.07.2008;End of Exp.;;FALSE
+p13r4;ZF;F;23.05.2008;1;;r3p-r19o;s11p-yellow8;21.08.2008;NE;euthanized;FALSE
+p13r5;ZF;F;14.09.2008;6;;k13r2;red5;29.11.2010;NE;Breeder. Batch from M4 and M4B mixed, unsure if parents are correct.;TRUE
+p13r6;ZF;M;04.11.2008;1;;g2r1;r16o-r11;02.05.2009;Perished;;FALSE
+p13r8;ZF;M;30.04.2009;0;KO;;;03.09.2010;End of Exp.;Bought from Qualipet on 31 Aug. 2009. Estimated age.;FALSE
+p14b-r16;ZF;F;08.09.2006;3;;red16;green12;20.03.2009;NE;;FALSE
+p14k;ZF;M;;0;;;;27.10.2010;End of Exp.;Breeder. Found in KO on 20 June 2009, no record in database. -Janie;TRUE
+p14k-p2;ZF;M;10.10.2005;0;;purple2;;05.12.2008;NE;Had two badly swolen and infected feet. Was killed. Moritz;FALSE
+p14o-r9k;ZF;M;11.08.2006;2;;r9k-s17;p8k;09.02.2007;End of Exp.;Born in the small food box.;FALSE
+p14r1;ZF;F;17.08.2007;7;;red11;p3o-sb;01.11.2007;Given away;Given away to Johanna;FALSE
+p14r10;ZF;F;05.10.2009;4;;o12r8;g19r2;23.11.2010;End of Exp.;reserved for Sepp;TRUE
+p14r12;ZF;M;19.03.2010;3;;p11r10;o17r7;25.06.2010;End of Exp.;;FALSE
+p14r13;BF;;01.07.2010;15;;;;28.11.2010;Perished;;FALSE
+p14r14;ZF;M;10.09.2010;6;;r10s5;b2r13;13.11.2010;NE;malformed beak;FALSE
+p14r2;ZF;F;11.11.2007;3;;o18r1;r10br-o4k;08.07.2008;End of Exp.;5uL X, 5uL K, dead after 5 hours;FALSE
+p14r3;ZF;F;09.03.2008;3;;r3p-r19o;s11p-yellow8;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+p14r4;ZF;F;23.05.2008;1;;r3p-r19o;s11p-yellow8;21.08.2008;NE;euthanized;FALSE
+p14r5;ZF;M;15.09.2008;3;;k13r2;red5;08.12.2008;End of Exp.;Batch from M4 and M4B mixed, unsure if parents are correct;FALSE
+p14r6;ZF;M;17.10.2008;4;;b10r3;b11r2;27.05.2009;End of Exp.;;FALSE
+p14r7;ZF;M;17.01.2009;5;;b9r5;o8p-y8;25.06.2009;NE;Not found in KO on 20 June 2009. - Janie. Not found, presumed dead. (-janie, 25.june.2009).;FALSE
+p14r8;ZF;M;30.04.2009;0;;;;24.07.2010;End of Exp.;Bought from Qualipet on 31 Aug. 2009. Estimated age.;FALSE
+p15o-s3k;ZF;M;07.08.2006;0;;s3k-y8;g1k;13.11.2007;End of Exp.;Reserved by Claude. Don't use !!!;FALSE
+p15p-r11;ZF;M;12.03.2007;3;;red11;purple16;23.07.2007;Given away;given to johanna;FALSE
+p15r1;ZF;M;17.08.2007;7;;red11;p3o-sb;22.01.2008;End of Exp.;;FALSE
+p15r10;ZF;M;02.10.2009;2;;b14r4;o19r5;08.03.2010;End of Exp.;white;FALSE
+p15r12;ZF;F;03.04.2010;1;;p3r6;g2r5;;Given away;Given to Virginia Meskenaite 22.07.2010;FALSE
+p15r13;BF;;01.07.2010;15;;;;25.11.2010;NE;;FALSE
+p15r2;ZF;F;11.11.2007;3;;o18r1;r10br-o4k;07.05.2008;End of Exp.;;FALSE
+p15r3;ZF;F;09.03.2008;3;;r3p-r19o;s11p-yellow8;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+p15r4;ZF;F;23.05.2008;1;;r3p-r19o;s11p-yellow8;20.03.2009;NE;;FALSE
+p15r5;ZF;F;15.09.2008;3;;k13r2;red5;15.09.2010;NE;Batch from M4 and M4B mixed, unsure if parents are correct;FALSE
+p15r6;ZF;F;30.10.2008;4;M1;p5r5;r2s18;;;Found in R7 on 25 June 2009.;FALSE
+p15r8;ZF;M;26.07.2009;3;2M1;p2r5;b5r7;;;Super breeding couple (w r2y1)!!!;TRUE
+p16k-b3;ZF;M;13.01.2006;0;;blue3;;11.08.2006;End of Exp.;Nif lesion;FALSE
+p16o-s3k;ZF;M;07.08.2006;0;;s3k-y8;g1k;21.07.2008;NE;swollen feet. Looks very bad!!;FALSE
+p16p-r11;ZF;M;12.03.2007;3;;red11;purple16;08.09.2008;End of Exp.;;FALSE
+p16r1;ZF;M;17.08.2007;7;;red11;p3o-sb;09.06.2008;End of Exp.;;FALSE
+p16r10;ZF;M;03.10.2009;2;;g13r8;r2s20;08.02.2010;End of Exp.;michael - GECIP : CAG GCamP4 - reserved till 31.3.2010;TRUE
+p16r12;ZF;F;03.04.2010;1;;p3r6;g2r5;30.04.2010;NE;;FALSE
+p16r13;BF;;01.07.2010;15;;;;25.11.2010;NE;;FALSE
+p16r14;ZF;M;10.09.2010;6;;r10s5;b2r13;13.11.2010;NE;malformed beak;FALSE
+p16r2;ZF;M;11.11.2007;3;;o18r1;r10br-o4k;08.05.2008;End of Exp.;bad song.;FALSE
+p16r3;ZF;M;09.03.2008;3;;r3p-r19o;s11p-yellow8;16.10.2008;End of Exp.;not found in ZZ-M on 09.06.08 - found in KM on 19.06.2008, totally a male bird                                 Reserved for Janie;FALSE
+p16r4;BF;;25.05.2008;1;A-O;v-v10;K-K-K209-15;;;;FALSE
+p16r5;ZF;M;15.09.2008;3;;k13r2;red5;15.12.2008;End of Exp.;Batch from M4 and M4B mixed, unsure if parents are correct;FALSE
+p16r5-michi;ZF;M;;0;;;;23.06.2009;End of Exp.;this bird should already be dead so I made this dbbird to track it further;FALSE
+p16r6;ZF;M;30.10.2008;0;;p5r5;r2s18;18.05.2009;End of Exp.;;FALSE
+p16r8;ZF;M;07.08.2009;5;;o1r1;r2y1;16.12.2009;End of Exp.;;FALSE
+p17k-y6;ZF;M;02.01.2006;0;;yellow6;;09.01.2007;End of Exp.;the k ring is lost Katja;FALSE
+p17o-silver2;ZF;M;14.08.2006;2;;silver2;p6k-y8;14.06.2007;;;FALSE
+p17p-p14k;ZF;M;31.03.2007;2;;p14k-p2;purple8;03.09.2007;End of Exp.;;FALSE
+p17r1;ZF;F;05.08.2007;1;;r3p-r19o;r16o-r11;25.10.2007;End of Exp.;;FALSE
+p17r10;ZF;F;03.10.2009;2;;g13r8;r2s20;08.03.2010;NE;;FALSE
+p17r12;ZF;M;28.03.2010;4;;r10y17;p4r8;03.07.2010;End of Exp.;;FALSE
+p17r13;BF;;01.07.2010;15;A-O;;;;;;FALSE
+p17r14;ZF;M;10.09.2010;6;A-U;r10s5;b2r13;;;malformed beak;FALSE
+p17r2;ZF;M;02.12.2007;4;;y5o-s3k;purple17;18.06.2009;End of Exp.;This bird was found in another cage (not U6) - not 100% about its identity and age. Reserved for Janie.;FALSE
+p17r4;BF;M;25.05.2008;1;;v-v10;K-K-K209-15;27.11.2009;End of Exp.;the 7 is hardly readable on the purple ring. (Expected Exp. End Date: 14.11.2009, Claude);TRUE
+p17r5;ZF;M;14.09.2008;6;;k9r2;purple8;14.01.2009;Surgery;Batch from M4 and M4B mixed, unsure if parents are correct;FALSE
+p17r6;ZF;F;30.10.2008;4;;p5r5;r2s18;09.01.2009;NE;;FALSE
+p17r8;ZF;F;07.08.2009;5;;o1r1;r2y1;06.11.2009;NE;;FALSE
+p18k-s6;ZF;M;10.01.2006;0;;silver6;green9;09.02.2007;End of Exp.;Georg - DO NOT USE! Strange song, very long ISI - recovered song and sings normally now.;FALSE
+p18o-r16;ZF;F;08.09.2006;3;;red16;green12;16.02.2007;Given away;Given Away to Marianne;FALSE
+p18p-r11;ZF;M;12.03.2007;3;;red11;purple16;23.07.2007;Given away;given to johanna;FALSE
+p18r1;ZF;M;05.08.2007;1;;r3p-r19o;r16o-r11;;;missing;FALSE
+p18r10;ZF;F;03.10.2009;2;;g13r8;r2s20;18.12.2009;End of Exp.;;FALSE
+p18r12;ZF;F;28.03.2010;4;;r10y17;p4r8;30.05.2010;NE;;FALSE
+p18r13;BF;;01.07.2010;15;;;;25.11.2010;NE;;FALSE
+p18r3;ZF;M;24.11.2007;5;;g7r1;orange16;22.02.2008;End of Exp.;;FALSE
+p18r4;ZF;F;01.06.2008;6;;r3s3;k12r2;;;bird is missing in cage on June 15, 2009, michael;FALSE
+p18r5;ZF;M;14.09.2008;6;;k9r2;purple8;16.12.2008;End of Exp.;Batch from M4 and M4B mixed, unsure if parents are correct;FALSE
+p18r6;ZF;F;30.10.2008;4;;p5r5;r2s18;;;bird is missing in cage on June 15, 2009, michael;FALSE
+p18r8;ZF;F;26.07.2009;3;KU;p2r5;b5r7;;;;TRUE
+p19k-o3;ZF;F;11.10.2005;0;;orange3;;14.03.2008;NE;very long beak, kill asap? Done! Moritz;FALSE
+p19p-b3k;ZF;M;24.03.2007;5;;b3k;green9;27.06.2007;End of Exp.;;FALSE
+p19r1;ZF;F;05.08.2007;1;;r3p-r19o;r16o-r11;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+p19r10;ZF;F;26.10.2009;0;;p7r8k;k10r7;04.05.2010;End of Exp.;;FALSE
+p19r12;ZF;M;28.03.2010;4;;r10y17;p4r8;01.10.2010;End of Exp.;;FALSE
+p19r13;BF;;01.07.2010;15;A-O;;;;;;FALSE
+p19r14;ZF;F;10.09.2010;6;;r10s5;b2r13;13.11.2010;NE;malformed beak;FALSE
+p19r3;ZF;M;24.11.2007;5;;g7r1;orange16;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+p19r4;ZF;F;01.06.2008;6;;r3s3;k12r2;;;bird is missing in cage on June 15, 2009, michael;FALSE
+p19r5;ZF;M;14.09.2008;6;;k9r2;purple8;14.01.2009;Surgery;Batch from M4 and M4B mixed, unsure if parents are correct;FALSE
+p19r6;ZF;M;17.10.2008;4;;b10r3;b11r2;17.02.2009;End of Exp.;;FALSE
+p19r8;ZF;M;26.07.2009;3;;p2r5;b5r7;06.10.2009;End of Exp.;;FALSE
+p1k;ZF;F;02.09.2005;0;;;;16.02.2007;Given away;Given Away to Marianne;FALSE
+p1o-b3k;ZF;F;01.04.2006;0;;b3k;blue3;05.12.2006;NE;Show Girl;FALSE
+p1p-s14k;ZF;F;14.02.2007;3;;s14k-r16;p3o-sb;24.07.2007;Given away;Given away to Johanna;FALSE
+p1r1;ZF;M;04.08.2007;1;;silvergreen8;green16;23.01.2008;End of Exp.;;FALSE
+p1r10;ZF;F;15.09.2009;3;;b7r7;r6s10;23.11.2009;Given away;;FALSE
+p1r11;ZF;M;26.11.2009;4;KO;o12r8;g19r2;;;;FALSE
+p1r12;ZF;M;16.03.2010;4;;p15r8;r2y1;27.07.2010;End of Exp.;;FALSE
+p1r13;ZF;F;21.05.2010;5;;g13r8;r2s20;23.10.2010;NE;;FALSE
+p1r14;ZF;F;19.08.2010;7;;r12s11;b13r12;18.10.2010;NE;;FALSE
+p1r15;ZF;M;20.10.2010;5;;r5y14;b15r6;27.12.2010;End of Exp.;;FALSE
+p1r3;ZF;F;28.01.2008;4;;p16p-r11;green10;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+p1r5;ZF;M;;0;;;;30.08.2009;End of Exp.;bought from breader, 3rd Oct 2008, Reserved for Janie;FALSE
+p1r6;ZF;M;02.10.2008;6;;b13r3;p3o-sb;04.06.2009;End of Exp.;;FALSE
+p1r8;ZF;M;22.06.2009;4;;b14r3;r6s13;20.08.2009;Surgery;;FALSE
+p1s1;ZF;M;19.02.2009;3;;b14r3;o6r5;23.06.2009;NE;Subsong at day 70, perhaps younger..;FALSE
+p20k-sg8;ZF;M;03.03.2006;0;;silvergreen8;purple5;14.07.2006;End of Exp.;;FALSE
+p20o-o4k;ZF;M;28.04.2006;0;;o4k-p2;green13;22.05.2007;End of Exp.;;FALSE
+p20p-b3k;ZF;M;24.03.2007;5;;b3k;green9;01.11.2007;Given away;Given away to Johanna;FALSE
+p20r1;ZF;M;05.08.2007;1;;o4k-p2;green13;01.11.2007;Given away;Given away to Johanna;FALSE
+p20r10;ZF;M;02.10.2009;0;;g12r2;g4r7;04.02.2010;End of Exp.;;FALSE
+p20r12;ZF;M;13.03.2010;5;;p2r5;b12r8;14.08.2010;End of Exp.;;FALSE
+p20r13;BF;;01.07.2010;15;A-O;;;;;;FALSE
+p20r3;ZF;F;24.11.2007;5;;g7r1;orange16;16.01.2009;NE;bird was sick.;FALSE
+p20r4;ZF;F;01.06.2008;6;;r3s3;k12r2;21.08.2008;NE;euthanized;FALSE
+p20r5;ZF;F;18.09.2008;4;;b11r3;o8r3;09.01.2009;NE;;FALSE
+p20r6;ZF;M;17.10.2008;4;;b10r3;b11r2;26.05.2009;End of Exp.;;FALSE
+p20r8;ZF;M;30.04.2009;0;2M1;;;;;Breeder. Bought from Qualipet on 31 Aug. 2009. Estimated age. last couple separation date: 02.07.2010.;TRUE
+p2o-g14k;ZF;M;10.05.2006;2;;g14k;orange16;29.03.2007;End of Exp.;Reserved by Claude.;FALSE
+p2p-s14k;ZF;M;14.02.2007;3;;s14k-r16;p3o-sb;05.10.2007;End of Exp.;Reserved by Aymeric;FALSE
+p2r1;ZF;M;04.08.2007;1;;silvergreen8;green16;16.04.2008;End of Exp.;;FALSE
+p2r10;ZF;M;12.09.2009;3;;purple050;o18r7;01.06.2010;End of Exp.;;FALSE
+p2r12;ZF;F;16.03.2010;4;;p15r8;r2y1;02.06.2010;NE;;FALSE
+p2r13;ZF;F;21.05.2010;5;U3;g13r8;r2s20;;;showgirl;FALSE
+p2r14;ZF;M;19.08.2010;7;;r12s11;b13r12;14.12.2010;End of Exp.;Nicolas;FALSE
+p2r15;ZF;M;20.10.2010;5;KM;r5y14;b15r6;;;;FALSE
+p2r2;ZF;F;27.10.2007;5;;b8o-p11k;s13p-yellow8;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+p2r3;ZF;F;28.01.2008;4;;p16p-r11;green10;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+p2r5;ZF;M;;0;2M2;;;;;Breeder. bought from breeder, 3rd Oct 2008. Reserved by Claude and Richard for HVC Stim. Exp. (23.11.2009).;TRUE
+p2r6;ZF;F;02.10.2008;6;;b13r3;p3o-sb;07.09.2009;End of Exp.;;FALSE
+p2r8;ZF;M;22.06.2009;4;;b14r3;r6s13;04.09.2009;End of Exp.;;FALSE
+p2s2;ZF;M;19.02.2009;3;R2;b14r3;o6r5;;;did not sing at all..;FALSE
+p3o-sb;ZF;F;17.05.2006;2;;silverblack;purple17;08.03.2010;NE;;FALSE
+p3p-s14k;ZF;F;14.02.2007;3;;s14k-r16;p3o-sb;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+p3r1;ZF;M;17.07.2007;3;;g1o-g14k;g15p-purple20;15.01.2008;End of Exp.;;FALSE
+p3r10;ZF;M;15.09.2009;3;R3;b7r7;r6s10;;;michael - GECIP YC3.60 - reserved till 31.3.2010;TRUE
+p3r12;ZF;M;16.03.2010;4;;p15r8;r2y1;24.08.2010;End of Exp.;;FALSE
+p3r13;ZF;M;21.05.2010;5;;g13r8;r2s20;11.11.2010;End of Exp.;;FALSE
+p3r14;ZF;M;19.08.2010;7;IS3;r12s11;b13r12;;;;FALSE
+p3r15;ZF;M;20.10.2010;5;;r5y14;b15r6;18.12.2010;Surgery;;FALSE
+p3r2;ZF;M;15.10.2007;2;;y13k-s17;r14w-silver17;10.09.2008;End of Exp.;;FALSE
+p3r3;ZF;F;28.01.2008;4;;p16p-r11;green10;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+p3r5;ZF;M;;0;;;;23.10.2008;End of Exp.;DO NOT USE for breeding! Bought from breader, 3rd Oct 2008;FALSE
+p3r6;ZF;M;02.10.2008;6;U4;b13r3;p3o-sb;;;decipled Breeder.;TRUE
+p3r7;ZF;F;10.01.2009;3;2M3;b10r5;r2b-o3;;;;FALSE
+p3r8;ZF;M;22.06.2009;4;;b14r3;r6s13;;End of Exp.;;FALSE
+p4o-sb;ZF;M;15.05.2006;2;;silverblack;purple17;28.12.2006;End of Exp.;;FALSE
+p4p-s18o;ZF;M;08.02.2007;2;;s18o;orange16;08.05.2007;Given away;Aymeric - contact me when you take this bird;FALSE
+p4r1;ZF;M;04.08.2007;1;;silvergreen8;green16;11.07.2008;End of Exp.;;FALSE
+p4r10;ZF;F;15.09.2009;3;;b7r7;r6s10;23.11.2009;Given away;;FALSE
+p4r12;ZF;M;16.03.2010;4;R3;p15r8;r2y1;;;;FALSE
+p4r13;ZF;F;21.05.2010;5;O4;g13r8;r2s20;;;;FALSE
+p4r14;ZF;M;19.08.2010;7;;r12s11;b13r12;22.12.2010;End of Exp.;;FALSE
+p4r15;ZF;M;20.10.2010;5;KM;r5y14;b15r6;;;;FALSE
+p4r2;ZF;M;15.10.2007;2;;y13k-s17;r14w-silver17;05.08.2008;End of Exp.;;FALSE
+p4r3;ZF;F;28.01.2008;4;;p16p-r11;green10;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+p4r5;ZF;M;;0;;;;11.03.2009;End of Exp.;bought from breader, 3rd Oct 2008;FALSE
+p4r6;ZF;F;21.10.2008;4;;g12r2;r8p-s19o;09.01.2009;NE;;FALSE
+p4r7;ZF;F;19.01.2009;4;;g12r2;r8p-s19o;01.05.2010;NE;;FALSE
+p4r8;ZF;F;12.07.2009;8;;r7p1;p13r5;04.01.2011;NE;showgirl;FALSE
+p5k-y8;ZF;F;02.10.2005;0;;yellow8;;16.02.2007;Given away;Given Away to Marianne;FALSE
+p5o-sb;ZF;M;15.05.2006;2;;silverblack;purple17;04.08.2006;End of Exp.;;FALSE
+p5p-s14k;ZF;M;14.02.2007;3;;s18o;orange16;07.05.2007;End of Exp.;;FALSE
+p5r1;ZF;F;30.07.2007;1;;yellow20;blue2;01.11.2007;Given away;Given away to Johanna;FALSE
+p5r10;ZF;F;15.09.2009;3;;b7r7;r6s10;23.11.2009;Given away;;FALSE
+p5r12;ZF;M;16.03.2010;4;;p15r8;r2y1;22.07.2010;End of Exp.;;FALSE
+p5r13;ZF;M;21.05.2010;5;KO;g13r8;r2s20;;;;FALSE
+p5r2;ZF;M;15.10.2007;2;;y13k-s17;r14w-silver17;23.04.2008;End of Exp.;;FALSE
+p5r3;ZF;M;28.01.2008;4;U7;p16p-r11;green10;;;Breeder - couple with female r8s8. TUTOR  reserved for Sandras Experiment. Can be transferred, but must remain foundable.  Ask Richard, before planing something with this bird.;TRUE
+p5r5;ZF;M;;0;;;;11.05.2009;Surgery;bought from breeder, 3rd Oct 2008;FALSE
+p5r6;ZF;F;21.10.2008;4;;g12r2;r8p-s19o;09.01.2009;NE;;FALSE
+p5r7;ZF;F;19.01.2009;4;;g12r2;r8p-s19o;02.06.2010;NE;;FALSE
+p5r8;ZF;M;12.07.2009;8;KM;r7p1;p13r5;13.11.2009;End of Exp.;michael, 4.11.09 - song recorded, waiting for tplsm;TRUE
+p6k-y8;ZF;F;03.10.2005;0;;;;17.11.2007;NE;swollen left foot, unable to stand.;FALSE
+p6o-sb;ZF;M;15.05.2006;2;;silverblack;purple17;23.03.2007;End of Exp.;Reserved by Claude.;FALSE
+p6p-s18o;ZF;F;08.02.2007;2;;s18o;orange16;28.05.2007;End of Exp.;;FALSE
+p6r1;ZF;F;30.07.2007;1;;yellow20;blue2;01.11.2007;Given away;Given away to Johanna;FALSE
+p6r12;ZF;F;28.03.2010;2;;o3r8;b18r10;30.05.2010;NE;;FALSE
+p6r13;ZF;M;21.05.2010;5;;g13r8;r2s20;16.11.2010;End of Exp.;bird did not sing at all in iso;FALSE
+p6r2;ZF;F;20.11.2007;0;;g3r1;purple8;16.01.2009;NE;Due to reading mistake, was coupled as p9r2. beak grew too long, bird was sick.;FALSE
+p6r3;ZF;F;29.01.2008;2;;r3p-r19o;s11p-yellow8;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+p6r4;ZF;M;10.06.2008;2;;o19r2;r2s20;29.06.2009;End of Exp.;;FALSE
+p6r5;ZF;M;;0;;;;24.10.2008;NE;DO NOT USE for breeding! Bought from breader, 3rd Oct 2008. This bird does not sing in 8 days of ISO recording <janie>. Bird died during health observation.;FALSE
+p7k;ZF;F;03.10.2005;0;;;;16.02.2007;Given away;Given Away to Marianne;FALSE
+p7o-y13k;ZF;F;28.05.2006;0;;y13k-s17;p19k-o3;06.10.2006;NE;;FALSE
+p7p-s18o;ZF;F;08.02.2007;7;;s18o;orange16;08.05.2007;End of Exp.;Aymeric - contact me when you catch the bird with ring p7p;FALSE
+p7r1;ZF;F;17.07.2007;3;;g1o-g14k;g15p-purple20;01.11.2007;Given away;Given away to Johanna;FALSE
+p7r10;ZF;M;02.10.2009;2;;b14r4;o19r5;05.07.2010;End of Exp.;;FALSE
+p7r12;ZF;F;28.03.2010;2;;o3r8;b18r10;30.05.2010;NE;;FALSE
+p7r13;ZF;M;15.06.2010;1;KM;r10s5;r10s17;;;Alexei, very good pupil, ideal tutor song;TRUE
+p7r14;ZF;;05.10.2010;4;;r11s16;o13r10;09.11.2010;NE;;FALSE
+p7r2;ZF;M;30.10.2007;1;;p11k-ch900;b20o-ch900;01.02.2008;End of Exp.;;FALSE
+p7r3;ZF;F;29.01.2008;2;;r3p-r19o;s11p-yellow8;21.08.2008;NE;euthanized;FALSE
+p7r4;ZF;M;10.06.2008;2;;o19r2;r2s20;19.08.2008;End of Exp.;;FALSE
+p7r5;ZF;M;18.09.2008;4;;b14r4;o12r3;11.12.2008;End of Exp.;;FALSE
+p7r6;ZF;M;21.10.2008;4;;g12r2;r8p-s19o;06.11.2009;End of Exp.;Reserved for Janie;FALSE
+p7r7;ZF;M;19.01.2009;4;;g12r2;r8p-s19o;08.04.2009;End of Exp.;;FALSE
+p7r8k;ZF;M;12.07.2009;8;;r7p1;p13r5;22.11.2010;End of Exp.;;FALSE
+p8k;ZF;F;17.10.2005;0;;;;27.07.2007;End of Exp.;;FALSE
+p8o-g14k;ZF;M;13.06.2006;0;;g14k;orange16;25.06.2009;NE;Reserved by Claude. did not find bird during KM/KO search. Claude. Not found, presumed dead. (-janie, 25.june.2009).;FALSE
+p8o-r16;ZF;F;08.09.2006;3;;red16;green12;19.12.2006;End of Exp.;;FALSE
+p8r1;ZF;F;17.07.2007;3;;g1o-g14k;g15p-purple20;01.11.2007;Given away;Given away to Johanna;FALSE
+p8r10;ZF;M;02.10.2009;2;;b14r4;o19r5;19.08.2010;End of Exp.;;FALSE
+p8r12;ZF;M;28.03.2010;2;2M1;o3r8;b18r10;;;;FALSE
+p8r13;ZF;F;15.06.2010;1;;r10s5;r10s17;15.09.2010;NE;;FALSE
+p8r14;ZF;F;10.09.2010;3;KU;974;p15r6;;;;FALSE
+p8r2;ZF;F;10.10.2007;2;;g1o-g14k;g15p-purple20;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+p8r3;ZF;M;29.01.2008;2;;r3p-r19o;s11p-yellow8;19.04.2008;End of Exp.;;FALSE
+p8r4;ZF;M;10.06.2008;2;;o19r2;r2s20;29.06.2009;End of Exp.;;FALSE
+p8r5;ZF;F;18.09.2008;4;;b14r4;o12r3;09.01.2009;NE;;FALSE
+p8r6;ZF;F;21.10.2008;4;;g12r2;r8p-s19o;23.07.2009;NE;;FALSE
+p8r7;ZF;M;19.01.2009;3;;b14r4;o12r3;08.04.2009;End of Exp.;;FALSE
+p8r8;ZF;M;12.07.2009;8;2O4;r7p1;p13r5;;;;TRUE
+p9green;BF;M;01.01.2007;0;;;;01.11.2009;NE;Found dead in cage.;FALSE
+p9o;ZF;M;28.03.2007;0;;;;06.04.2007;End of Exp.;"From KM, but found no record in database, since all the ""p9o*"" were dead for exp. I set his birthday as the day I find him. Apparently he is an adult. -Claude. (Reserved by Claude for Richard) -";FALSE
+p9o-r16;ZF;M;08.09.2006;3;;red16;green12;27.11.2006;End of Exp.;;FALSE
+p9o-y13k;ZF;M;28.05.2006;0;;y13k-s17;p19k-o3;29.11.2006;End of Exp.;;FALSE
+p9r1;ZF;M;17.07.2007;3;;g1o-g14k;g15p-purple20;19.06.2008;End of Exp.;;FALSE
+p9r12;ZF;F;26.03.2010;1;;b14r10;p13r5;30.05.2010;NE;;FALSE
+p9r14;ZF;F;10.09.2010;3;KU;974;p15r6;;;showgirl;FALSE
+p9r2;ZF;F;17.11.2007;1;;s20o-yellow20;p19k-o3;09.01.2009;NE;Due to reading mistake, was coupled as p6r2;FALSE
+p9r4;ZF;M;14.05.2008;2;;g9r1;b4p-red11;22.08.2008;End of Exp.;;FALSE
+p9r5;ZF;M;18.09.2008;4;;b14r4;o12r3;25.06.2009;NE;may have lost non r5 ring. Not found in KM on 20 June 2009. - Janie. Not found, presumed dead. (-janie, 25.june.2009).;FALSE
+p9r6;ZF;F;17.10.2008;4;;b10r3;b11r2;09.01.2009;NE;;FALSE
+purple022;ZF;M;01.04.2009;7;;;;12.05.2010;End of Exp.;Janie. bought from qualipet on July 13th 2009, michael;TRUE
+purple050;ZF;M;01.04.2009;7;;;;14.05.2010;End of Exp.;one leg is wounded.  bought from qualipet on July 13th 2009, michael;TRUE
+purple13;ZF;F;26.03.2005;0;;;;21.08.2008;NE;euthanized;FALSE
+purple16;ZF;F;18.04.2006;0;;;;22.08.2009;NE;;FALSE
+purple17;ZF;F;14.04.2005;4;;;;25.06.2009;NE;missing since 3.7.08. Not found, presumed dead. (-janie, 25.june.2009).;FALSE
+purple2;ZF;F;21.07.2004;0;;;;16.06.2006;NE;"-> abgegeben an Z""uchter";FALSE
+purple20;ZF;M;26.05.2004;0;;;;16.09.2009;NE;Oedipus, the legendary. First bird born at INI. Had first microdrive for 4 weeks and two other surgeries. Father of many juveniles. Good singer. Killed his father and got his mother pregnant.;FALSE
+purple5;ZF;F;12.09.2004;0;;;;24.07.2007;Given away;Given away to Johanna;FALSE
+purple8;ZF;M;24.10.2004;0;;;;19.01.2009;End of Exp.;;FALSE
+r;ZF;M;17.12.2006;4;;silver17;blue10;30.01.2007;End of Exp.;;FALSE
+r011;ZF;M;;0;;;;15.10.2010;End of Exp.;Janie. bought from breeder, 3rd Oct 2008, has one red 011 ring.;TRUE
+r10br-o4k;ZF;F;14.04.2007;3;;o4k-p2;green13;21.08.2008;NE;euthanized;FALSE
+r10o-o4k;ZF;F;02.08.2006;5;;o4k-p2;green13;16.02.2007;Given away;Given Away to Marianne;FALSE
+r10p-y7o;ZF;F;22.01.2007;3;;y7o-r16;r11o-o4k;10.04.2007;End of Exp.;;FALSE
+r10s1;ZF;M;21.08.2009;5;;b14r4;o19r5;13.07.2010;;;FALSE
+r10s10;ZF;F;29.08.2009;1;;o12r8;g19r2;17.11.2009;End of Exp.;;FALSE
+r10s11;ZF;F;21.08.2009;3;U2;o13r8;b4r7;;;;FALSE
+r10s12;ZF;F;21.08.2009;3;;o13r8;b4r7;08.03.2010;NE;;FALSE
+r10s13;ZF;M;21.08.2009;3;2M2;o13r8;b4r7;;;Alexei, reserved till 30.01.2011;TRUE
+r10s14;ZF;M;21.08.2009;3;;o13r8;b4r7;01.03.2010;End of Exp.;michael, 7.12.09 - tplms : bos stim - reserved till 1.8.2010;TRUE
+r10s15;ZF;M;18.08.2009;4;;g12r2;g4r7;14.08.2010;End of Exp.;;FALSE
+r10s16;ZF;M;18.08.2009;4;;g12r2;g4r7;13.01.2010;Perished;Janie - Plan to use for acute experiments when > 120 dph.;FALSE
+r10s17;ZF;F;18.08.2009;4;M4;g12r2;g4r7;;;last couple separation date: 30.06.2010;FALSE
+r10s18;ZF;F;18.08.2009;4;;g12r2;g4r7;06.11.2009;NE;;FALSE
+r10s19;ZF;F;18.08.2009;4;;g12r2;g4r7;06.11.2009;NE;;FALSE
+r10s2;ZF;F;21.08.2009;5;;b14r4;o19r5;06.11.2009;NE;;FALSE
+r10s20;ZF;M;21.10.2009;0;;k8r2;o7r5;05.02.2010;NE;michael - GECIP : CAG GCamP4 - reserved till 31.3.2010;TRUE
+r10s3;ZF;M;21.08.2009;5;;b14r4;o19r5;02.11.2009;NE;;FALSE
+r10s4;ZF;M;21.08.2009;5;?;b14r4;o19r5;;;Janie - Plan to use for acute experiments when > 120 dph. - not found in R7 on 15 sept 2010 - jo;TRUE
+r10s5;ZF;M;21.08.2009;5;U5;b14r4;o19r5;;;do not breed, offspring with weird beak.;FALSE
+r10s7;ZF;M;21.08.2009;5;;b14r4;o19r5;21.05.2010;Perished;Janie - Plan to use for acute experiments when > 120 dph.;TRUE
+r10s8;ZF;M;11.08.2009;1;;g13r8;r2s20;01.03.2010;End of Exp.;reserved by Moritz. Reservation expires at death by natural cause.;TRUE
+r10s9;ZF;F;11.08.2009;1;;g13r8;r2s20;06.11.2009;NE;;FALSE
+r10y1;ZF;M;06.10.2009;1;;o13r8;b4r7;07.07.2010;End of Exp.;;FALSE
+r10y10;ZF;M;23.09.2009;2;KM;p3r6;r5y18;;;;FALSE
+r10y12;ZF;M;23.09.2009;6;;o5r8;k10r2;07.01.2010;End of Exp.;michael - GECIP;FALSE
+r10y13;ZF;F;23.09.2009;2;;p3r6;r5y18;04.08.2010;NE;;FALSE
+r10y14;ZF;M;23.09.2009;6;A-U;o5r8;k10r2;;;alessandro;TRUE
+r10y15;ZF;F;23.09.2009;6;;o5r8;k10r2;10.12.2009;End of Exp.;;FALSE
+r10y16;ZF;;17.10.2009;0;;b10r7;b15r6;;;Bird given to Lorenzo Fagan;FALSE
+r10y17;ZF;M;25.10.2009;3;?;r6s5;o6r7;;;not found in A-U on 31.Oct.2010 - jo;FALSE
+r10y18;ZF;M;25.10.2009;3;;r6s5;o6r7;29.03.2010;End of Exp.;;FALSE
+r10y19;ZF;F;25.10.2009;3;;r6s5;o6r7;30.05.2010;NE;;FALSE
+r10y2;ZF;M;06.10.2009;1;2M3;o13r8;b4r7;;;;FALSE
+r10y20;ZF;M;25.10.2009;3;;r6s5;o6r7;21.05.2010;End of Exp.;;FALSE
+r10y3;ZF;M;22.09.2009;5;;o1r1;r2y1;26.01.2010;End of Exp.;;FALSE
+r10y4;ZF;F;22.09.2009;5;;o1r1;r2y1;14.02.2010;Surgery;;FALSE
+r10y5;ZF;F;22.09.2009;5;R7;o1r1;r2y1;;;;FALSE
+r10y6;ZF;F;22.09.2009;5;;o1r1;r2y1;06.03.2010;Perished;;FALSE
+r10y7;ZF;F;23.09.2009;6;;o5r8;k10r2;04.08.2010;NE;;FALSE
+r10y8;ZF;F;03.10.2009;0;;;;04.12.2009;End of Exp.;;FALSE
+r11k-y1;ZF;M;11.01.2006;0;;yellow1;;16.06.2006;End of Exp.;;FALSE
+r11o-o4k;ZF;F;02.08.2006;5;;o4k-p2;green13;20.03.2009;NE;long beak on 13.11.08;FALSE
+r11p-s17o;ZF;F;07.03.2007;5;;s17o;s8k-p11k;25.06.2009;NE;not in KU 01.11.2007. Not found, presumed dead. (-janie, 25.june.2009).;FALSE
+r11p-y7o;ZF;F;22.01.2007;3;;y7o-r16;r11o-o4k;08.05.2007;End of Exp.;;FALSE
+r11s10;ZF;F;05.12.2009;7;;o10r8;r5s1;06.11.2010;NE;;FALSE
+r11s11;ZF;M;05.12.2009;7;KM;o10r8;r5s1;;;Small chick, isolated as juvenile;FALSE
+r11s12;ZF;F;05.12.2009;7;;o10r8;r5s1;06.11.2010;NE;White;FALSE
+r11s13;ZF;M;08.12.2009;4;A-U;p14k;r5s4;;;Isolated as juvenile;FALSE
+r11s14;ZF;F;08.12.2009;4;;p14k;r5s4;06.11.2010;NE;;FALSE
+r11s15;ZF;F;08.12.2009;4;;p14k;r5s4;06.11.2010;NE;;FALSE
+r11s16;ZF;M;08.12.2009;4;2O3;p14k;r5s4;;;Isolated as juvenile.;FALSE
+r11s17;ZF;F;26.11.2009;0;;p5r3;r8s8;08.03.2010;NE;;FALSE
+r11s18;ZF;M;05.12.2009;1;;k13r2;o2r5;19.05.2010;End of Exp.;;FALSE
+r11s19;ZF;M;05.12.2009;1;;k13r2;o2r5;10.03.2010;End of Exp.;;FALSE
+r11s20;ZF;M;07.01.2010;1;;r10s5;r10s17;02.06.2010;End of Exp.;;FALSE
+r11s4;ZF;M;30.11.2009;1;;p7r8k;k10r7;15.04.2010;End of Exp.;;FALSE
+r11s5;ZF;M;30.11.2009;1;;p7r8k;k10r7;15.04.2010;End of Exp.;;FALSE
+r11s7;ZF;F;05.12.2009;7;;o10r8;r5s1;06.11.2010;NE;White;FALSE
+r11s8;ZF;F;05.12.2009;7;;o10r8;r5s1;06.11.2010;NE;Reserved by Alexei till 15.01.2010;FALSE
+r11y1;ZF;M;31.12.2009;7;;k17r8;r6s13;11.10.2010;Perished;;FALSE
+r11y10;ZF;F;01.02.2010;3;;p2r5;b12r8;10.04.2010;NE;;FALSE
+r11y13;ZF;M;10.02.2010;2;;k13r2;o2r5;12.05.2010;End of Exp.;Reserved by Alexei till 15.03.2010;FALSE
+r11y14;ZF;M;10.02.2010;2;;k13r2;o2r5;21.03.2010;NE;Reserved by Alexei till 15.03.2010;FALSE
+r11y15;ZF;M;10.02.2010;2;;k13r2;o2r5;04.08.2010;End of Exp.;;FALSE
+r11y16;ZF;M;08.02.2010;1;;o12r10;p18r8;28.04.2010;End of Exp.;;FALSE
+r11y17;ZF;M;08.02.2010;1;;o12r10;p18r8;04.05.2010;End of Exp.;;FALSE
+r11y18;ZF;M;01.02.2010;3;;p2r5;b12r8;04.07.2010;End of Exp.;;FALSE
+r11y19;ZF;M;01.02.2010;3;KO;p2r5;b12r8;;;;FALSE
+r11y2;ZF;F;31.12.2009;7;2O2;k17r8;r6s13;;;;FALSE
+r11y20;ZF;;01.02.2010;3;;p2r5;b12r8;10.04.2010;NE;;FALSE
+r11y3;ZF;F;31.12.2009;7;;k17r8;r6s13;02.06.2010;NE;;FALSE
+r11y4;ZF;F;31.12.2009;7;;k17r8;r6s13;10.04.2010;NE;;FALSE
+r11y5;ZF;F;31.12.2009;7;;k17r8;r6s13;10.04.2010;NE;white;FALSE
+r11y6;ZF;F;31.12.2009;7;;k17r8;r6s13;02.06.2010;NE;;FALSE
+r11y7;ZF;F;31.12.2009;7;;k17r8;r6s13;08.03.2010;NE;;FALSE
+r11y8;ZF;F;14.01.2010;1;2M4;p7r8k;k10r7;;;Breeder;TRUE
+r11y9;ZF;M;14.01.2010;1;A-U;p7r8k;k10r7;;;;FALSE
+r12k-ch900;ZF;M;12.01.2006;0;;;;09.09.2008;End of Exp.;Reserved by Janie;FALSE
+r12o-o4k;ZF;F;02.08.2006;5;;o4k-p2;green13;25.06.2009;NE;not in U1 - missing. Not found, presumed dead. (-janie, 25.june.2009).;FALSE
+r12p-y7o;ZF;M;22.01.2007;3;;y7o-r16;r11o-o4k;12.06.2009;End of Exp.;reserved for michael;FALSE
+r12s1;ZF;M;25.02.2010;6;;r10y2;o18r8;02.11.2010;Surgery;;FALSE
+r12s10;ZF;;13.03.2010;5;;974;r5y18;11.07.2010;End of Exp.;was killed under unestesia;FALSE
+r12s11;ZF;M;13.03.2010;5;2O1;974;r5y18;;;;FALSE
+r12s12;ZF;M;13.03.2010;5;2M1;974;r5y18;;;;FALSE
+r12s13;ZF;F;13.03.2010;5;;974;r5y18;02.06.2010;NE;;FALSE
+r12s14;ZF;M;07.03.2010;3;2U3;o11r10;r8y18;;;;FALSE
+r12s15;ZF;F;07.03.2010;3;;o11r10;r8y18;01.05.2010;NE;;FALSE
+r12s16;ZF;F;07.03.2010;3;;o11r10;r8y18;01.05.2010;NE;;FALSE
+r12s2;ZF;F;25.02.2010;6;;r10y2;o18r8;29.11.2010;NE;;FALSE
+r12s3;ZF;F;25.02.2010;6;;r10y2;o18r8;04.08.2010;NE;;FALSE
+r12s4;ZF;F;25.02.2010;6;;r10y2;o18r8;;;Given to Kynan 28.7.2010;FALSE
+r12s5;ZF;F;25.02.2010;6;;r10y2;o18r8;04.05.2010;End of Exp.;;FALSE
+r12s7;ZF;M;01.03.2010;3;;g4r10;r10s11;18.05.2010;End of Exp.;;FALSE
+r12s8;ZF;F;01.03.2010;3;;g4r10;r10s11;01.05.2010;NE;;FALSE
+r12y1;ZF;M;07.04.2010;2;;g4r11;p15r6;20.08.2010;End of Exp.;was labeled as dead NE 30.05.2010 and female. But was found in KM, definitely male.;FALSE
+r12y10;ZF;M;16.04.2010;2;A-U;r10y10;b7br-b3k;;;;FALSE
+r12y11;ZF;M;16.04.2010;2;;r10y10;b7br-b3k;17.08.2010;End of Exp.;;FALSE
+r12y12;ZF;F;16.04.2010;2;;r10y10;b7br-b3k;04.08.2010;NE;;FALSE
+r12y13;ZF;;30.04.2010;5;;p15r8;r2y1;20.06.2010;End of Exp.;;FALSE
+r12y14;ZF;F;30.04.2010;5;;p15r8;r2y1;23.10.2010;NE;;FALSE
+r12y15;ZF;;30.04.2010;5;;p15r8;r2y1;20.06.2010;End of Exp.;;FALSE
+r12y16;ZF;;30.04.2010;5;;p15r8;r2y1;07.06.2010;Surgery;;FALSE
+r12y17;ZF;F;30.04.2010;5;;p15r8;r2y1;13.06.2010;End of Exp.;;FALSE
+r12y18;ZF;F;30.04.2010;5;;p15r8;r2y1;13.06.2010;End of Exp.;;FALSE
+r12y19;ZF;M;06.04.2010;5;R2;b7r7;r6s10;;;;FALSE
+r12y2;ZF;M;07.04.2010;2;A-U;g4r11;p15r6;;;;FALSE
+r12y20;ZF;F;06.04.2010;5;M6;b7r7;r6s10;;;;FALSE
+r12y3;ZF;M;07.04.2010;2;;g4r11;p15r6;18.06.2010;End of Exp.;;FALSE
+r12y4;ZF;F;07.04.2010;2;;g4r11;p15r6;30.05.2010;NE;;FALSE
+r12y5;ZF;M;15.04.2010;4;;o11r10;r8y18;28.09.2010;End of Exp.;not singing at all, but he can;FALSE
+r12y6;ZF;M;15.04.2010;4;A-U;o11r10;r8y18;;;;FALSE
+r12y7;ZF;F;15.04.2010;4;;o11r10;r8y18;30.05.2010;NE;;FALSE
+r12y8;ZF;F;15.04.2010;4;;o11r10;r8y18;30.05.2010;NE;;FALSE
+r12y9;ZF;F;14.05.2010;0;;r10s5;r10s17;04.08.2010;NE;;FALSE
+r13o-o4k;ZF;M;02.08.2006;5;;o4k-p2;green13;13.12.2006;End of Exp.;;FALSE
+r13o-s17;ZF;M;17.12.2006;4;;silver17;blue10;06.05.2007;End of Exp.;;FALSE
+r13p-sb;ZF;M;24.01.2007;2;;silverblack;blue3;28.04.2007;End of Exp.;;FALSE
+r13s1;ZF;M;05.05.2010;2;A-U;r10y17;p4r8;;;;FALSE
+r13s10;ZF;M;18.06.2010;4;;k13r2;o2r5;15.10.2010;End of Exp.;;FALSE
+r13s11;ZF;F;18.06.2010;4;;k13r2;o2r5;15.09.2010;NE;;FALSE
+r13s12;ZF;M;18.06.2010;4;KM;k13r2;o2r5;;;not singing in iso;FALSE
+r13s13;ZF;F;05.06.2010;3;;g12r2;g4r7;16.09.2010;NE;;FALSE
+r13s14;ZF;M;05.06.2010;3;;g12r2;g4r7;23.09.2010;End of Exp.;;FALSE
+r13s15;ZF;M;05.06.2010;3;;g12r2;g4r7;03.09.2010;End of Exp.;;FALSE
+r13s16;ZF;F;05.06.2010;3;;g12r2;g4r7;16.09.2010;NE;;FALSE
+r13s19;ZF;M;04.06.2010;1;;o3r8;b18r10;07.09.2010;End of Exp.;;FALSE
+r13s2;ZF;F;05.05.2010;2;;r10y17;p4r8;16.09.2010;NE;;FALSE
+r13s20;ZF;F;04.06.2010;1;;o3r8;b18r10;16.09.2010;NE;;FALSE
+r13s3;ZF;F;05.05.2010;2;;r10y17;p4r8;04.08.2010;NE;;FALSE
+r13s4;ZF;F;11.06.2010;7;;r5y15;r5s1;16.09.2010;NE;;FALSE
+r13s5;ZF;M;11.06.2010;7;KO;r5y15;r5s1;;;;FALSE
+r13s7;ZF;M;11.06.2010;7;;r5y15;r5s1;22.09.2010;End of Exp.;;FALSE
+r13s8;ZF;M;11.06.2010;7;M7;r5y15;r5s1;;;;FALSE
+r13y1;ZF;M;05.07.2010;4;;o7r10;r8s8;11.11.2010;End of Exp.;Nicolas;FALSE
+r13y10;ZF;M;07.07.2010;5;;r12s11;b13r12;26.10.2010;End of Exp.;;FALSE
+r13y11;ZF;F;07.07.2010;5;;r12s11;b13r12;15.09.2010;NE;;FALSE
+r13y12;ZF;F;07.07.2010;5;;r12s11;b13r12;16.09.2010;NE;;FALSE
+r13y13;ZF;F;07.07.2010;5;;r12s11;b13r12;16.09.2010;NE;;FALSE
+r13y14;ZF;M;07.07.2010;5;;r12s11;b13r12;12.01.2011;End of Exp.;not singing in iso;FALSE
+r13y15;ZF;F;07.07.2010;5;;r12s11;b13r12;15.09.2010;NE;;FALSE
+r13y16;ZF;M;16.07.2010;2;R5;r12s12;k16r11;;;;FALSE
+r13y17;ZF;F;16.07.2010;2;;r12s12;k16r11;16.09.2010;NE;;FALSE
+r13y18;ZF;F;16.07.2010;2;;r12s12;k16r11;16.09.2010;NE;;FALSE
+r13y2;ZF;M;05.07.2010;4;;o7r10;r8s8;07.10.2010;End of Exp.;;FALSE
+r13y3;ZF;F;05.07.2010;4;;o7r10;r8s8;15.09.2010;NE;;FALSE
+r13y4;ZF;M;05.07.2010;4;;o7r10;r8s8;01.10.2010;End of Exp.;;FALSE
+r13y5;ZF;F;05.07.2010;0;;o7r10;r8s8;15.09.2010;NE;white bird;FALSE
+r13y6;ZF;F;01.07.2010;4;;r6s5;o19r5;15.09.2010;NE;;FALSE
+r13y7;ZF;F;01.07.2010;4;;r6s5;o19r5;15.09.2010;NE;;FALSE
+r13y8;ZF;F;01.07.2010;4;;r6s5;o19r5;15.09.2010;NE;;FALSE
+r13y9;ZF;F;01.07.2010;4;;r6s5;o14r11;15.09.2010;NE;;FALSE
+r14o-o4k;ZF;F;02.08.2006;5;;o4k-p2;green13;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+r14p-s2;ZF;F;01.03.2007;3;;silver2;green16;24.07.2007;Given away;Given away to Johanna;FALSE
+r14s1;ZF;M;26.07.2010;5;;k13r2;o2r5;19.11.2010;End of Exp.;;FALSE
+r14s10;ZF;F;29.07.2010;2;;r5y15;r5s1;19.09.2010;End of Exp.;;FALSE
+r14s11;ZF;M;29.07.2010;i;KO;g4r10;r2y1;;;Isolated as juvenile, bad song;FALSE
+r14s12;ZF;F;29.07.2010;4;KU;g4r10;r2y1;16.09.2010;NE;;FALSE
+r14s13;ZF;;29.07.2010;4;;g4r10;r2y1;15.09.2010;NE;;FALSE
+r14s14;ZF;F;29.07.2010;4;;g4r10;r2y1;16.09.2010;NE;;FALSE
+r14s15;ZF;F;30.07.2010;4;;b14r10;r6s13;04.10.2010;NE;;FALSE
+r14s16;ZF;F;30.07.2010;4;;b14r10;r6s13;26.10.2010;NE;;FALSE
+r14s17;ZF;M;30.07.2010;4;;b14r10;r6s13;05.11.2010;End of Exp.;;FALSE
+r14s18;ZF;F;30.07.2010;4;;b14r10;r6s13;04.10.2010;NE;;FALSE
+r14s19;ZF;M;18.08.2010;0;R1;r6s5;o19r5;;;;FALSE
+r14s2;ZF;M;26.07.2010;5;E6;k13r2;o2r5;;;;FALSE
+r14s20;ZF;F;17.08.2010;3;M7;g13r8;r2s20;;;;FALSE
+r14s3;ZF;M;26.07.2010;5;;k13r2;o2r5;10.12.2010;End of Exp.;;FALSE
+r14s4;ZF;M;26.07.2010;5;;k13r2;o2r5;25.11.2010;End of Exp.;;FALSE
+r14s5;ZF;F;26.07.2010;5;;k13r2;o2r5;04.10.2010;NE;;FALSE
+r14s7;ZF;M;29.07.2010;2;;r5y15;r5s1;19.11.2010;End of Exp.;;FALSE
+r14s8;ZF;M;29.07.2010;2;KO;r5y15;r5s1;;;Isolated as juvenile, bad learner;FALSE
+r14w-silver17;ZF;F;17.12.2006;4;;silver17;blue10;21.08.2008;NE;euthanized;FALSE
+r14y1;ZF;M;23.08.2010;0;KO;g3r13;r6s10;;;Isolated as juvenile, very bad learner;FALSE
+r14y10;ZF;M;18.08.2010;3;E3;r12s12;k16r11;;;;FALSE
+r14y11;ZF;M;02.08.2010;4;ISO7;p10r8;b11r8;;;;FALSE
+r14y12;ZF;M;02.08.2010;4;KO;p10r8;b11r8;;;;FALSE
+r14y13;ZF;F;02.08.2010;4;O1;p10r8;b11r8;;;;FALSE
+r14y14;ZF;F;02.08.2010;4;O6;p10r8;b11r8;;;;FALSE
+r14y15;ZF;M;13.08.2010;1;KM;g20r11;r12y20;;;;FALSE
+r14y16;ZF;F;13.08.2010;1;;g20r11;r12y20;23.10.2010;NE;;FALSE
+r14y17;ZF;F;13.08.2010;1;;g20r11;r12y20;23.10.2010;NE;;FALSE
+r14y18;ZF;F;13.08.2010;1;2U2;g20r11;r12y20;;;;FALSE
+r14y2;ZF;;23.08.2010;0;R8;g3r13;r6s10;;;Isolated as juvenile, 24h light on, relatively good copy of the tutor - two last syllablews are copied ideally;FALSE
+r14y3;ZF;M;28.07.2010;3;A-U;r10s13;p13r5;;;;FALSE
+r14y4;ZF;M;28.07.2010;3;A-U;r10s13;p13r5;;;;FALSE
+r14y5;ZF;M;28.07.2010;3;;r10s13;p13r5;28.11.2010;End of Exp.;;FALSE
+r14y6;ZF;;18.08.2010;3;;r12s12;k16r11;15.10.2010;NE;;FALSE
+r14y7;ZF;;18.08.2010;3;;r12s12;k16r11;15.10.2010;NE;;FALSE
+r14y8;ZF;;18.08.2010;3;;r12s12;k16r11;15.10.2010;NE;;FALSE
+r14y9;ZF;M;18.08.2010;3;E8;r12s12;k16r11;;;;FALSE
+r15o-r11c;ZF;F;07.08.2006;2;;red11;purple8;22.11.2006;End of Exp.;;FALSE
+r15p-s2;ZF;F;01.03.2007;3;;silver2;green16;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+r16o-r11;ZF;F;07.08.2006;2;;red11;purple8;20.03.2009;NE;;FALSE
+r16p-s2;ZF;M;01.03.2007;3;;silver2;green16;21.06.2007;;;FALSE
+r17k-silver17;ZF;F;17.12.2006;4;;silver17;blue10;22.03.2007;End of Exp.;;FALSE
+r17o-r11;ZF;M;07.08.2006;2;;red11;purple8;21.12.2006;End of Exp.;;FALSE
+r17p-s19o;ZF;F;13.03.2007;1;;s19o;green10;01.11.2007;Given away;Given away to Johanna;FALSE
+r18o-r11;ZF;F;07.08.2006;2;;red11;purple8;16.02.2007;Given away;Given Away to Marianne;FALSE
+r18p-s17o;ZF;M;07.03.2007;5;;s17o;s8k-p11k;09.06.2008;Given away;Reserved by Claude!!!  Good song. Purely white bird. Given away to Johanna on 09.06.08;FALSE
+r18w-silver17;ZF;M;17.12.2006;4;;silver17;blue10;02.04.2007;End of Exp.;;FALSE
+r19o-r11;ZF;M;07.08.2006;2;;red11;purple8;31.05.2007;End of Exp.;;FALSE
+r19p-s17o;ZF;M;07.03.2007;5;;s17o;s8k-p11k;25.06.2009;NE;With good song structure, but rarely sing. Reserved by Claude. Not found in KM on 20 June 2009. - Janie;FALSE
+r1b-o3;ZF;F;10.10.2006;2;;orange3;red5;21.05.2007;End of Exp.;;FALSE
+r1o-p11k;ZF;M;20.04.2006;4;;p11k-ch900;g16k;13.11.2006;End of Exp.;;FALSE
+r1p-r19o;ZF;M;15.12.2006;4;;r19o-r11;g1k;17.04.2007;End of Exp.;;FALSE
+r1r1;ZF;M;16.11.2008;3;;b11r5;g18k-y6;06.05.2009;End of Exp.;not ringed yet;FALSE
+r1s1;ZF;F;20.05.2007;0;;b13g-red11;s11p-yellow8;24.07.2007;Given away;Given away to Johanna;FALSE
+r1s10;ZF;M;09.05.2007;0;;purple20;purple13;05.12.2007;End of Exp.;;FALSE
+r1s11;ZF;M;20.05.2007;1;;o4k-p2;green13;20.07.2007;End of Exp.;;FALSE
+r1s12;ZF;M;20.05.2007;1;;o4k-p2;green13;20.07.2007;End of Exp.;;FALSE
+r1s13;ZF;M;20.05.2007;1;;o4k-p2;green13;16.08.2007;End of Exp.;;FALSE
+r1s14;ZF;M;01.06.2007;3;;red16;g18k-y6;15.07.2008;End of Exp.;died because of massive bleeding while inserting field L electrodes;FALSE
+r1s15;ZF;F;01.06.2007;3;;red16;g18k-y6;01.11.2007;Given away;Given away to Johanna;FALSE
+r1s16;ZF;M;01.06.2007;3;;red16;g18k-y6;29.10.2007;End of Exp.;;FALSE
+r1s17;ZF;M;01.06.2007;3;;red16;g18k-y6;26.02.2008;End of Exp.;;FALSE
+r1s18;ZF;F;20.05.2007;1;;o4k-p2;green13;24.07.2007;Given away;Given away to Johanna;FALSE
+r1s19;ZF;F;20.05.2007;1;;o4k-p2;green13;24.07.2007;Given away;Given away to Johanna;FALSE
+r1s2;ZF;M;20.05.2007;0;;b13g-red11;s11p-yellow8;19.09.2007;End of Exp.;;FALSE
+r1s20;ZF;M;20.05.2007;1;;o4k-p2;green13;25.09.2007;End of Exp.;;FALSE
+r1s3;ZF;F;20.05.2007;0;;b13g-red11;s11p-yellow8;24.07.2007;Given away;Given away to Johanna;FALSE
+r1s4;ZF;F;20.05.2007;0;;b13g-red11;s11p-yellow8;24.07.2007;Given away;Given away to Johanna;FALSE
+r1s5;ZF;F;18.05.2007;2;;y16p-s2;o12o-r12k;24.07.2007;Given away;Given away to Johanna;FALSE
+r1s6;ZF;M;18.05.2007;2;;y16p-s2;o12o-r12k;21.09.2007;End of Exp.;Bird immobile and very fluffy 1 day after surgery. 2nd Day after surgery bird still show strong apatie and weakness. Unable to eat and move.  Probably fatal infection. Euthanasie.;FALSE
+r1s7;ZF;M;02.05.2007;3;;g1o-g14k;g15p-purple20;12.06.2008;End of Exp.;;FALSE
+r1s8;ZF;M;02.05.2007;3;;g1o-g14k;g15p-purple20;17.07.2008;End of Exp.;;FALSE
+r1s9;ZF;F;02.05.2007;3;;g1o-g14k;g15p-purple20;24.07.2007;Given away;Given away to Johanna;FALSE
+r1y10;ZF;M;27.05.2007;3;;goldch900;purple17;07.10.2007;End of Exp.;;FALSE
+r1y11;ZF;F;27.05.2007;3;;goldch900;purple17;01.11.2007;Given away;Given away to Johanna;FALSE
+r1y12;ZF;M;27.05.2007;3;;goldch900;purple17;01.10.2008;End of Exp.;missing - propably found in KO.;FALSE
+r1y13;ZF;F;27.05.2007;3;;goldch900;purple17;01.11.2007;Given away;Given away to Johanna;FALSE
+r1y14;ZF;M;27.05.2007;3;;goldch900;purple17;01.04.2008;End of Exp.;;FALSE
+r1y15;ZF;F;27.05.2007;3;;goldch900;purple17;01.11.2007;Given away;Given away to Johanna;FALSE
+r1y16;ZF;F;11.06.2007;4;;b11o-p11k;g9b-o4k;21.08.2008;NE;euthanized;FALSE
+r1y17;ZF;F;11.06.2007;4;;b11o-p11k;g9b-o4k;20.03.2009;NE;;FALSE
+r1y18;ZF;M;11.06.2007;4;;b11o-p11k;g9b-o4k;;;missing;FALSE
+r1y19;ZF;M;03.06.2007;4;;s3k-y8;k9k-ch900;23.03.2008;End of Exp.;;FALSE
+r1y20;ZF;M;03.06.2007;4;;s3k-y8;k9k-ch900;15.11.2007;End of Exp.;Natively lack of 3 toes.;FALSE
+r1y6;ZF;M;29.05.2007;4;;o20o-ch900;r12o-o4k;03.10.2007;Given away;This bird is reserved for acute experiment by Richard and Aymeric ---  Bird lost;FALSE
+r1y7;ZF;F;27.05.2007;3;;b8o-p11k;r2b-o3;01.11.2007;Given away;Given away to Johanna;FALSE
+r1y8;ZF;F;27.05.2007;3;;b8o-p11k;r2b-o3;21.08.2008;NE;euthanized;FALSE
+r1y9;ZF;M;27.05.2007;3;;b8o-p11k;r2b-o3;04.10.2007;End of Exp.;;FALSE
+r20o-o4k;ZF;F;29.04.2006;1;;o4k-p2;green13;06.10.2006;NE;;FALSE
+r20p-s17o;ZF;F;07.03.2007;5;;s17o;s8k-p11k;24.07.2007;Given away;Given away to Johanna;FALSE
+r2b1;ZF;F;28.09.2007;0;;yellow20;blue2;;;bird is missing in cage on June 15, 2009, michael;FALSE
+r2b-o3;ZF;F;10.10.2006;2;;orange3;red5;;;Bird supposed to be in 2U2 but not there. Daniele 10.07.2009;FALSE
+r2o-p11k;ZF;M;20.04.2006;4;;p11k-ch900;g16k;11.08.2006;End of Exp.;;FALSE
+r2p-r19o;ZF;M;15.12.2006;4;;r19o-r11;g1k;26.03.2007;End of Exp.;;FALSE
+r2r3;ZF;M;11.04.2007;3;;goldch900;purple17;21.07.2008;End of Exp.;;FALSE
+r2r4;ZF;F;11.04.2007;3;;goldch900;purple17;24.07.2007;Given away;Given away to Johanna;FALSE
+r2r5;ZF;M;11.04.2007;3;;goldch900;purple17;26.06.2008;End of Exp.;;FALSE
+r2r6;ZF;M;04.04.2007;4;;s14k-r16;p3o-sb;30.11.2008;End of Exp.;dead?;FALSE
+r2r7;ZF;M;04.04.2007;4;;s14k-r16;p3o-sb;27.02.2008;Perished;;FALSE
+r2s1;ZF;F;06.10.2007;2;;g9r1;b4p-red11;21.08.2008;NE;euthanized;FALSE
+r2s10;ZF;F;03.10.2007;3;;y7o-r16;purple16;21.08.2008;NE;euthanized;FALSE
+r2s11;ZF;M;03.10.2007;3;;y7o-r16;purple16;26.03.2008;End of Exp.;;FALSE
+r2s12;ZF;M;03.10.2007;3;;y7o-r16;purple16;03.03.2008;End of Exp.;;FALSE
+r2s13;ZF;M;03.10.2007;3;;y7o-r16;purple16;08.02.2008;End of Exp.;;FALSE
+r2s14;ZF;M;16.09.2007;3;;silvergreen8;green16;09.01.2007;;;FALSE
+r2s15;ZF;F;16.09.2007;3;;silvergreen8;green16;21.08.2008;NE;euthanized;FALSE
+r2s16;ZF;M;16.09.2007;3;;silvergreen8;green16;02.06.2008;End of Exp.;;FALSE
+r2s17;ZF;F;16.09.2007;3;;silvergreen8;green16;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+r2s18;ZF;F;01.10.2007;2;;y16p-s2;o12o-r12k;02.11.2009;NE;;FALSE
+r2s19;ZF;M;27.10.2007;5;;b8o-p11k;s13p-yellow8;26.02.2008;End of Exp.;;FALSE
+r2s2;ZF;M;06.10.2007;2;;g9r1;b4p-red11;14.05.2008;End of Exp.;;FALSE
+r2s20;ZF;F;27.10.2007;5;2O2;b8o-p11k;s13p-yellow8;;;Breeder - couple with male g13r8;TRUE
+r2s3;ZF;M;06.10.2007;2;;g9r1;b4p-red11;04.09.2008;End of Exp.;White bird;FALSE
+r2s4;ZF;M;28.09.2007;3;;g5r1;purple13;15.08.2008;End of Exp.;;FALSE
+r2s5;ZF;M;28.09.2007;3;;g5r1;purple13;02.02.2008;End of Exp.;;FALSE
+r2s6;ZF;M;28.09.2007;3;;g5r1;purple13;06.10.2008;End of Exp.;;FALSE
+r2s7;ZF;M;28.09.2007;3;;g5r1;purple13;22.04.2008;End of Exp.;;FALSE
+r2s8;ZF;F;28.09.2007;0;;g5r1;purple13;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+r2s9;ZF;M;03.10.2007;3;;y7o-r16;purple16;17.01.2008;End of Exp.;;FALSE
+r2v1;ZF;M;28.09.2007;0;;yellow20;blue2;;;missing;FALSE
+r2y1;ZF;F;14.10.2007;3;2O2;g8r1;b7br-b3k;;;Super breeding couple (w p15r8)!!;TRUE
+r2y10;ZF;M;03.10.2007;3;;r6p-r9k;red5;31.12.2007;End of Exp.;;FALSE
+r2y11;ZF;M;08.10.2007;2;;red16;g18k-y6;11.02.2008;End of Exp.;;FALSE
+r2y12;ZF;M;03.10.2007;3;;r6p-r9k;red5;;;missing;FALSE
+r2y13;ZF;M;02.10.2007;2;;r12p-y7o;o8p-y8;25.04.2008;Surgery;;FALSE
+r2y14;ZF;F;02.10.2007;2;;r12p-y7o;o8p-y8;21.08.2008;NE;euthanized, not found in ZZ-O on 09.06.08;FALSE
+r2y15;ZF;F;17.10.2007;2;;y5o-s3k;purple17;04.06.2008;NE;Found with broken leg. Claude.;FALSE
+r2y16;ZF;M;17.10.2007;2;;y5o-s3k;purple17;02.10.2008;NE;swollen feet - removed rings to see if he gets better. Bird injured himself on cuttle bone holder in MK so severly that we had to put him down.;FALSE
+r2y17;ZF;M;17.10.2007;2;;y5o-s3k;purple17;12.03.2008;End of Exp.;;FALSE
+r2y18;ZF;F;17.10.2007;3;;y5o-s3k;purple17;21.08.2008;NE;euthanized,not found in ZZ-O on 09.06.08. Found on 08.07.08 and put back in KU.;FALSE
+r2y19;ZF;M;17.10.2007;0;;y5o-s3k;purple17;06.05.2008;End of Exp.;;FALSE
+r2y2;ZF;F;14.10.2007;3;;g8r1;b7br-b3k;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+r2y20;ZF;M;28.09.2007;0;;yellow20;blue2;11.06.2008;End of Exp.;;FALSE
+r2y3;ZF;M;14.10.2007;3;;g8r1;b7br-b3k;05.02.2008;NE;seems to have died in cage - of no apparent reason.;FALSE
+r2y4;ZF;M;18.10.2007;1;;yellow10;o9o10;09.06.2008;End of Exp.;;FALSE
+r2y5;ZF;F;18.10.2007;1;;yellow10;o9o10;09.06.2008;End of Exp.;;FALSE
+r2y6;ZF;F;18.10.2007;1;;yellow10;o9o10;25.01.2008;Perished;something wrong with one of the feet. Seems to be pregnant. Changes sex to female. Add 25.01.2008:  Bird seems sick, killed the bird.;FALSE
+r2y7;ZF;F;18.10.2007;5;;yellow10;o9o10;12.02.2008;End of Exp.;;FALSE
+r2y8;ZF;F;18.10.2007;5;;yellow10;o9o10;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+r2y9;ZF;F;03.10.2007;3;;r6p-r9k;red5;06.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+r3o-p11k;ZF;F;20.04.2006;4;;p11k-ch900;g16k;04.06.2006;Perished;Ibutenic acid lesion.;FALSE
+r3p-orange3;ZF;F;23.12.2006;2;;orange3;red5;20.04.2007;End of Exp.;;FALSE
+r3p-r19o;ZF;M;15.12.2006;4;;r19o-r11;g1k;07.10.2008;End of Exp.;Reserved for Janie;FALSE
+r3r10;ZF;M;20.05.2007;1;;r3p-r19o;r16o-r11;01.10.2007;End of Exp.;;FALSE
+r3r11;ZF;M;20.05.2007;1;;r3p-r19o;r16o-r11;20.11.2007;End of Exp.;;FALSE
+r3r8;ZF;M;04.04.2007;4;;s14k-r16;p3o-sb;20.08.2008;End of Exp.;;FALSE
+r3r9;ZF;F;20.05.2007;1;;r3p-r19o;r16o-r11;24.07.2007;Given away;Given away to Johanna;FALSE
+r3s1;ZF;;13.12.2007;7;;y7o-r16;purple16;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+r3s14;ZF;F;30.12.2007;4;;g6r1;p14b-r16;10.11.2008;End of Exp.;It's a female. Claude.;FALSE
+r3s15;ZF;M;30.12.2007;4;;g6r1;p14b-r16;07.04.2008;End of Exp.;;FALSE
+r3s16;ZF;M;30.12.2007;4;;g6r1;p14b-r16;16.04.2008;End of Exp.;;FALSE
+r3s17;ZF;F;30.12.2007;4;;g6r1;p14b-r16;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+r3s2;ZF;;13.12.2007;7;;y7o-r16;purple16;31.03.2008;End of Exp.;;FALSE
+r3s3;ZF;M;13.12.2007;7;;y7o-r16;purple16;;NE;severely sick.;FALSE
+r3s4;ZF;F;27.12.2007;4;;g3r1;purple8;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+r3s5;ZF;M;17.01.2008;4;;yellow10;o9o10;11.02.2008;End of Exp.;;FALSE
+r3s6;ZF;;19.01.2008;5;;g13p-purple20;r8p-s19o;11.02.2008;End of Exp.;;FALSE
+r3s7;ZF;M;17.01.2008;4;;yellow10;o9o10;11.02.2008;End of Exp.;;FALSE
+r3y1;BF;F;01.01.2007;0;A-O;;;;;;FALSE
+r3y10;BF;F;01.01.2007;0;;;;25.08.2009;Perished;;FALSE
+r3y11;BF;M;01.01.2007;0;A-O;;;;;;FALSE
+r3y12;BF;M;01.01.2007;0;A-O;;;;;missing r3 ring;FALSE
+r3y13;ZF;F;30.12.2007;5;;g9r1;b4p-red11;;;bird is missing in cage on June 15, 2009, michael;FALSE
+r3y14;ZF;M;30.12.2007;5;;g9r1;b4p-red11;12.03.2008;End of Exp.;;FALSE
+r3y15;ZF;M;30.12.2007;5;;g9r1;b4p-red11;28.05.2008;End of Exp.;;FALSE
+r3y16;ZF;F;30.12.2007;5;;g9r1;b4p-red11;09.06.2008;NE;;FALSE
+r3y17;ZF;F;30.12.2007;5;;g9r1;b4p-red11;21.08.2008;NE;euthanized;FALSE
+r3y18;ZF;F;30.12.2007;3;;g5r1;purple13;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+r3y19;ZF;M;30.12.2007;3;;g5r1;purple13;02.04.2008;End of Exp.;;FALSE
+r3y2;BF;F;01.01.2007;0;A-O;;;;;;FALSE
+r3y20;ZF;M;30.12.2007;3;;g5r1;purple13;16.04.2008;End of Exp.;;FALSE
+r3y3;BF;M;01.01.2007;0;A-O;;;;;didn't want to sing in E4.;FALSE
+r3y4;BF;F;01.01.2007;0;A-O;;;;;;FALSE
+r3y5;BF;F;01.01.2007;0;?;;;;;Not found in cage A on 25 Aug., 2009 - Janie.;FALSE
+r3y6;BF;M;01.01.2007;0;A-O;;;;;;FALSE
+r3y7;BF;M;01.01.2007;0;A-O;;;;;;FALSE
+r3y8;BF;M;01.01.2007;0;A-O;;;;;;FALSE
+r3y9;BF;F;01.01.2007;0;?;;;;;Not found in cage A on 25 Aug., 2009 - Janie.;FALSE
+r4k-sk;ZF;M;20.10.2005;0;;silverblack;;14.06.2006;End of Exp.;The Stim. Electrodes detached from skull during exp.;FALSE
+r4o14;BF;F;01.01.2008;0;A-O;;;;;;FALSE
+r4o9;BF;F;01.01.2008;0;A-O;;;;;;FALSE
+r4o-p11k;ZF;F;20.04.2006;4;;p11k-ch900;g16k;11.08.2006;End of Exp.;;FALSE
+r4p1;ZF;F;08.05.2008;4;;g12r2;p10r2;21.08.2008;NE;euthanized;FALSE
+r4p2;ZF;M;08.05.2008;4;;g12r2;p10r2;;;missing;FALSE
+r4p3;ZF;M;08.05.2008;4;;g12r2;p10r2;17.09.2008;End of Exp.;;FALSE
+r4p4;ZF;F;08.05.2008;4;;g12r2;p10r2;21.08.2008;NE;euthanized;FALSE
+r4p5;ZF;M;08.05.2008;4;;g12r2;p10r2;02.09.2008;End of Exp.;;FALSE
+r4p-orange3;ZF;F;23.12.2006;2;;orange3;red5;29.03.2007;End of Exp.;;FALSE
+r4p-r9k;ZF;F;15.12.2006;0;;r9k-s17;p8k;25.06.2009;NE;not in KU 01.11.2007. Not found, presumed dead. (-janie, 25.june.2009).;FALSE
+r4r12;ZF;F;20.05.2007;1;;r3p-r19o;r16o-r11;24.07.2007;Given away;Given away to Johanna;FALSE
+r4r13;ZF;F;09.05.2007;4;;p14k-p2;purple8;24.07.2007;Given away;Given away to Johanna;FALSE
+r4r14;ZF;F;09.05.2007;4;;p14k-p2;purple8;24.07.2007;Given away;Given away to Johanna;FALSE
+r4r15;ZF;F;09.05.2007;4;;p14k-p2;purple8;17.07.2007;End of Exp.;;FALSE
+r4s1;ZF;F;24.11.2007;5;;g7r1;orange16;21.08.2008;NE;euthanized;FALSE
+r4s10;ZF;M;02.12.2007;6;;g8r1;b7br-b3k;02.04.2008;End of Exp.;;FALSE
+r4s11;ZF;M;02.12.2007;4;;y5o-s3k;purple17;17.07.2008;End of Exp.;;FALSE
+r4s12;ZF;M;02.12.2007;4;;y5o-s3k;purple17;29.02.2008;End of Exp.;;FALSE
+r4s13;ZF;M;02.12.2007;4;;y5o-s3k;purple17;10.06.2008;NE;found dead in ISO chamber;FALSE
+r4s14;ZF;M;02.12.2007;4;;y5o-s3k;purple17;;;missing;FALSE
+r4s15;ZF;M;02.12.2007;4;;y5o-s3k;purple17;29.02.2008;;;FALSE
+r4s16;ZF;;28.03.2008;3;;g5r1;purple13;03.06.2008;End of Exp.;;FALSE
+r4s17;;M;28.03.2008;3;;g5r1;;05.06.2008;End of Exp.;;FALSE
+r4s18;ZF;;28.03.2008;3;;g5r1;purple13;12.06.2008;End of Exp.;;FALSE
+r4s19;ZF;F;18.03.2008;7;;k7r1;r14w-silver17;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+r4s2;ZF;F;24.11.2007;5;;g7r1;orange16;;;missing;FALSE
+r4s20;ZF;F;18.03.2008;7;;k7r1;r14w-silver17;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+r4s4;ZF;M;02.12.2007;6;;g8r1;b7br-b3k;26.03.2007;End of Exp.;;FALSE
+r4s5;ZF;M;02.12.2007;6;;g8r1;b7br-b3k;13.05.2008;End of Exp.;;FALSE
+r4s6;ZF;M;02.12.2007;6;;g8r1;b7br-b3k;14.06.2008;Surgery;died after 3rd injection of urethane;FALSE
+r4s7;ZF;M;02.12.2007;6;;g8r1;b7br-b3k;16.04.2008;End of Exp.;;FALSE
+r4s8;ZF;M;02.12.2007;6;;g8r1;b7br-b3k;03.01.2008;End of Exp.;;FALSE
+r4s9;ZF;F;02.12.2007;6;;g8r1;b7br-b3k;27.05.2008;End of Exp.;;FALSE
+r4y1;ZF;M;08.04.2008;3;;g9r1;b4p-red11;24.07.2008;End of Exp.;;FALSE
+r4y10;ZF;M;08.05.2008;5;;g5r1;purple13;08.09.2008;End of Exp.;;FALSE
+r4y11;ZF;F;29.05.2008;3;;p16p-r11;green10;21.08.2008;NE;euthanized;FALSE
+r4y12;ZF;F;26.05.2008;2;;g8r2;b11r2;21.08.2008;NE;euthanized;FALSE
+r4y13;ZF;F;26.05.2008;2;;g8r2;b11r2;21.08.2008;NE;euthanized;FALSE
+r4y14;ZF;M;26.05.2008;2;;g8r2;b11r2;14.08.2008;End of Exp.;;FALSE
+r4y15;ZF;F;26.05.2008;2;;g8r2;b11r2;21.08.2008;NE;euthanized;FALSE
+r4y16;ZF;F;27.05.2008;2;;o1r1;r7g-yellow8;21.08.2008;NE;euthanized;FALSE
+r4y17;ZF;F;27.05.2008;2;;o1r1;r7g-yellow8;21.08.2008;NE;euthanized;FALSE
+r4y18;ZF;F;27.05.2008;2;;o1r1;r7g-yellow8;21.08.2008;NE;euthanized;FALSE
+r4y19;ZF;F;27.05.2008;2;;o1r1;r7g-yellow8;21.08.2008;NE;euthanized;FALSE
+r4y2;ZF;F;08.04.2008;3;;g9r1;b4p-red11;08.07.2008;NE;3ul X, 3ul K, dead after 5 hours;FALSE
+r4y4;BF;;09.03.2008;0;;r3y12;r3y10;27.04.2010;NE;;FALSE
+r4y5;ZF;F;16.05.2008;1;;r2s4;y8o-r16;21.08.2008;NE;euthanized;FALSE
+r4y6;ZF;M;08.05.2008;5;;g5r1;purple13;27.09.2008;End of Exp.;;FALSE
+r4y7;ZF;M;08.05.2008;5;;g5r1;purple13;01.09.2008;End of Exp.;;FALSE
+r4y8;ZF;M;08.05.2008;5;;g5r1;purple13;22.08.2008;End of Exp.;;FALSE
+r4y9;ZF;F;08.05.2008;5;;g5r1;purple13;21.08.2008;NE;euthanized;FALSE
+r5ch8587;ZF;M;07.08.2008;0;;;;;Surgery;bought from qualipet on 07.11.08. birthday estimated (minimum age).;FALSE
+r5o-s2;ZF;M;15.04.2006;0;;silver2;p6k-y8;10.05.2007;End of Exp.;;FALSE
+r5p-r9k;ZF;F;15.12.2006;0;;r9k-s17;p8k;17.04.2007;Perished;;FALSE
+r5p-red11;ZF;M;01.01.2007;5;;red11;purple16;03.08.2007;End of Exp.;;FALSE
+r5r16;ZF;M;09.05.2007;4;;p14k-p2;purple8;28.05.2008;End of Exp.;;FALSE
+r5r17;ZF;F;09.05.2007;4;;p14k-p2;purple8;24.07.2007;Given away;Given away to Johanna;FALSE
+r5r18;ZF;M;09.05.2007;4;;p14k-p2;purple8;19.10.2007;End of Exp.;;FALSE
+r5r19;ZF;M;27.04.2007;7;;silver15;p6k-y8;27.08.2007;End of Exp.;;FALSE
+r5s1;ZF;F;10.09.2008;4;O3;g13p-purple20;p14b-r16;;;;FALSE
+r5s10;ZF;M;17.09.2008;3;;s3k-y8;p10r2;28.11.2008;End of Exp.;;FALSE
+r5s11;ZF;M;17.09.2008;3;;s3k-y8;p10r2;28.11.2008;End of Exp.;;FALSE
+r5s12;ZF;M;17.09.2008;3;;s3k-y8;p10r2;28.07.2009;End of Exp.;Reserved for Janie;FALSE
+r5s13;ZF;F;17.09.2008;3;;s3k-y8;p10r2;22.11.2009;End of Exp.;;FALSE
+r5s14;ZF;M;17.09.2008;3;;s3k-y8;p10r2;14.07.2009;End of Exp.;This bird was found in KM. Another bird, which was missing a ring was found in 2M1 - it was assumed that that bird was this r5s14, which was incorrect. Therefore, this bird remains r5s14, wheras the other bird was reringed and renamed..;FALSE
+r5s15;ZF;F;18.09.2008;4;;b11r3;o8r3;09.01.2009;NE;;FALSE
+r5s17;ZF;F;09.10.2008;0;;k2r2;p6r2;09.01.2009;NE;;FALSE
+r5s19;ZF;F;02.09.2008;0;;g8r1;k10r2;13.11.2008;End of Exp.;;FALSE
+r5s2;ZF;F;10.09.2008;4;;g13p-purple20;p14b-r16;22.08.2009;NE;;FALSE
+r5s20;ZF;F;02.09.2008;0;R5;g8r1;k10r2;;;janie;TRUE
+r5s3;ZF;F;10.09.2008;4;;g13p-purple20;p14b-r16;18.11.2008;End of Exp.;;FALSE
+r5s4;ZF;F;10.09.2008;4;;g13p-purple20;p14b-r16;11.04.2010;NE;Breeder.;FALSE
+r5s5;ZF;F;10.09.2008;4;;b7r3;p20r3;15.01.2009;NE;;FALSE
+r5s6;ZF;M;10.09.2008;4;;b7r3;p20r3;22.11.2008;End of Exp.;;FALSE
+r5s7;ZF;F;10.09.2008;4;;b7r3;p20r3;20.11.2008;End of Exp.;;FALSE
+r5s8;ZF;M;10.09.2008;4;;b7r3;p20r3;11.12.2008;End of Exp.;;FALSE
+r5s9;ZF;M;10.09.2008;4;;b7r3;p20r3;12.01.2009;End of Exp.;;FALSE
+r5-stumpy;ZF;M;07.08.2008;0;;;;21.11.2008;End of Exp.;bought from qualipet on 07.11.08. birthday estimated (minimum age). Lost right leg (before we bought it);FALSE
+r5y1;ZF;M;07.08.2008;0;;;;25.11.2008;End of Exp.;bought from qualipet on 07.11.08. birthday estimated (minimum age).;FALSE
+r5y10;ZF;M;07.08.2008;0;;;;07.12.2008;End of Exp.;bought from qualipet on 07.11.08. birthday estimated (minimum age).;FALSE
+r5y11;ZF;M;07.08.2008;0;;;;31.08.2009;End of Exp.;bought from qualipet on 07.11.08. birthday estimated (minimum age).;FALSE
+r5y13;ZF;M;07.08.2008;0;;;;12.11.2008;End of Exp.;bought from qualipet on 07.11.08. birthday estimated (minimum age).;FALSE
+r5y14;ZF;M;07.08.2008;0;U6;;;;;Breeder. bought from qualipet on 07.11.08. birthday estimated (minimum age).;TRUE
+r5y15;ZF;M;07.08.2008;0;O3;;;;;bought from qualipet on 07.11.08. birthday estimated (minimum age).;FALSE
+r5y16;ZF;M;07.08.2008;0;;;;25.06.2009;NE;bought from qualipet on 07.11.08. birthday estimated (minimum age). may have lost non r5 ring. Not found in KM on 20 June 2009. - Janie. Not found, presumed dead. (-janie, 25.june.2009).;FALSE
+r5y17;ZF;F;18.09.2008;4;;b11r3;o8r3;20.03.2009;NE;;FALSE
+r5y18;ZF;F;18.09.2008;4;KU;b11r3;o8r3;;;;FALSE
+r5y19;ZF;M;07.08.2008;0;;;;14.01.2009;Surgery;bought from qualipet on 07.11.08. birthday estimated (minimum age).;FALSE
+r5y2;ZF;M;07.08.2008;0;;;;14.11.2008;Surgery;bought from qualipet on 07.11.08. birthday estimated (minimum age).;FALSE
+r5y20;ZF;F;17.06.2008;2;;k7r1;r14w-silver17;21.08.2008;NE;euthanized;FALSE
+r5y3;ZF;M;07.09.2008;0;;;;21.12.2008;NE;bought from qualipet on 07.11.08. birthday estimated (minimum age).;FALSE
+r5y4;ZF;M;07.08.2008;0;;;;29.11.2008;End of Exp.;bought from qualipet on 07.11.08. birthday estimated (minimum age).;FALSE
+r5y5;ZF;M;07.08.2008;0;;;;01.12.2008;Perished;bought from qualipet on 07.11.08. birthday estimated (minimum age).;FALSE
+r5y6;ZF;M;07.08.2008;0;;;;02.12.2008;End of Exp.;bought from qualipet on 07.11.08. birthday estimated (minimum age).;FALSE
+r5y7;ZF;M;07.08.2008;0;;;;12.12.2008;End of Exp.;bought from qualipet on 07.11.08. birthday estimated (minimum age).;FALSE
+r5y8;ZF;M;07.08.2008;0;;;;03.12.2008;Surgery;bought from qualipet on 07.11.08. birthday estimated (minimum age).;FALSE
+r5y9;ZF;M;;0;;;;20.07.2009;End of Exp.;bought from qualipet on 07.11.08. birthday estimated (minimum age).;FALSE
+r6o-s2;ZF;M;15.04.2006;0;;silver2;p6k-y8;06.06.2007;End of Exp.;;FALSE
+r6p-r9k;ZF;M;15.12.2006;0;;r9k-s17;p8k;25.02.2008;End of Exp.;;FALSE
+r6r20;ZF;F;27.04.2007;7;;silver15;p6k-y8;24.07.2007;Given away;Given away to Johanna;FALSE
+r6r7;ZF;F;27.04.2007;7;;silver15;p6k-y8;24.07.2007;Given away;Given away to Johanna;FALSE
+r6r8;ZF;M;27.04.2007;7;;silver15;p6k-y8;23.07.2007;Given away;given to johanna;FALSE
+r6r9;ZF;F;26.04.2007;1;;s20o-yellow20;b4p-red11;24.07.2007;Given away;partly albino, Given away to Johanna;FALSE
+r6s1;ZF;F;17.10.2008;1;;g6r1;p9r2;09.01.2009;NE;;FALSE
+r6s10;ZF;F;01.12.2008;5;O2;b3r5;o7r5;;;;FALSE
+r6s11;ZF;F;01.12.2008;5;;b3r5;o7r5;20.03.2009;NE;;FALSE
+r6s12;ZF;F;01.12.2008;5;;b3r5;o7r5;12.11.2009;End of Exp.;;FALSE
+r6s13;ZF;F;01.12.2008;5;2U4;b9r5;o8p-y8;;;;FALSE
+r6s2;ZF;F;18.10.2008;1;;g6r1;p9r2;09.01.2009;NE;;FALSE
+r6s3;ZF;M;05.12.2008;2;;b10r5;r2b-o3;29.04.2009;End of Exp.;;FALSE
+r6s4;ZF;F;05.12.2008;2;;b10r5;r2b-o3;04.12.2009;End of Exp.;;FALSE
+r6s5;ZF;M;05.12.2008;;2O3;b10r5;r2b-o3;;;Breeder - couple with female o6r7. update: good breeder also with o19r5.;TRUE
+r6s6;ZF;F;18.11.2008;5;;p1r5;p15r4;20.03.2009;NE;;FALSE
+r6s7;ZF;F;18.11.2008;5;;p1r5;p15r4;20.03.2009;NE;;FALSE
+r6s8;ZF;F;18.11.2008;5;;p1r5;p15r4;24.06.2009;End of Exp.;;FALSE
+r6s9;ZF;F;01.12.2008;5;;b3r5;o7r5;20.03.2009;NE;;FALSE
+r6y1;ZF;M;02.10.2008;6;;b13r3;p3o-sb;11.12.2008;End of Exp.;;FALSE
+r6y10;ZF;M;04.11.2008;5;;s17o;r7g-yellow8;28.07.2009;End of Exp.;;FALSE
+r6y11;ZF;M;04.11.2008;5;;s17o;r7g-yellow8;30.06.2009;End of Exp.;Reserved for Janie;FALSE
+r6y12;ZF;M;04.11.2008;5;;s17o;r7g-yellow8;25.06.2009;End of Exp.;Reserved for Janie;FALSE
+r6y13;ZF;F;31.10.2008;3;;r011;green10;09.01.2009;NE;;FALSE
+r6y14;ZF;F;19.11.2008;4;;p2r5;r2y1;25.06.2009;NE;I can't find this bird supposedly in 2M2. (13.01.2009 Claude). Found in ZZ on Feb 22 2009. White female.;FALSE
+r6y15;ZF;F;03.11.2008;0;;k13r2;red5;09.01.2009;NE;;FALSE
+r6y16;ZF;M;19.11.2008;4;;p2r5;r2y1;19.05.2009;End of Exp.;bird is alive again.;FALSE
+r6y17;ZF;F;31.10.2008;3;;r011;green10;09.01.2009;NE;;FALSE
+r6y18;ZF;F;31.10.2008;3;;r011;green10;25.02.2009;;Used to test Urethane.;FALSE
+r6y19;ZF;M;31.10.2008;3;;r011;green10;19.05.2009;End of Exp.;;FALSE
+r6y2;ZF;M;28.10.2008;4;;g4r1;b9r4;15.04.2009;End of Exp.;;FALSE
+r6y3;ZF;M;28.10.2008;0;;g4r1;b9r4;20.05.2009;End of Exp.;;FALSE
+r6y4;ZF;F;28.10.2008;4;;g4r1;b9r4;;;bird is missing in cage on June 15, 2009, michael;FALSE
+r6y5;ZF;M;29.10.2008;4;;r12p-y7o;green16;09.03.2009;End of Exp.;origin unclear due to cage tunneling;FALSE
+r6y6;ZF;F;29.10.2008;4;;r12p-y7o;green16;09.01.2009;NE;origin unclear due to cage tunneling;FALSE
+r6y7;ZF;M;29.10.2008;4;;r12p-y7o;green16;25.03.2009;End of Exp.;origin unclear due to cage tunneling;FALSE
+r6y8;ZF;M;29.10.2008;4;;r12p-y7o;green16;12.05.2009;End of Exp.;;FALSE
+r6y9;ZF;M;30.10.2008;3;;r3s3;k12r2;30.04.2009;End of Exp.;;FALSE
+r7g-yellow8;ZF;F;13.12.2006;5;;yellow8;g5k;06.11.2009;NE;green ring is missing.This bird's offspring were WHITE!!! Don't use  for breeding unless necessary.;FALSE
+r7o-p11k;ZF;F;20.04.2006;4;;p11k-ch900;g16k;16.02.2007;Given away;Given Away to Marianne;FALSE
+r7p1;ZF;M;10.01.2009;3;;b10r5;r2b-o3;15.06.2010;End of Exp.;;FALSE
+r7p2;ZF;F;30.01.2009;5;;b3r5;o7r5;20.03.2009;NE;;FALSE
+r7p-r9k;ZF;F;15.12.2006;0;;r9k-s17;p8k;24.07.2007;Given away;Given away to Johanna;FALSE
+r7r10;ZF;M;26.04.2007;1;;s20o-yellow20;b4p-red11;01.11.2007;Given away;Given away to Johanna;FALSE
+r7r11;ZF;F;26.04.2007;1;;s20o-yellow20;b4p-red11;24.07.2007;Given away;Given away to Johanna;FALSE
+r7s1;ZF;M;11.12.2008;3;;g2r1;r16o-r11;14.04.2009;End of Exp.;;FALSE
+r7s10;ZF;F;12.12.2008;3;;p4r5;o1r5;20.03.2009;NE;;FALSE
+r7s11;ZF;;15.12.2008;0;;o1r1;k5r2;11.03.2009;End of Exp.;;FALSE
+r7s14;BF;;28.10.2008;7;A-O;;;;;;FALSE
+r7s15;BF;;28.10.2008;7;A-O;;;;;;FALSE
+r7s16;BF;;28.10.2008;7;A-O;;;;;;FALSE
+r7s17;BF;;28.10.2008;7;A-O;;;;;;FALSE
+r7s18;ZF;M;05.12.2008;5;;p5r5;r2s18;06.02.2009;End of Exp.;;FALSE
+r7s2;ZF;M;11.12.2008;3;;g2r1;r16o-r11;28.07.2009;End of Exp.;;FALSE
+r7s20;ZF;;05.12.2008;5;;p5r5;r2s18;25.03.2009;End of Exp.;;FALSE
+r7s3;ZF;M;11.12.2008;3;;g2r1;r16o-r11;06.08.2009;End of Exp.;LOST S3 RING. (20 June 2009). Do not use for experiment, use as tutor!;FALSE
+r7s4;ZF;M;11.12.2008;f;;g2r1;r16o-r11;27.05.2009;End of Exp.;;FALSE
+r7s5;ZF;M;19.12.2008;6;;y12red;p12r4;08.08.2009;End of Exp.;;FALSE
+r7s6;ZF;F;19.12.2008;6;;y12red;p12r4;08.03.2010;NE;;FALSE
+r7s7;ZF;M;19.12.2008;6;;y12red;p12r4;07.11.2009;End of Exp.;reserved for michael;TRUE
+r7s8;ZF;F;19.12.2008;6;;y12red;p12r4;20.03.2009;NE;;FALSE
+r7y1;ZF;F;17.02.2009;1;;r5y19;o19r5;15.09.2010;NE;;FALSE
+r7y10;ZF;F;02.04.2009;5;;r5y19;o19r5;15.05.2009;End of Exp.;;FALSE
+r7y11;ZF;M;02.04.2009;5;R1;r5y19;o19r5;;;Bird was isolated as juvenile, Alexei, 17.06.2009. This bird has an abnormal song system - USE in experiments AT YOUR OWN RISK!!!;FALSE
+r7y12;ZF;F;03.04.2009;5;;g13p-purple20;r6s10;19.06.2009;End of Exp.;;FALSE
+r7y13;ZF;F;03.04.2009;5;;g13p-purple20;r6s10;19.06.2009;End of Exp.;;FALSE
+r7y14;ZF;F;11.04.2009;4;;y16p-s2;o8r5;19.06.2009;End of Exp.;;FALSE
+r7y15;ZF;F;11.04.2009;4;;y16p-s2;o8r5;19.06.2009;End of Exp.;;FALSE
+r7y16;ZF;F;11.04.2009;4;;y16p-s2;o8r5;19.06.2009;End of Exp.;;FALSE
+r7y17;ZF;F;11.04.2009;4;?;y16p-s2;o8r5;;;missing in cage on november 6th, 2009 - michael;FALSE
+r7y18;ZF;M;06.04.2009;1;;r5y11;r5s13;17.05.2009;Perished;Overheating due to airpump problem;FALSE
+r7y19;ZF;M;06.04.2009;0;;r5y11;r5s13;21.07.2009;Surgery;Isolated as juvenile, Alexei, 17.06.2009. This bird has an abnormal song system - USE in experiments AT YOUR OWN RISK!!!;FALSE
+r7y2;ZF;F;17.02.2009;1;;r5y19;o19r5;12.11.2009;End of Exp.;;FALSE
+r7y20;ZF;;21.04.2009;3;;b8p-s14k;p2r6;21.07.2009;Surgery;This bird was isolated as a juvenile.This bird has an abnormal song system - USE in experiments AT YOUR OWN RISK!!!;FALSE
+r7y3;ZF;F;30.01.2009;5;;b3r5;o7r5;24.06.2009;End of Exp.;;FALSE
+r7y4;ZF;F;30.01.2009;5;;b3r5;o7r5;02.06.2010;NE;;FALSE
+r7y5;ZF;M;02.04.2009;5;;r5y19;o19r5;07.09.2010;End of Exp.;Isolated as juvenile, has v simple song (recorded).;FALSE
+r7y7;ZF;M;02.04.2009;5;;r5y19;o19r5;30.04.2010;End of Exp.;Isolated as juvenile, has v simple song (recorded).;FALSE
+r7y8;ZF;M;02.04.2009;5;;r5y19;o19r5;20.07.2009;NE;;FALSE
+r8br-sb;ZF;F;29.03.2007;5;;silverblack;blue3;01.11.2007;Given away;Given away to Johanna;FALSE
+r8o-s2;ZF;F;16.04.2006;0;;silver2;p6k-y8;06.10.2006;NE;;FALSE
+r8p-s19o;ZF;F;29.01.2007;0;;s19o;green10;16.09.2010;NE;;FALSE
+r8p-yellow20;ZF;F;01.01.2007;6;;yellow20;blue2;23.07.2007;End of Exp.;;FALSE
+r8s1;ZF;F;17.03.2009;4;;s17o;r7g-yellow8;24.06.2009;End of Exp.;;FALSE
+r8s10;ZF;M;30.04.2009;0;;;;01.09.2009;End of Exp.;Bought from Qualipet on 31 Aug. 2009. Estimated age.;FALSE
+r8s15;ZF;M;21.08.2009;4;;k13r2;o2r5;20.11.2009;End of Exp.;used to be JU2a;FALSE
+r8s16;ZF;F;21.08.2009;4;;k13r2;o2r5;31.01.2010;Perished;;FALSE
+r8s17;ZF;F;21.08.2009;4;;k13r2;o2r5;15.09.2010;NE;isolated female;FALSE
+r8s18;ZF;;07.08.2009;5;;o1r1;r2y1;06.11.2009;NE;White;FALSE
+r8s19;ZF;F;07.08.2009;5;;o1r1;r2y1;22.11.2009;End of Exp.;;FALSE
+r8s2;ZF;F;17.03.2009;4;;s17o;r7g-yellow8;17.06.2009;End of Exp.;Mostly white bird, not 100% sure about sex;FALSE
+r8s20;ZF;F;07.08.2009;5;;o1r1;r2y1;06.11.2009;NE;;FALSE
+r8s3;ZF;F;17.03.2009;4;;s17o;r7g-yellow8;17.06.2009;End of Exp.;;FALSE
+r8s4;ZF;F;17.03.2009;4;;s17o;r7g-yellow8;22.05.2009;NE;white bird, was pecked, killed it.;FALSE
+r8s5;ZF;M;21.03.2009;0;;b13r3;b11r6;17.08.2009;End of Exp.;bird did not sing in isochamber;FALSE
+r8s6;ZF;F;03.07.2009;3;?;r011;o8r5;;;missing in cage on november 6th, 2009 - michael;FALSE
+r8s7;ZF;F;22.06.2009;4;;b14r3;r6s13;02.06.2010;NE;;FALSE
+r8s8;ZF;F;01.07.2009;3;;k13r2;o2r5;29.11.2010;NE;white chicks;TRUE
+r8s9;ZF;M;01.07.2009;3;;k13r2;o2r5;10.11.2009;End of Exp.;michael, 8.11.09 : song recorded, tplsm;TRUE
+r8y1;ZF;M;12.06.2009;4;;g12r2;g4r7;07.11.2009;End of Exp.;;FALSE
+r8y10;ZF;F;12.06.2009;4;?;r5y15;o12r3;;;missing in cage on november 6th, 2009 - michael;FALSE
+r8y11;ZF;M;12.06.2009;4;;r5y15;o12r3;;;;FALSE
+r8y12;ZF;F;12.06.2009;4;;g12r2;g4r7;22.11.2009;End of Exp.;;FALSE
+r8y12-BF;BF;M;01.01.2008;0;A-O;;;;;renamed, because ZF with same rings (florian, 16.8.2009);FALSE
+r8y14;ZF;M;15.07.2009;3;;p2s2;b7br-b3k;27.08.2009;Perished;;FALSE
+r8y15;ZF;F;15.07.2009;3;;p2s2;b7br-b3k;15.09.2010;NE;isolated female;FALSE
+r8y16;ZF;F;15.07.2009;3;;p2s2;b7br-b3k;15.09.2010;NE;isolated female;FALSE
+r8y17;ZF;M;01.07.2009;4;;b14r4;o19r5;09.11.2009;End of Exp.;;FALSE
+r8y18;ZF;F;01.07.2009;4;;b14r4;o19r5;29.11.2010;NE;breeder - couple with o11r10.;TRUE
+r8y19;ZF;F;03.07.2009;3;KU;r011;o8r5;;;;FALSE
+r8y2;ZF;M;12.06.2009;4;;g12r2;g4r7;25.07.2009;Perished;found dead in cage;FALSE
+r8y20;ZF;F;03.07.2009;3;;r011;o8r5;08.03.2010;NE;;FALSE
+r8y3;ZF;M;12.06.2009;4;;g12r2;g4r7;30.07.2009;Perished;found dead in cage;FALSE
+r8y4;ZF;M;29.06.2009;3;;o1r1;r2y1;26.10.2009;Perished;;FALSE
+r8y5;ZF;F;02.06.2009;3;;g13r8;r2s20;22.08.2009;NE;;FALSE
+r8y6;ZF;F;02.06.2009;3;;g13r8;r2s20;22.08.2009;NE;;FALSE
+r8y7;ZF;F;02.06.2009;3;;g13r8;r2s20;22.08.2009;NE;;FALSE
+r8y8;ZF;F;12.06.2009;4;;r5y15;o12r3;22.08.2009;NE;;FALSE
+r8y9;ZF;M;12.06.2009;4;;r5y15;o12r3;19.06.2010;Surgery;;FALSE
+r9b-o3;ZF;M;10.10.2006;2;;orange3;red5;31.01.2007;End of Exp.;Tracer Inj;FALSE
+r9g-red11;ZF;F;01.01.2007;5;;red11;purple16;20.04.2007;End of Exp.;;FALSE
+r9k-s17;ZF;M;10.01.2006;0;;;;27.08.2007;Perished;;FALSE
+r9o-s2;ZF;F;16.04.2006;0;;silver2;p6k-y8;06.10.2006;NE;Used as show girl;FALSE
+r9p-s19o;ZF;F;29.01.2007;0;;s19o;green10;01.11.2007;Given away;Given away to Johanna;FALSE
+red11;ZF;M;;0;;;;09.07.2009;End of Exp.;One of the offspring when together p3o-sb had white feathers, don't use again if not needed;FALSE
+red14;ZF;M;01.03.2005;0;;;;13.10.2007;End of Exp.;;FALSE
+red16;ZF;M;01.05.2005;0;;;;27.10.2008;End of Exp.;Neezer estimated birthday;FALSE
+red2;ZF;F;;0;;;;01.11.2007;Given away;Given away to Johanna;FALSE
+red5;ZF;F;;0;;;;17.06.2009;End of Exp.;;FALSE
+R-G-K209-91;BF;F;01.01.2007;0;A-O;;;;;;FALSE
+s10k-sb;ZF;F;13.04.2006;0;;silverblack;purple17;06.10.2006;NE;;FALSE
+s10o-sb;ZF;M;07.08.2006;7;;silverblack;purple17;02.11.2006;End of Exp.;;FALSE
+s10p-yellow8;ZF;M;13.12.2006;5;;yellow8;g5k;12.03.2007;End of Exp.;;FALSE
+s10r3;ZF;M;08.02.2008;1;;k7r1;r14w-silver17;04.06.2008;End of Exp.;Right-Cochlear removed by Claude.;FALSE
+s10s20-y7o;ZF;M;25.04.2007;5;;y7o-r16;r11o-o4k;07.08.2007;End of Exp.;;FALSE
+s11k-sg8;ZF;F;03.03.2006;0;;silvergreen8;purple5;16.06.2006;NE;"-> abgegeben an Z""uchter";FALSE
+s11o-sb;ZF;F;07.08.2006;7;KU;silverblack;purple17;;;;FALSE
+s11p-yellow8;ZF;F;13.12.2006;5;;yellow8;g5k;13.09.2008;End of Exp.;;FALSE
+s11r3;ZF;;27.01.2008;5;;silver15;o8p-y8;24.02.2008;End of Exp.;;FALSE
+s12k-y6;ZF;F;27.02.2006;0;;yellow6;green10;22.11.2006;NE;Bird broke a leg.;FALSE
+s12o-sb;ZF;F;07.08.2006;7;;silverblack;purple17;16.02.2007;Given away;Given Away to Marianne;FALSE
+s12p-yellow8;ZF;M;13.12.2006;5;;yellow8;g5k;06.03.2007;End of Exp.;;FALSE
+s13k-y6;ZF;F;27.02.2006;0;;yellow6;green10;06.10.2006;NE;;FALSE
+s13o-sb;ZF;M;07.08.2006;7;;silverblack;purple17;17.11.2006;End of Exp.;;FALSE
+s13p-yellow8;ZF;F;13.12.2006;5;;yellow8;g5k;21.08.2008;NE;euthanized;FALSE
+s14k-r16;ZF;M;08.04.2006;5;;red16;green12;01.09.2008;End of Exp.;Florian. Coupled by Claude.;FALSE
+s14o-sb;ZF;F;07.08.2006;7;;silverblack;purple17;16.02.2007;Given away;Given Away to Marianne;FALSE
+s14p-yellow8;ZF;M;13.12.2006;5;;yellow8;g5k;06.03.2007;End of Exp.;;FALSE
+s15g-yellow20;ZF;F;01.01.2007;6;;yellow20;blue2;06.06.2007;End of Exp.;;FALSE
+s15k-r16;ZF;M;03.04.2006;5;;red16;green12;03.08.2006;End of Exp.;;FALSE
+s15o;ZF;M;;0;;;;12.04.2007;End of Exp.;;FALSE
+s16k-p20;ZF;M;19.03.2006;3;;purple20;purple13;07.07.2006;End of Exp.;;FALSE
+s16o;ZF;M;;0;;;;12.12.2006;End of Exp.;Reserved by Claude. Strange song (2 Syllables).;FALSE
+s16p-yellow20;ZF;M;01.01.2007;6;;yellow20;blue2;13.04.2007;Surgery;;FALSE
+s17k-r11;ZF;F;03.04.2006;0;;red11;purple8;16.02.2007;Given away;Given Away to Marianne;FALSE
+s17o;ZF;M;;0;;;;25.06.2009;NE;This bird's offspring were WHITE!!! Don't use  for breeding unless necessary. Not found in KM on 20 June 2009. - Janie. Not found, presumed dead. (-janie, 25.june.2009).;FALSE
+s17p-yellow20;ZF;F;01.01.2007;6;;yellow20;blue2;05.07.2007;End of Exp.;;FALSE
+s18k-r11;ZF;F;07.04.2006;0;;red11;purple8;16.06.2006;NE;"-> abgegeben an Z""uchter";FALSE
+s18o;ZF;M;;0;;;;29.05.2007;End of Exp.;;FALSE
+s18o-y20;ZF;M;01.01.2007;6;;yellow20;blue2;02.04.2007;End of Exp.;;FALSE
+s18p-y7o;ZF;F;13.03.2007;0;;y7o-r16;r11o-o4k;24.07.2007;Given away;Given away to Johanna;FALSE
+s18r3;ZF;;14.02.2008;4;;b8o-p11k;s13p-yellow8;06.03.2008;Perished;;FALSE
+s19k-r11;ZF;F;07.04.2006;0;;red11;purple8;16.06.2006;NE;"-> abgegeben an Z""uchter";FALSE
+s19o;ZF;M;;0;;;;02.04.2007;NE;Killed bird because of a large (ca. 5 mm diam) cyst below the right eye.;FALSE
+s19p-y7o;ZF;F;13.03.2007;0;;y7o-r16;r11o-o4k;24.07.2007;Given away;Given away to Johanna;FALSE
+s19r12;ZF;F;13.03.2010;5;;p2r5;b12r8;07.07.2010;NE;bird given away to Virginia Meskenaite, Anatomisches Institut;FALSE
+s19r3;ZF;M;14.02.2008;4;R8;b8o-p11k;s13p-yellow8;;;Right-Cochlear removed by Claude.;FALSE
+s1b-y8;ZF;M;04.09.2006;4;;yellow8;g5k;18.12.2006;End of Exp.;;FALSE
+s1o-r16;ZF;M;24.06.2006;1;;red16;green12;27.11.2006;End of Exp.;left HVC burned. @67phd;FALSE
+s1p-y20;ZF;F;15.02.2007;2;;yellow20;blue2;01.11.2007;Given away;Given away to Johanna;FALSE
+s1s11-g13p;ZF;F;21.04.2007;5;;g13p-purple20;s13p-yellow8;24.07.2007;Given away;Given away to Johanna;FALSE
+s20k-sg8;ZF;F;03.03.2006;0;;silvergreen8;purple5;11.05.2007;End of Exp.;"Probably lost ring ""s20"". Now only has a black ring.";FALSE
+s20o-ch900;ZF;F;24.03.2006;0;;goldch900;silver1;16.02.2007;Given away;Given away to Marianne;FALSE
+s20o-yellow20;ZF;M;01.01.2007;6;;yellow20;blue2;19.05.2008;End of Exp.;;FALSE
+s20p-s3k;ZF;M;19.03.2007;2;;s3k-y8;k9k-ch900;14.08.2007;End of Exp.;;FALSE
+s20r3;ZF;F;14.02.2008;4;;b8o-p11k;s13p-yellow8;22.05.2008;End of Exp.;Right-Cochlear removed by Claude.;FALSE
+s2b-y8;ZF;M;04.09.2006;4;;yellow8;g5k;13.12.2007;NE;;FALSE
+s2kk-y20;ZF;M;15.02.2007;2;;yellow20;blue2;11.06.2007;End of Exp.;has one black ring on each foot.;FALSE
+s2o-r16;ZF;M;24.06.2006;1;;red16;green12;31.10.2006;End of Exp.;;FALSE
+s2s12-sg8;ZF;F;22.04.2007;1;;silvergreen8;silver1;09.06.2008;Given away;Given away to Johanna on 09.06.08;FALSE
+s3b-y8;ZF;F;04.09.2006;4;;yellow8;g5k;16.02.2007;Given away;Given Away to Marianne;FALSE
+s3k-y8;ZF;M;14.11.2005;0;;;;31.07.2009;NE;bird found dead in KM;FALSE
+s3o-r16;ZF;M;24.06.2006;1;;red16;green12;15.09.2006;End of Exp.;;FALSE
+s3p-y20;ZF;M;15.02.2007;2;;yellow20;blue2;24.05.2007;End of Exp.;;FALSE
+s3s13-gF13p;ZF;F;21.04.2007;5;;g13p-purple20;s13p-yellow8;26.07.2007;End of Exp.;;FALSE
+s4b-y8;ZF;M;04.09.2006;4;;yellow8;g5k;11.01.2007;End of Exp.;;FALSE
+s4k;ZF;M;;0;;;;08.06.2006;End of Exp.;Place and date of birth: Q(5~8 month old since 19.01.2006);FALSE
+s4o-r16;ZF;F;27.06.2006;0;;red16;green12;05.12.2006;NE;;FALSE
+s4p-s15;ZF;;05.03.2007;3;;silver15;p6k-y8;23.04.2007;NE;dying;FALSE
+s4s14-g13p;ZF;F;21.04.2007;5;;g13p-purple20;s13p-yellow8;24.07.2007;Given away;Given away to Johanna;FALSE
+s5o-r16;ZF;F;27.06.2006;0;;red16;green12;06.10.2006;NE;;FALSE
+s5p;ZF;;13.03.2007;0;;;;23.04.2007;NE;found in M5 but most likely from M5B.;FALSE
+s5s15-y7o;ZF;;25.04.2007;5;;y7o-r16;r11o-o4k;28.09.2007;End of Exp.;;FALSE
+s5y11;BF;M;01.01.2008;0;;;;04.12.2009;End of Exp.;;FALSE
+s6k-g14x;ZF;M;22.02.2006;0;;g14k;;29.04.2006;Surgery;;FALSE
+s6o-r16;ZF;F;27.06.2006;0;;red16;green12;06.10.2006;NE;;FALSE
+s6p-s3k;ZF;M;19.03.2007;2;;s3k-y8;k9k-ch900;14.06.2007;End of Exp.;;FALSE
+s6s16-g13p;ZF;F;21.04.2007;5;;g13p-purple20;s13p-yellow8;24.07.2007;Given away;Given away to Johanna;FALSE
+s7k-b3k;ZF;M;24.02.2006;0;;b3k;blue3;10.01.2007;End of Exp.;;FALSE
+s7o-p11k;ZF;M;17.07.2006;3;;p11k-ch900;g16k;24.09.2006;End of Exp.;;FALSE
+s7p-r14;ZF;F;12.03.2007;3;;red14;r10o-o4k;24.07.2007;Given away;Given away to Johanna;FALSE
+s7s17-g13p;ZF;F;21.04.2007;5;;g13p-purple20;s13p-yellow8;24.07.2007;Given away;Given away to Johanna;FALSE
+s8k-p11k;ZF;F;03.03.2006;0;;p11k-ch900;g16k;25.06.2007;End of Exp.;;FALSE
+s8o-p11k;ZF;M;17.07.2006;3;;p11k-ch900;g16k;11.05.2007;End of Exp.;had somethimg which lookes like an epileptic seizure, when I ringed him.;FALSE
+s8p-r14;ZF;M;12.03.2007;3;;red14;r12o-o4k;23.07.2007;End of Exp.;;FALSE
+s8r3;ZF;;19.01.2008;5;;g13p-purple20;r8p-s19o;09.02.2008;End of Exp.;;FALSE
+s8s18-y7o;ZF;M;25.04.2007;5;;y7o-r16;r11o-o4k;23.07.2007;;given to johanna;FALSE
+s9k-p11k;ZF;M;02.03.2006;0;;p11k-ch900;g16k;06.06.2006;End of Exp.;;FALSE
+s9o-p11k;ZF;M;17.07.2006;3;;p11k-ch900;g16k;14.11.2006;End of Exp.;;FALSE
+s9p-r14;ZF;M;12.03.2007;3;;red14;r12o-o4k;26.07.2007;End of Exp.;;FALSE
+s9r3;ZF;;19.01.2008;5;;g13p-purple20;r8p-s19o;12.02.2008;End of Exp.;;FALSE
+s9s19-y7o;ZF;F;25.04.2007;5;;y7o-r16;r11o-o4k;24.07.2007;Given away;Given away to Johanna;FALSE
+silver1;ZF;F;;0;;;;11.08.2007;NE;injured bird.;FALSE
+silver15;ZF;M;18.04.2005;0;;;;22.09.2008;End of Exp.;;FALSE
+Silver17;ZF;M;14.04.2005;4;;;;05.06.2007;End of Exp.;father of o5k-s17 (ibutenic acid lesion) Perfusion;FALSE
+silver2;ZF;M;;0;;;;29.05.2007;End of Exp.;;FALSE
+silver5y11;BF;;;0;A-O;;;;;Found in cage A on 25 Aug, 2009 - Janie;FALSE
+silver6;ZF;M;09.12.2004;0;;;;11.06.2006;End of Exp.;;FALSE
+silverblack;ZF;M;;1;;;;01.10.2008;End of Exp.;good singer;FALSE
+silvergreen8;ZF;M;01.01.2005;0;;;;14.01.2009;End of Exp.;Researved by Claude for MMAN lesion experiment!!! (estimated birthday);FALSE
+stumpy-r8;BF;;;0;A-O;;;;;Found in cage A on 25 Aug, 2009 - Janie. This bird has only one leg.;FALSE
+tj1;ZF;;01.06.2008;6;;r3s3;k12r2;21.07.2008;End of Exp.;;FALSE
+tweak_a1;ZF;;01.01.2010;0;;g7r13;;;;;FALSE
+tweak_a2;ZF;;01.01.2010;0;;b8r15;;;;;FALSE
+tweak_a3;ZF;;01.01.2010;0;;g14r15;;;;;FALSE
+tweak_a4;ZF;;01.01.2010;0;;b20r14;;;;;FALSE
+tweak007;ZF;;10.10.2010;0;;o6r11;;;;;FALSE
+tweak1;ZF;;;0;;o2r10;;;;;FALSE
+tweak10;ZF;;13.03.2009;0;;r10y10;;;;;FALSE
+tweak11;ZF;;01.01.2006;0;;p2r10;;;;;FALSE
+tweak13;ZF;;01.01.2006;0;;o3r10;;;;;FALSE
+tweak14;ZF;;01.01.2007;0;;r11y9;;;;;FALSE
+tweak15;ZF;;01.01.2007;0;;r10y2;;;;;FALSE
+tweak16;ZF;;01.01.2007;0;;o3r8;;;;;FALSE
+tweak17;ZF;;01.01.2007;0;;g16r12;;;;;FALSE
+tweak18;ZF;;01.01.2007;0;;o4r10;;;;;FALSE
+tweak19;ZF;;01.01.2007;0;;k17r8;;;;;FALSE
+tweak2;ZF;;01.01.2006;0;;o1r10;;;;;FALSE
+tweak20;ZF;;01.01.2007;0;;r12s11;;;;;FALSE
+tweak21;ZF;;01.01.2007;0;;r12s12;;;;;FALSE
+tweak22;ZF;;01.01.2007;0;;g12r2;;;;;FALSE
+tweak24;ZF;;01.01.2007;0;;p15r8;;;;;FALSE
+tweak25;ZF;;01.01.2007;0;;k2r2;;;;;FALSE
+tweak26;ZF;;01.01.2007;0;;b12r10;;;;;FALSE
+tweak3;ZF;;01.01.2006;0;;o11r10;;;;;FALSE
+tweak30;ZF;;01.01.2008;0;;974;;;;;FALSE
+tweak31;ZF;;01.01.2008;0;;b10r7;;;;;FALSE
+tweak32;ZF;;01.01.2008;0;;b2r5;;;;;FALSE
+tweak33;ZF;;01.01.2008;0;;r10s15;;;;;FALSE
+tweak34;ZF;;01.01.2008;0;;b3r5;;;;;FALSE
+tweak35;ZF;;01.01.2008;0;;r011;;;;;FALSE
+tweak36;ZF;;;0;;r10y14;;;;;FALSE
+tweak37;ZF;;01.01.2008;0;;o8r8;;;;;FALSE
+tweak38;ZF;;01.01.2008;0;;r10s13;;;;;FALSE
+tweak387;ZF;;18.07.2010;0;;g20r11;;;;;FALSE
+tweak38767;ZF;;18.07.2010;0;;g3r13;;;;;FALSE
+tweak39;ZF;;01.01.2008;0;;o13r8;;;;;FALSE
+tweak4;ZF;;01.01.2006;0;;o1r8;;;;;FALSE
+tweak5;ZF;;01.01.2006;0;;o7r8;;;;;FALSE
+tweak6;ZF;;01.01.2006;0;;o3r8;;;;;FALSE
+Tweak666;ZF;;20.07.2009;0;;o2r8;;;;;FALSE
+tweak69;ZF;;20.07.2009;0;;o5r8;;;;;FALSE
+tweak7;ZF;;01.01.2006;0;;o10r8;;;;;FALSE
+tweak76;ZF;;14.03.2010;0;;o3r11;;;;;FALSE
+tweak77;ZF;;14.03.2010;0;;b8r10;;;;;FALSE
+tweak78;ZF;;14.03.2010;0;;g4r11;;;;;FALSE
+tweak79;ZF;;14.03.2010;0;;o10r10;;;;;FALSE
+tweak8;ZF;;26.12.2008;0;;b1r10;;;;;FALSE
+tweak9;ZF;;01.01.2006;0;;y7o-r16;;;;;FALSE
+tweakr27;ZF;;01.08.2010;0;;p8r8;;;;;FALSE
+tweakr28;ZF;;01.08.2010;0;;k17r8;;;;;FALSE
+tweakr29;ZF;;01.08.2010;0;;o1r14;;;;;FALSE
+Tweaky_num_num;ZF;;01.11.2009;0;;b14r10;;;;;FALSE
+v-v10;BF;M;01.01.2007;0;A-O;;;;;;FALSE
+W-K-K209-14;BF;F;01.01.2007;0;A-O;;;;;;FALSE
+x;;;;;;;;;;;FALSE
+xx;;;;;;;;;;;FALSE
+xxx;;;;;;;;;;;FALSE
+xxxxx;ZF;;05.11.2008;4;;;o5r5;;;;FALSE
+y;ZF;M;23.08.2008;0;;;;13.10.2008;End of Exp.;;FALSE
+y10o-r11;ZF;F;26.06.2006;0;;red11;purple8;06.10.2006;NE;;FALSE
+y10p-r11;ZF;M;18.09.2006;3;;red11;purple8;06.03.2007;End of Exp.;Hexode Microdrive;FALSE
+y11o-r11;ZF;F;26.06.2006;0;;red11;purple8;06.10.2006;NE;;FALSE
+y11p-r11;ZF;F;18.09.2006;3;;red11;purple8;16.02.2007;Given away;Given Away to Marianne;FALSE
+y12o-r11;ZF;F;27.06.2006;0;;red11;purple8;16.02.2007;Given away;Given Away to Marianne;FALSE
+y12p-r11;ZF;M;18.09.2006;3;;red11;purple8;15.04.2007;End of Exp.;;FALSE
+y12red;ZF;M;07.08.2008;0;;;;13.08.2010;NE;bought from qualipet on 07.11.08. birthday estimated (minimum age). Red plastic ring from breeder, number illegible.;FALSE
+y13k-s17;ZF;M;23.11.2005;0;;silver17;;11.01.2008;;;FALSE
+y13o-r11;ZF;F;27.06.2006;0;;red11;purple8;06.10.2006;NE;;FALSE
+y13p-r11;ZF;M;18.09.2006;3;;red11;purple8;01.03.2007;End of Exp.;;FALSE
+y13r8;ZF;M;15.07.2009;1;;r5y11;p15r5;14.10.2009;End of Exp.;;FALSE
+y14k-s17;ZF;M;23.11.2005;0;;silver17;;06.06.2006;Perished;Dead two days after Nif lesion.;FALSE
+y14o-p11k;ZF;M;17.07.2006;3;;p11k-ch900;g16k;29.09.2006;End of Exp.;;FALSE
+y14p-r11;ZF;M;18.09.2006;3;;red11;purple8;26.02.2007;End of Exp.;;FALSE
+y15o-p11k;ZF;F;17.07.2006;3;;p11k-ch900;g16k;06.10.2006;NE;;FALSE
+y15p-s2;ZF;M;27.09.2006;0;;Silver2;p6k-y8;17.05.2007;End of Exp.;;FALSE
+y16k-b3;ZF;M;13.01.2006;0;;blue3;;01.06.2006;End of Exp.;serves as control for p16k-b3;FALSE
+y16o-p11k;ZF;F;17.07.2006;3;;p11k-ch900;g16k;06.10.2006;NE;;FALSE
+y16p-s2;ZF;M;27.09.2006;0;;Silver2;p6k-y8;28.07.2009;End of Exp.;Reserved for Janie.;FALSE
+y17o-r12k;ZF;F;22.09.2006;0;;r12k-ch900;g4k;16.02.2007;Given away;Given Away to Marianne;FALSE
+y17p-s2;ZF;F;27.09.2006;0;;Silver2;p6k-y8;16.02.2007;Given away;Given Away to Marianne;FALSE
+y18o-r16;ZF;F;08.09.2006;3;;red16;green12;16.02.2007;Given away;Given Away to Marianne;FALSE
+y18p-s2;ZF;M;27.09.2006;0;;Silver2;p6k-y8;16.05.2007;End of Exp.;;FALSE
+y19o-r16;ZF;F;08.09.2006;3;;red16;green12;16.02.2007;Given away;Given Away to Marianne;FALSE
+y19p-o4k;ZF;F;29.10.2006;1;;o4k-p2;green13;16.02.2007;Given away;Given Away to Marianne;FALSE
+y1o-o4k;ZF;M;28.04.2006;0;;o4k-p2;green13;10.07.2006;End of Exp.;;FALSE
+y1r1;ZF;F;06.06.2007;2;;s2b-y8;r8p-s19o;01.11.2007;Given away;Given away to Johanna;FALSE
+y1y6-s3k;ZF;F;23.04.2007;4;;s3k-y8;k9k-ch900;24.07.2007;Given away;Given away to Johanna;FALSE
+y20o-o4k;ZF;M;28.04.2006;0;;o4k-p2;green13;16.03.2007;End of Exp.;Reserved by Claude. Used by Aymeric for Acute Exp.;FALSE
+y20p-o4k;ZF;F;29.10.2006;1;;o4k-p2;green13;16.02.2007;Given away;Given Away to Marianne;FALSE
+y2o-o4k;ZF;F;29.04.2006;1;;o4k-p2;green13;25.06.2009;NE;Was not in U1 when we transferred females from U1 to UK. Not found, presumed dead. (-janie, 25.june.2009).;FALSE
+y2r1;ZF;F;06.06.2007;2;;s2b-y8;r8p-s19o;01.11.2007;Given away;Given away to Johanna;FALSE
+y2y7-s3k;ZF;M;23.04.2007;4;;s3k-y8;k9k-ch900;25.06.2009;NE;did not find bird during KM/KO search. Claude. Not found, presumed dead. (-janie, 25.june.2009).;FALSE
+y3o-p11k;ZF;F;28.04.2006;4;;p11k-ch900;g16k;06.10.2006;NE;;FALSE
+y3r1;ZF;F;06.06.2007;2;;s2b-y8;r8p-s19o;01.11.2007;Given away;Given away to Johanna;FALSE
+y3y8-s3k;ZF;F;23.04.2007;4;;s3k-y8;k9k-ch900;24.07.2007;Given away;Given away to Johanna;FALSE
+y4o-wang;ZF;M;13.06.2006;0;;red14;red2;17.05.2007;Perished;Bird escaped from cage, raised in MK. Unknown father actually.;FALSE
+y4p-o3;ZF;F;10.10.2006;2;;orange3;red5;16.02.2007;Given away;Given Away to Marianne;FALSE
+y4r1;ZF;F;06.06.2007;2;;s2b-y8;r8p-s19o;22.08.2007;End of Exp.;;FALSE
+y4y9-s3k;ZF;M;23.04.2007;4;;s3k-y8;k9k-ch900;25.06.2009;NE;did not find bird during KM/KO search. Claude. Not found, presumed dead. (-janie, 25.june.2009).;FALSE
+y5o-s3k;ZF;M;02.06.2006;0;;s3k-y8;g1k;04.02.2008;NE;Georg - do not use - tutoring bird still monitoring song, Only one syllable. Sick: swollen feet;FALSE
+y5r1;ZF;F;29.05.2007;4;;o20o-ch900;r12o-o4k;01.11.2007;Given away;Given away to Johanna;FALSE
+y5y10-s3k;ZF;M;23.04.2007;4;;s3k-y8;k9k-ch900;24.09.2008;End of Exp.;lost y5 ring! Reserved by Janie;FALSE
+y6o-s3k;ZF;M;02.06.2006;0;;s3k-y8;g1k;18.08.2008;End of Exp.;Georg - do not use - tutoring bird still monitoring song;FALSE
+y7o-r16;ZF;M;15.05.2006;2;;red16;green12;19.02.2009;Surgery;;FALSE
+y7p-o3;ZF;M;10.10.2006;2;;orange3;red5;27.02.2007;End of Exp.;;FALSE
+y8o-r16;ZF;F;15.05.2006;2;;red16;green12;21.08.2008;NE;euthanized;FALSE
+y8p-o3;ZF;F;10.10.2006;2;;orange3;red5;16.02.2007;Given away;Given Away to Marianne;FALSE
+y9o-o4k;ZF;M;29.04.2006;1;;o4k-p2;green13;02.10.2006;End of Exp.;;FALSE
+y9p-y20;ZF;F;09.10.2006;0;;yellow20;blue2;12.12.2006;End of Exp.;;FALSE
+yellow1;ZF;M;;N3;;p11r10;;06.06.2008;NE;broken foot, had to be killed;FALSE
+yellow10;ZF;M;;0;;;;;;missing;FALSE
+yellow14;ZF;M;02.08.2005;0;;;;29.05.2007;End of Exp.;;FALSE
+yellow20;ZF;M;;0;;;;23.06.2009;End of Exp.;found in KM on 24 March 2009. Reserved for Janie;FALSE
+yellow6;ZF;M;;0;;;;25.06.2009;NE;Not found, presumed dead. (-janie, 25.june.2009).;FALSE
+yellow8;ZF;M;;0;;;;24.05.2007;End of Exp.;;FALSE

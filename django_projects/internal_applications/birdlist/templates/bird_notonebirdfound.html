@@ -1,0 +1,35 @@
+{% extends "birdlist/basic/base_bird.html" %}
+
+{% block billboard %}
+<li id="nav-exp-views"><h2>Catch a Bird</h2></li>
+{% endblock %}
+
+{% block content-main %}
+
+{% if birds %}
+<p>
+your query is ambiguous. if this happens you should probably see HOB.
+the following birds meet your criteria:
+</p>
+
+<table>
+    <tr><th>bird name</th><th>birthday</th><th>current cage</th></tr>
+{% for bird in birds %}
+<tr><td><a href="{% url bird_overview bird.id %}">{{ bird.name }}</a></td>
+    <td>{{ bird.birthday }} </td>
+    <td>{{ bird.cage.name }} </td></tr>
+{% endfor %}
+</table>
+{% else %}
+    <p>
+    no birds found meeting your criteria
+    </p>
+{% endif %}
+
+
+{% if img %}
+<img src="{{ img }}">
+{% endif %}
+
+{% endblock %} 
+

@@ -1,0 +1,94 @@
+{% extends "lablog/basic/base_projects.html" %}
+
+{% block title_detail %}details for project {{ selected_object.title }} {% endblock %}
+
+{% block billboard %}
+<li id="nav-prj-change"><a href="{% url edit_project username selected_object.slug %}" title="Edit this project">edit project</a></li>
+<!-- <li id="nav-prj-reports"><a href=".">generate report</a></li> -->
+<li id="nav-prj-new-note"><a href="{% url new_note username=username, project_id=selected_object.id %}" title="Create new note">add note</a></li>   
+<li id="nav-prj-new-experiment"><a href="{% url new_experiment username=username %}" title="Add new experiment">add experiment</a></li>
+<li id="nav-pro-new"><a href="{% url new_protocol user.username %}" title="Add new protocol">new protocol</a></li>
+<li id="nav-prj-delete"><a href="{% url delete_project username selected_object.slug %}" style="color:red;" title="Delete this project">delete project</a></li>
+{% endblock %}
+
+
+{% block objectcontent %}
+<div class="section" id="details">
+<h2> Details for project: "{{ selected_object.title }}"</h2>
+<ul>
+    <li>  started: {{ selected_object.start_date }}</a></li>
+    {% if selected_object.end_date %}    <li>  ended: {{ selected_object.end_date }}</a></li> {% endif %}
+    {% if selected_object.description %}    <li>  description: {{ selected_object.description|linebreaks }}</a></li> {% endif %}
+    {% if selected_object.data_path %}    <li>  data folder: {{ selected_object.data_path }}</li> {% endif %}
+</ul>
+</div>
+
+{% if notes_todo %}
+	{% include "note/note_todo_object_list.html" %}
+{% endif %}
+
+<br><br>
+<hr>
+<div class="section" id="experiments">
+<h1>Experiments</h1>
+
+    {% if experiments %}
+    <table>
+    {% for i in experiments %}
+        {% ifchanged %}<tr><td colspan="4"><h3>{% if i.data %} {{ i.get_data_display }} {% else %} unknown data status (click on experiment and edit it's "Data" property){% endif %}</h3></td></tr>
+        <tr class="alt">
+            <td> Name </td> 
+            <td> Start Date </td> 
+            <td> End Date </td>
+            <td> Description </td> 
+        </tr> 
+        {% endifchanged %}
+        {% if i.end_date %}
+        <tr>
+        {% else %}
+        <tr bgcolor="#99FFFF">
+        {% endif %}
+            <td> <a href="{% url detail_experiment username i.slug %}"> {{ i.title }}</a></td> 
+            <td> {{ i.start_date }} </td>
+            <td> {% if i.end_date %} {{ i.end_date }} {% else %} in progress {% endif %}</td>
+            <td> {{ i.plan }} </td> 
+        </tr> 
+    {% endfor %}
+    </table>
+    {% else %} 
+    no experimentes found.
+    {% endif %}
+</div>   
+
+{% include "note/note_object_list.html" %}
+
+
+{% endblock %}
+
+{% block sidebar %}
+<h2>Quick Actions:</h2>
+<ul>
+<li id="nav-prj-new-note"><a href="{% url new_note username=username, project_id=selected_object.id %}" title="Create new note">add note</a></li>   
+<li id="nav-prj-new-experiment"><a href="{% url new_experiment username=username %}" title="Add new experiment">add experiment</a></li>
+<li id="nav-pro-new"><a href="{% url new_protocol user.username %}" title="Add new protocol">new protocol</a></li>
+<li>
+{% include "lablog/basic/sidebar_search.html" %}
+</li>
+</ul>
+
+<h2>Go directly to:</h2>
+<ul>
+    <li id="nav-quick-details"><a href="#details">Project details</a></li>
+    {% if notes_todo %}
+    <li id="nav-quick-note-todo"><a href="#notes-todo">Future notes / Things ToDo</a></li>
+    {% endif %}
+    <li id="nav-quick-experiment"><a href="#experiments">Experiments</a></li>
+    {% if notes %}
+    <li id="nav-quick-note"><a href="#notes">Notes</a></li>
+    {% endif %}
+</ul>
+{% endblock %}
+
+{% block content-secondary %}
+{% endblock %}
+

@@ -1,0 +1,12 @@
+{% extends "birdlist/basic/base_bird.html" %}
+
+{% block billboard %}
+{% endblock %}
+
+{% block content-main %}
+
+<h1>Import from ZUT4</h1>
+<div> {{ action_name }}: <a href="{% url bird_overview bird.id %}">{{ bird.name }}</a></div>
+
+{% endblock %} 
+

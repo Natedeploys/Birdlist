@@ -1,0 +1,73 @@
+{% load birdlist_tags %}
+
+<h2>{{ cage.cage.name }}</h2>
+<h4>Couple</h4>
+{% if cage.coupling %}
+
+    <table>
+        <tr><th>male</th><th>female</th><th>coupling date</th><th>days</th><th width='40'>last hatch</th><th width='40'>no broods</th><th>comment</th></tr>
+        <tr>
+            <td>{{ cage.coupling.couple.get_male.name }}</td>
+            <td>{{ cage.coupling.couple.get_female.name }}</td>
+            <td>{{ cage.coupling.coupling_date }}</td>
+            <td>{{ cage.coupling.coupling_date|dayssince }}</td>
+            <td>{{ cage.coupling.get_last_brood.get_broods_birthday|dayssince }}</td>
+            <td>{{ cage.coupling.get_number_of_broods }}</td>
+            <td>{{ cage.coupling.comment|linebreaks }}</td>
+        </tr>
+    </table>
+    {% if cage.coupling.is_to_be_separated %}
+        <p>Please separate this couple.</p>
+        <p>male goes to:</p>
+        <p>female goes to:</p>
+    {% endif %}
+    
+{% else %}
+
+        <p>Please add a couple to this cage.</p>
+        <p>Male:</p>
+        <p>Female:</p>
+        
+{% endif %}
+
+{% if cage.juveniles %}
+    <h4>Juveniles</h4>
+    {% comment %}
+     this isn't doing anything
+        {% with cage.juveniles|first as firstjuv %}
+        {% endwith %}
+    {% endcomment %}
+    <table>
+        <tr>
+            <th>Juvenile</th>
+            <th align='center'>dph</th>
+            <th align='center'>uncertainty</th>
+            <th width='100'>renamed to</th>
+            <th width='100'>transferred to</th>
+            <th width='100'>sexed</th>
+        </tr>
+        {% for juv in cage.juveniles %}
+            <tr>
+                <td>{{ juv.name }}</td>
+                <td align='center'>{{ juv.get_phd }}</td>
+                <td align='center'>{{ juv.age_uncertainty }}</td>
+                <td></td>
+                <td>{% if juv.is_juvenile_to_be_transferred %}*{% endif %}</td>
+                <td></td>
+            </tr>
+        {% endfor %}
+    </table>
+{% endif %}
+
+<h4>Newborns</h4>
+<table>
+    <tr><th>Number of Newborns</th><th>First Birthday</th><th>Last Birthday</th></tr>
+    <tr><td>#</td><td></td><td></td></tr>
+</table>
+<h4>Changes entered into Birdlist:</h4>
+<!-- horizontal line does not show up in pdf print 
+<hr color:"#000000">
+-->
+<table>
+    <tr><th width='600'></th></tr>
+</table>

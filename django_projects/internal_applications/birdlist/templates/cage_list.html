@@ -1,0 +1,16 @@
+{% extends "birdlist/basic/base_cage.html" %}
+
+{% block content-main %}
+
+{% if object_list %}
+    <h2>List of all cages</h2>
+    <ul>
+    {% for cage in object_list %}
+        <li><a href="{% url show_birds_in_specific_cage cage.id %}">{{ cage.name }}</a></li>
+    {% endfor %}
+    </ul>
+{% else %}
+    <h2><p>No cages found</p></h2>
+{% endif %}
+
+{% endblock %}

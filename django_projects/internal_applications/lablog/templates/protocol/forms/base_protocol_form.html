@@ -1,0 +1,14 @@
+{% extends "lablog/basic/base_form.html" %}
+
+{% block billboard %}
+{% if protocol.title %}
+<li id="nav-pro"><a href="{% url detail_protocol username protocol.slug %}">back to protocol {{ protocol.title }}</a></li>
+{% endif %}
+{% endblock %}
+
+
+{% block form-js %}
+{% if add %}
+{% include "lablog/protocol/forms/protocol_js.html" %}
+{% endif %}
+{% endblock %}

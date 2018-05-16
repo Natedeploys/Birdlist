@@ -1,0 +1,7 @@
+{% extends "lablog/basic/base_protocols.html" %}
+
+{% block title_detail %}protocols owned by {{ user }} {% endblock %}
+
+{% block content-main %}
+    {% include "protocol/protocol_object_list.html" %}
+{% endblock %}

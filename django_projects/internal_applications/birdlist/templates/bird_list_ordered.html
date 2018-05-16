@@ -1,0 +1,27 @@
+{% extends "birdlist/basic/base_bird.html" %}
+
+{% block billboard %}
+<li id="nav-exp-views"><h2>Birdlist - Where Are All the Birds</h2></li>
+{% endblock %}
+
+{% block content-main %}
+
+<!-- group and order gets fucked up -->
+<!-- also birds should become links, but not all birds are 'linkable' it seems -->
+
+{% regroup birds by cage.room as birds_by_room %}
+{% for bird in birds_by_room %}
+    <h2>{{bird.grouper }}</h2>
+    {% for bir in bird.list %}
+    {% ifchanged bir.cage %}
+    <h3><a href="{% url cage_overview bir.cage.name %}">{{ bir.cage.name }}</a></h3>
+    <p>
+    {% endifchanged %}
+        <a href="{% url bird_overview bir.id %}">{{ bir.name }}</a>, 
+    {% endfor %}
+    </p>
+{% endfor %}
+
+
+{% endblock %}
+

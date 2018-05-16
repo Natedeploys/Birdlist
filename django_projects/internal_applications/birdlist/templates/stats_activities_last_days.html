@@ -1,0 +1,91 @@
+{% extends "birdlist/basic/base_stats.html" %}
+{% load humanize %}
+{% load cage_animal_to_link %}
+{% block content-main %}
+
+    <br>
+
+    {% if activities %}
+        <h2>List of {{ content }} ({{ activities|length }}) of the last {{ how_many_hours }} hours:</h2>
+        
+            {% for i in activities %}
+                {% with i.start_date as this_date %}
+
+                    {% ifchanged this_date  %}
+                    
+                        {% if forloop.counter0 > 0 %}
+                            </table>
+                        {% endif %}    
+                        
+                        <br><br><h3>{{ this_date }}</h3>
+                        
+                        <table>
+                        <tr>
+                            <td align="center" width="10%"><b>bird</b></td>
+                            <td align="center" width="10%"><b>start day</b></td>
+                            <td align="center" width="10%"><b>end date</b></td>
+                            <td><b>type</b></td>
+                            <td width="50%"><b>content</b></td>
+                            <td><b>user</b></td>
+                        </tr>     
+                    
+                    {% endifchanged %}
+                    
+                    <tr>
+                        <td align="center"><a href="{% url bird_overview i.bird.id %}"> {{ i.bird }}</a></td>
+                        {% with i.start_date|date:"d" as short_day %}
+                        <td align="center">{{ short_day|ordinal }}</td>
+                        {% endwith %}                    
+                        <td align="center">{{ i.end_date|default_if_none:"" }}</td>
+                        <td><a href="{{ i.get_edit_url }}">{{ i.activity_type}}</a></td>
+                        <td>{{ i.get_activity_content_pretty|cage_animal_to_link }}</td>
+                        <td>{{ i.originator }}</td>
+                    </tr>
+                    
+                {% endwith %}
+                
+                {% if forloop.last %}
+                    </table>
+                {% endif %}
+            {% endfor %}
+            
+    {% else %}
+        <h2>No activities found during the last {{ how_many_hours }} hours.</h2>
+    {% endif %}
+
+{% endblock %}
+
+
+{% block sidebar %}
+    {% if user.is_authenticated %}
+        
+        <div>
+            <h2>Browse the last X days:</h2>
+            {% for i in days_to_link %}
+                {% with i|add:"1" as counter %}
+                    <a href = "{% url show_activities_last_x_days counter %}">{{ counter }}</a>
+                {% endwith %}
+            {% endfor %}
+        </div>
+
+        <div>
+            <h2>Filter by user:</h2>
+            {% for i in users %}
+                <a href = "?user={{ i }}">{{ i }}</a>
+                {% if forloop.last %}
+                <a href = ".">all users</a>
+                {% endif %}
+            {% endfor %}
+        </div>
+
+
+        <br>
+        {% include "birdlist/basic/sidebar.html" %}
+        
+    {% endif %}            
+{% endblock %}
+
+
+
+
+

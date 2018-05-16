@@ -1,0 +1,77 @@
+{% extends "lablog/basic/base_experiments.html" %}
+
+{% block custom_stylesheet %}
+<style type="text/css">
+#container{
+    border:1px solid #000; 
+    overflow:hidden;
+    margin:auto;
+}
+#container iframe {
+    width:100%;
+    height:800px;
+    margin-top:0px;   
+    border:0 solid;
+ }
+</style>
+{% comment %}
+
+This is too restrictive, because we can't reload our own pages anymore. 
+Need to think more about preventing framebusting.
+
+<script type="text/javascript">
+    var prevent_bust = 0  
+    window.onbeforeunload = function() { prevent_bust++ }  
+    setInterval(function() {  
+     if (prevent_bust > 0) {  
+       prevent_bust -= 2  
+       window.top.location = '{% url nothing %}'
+     }  
+    }, 1)  
+</script>
+{% endcomment %}
+{% endblock %}
+
+
+{% block title_detail %}RTM authentication{% endblock %}
+
+{% block billboard %}
+{% if message %}
+    <li id="nav-rtm-message"><a>{{message}}</a></li>
+{% endif %}
+{% endblock %}
+
+
+{% block objectcontent %}
+<div id="container">
+    <iframe src="{{ url }}" scrolling="yes"></iframe>
+</div>
+{% endblock %}
+
+
+{% block sidebar %}
+
+{% if message %}
+    <h2 style="color:red;">{{message}}</h2>
+{% endif %}
+
+<h2>Please allow Lablog to use RTM</h2>
+
+<ul>
+    <li>
+    In order to interface Lablog with RTM, you need to<br> 
+    allow Lablog to access your RTM account. Please press<br>
+    the 'OK, I'll allow it' button on the left.</li>
+
+    <li>Once you've done that, please pree the 'Confirm' <br>
+    button you find below.</li>
+</ul>
+
+<form action="." method="post">{% csrf_token %}
+    <input type="hidden" name="frob" id="frob" value="{{frob}}" /> 
+    <input type="submit" name="ok-button" value="Confirm" />
+</form>
+
+{% endblock %}
+
+

@@ -1,0 +1,37 @@
+{% load markup %}
+{% load time_since_until %}
+
+<br><br>
+<hr>
+
+<div class="section" id="notes">
+<h1>Notes</h1>
+
+    {% if notes %}
+    <table>
+
+    {% for i in notes %}
+    {% ifchanged %}<tr><td colspan="2"><h2>{% time_since_until i.date i.schedule %}</h2></td></tr>
+        <tr class="alt">
+        <td><i>occasion</i></td> 
+        <td><i>entry</i>
+        <span style="display:inline; float:right">
+            <a href="{% url detail_note username i.id %}" title="View & Print this note">view & print<a>
+            <a href="{% url edit_note username i.id %}" title="Edit this note">edit<a>
+            <a href="{% url delete_note username i.id %}" title="Delete this note">delete<a>
+        </span>
+        </td> 
+        </tr> 
+    {% endifchanged %}
+        <tr>
+        <td><b>{{ i.occasion }}</b></td>
+        <td><pre>{{ i.entry|markdown|urlize|linebreaks }}</pre></td>
+        </tr> 
+    {% endfor %}
+
+    </table>
+    
+    {% else %} 
+    No notes found.
+    {% endif %}
+</div>

@@ -1,0 +1,65 @@
+{% extends "birdlist/basic/base_stats.html" %}
+{% load humanize %}
+{% load cage_animal_to_link %}
+{% block content-main %}
+
+    <br>
+
+    {% if activities %}
+    <h2>List of {{ content }} ({{activities|length}}) for user {{ user_looked_up }} :</h2>
+    
+        {% for i in activities %}
+            {% with i.start_date|date:"M Y" as this_date %}
+
+                {% ifchanged this_date  %}
+                
+                    {% if forloop.counter0 > 0 %}
+                        </table>
+                    {% endif %}    
+                    
+                    <br><br><h3>{{ this_date }}</h3>
+                    
+                    <table>
+                    <tr>
+                        <td align="center" width="10%">bird</td>
+                        <td align="center" width="10%">start day</td>
+                        <td align="center" width="10%">end date</td>
+                        <td>activity name</td>
+                        <td width="50%">activity content</td>
+                    </tr>     
+                
+                {% endifchanged %}
+                
+                <tr>
+                    <td align="center"><a href="{% url bird_overview i.bird.id %}"> {{ i.bird }}</a></td>
+                    {% with i.start_date|date:"d" as short_day %}
+                    <td align="center">{{ short_day|ordinal }}</td>
+                    {% endwith %}                    
+                    <td align="center">{{ i.end_date|default_if_none:"" }}</td>
+                    <td>{{ i.activity_type}}</td>
+                    <td>{{ i.get_activity_content_pretty|cage_animal_to_link }}</td>                    
+                </tr>
+                
+            {% endwith %}
+            
+            {% if forloop.last %}
+                </table>
+            {% endif %}
+            
+            
+        {% endfor %}
+
+    {% endif %}  
+    
+    
+    {% if form %}
+        {%  if not whynotseparatemessage %}
+        <h2>Show all {{ content }} for this user</h2>
+                    {% include "birdlist/forms/base_form_block.html" %}
+        {%  else %}
+            <h2 style="color:red;">Can not spy on user: {{ whynotseparatemessage|linebreaks }}</h2>
+        {% endif %}
+    {% endif %}
+
+{% endblock %}
+

@@ -1,0 +1,49 @@
+{% extends "birdlist/basic/base_stats.html" %}
+
+{% block custom_stylesheet %} 
+    <style type="text/css"> 
+    .new_feature {
+      display: inline; 
+      padding: 1px 3px; 
+      background: yellow
+    }
+    </style> 
+{% endblock %}
+
+{% block content-main %}
+    <br>
+    <br>
+
+    <h2>Experimental stats</h2>
+    <ul>
+        <li><a href="{% url show_my_experiments %}">show my experiments</a></li>
+        <li><a href="{% url show_experiments_without_licence %}">show experiments without a licence assigned</a></li>
+        <li><a href="{% url show_experiments_by_licence %}">show experiments by licence</a></li>
+        <li><a href="{% url show_experiments_by_bird %}">show experiments by bird (overview)</a></li>
+        <li><a href="{% url show_experiments_by_user %}">show experiments by user</a></li>
+        <li><a href="{% url show_experiments_open %}">show all open experiments</a></li>
+    </ul>
+
+    <h2>General stats</h2>
+    <ul>
+        <li><a href="{% url colony_overview_stats %}">colony overview</a> <div class="new_feature">with plots!</div></li>
+        <li><a href="{% url nbr_couples_and_new_borns_per_week %}"># couples & new borns per week</a> <div class="new_feature">with plots!</div></li>
+        <li><a href="{% url nbr_animals_in_cage_per_week %}">maximum number of animals in cage per week</a> <div class="new_feature">faster &amp; with plots!</div></li>
+        <li><a href="{% url show_activities_by_user %}">show activities by user</a></li>
+        <li><a href="{% url show_activities_last_days %}">show all activities of the last 2 days</a></li>
+        <li><a href="{% url index_cage_with_occupancy %}">show cages and occupancy</a></li>
+    </ul>
+
+    <h2>Debugging</h2>
+    <ul>
+        <li><a href="{% url all_animals_with_wrong_coupling_status %}">all animals with wrong coupling status</a></li>
+        <li><a href="{% url show_activities_timestamp_mismatch %}">all activities with timestamp mismatch</a></li>
+    </ul>
+
+    <h2>Help</h2>
+    <p>
+    Want to see more stats? Send an email to your admins or file a bug.
+    </p>
+
+{% endblock %}
+

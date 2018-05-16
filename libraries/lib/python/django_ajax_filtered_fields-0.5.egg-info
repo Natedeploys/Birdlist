@@ -1,0 +1,18 @@
+Metadata-Version: 1.0
+Name: django-ajax-filtered-fields
+Version: 0.5
+Summary: Django fields for many to many and foreign key ajax filtered relations
+Home-page: http://code.google.com/p/django-ajax-filtered-fields/
+Author: Francesco Banconi
+Author-email: francesco.banconi@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Web Environment
+Classifier: Framework :: Django
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Topic :: Utilities

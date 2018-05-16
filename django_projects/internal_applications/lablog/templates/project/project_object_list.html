@@ -1,0 +1,25 @@
+
+<div class="section" id="project">
+    {% if projects %}
+	    {% if active_projects %}
+        <h2>Active projects:</h2>
+        <ul>
+            {% for project in active_projects %}
+            <li><a href="{% url detail_project username project.slug %}">{{ project.title }}</a> - {% if project.description %}{{ project.description }}{% else %}no description{% endif %}</li>
+            {% endfor %}
+        </ul>
+	    {% endif %}
+
+        {% if finished_projects %}
+ 	    <h2>Finished projects:</h2>
+        <ul>
+            {% for project in finished_projects %}
+            <li><a href="{% url detail_project username project.slug %}">{{ project.title }}</a> - {% if project.description %}{{ project.description }}{% else %}no description{% endif %}</li>
+            {% endfor %}
+        </ul>
+	    {% endif %}
+
+    {% else %}
+        <h2>You have no projects defined yet. You can change this by creating a <a href="{% url new_project request.user %}">new project</a>.</h2>
+    {% endif %}
+</div>

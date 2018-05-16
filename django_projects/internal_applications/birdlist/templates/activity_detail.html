@@ -1,0 +1,94 @@
+{% extends 'birdlist/basic/base_activity.html'%}
+
+{% block content-main %}
+
+{% with activity.activity_type.name as activity_type_name %}
+{% if activity_type_name in activity.ALLDETAIL %}
+
+    {% if activity_type_name == activity.EXPERIMENT_STRING %}
+    <h2>{{ activity_type_name }}: <a href="{{ activity.bird.get_absolute_url }}">{{ activity.bird.name }}</a>
+    {% ifequal activity.originator user %} - <a class='edit' href=''>edit</a>{% endifequal %}</h2>
+
+        <table>
+            <tr><th></th><th></th></tr>
+            <tr><td><b>start date:</b></td><td>{{ activity.start_date }}</td></tr>
+            <tr><td><b>end date:</b></td><td>{{ activity.end_date }}</td></tr>
+            <tr><td><b>content:</b></td><td>{{ activity.activity_content|linebreaks }}</td></tr>
+            <tr><td><b>PI:</b></td><td>{{ activity.originator }}</td></tr>
+            <tr><td><b>Animal Experiment Licence:</b></td><td>{{ activity.animal_experiment_licence}}</td></tr>
+            <tr><td><b>Severity Grade:</b></td><td>{{ activity.severity_grade}}</td></tr>
+        </table>
+        {% ifnotequal activity.originator user %}<br><p>You cannot edit this Experiment because you are not its PI.</p>{% endifnotequal %}
+    {% endif %}
+
+
+    {% if activity_type_name == activity.CAGE_TRANSFER_STRING %}
+    <h2>{{ activity_type_name }} of <a href="{{ activity.bird.get_absolute_url }}">{{ activity.bird.name }}</a></h2>
+
+        <table>
+            <tr><th></th><th></th></tr>
+            <tr><td><b>transfer date:</b></td><td>{{ activity.start_date }}</td></tr>
+            <tr><td><b>transfer:</b></td><td>{{ activity.activity_content|linebreaks }}</td></tr>
+            <tr><td><b>user:</b></td><td>{{ activity.originator }}</td></tr>
+        </table>
+        <br><p><b>not editable</b></p>
+    {% endif %}
+
+
+    {% if activity_type_name == activity.RENAMING_STRING %}
+    <h2>{{ activity_type_name }} of <a href="{{ activity.bird.get_absolute_url }}">{{ activity.bird.name }}</a></h2>
+
+        <table>
+            <tr><th></th><th></th></tr>
+            <tr><td><b>date:</b></td><td>{{ activity.start_date }}</td></tr>
+            <tr><td><b>action:</b></td><td>{{ activity.activity_content|linebreaks }}</td></tr>
+            <tr><td><b>user:</b></td><td>{{ activity.originator }}</td></tr>
+        </table>
+        <br><p><b>not editable</b></p>
+    {% endif %}
+
+
+    {% if activity_type_name == activity.RESERVATION_STRING %}
+    <h2>{{ activity_type_name }} for <a href="{{ activity.bird.get_absolute_url }}">{{ activity.bird.name }}</a></h2>
+
+        <table>
+            <tr><th></th><th></th></tr>
+            <tr><td><b>reservation date:</b></td><td>{{ activity.start_date }}</td></tr>
+            <tr><td><b>reservation content:</b></td><td>{{ activity.activity_content|linebreaks }}</td></tr>
+            <tr><td><b>PI:</b></td><td>{{ activity.originator }}</td></tr>
+        </table>
+        <br><p><b>not editable</b></p>
+    {% endif %}
+
+
+    {% if activity_type_name == activity.EXPERIMENT_CHANGE_STRING %}
+    <h2>{{ activity_type_name }} for <a href="{{ activity.bird.get_absolute_url }}">{{ activity.bird.name }}</a></h2>
+
+        <table>
+            <tr><th></th><th></th></tr>
+            <tr><td><b>date of change:</b></td><td>{{ activity.start_date }}</td></tr>
+            <tr><td><b>changed values:</b></td><td>{{ activity.activity_content|linebreaks }}</td></tr>
+            <tr><td><b>PI:</b></td><td>{{ activity.originator }}</td></tr>
+        </table>
+        <br><p><b>not editable</b></p>
+    {% endif %}
+    
+    {% if activity_type_name == activity.BIRTH_ANIMAL_STRING %}
+    <h2>{{ activity_type_name }} for <a href="{{ activity.bird.get_absolute_url }}">{{ activity.bird.name }}</a></h2>
+
+        <table>
+            <tr><th></th><th></th></tr>
+            <tr><td><b>birthday:</b></td><td>{{ activity.start_date }}</td></tr>
+            <tr><td><b>creation string:</b></td><td>{{ activity.activity_content|linebreaks }}</td></tr>
+            <tr><td><b>PI:</b></td><td>{{ activity.originator }}</td></tr>
+        </table>
+        <br><p><b>not editable</b></p>
+    {% endif %}    
+
+
+{% else %}
+    <h2>Please tell your admin to add "{{ activity_type_name }}" to activity_detail.html</h2>
+{% endif %}
+{% endwith %}
+
+{% endblock %}

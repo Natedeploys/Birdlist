@@ -1,0 +1,42 @@
+
+{% load birdlist_tags %}
+
+{% if couplings_with_links %}
+    <table>
+        <tr>
+            <th>male</th>
+            <th>female</th>
+            <th>cage</th>
+            <th>coupling date</th>
+            <th>days</th>
+            <th width="40">last hatch</th>
+            <th width="40">no broods</th>
+            <th>comment</th>
+            <th></th>
+        </tr>
+        
+        {% for coupling in couplings_with_links %}
+        <tr>
+            <td><a href="{{ coupling.couple.get_male.get_absolute_url }}">{{ coupling.couple.get_male.name }}</a></td>
+            <td><a href="{{ coupling.couple.get_female.get_absolute_url }}">{{ coupling.couple.get_female.name }}</a></td>
+            <td><a href="{{ coupling.cage.get_absolute_url }}">{{ coupling.cage.name }}</a></td>
+            <td>{{ coupling.coupling_date }}</td>
+            <td>{{ coupling.coupling_date|dayssince }}</td>
+            <td>{{ coupling.get_last_brood.get_broods_birthday|dayssince }}</td>
+            <td>{{ coupling.get_number_of_broods }}</td>
+            <td>{{ coupling.comment|default_if_none:""|linebreaks }}</td>
+            <td><a href="{{ coupling.cage.get_addjuvs_url }}" title="add juveniles">+juvs</a><br>
+            
+                {% comment %}
+                show separate couple link only if there are no juveniles in cage
+                {% endcomment %}
+                
+                {% if coupling.cage.occupancy == 2 and coupling.cage.has_couple %}
+                    <a href="{{ coupling.cage.get_separation_url }}" title="separate couple - only possible if no juveniles are present in cage.">sep</a><br>
+                {% endif %}
+                <a href="{% url edit_coupling_comment coupling.cage.name %}" title="edit couple comment">comment</a></td>
+        </tr>
+        {% endfor %}
+    </table>
+{% endif %}
+

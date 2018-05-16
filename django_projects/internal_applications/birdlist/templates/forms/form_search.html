@@ -1,0 +1,21 @@
+{% extends "birdlist/forms/form_basic.html" %}
+
+{% block billboard %}
+    {% if title %}
+        <li id="nav-exp-views">
+        <h2>
+        {{ title }} 
+        {% if bird %}
+        - {{ bird.name }}
+        {% endif %}
+        </h2></li>
+    {% else %}
+        <li id="nav-exp-views"><h2>Find a Bird</h2></li>
+    {% endif %}
+{% endblock %}
+
+{% block form-buttons %}
+        {% block form-button-search %}
+        <input type="submit" name="searchbutton" value={% if select %}"{{ select }}"{% else %}"Search"{% endif %} />
+        {% endblock %}
+{% endblock %}

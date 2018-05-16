@@ -1,0 +1,31 @@
+@import url({{ MEDIA URL }}birdlist/css/base.css)
+
+@page { size: A4; margin-top: 10mm; margin-bottom: 10mm; margin-left: 20mm; margin-right: 20mm; }
+
+/* adjust body */
+body {
+    font-family: Helvetica, Arial;
+	font-size: 10pt;
+	background-color: white;
+	color: black;
+}
+
+#print-header { text-align: right; font-family: Helvetica, Arial; font-style: normal; font-weight: normal; font-size: 8pt; width:17cm; }
+#print-header-image { margin-left: 20px; clear: left; float: right; }
+
+/* fix container width */
+#container { min-width:17cm; }
+#content-main { width:17cm; float:none; }
+#content-sidebar { width:0cm; float:none; }
+#columnwrap { background-color: #FFFFFF; }
+
+/* it seems necessary to 'override' the following */
+a {text-decoration: none; color: #000000; }
+h2 { font-family: Helvetica, Arial; }
+th { text-align: left; font-weight: bold; padding-left: 5px; padding-bottom: 7px; padding-right: 5px; padding-top: 7px; font-size:11px; line-height:13px; border-bottom:1px solid #000000; vertical-align:top; font-family: Helvetica, Arial; }
+td { text-align: left; font-style: normal; font-weight: normal; padding-left: 5px; padding-bottom: 7px; padding-right: 5px; padding-top: 7px; font-size:11px; line-height:13px; border-bottom:1px solid #000000; vertical-align:top; font-family: Helvetica, Arial; }
+hr { color:#000; background-color:#000; height:1px; border:0; }
+
+/* hide unneccessary content */
+#header, #secondaryapps, #loginheader, #billboard, #content-sidebar, #content-secondary, #footer, #context-menu { display: none; }
+

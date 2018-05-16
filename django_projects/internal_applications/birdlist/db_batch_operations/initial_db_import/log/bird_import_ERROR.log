@@ -1,0 +1,65 @@
+##  B I R D L I S T   I M P O R T   E R R O R   L O G
+##  -----------------------------------
+##  writing mode: append
+##  discard existing log: True
+##  log datetime: True
+##  -----------------------------------
+$$  Fri Jan 14 20:14:51 2011 $$  imported file: /data/programming/django/code/django_projects/internal_applications/birdlist/dbconversion/data/Birdlist_20110114_1410PM.csv
+$$  Fri Jan 14 20:14:51 2011 $$  not imported - birdname: Birdname
+$$  Fri Jan 14 20:14:53 2011 $$  not imported - birdname: dummy
+$$  Fri Jan 14 20:14:53 2011 $$  not imported - birdname: dummy2
+$$  Fri Jan 14 20:15:02 2011 $$  not imported - birdname: tweak_a1
+$$  Fri Jan 14 20:15:02 2011 $$  not imported - birdname: tweak_a2
+$$  Fri Jan 14 20:15:02 2011 $$  not imported - birdname: tweak_a3
+$$  Fri Jan 14 20:15:02 2011 $$  not imported - birdname: tweak_a4
+$$  Fri Jan 14 20:15:02 2011 $$  not imported - birdname: tweak007
+$$  Fri Jan 14 20:15:02 2011 $$  not imported - birdname: tweak1
+$$  Fri Jan 14 20:15:02 2011 $$  not imported - birdname: tweak10
+$$  Fri Jan 14 20:15:02 2011 $$  not imported - birdname: tweak11
+$$  Fri Jan 14 20:15:02 2011 $$  not imported - birdname: tweak13
+$$  Fri Jan 14 20:15:02 2011 $$  not imported - birdname: tweak14
+$$  Fri Jan 14 20:15:02 2011 $$  not imported - birdname: tweak15
+$$  Fri Jan 14 20:15:02 2011 $$  not imported - birdname: tweak16
+$$  Fri Jan 14 20:15:02 2011 $$  not imported - birdname: tweak17
+$$  Fri Jan 14 20:15:02 2011 $$  not imported - birdname: tweak18
+$$  Fri Jan 14 20:15:02 2011 $$  not imported - birdname: tweak19
+$$  Fri Jan 14 20:15:02 2011 $$  not imported - birdname: tweak2
+$$  Fri Jan 14 20:15:02 2011 $$  not imported - birdname: tweak20
+$$  Fri Jan 14 20:15:02 2011 $$  not imported - birdname: tweak21
+$$  Fri Jan 14 20:15:02 2011 $$  not imported - birdname: tweak22
+$$  Fri Jan 14 20:15:02 2011 $$  not imported - birdname: tweak24
+$$  Fri Jan 14 20:15:02 2011 $$  not imported - birdname: tweak25
+$$  Fri Jan 14 20:15:02 2011 $$  not imported - birdname: tweak26
+$$  Fri Jan 14 20:15:02 2011 $$  not imported - birdname: tweak3
+$$  Fri Jan 14 20:15:02 2011 $$  not imported - birdname: tweak30
+$$  Fri Jan 14 20:15:02 2011 $$  not imported - birdname: tweak31
+$$  Fri Jan 14 20:15:02 2011 $$  not imported - birdname: tweak32
+$$  Fri Jan 14 20:15:02 2011 $$  not imported - birdname: tweak33
+$$  Fri Jan 14 20:15:02 2011 $$  not imported - birdname: tweak34
+$$  Fri Jan 14 20:15:02 2011 $$  not imported - birdname: tweak35
+$$  Fri Jan 14 20:15:02 2011 $$  not imported - birdname: tweak36
+$$  Fri Jan 14 20:15:02 2011 $$  not imported - birdname: tweak37
+$$  Fri Jan 14 20:15:02 2011 $$  not imported - birdname: tweak38
+$$  Fri Jan 14 20:15:02 2011 $$  not imported - birdname: tweak387
+$$  Fri Jan 14 20:15:02 2011 $$  not imported - birdname: tweak38767
+$$  Fri Jan 14 20:15:02 2011 $$  not imported - birdname: tweak39
+$$  Fri Jan 14 20:15:02 2011 $$  not imported - birdname: tweak4
+$$  Fri Jan 14 20:15:02 2011 $$  not imported - birdname: tweak5
+$$  Fri Jan 14 20:15:02 2011 $$  not imported - birdname: tweak6
+$$  Fri Jan 14 20:15:02 2011 $$  not imported - birdname: Tweak666
+$$  Fri Jan 14 20:15:02 2011 $$  not imported - birdname: tweak69
+$$  Fri Jan 14 20:15:02 2011 $$  not imported - birdname: tweak7
+$$  Fri Jan 14 20:15:02 2011 $$  not imported - birdname: tweak76
+$$  Fri Jan 14 20:15:02 2011 $$  not imported - birdname: tweak77
+$$  Fri Jan 14 20:15:02 2011 $$  not imported - birdname: tweak78
+$$  Fri Jan 14 20:15:02 2011 $$  not imported - birdname: tweak79
+$$  Fri Jan 14 20:15:02 2011 $$  not imported - birdname: tweak8
+$$  Fri Jan 14 20:15:02 2011 $$  not imported - birdname: tweak9
+$$  Fri Jan 14 20:15:02 2011 $$  not imported - birdname: tweakr27
+$$  Fri Jan 14 20:15:02 2011 $$  not imported - birdname: tweakr28
+$$  Fri Jan 14 20:15:02 2011 $$  not imported - birdname: tweakr29
+$$  Fri Jan 14 20:15:02 2011 $$  not imported - birdname: Tweaky_num_num
+$$  Fri Jan 14 20:15:02 2011 $$  not imported - birdname: x
+$$  Fri Jan 14 20:15:02 2011 $$  not imported - birdname: xx
+$$  Fri Jan 14 20:15:02 2011 $$  not imported - birdname: xxx
+$$  Fri Jan 14 20:15:02 2011 $$  not imported - birdname: xxxxx

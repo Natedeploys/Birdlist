@@ -1,0 +1,36 @@
+
+    <h1>Hello and Welcome to Lablog!</h1>
+    <div>
+        You seem to be new around here. Let me briefly explain to you what Lablog is:
+        <ul>
+        <li>Lablog is like your old paper labbook where you want to write down all your ideas, experiments, attempts and results.
+        <li>However, Lablog is more than this. With Lablog you not only write a diary about your scientific work, but Lablog let's you 
+        actually find your notes again! You can tag your entries, search them and find them. Amazing, isn't it?</li>
+        <li>Lablog is also tightly integrated with your favorite animal database - no need to copy / paste around data about animals anymore.</li>
+        </ul>
+        
+        <h2>Let's get started</h2>
+        In order to use Lablog you only need to know a few things:
+        <ul>
+        <li>In Lablog everything starts with a <i>Project</i>. A <i>Project</i> can be anything from "get my life organized" to "take over the world". 
+        A <i>Project</i> bundles all the little missions that are necessary to finally one day accomplish your <i>Project</i> goal.</li>
+        <li><i>Experiments</i> are all the little missions that you attempt in order to accomplish your Project goal. <i>Experiments</i> themselves consist of
+        <i>Events</i>.</li>
+        <li>Every Experiment follows a certain <i>Protocol</i>. You can define as many as you want and a single Experiment can even built upon multiple <i>Protocols</i>.</li>
+        </ul>
+        There are many more functions, but why don't you go ahead and create a <a href="{% url new_project username %}"> new Project</a> and a <a href="{% url new_experiment username %}">new Experiment</a>.
+        
+        <h2>Beware of slugs!</h2>
+        One last word of advice: 
+        <ul>
+        <li>
+        Lablog is full of so called <i>slugs</i>. A slug is a "short text used in a URL to identify and describe a resource". Instead
+        of having long, confusing URLs, why not use something meaningful? What is easier to read and interpret <i>"/{{username}}/experiment/43932/"</i> or 
+        <i>"/{{username}}/experiment/my_super_experiment_with_electroshocks/"</i>? We believe the latter.</li>
+        <li>
+        The only thing that you need to know about slugs is that they may not contain any whitespace or non standard letters. Slugs need to be "URL friendly" - but Lablog
+        will help you with this.
+        </li>
+    
+    </div>
+

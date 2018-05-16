@@ -1,0 +1,45 @@
+{% extends "birdlist/basic/base.html" %}
+{% load in_group %}
+
+        {% block secondaryapps %}                
+        <ul class="songbirdTab">
+            {% if user.is_authenticated %}
+                <li class="active">birdlist</li>
+                <li><a href="{% url index_lablog %}">lablog</a></li>
+                <li><a href="{% url helpdesk_home %}">helpdesk</a></li>
+                {% if user.is_staff and user|in_group:"superuser" %}
+                    <li class="admin"><a href="{% url admin:index %}">Admin</a></li>
+                    <li class="admin"><a href="{% url index_importexport %}">import / export</a></li>            
+                {% endif %}            
+                <li class="rightfloat"><a href="{% url birdlistlogout %}">logout</a></li>
+                <li class="rightfloat"><a href="{% url auth_password_change %}" title="change your password">{{ user.username }}</a></li>
+            {% else %}
+                <li class="rightfloat_no_bar"><a href="{% url birdlistlogin %}">login</a></li>
+            {% endif %}
+        </ul>
+        {% endblock %}
+
+        {% block header %}
+            <h1 id="logo"><a href="{% url index_birdlist %}"><img src='{{ STATIC_URL }}birdlist/img/birdlistlogo_small.gif'></a></h1>
+            <ul id="nav-global">
+            {% if user.is_authenticated %}
+                <li id="nav_index"><a href="{% url index_birdlist %}">home</a></li>
+                <li id="nav_bird"><a href="{% url index_bird %}">birds</a></li>
+                <li id="nav_cage"><a href="{% url index_cage %}">cages</a></li>  
+                <li id="nav_breeding"><a href="{% url index_breeding %}">breeding</a></li>  
+                <li id="nav_birdcare"><a href="{% url index_birdcare %}">birdcare</a></li>
+                <li id="nav_stats"><a href="{% url index_stats %}">stats</a></li>
+                <li id="nav_help"><a href="{% url index_help %}" style="color:white;">help</a></li>              
+            {% endif %}
+            </ul>
+        {% endblock %}
+
+        {% block sidebar %}
+        {% if user.is_authenticated %} 
+            {% include "birdlist/basic/sidebar.html" %}
+        {% endif %}            
+        {% endblock %}
+
+        {% block content-main %} {% endblock %}
+
+

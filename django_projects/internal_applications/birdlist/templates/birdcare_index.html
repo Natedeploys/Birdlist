@@ -1,0 +1,62 @@
+{% extends "birdlist/basic/base_birdcare.html" %}
+
+{% block context-menu %}
+    <li id="nav_list_of_cages_by_function"><a href="{% url birdcare_db_cleanup  %}" class="birdlistaction">db cleanup</a></li>    
+{% endblock %}
+
+
+{% block content-main %}
+
+    <h1>Birdcare Protocol</h1>
+    <p>When doing birdcare this site provides you with all the information you need.</p>
+    
+    <h2 id="colony">Breeding Colony Duties</h2>
+    <p>Please check these <a href="{% url birdcare_todo %}">TODOs</a> if you were to do birdcare today.</p>
+    <p>Please use this <a href="{% url birdcare_worksheet %}">worksheet</a> for doing birdcare.</p>
+    <p>You will also need the list of <a class="edit" href="{% url cages_with_occupancy_pdf %}" title="generate pdf of this list">cages with occupancy</a> in order to know where to transfer juveniles to.</p>
+    <br>     
+    
+    <h3 id="info">Information to send out</h3>
+    <span>Please don't forget to send the following lists with your birdcare report:</span>
+    <ul>
+        <li><a href="{% url show_common_reservations_pdf %}" title="Generate pdf of reserved animals">reserved animals</a></li>
+        <li><a href="{% url show_juveniles_by_age_pdf %}" title="Generate pdf of juveniles">Juveniles (<70 days), sorted by age</a></li>
+        <li><a href="{% url current_couples_pdf %}" title="Generate pdf of current couples">Current couples</a></li>
+    </ul>
+    <br>
+    
+    <span>Please report the following stats:</span>
+    <ul>
+        <li># newborns</li>
+        <li># new couples</li>
+        <li># couples separated</li>
+        <li># juveniles transfered</li>
+        <li># birds euthanized</li>
+        <li>cages over capacity (<a href="{% url cages_over_capacity %}" title="cages over occupancy">list</a>)</li>
+    </ul>
+       
+    
+    
+    <br>
+        
+    <h2 id="expsheets">Daily checks of experiment sheets</h2>
+    <p>Currently the following birds show to have an open experiment:</p>
+    {% with open_experiments as bn_cage_room_sd_pi_links %}
+        {% include 'birdlist/basic/activity_list_include.html'%}
+    {% endwith %}
+
+{% endblock %}
+
+
+{% block sidebar %}
+<h2>Table of Contents:</h2>
+<ul>
+    <li id="nav-quick-details"><a href="#colony">Breeding Colony Duties</a></li>
+    <li id="nav-quick-details"><a href="#info">Information to send out</a></li>
+    <li id="nav-quick-details"><a href="#expsheets">Daily checks of experiment sheets</a></li>
+</ul>     
+
+<br><br>
+{% include "birdlist/forms/sidebar_searches.html" %}
+{% endblock %}
+

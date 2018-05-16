@@ -1,0 +1,182 @@
+{% extends "birdlist/basic/base_bird.html" %}
+
+{% block billboard %}
+<li id="nav-exp-views"><h2>Bird Overview</h2></li>
+{% endblock %}
+
+{% block context-menu %}
+
+    {% if not bird.exit_date %}
+
+        {% comment %} bird actions first {% endcomment %}
+        <li><a href="{% url transfer_bird_id bird.id %}" class="birdlistaction">transfer bird</a></li>
+
+        {% if not bird.reserved_until %}
+            <li><a href="{% url reserve_bird_id bird.id %}" class="birdlistaction">reserve bird</a></li>    
+        {% else %}
+            {% if bird.reserved_by == request.user %}
+                <li><a href="{% url cancel_reserviation_bird_id bird.id %}" class="birdlistaction">cancel reservation</a></li>   
+            {% endif %}
+        {% endif %}
+        
+        {% if not openexperiments %}
+        <li><a href="{% url checkout_bird bird.id %}" class="birdlistaction" title="remove bird from database (end of experiment, given away, ...)">checkout</a></li>
+        {% endif %}
+
+        {% comment %} bird activities now {% endcomment %}
+        <li><a href="{% url add_healthstatus %}?bird_id={{ bird.id }}" class="birdlistaction">add health status</a></li>
+        
+    {% endif %}
+    
+    {% if openexperiments %}
+
+        {% for exp in openexperiments %}
+            {% ifequal exp.originator user %}
+            <li><a href="{% url generate_exp_sheet bird.id exp.id %}" class="birdlistaction" title="print experiment sheet for '{{ exp.get_activity_content_pretty }}'">experiment sheet</a></li>
+            <li><a href="{% url activity_edit exp.id %}" class="birdlistaction" title="{{ exp.get_activity_content_pretty }}">edit experiment</a></li>
+            <li><a href="{% url activity_close exp.id %}" class="birdlistaction" title="{{ exp.get_activity_content_pretty }}">close experiment</a></li>
+            {% endifequal %}
+        {% endfor %}
+    {% else %}
+        {% if not bird.exit_date %}
+        <li><a href="{% url add_experiment %}?bird_id={{ bird.id }}" class="birdlistaction">add experiment</a></li>
+        {% endif %}
+    {% endif %}
+    
+{% endblock %}
+
+
+{% block content-main %}
+
+{% load tagging_tags %}
+{% tags_for_object bird as tag_list %}
+
+<br><br>
+<h1 id="info">{{bird.name }} 
+    {% if bird.exit_date == None %}
+        {% with bird.get_phd as age %}
+            {% if age == "?" %}
+                (age unknown)
+            {% else %}
+                ({{ age }} phd)    
+            {% endif %}
+        {% endwith %}
+    {% endif %} - 
+    <a class="edit" href="{% url bird_generate_pdf bird.id %}" title="generate birdsheet">pdf</a>
+</h1>
+
+{% if img %}
+    <div style="float:right;">
+        <h2>&nbsp; &nbsp; Footprint</h2>
+        <img src="{{ img }}">
+    </div>
+{% endif %}
+
+<h2>Info - <a class='edit' href='{% url bird_overview bird.id %}edit'>edit</a></h2> 
+<table>
+    <tr><th></th><th width='200'></th><th></th><th min-width='200'></th></tr>
+    <tr><td><b>Birthday:</b></td><td>{{ bird.date_of_birth|default_if_none:"" }}</td>
+        <td><b>Age Uncertainty:</b></td><td>{{ bird.age_uncertainty}}</td></tr>
+    <tr><td><b>Sex:</b></td><td>{{ bird.get_sex_display }}</td>
+        <td><b>Species:</b></td><td>{{ bird.species }}</td></tr>
+    <tr><td><b>Father:</b></td><td>{% if bird.get_father %}<a href="{{ bird.get_father.get_absolute_url }}">{{ bird.get_father }}</a>{% endif %}</td>
+        <td><b>Mother:</b></td><td>{% if bird.get_mother %}<a href="{{ bird.get_mother.get_absolute_url }}">{{ bird.get_mother}}</a>{% endif %}</td></tr>
+    <tr><td><b>Cage:</b></td><td><a href='{{bird.cage.get_absolute_url }}'>{{ bird.cage.name }}</a></td>
+        <td><b>Brood:</b></td><td>{{ bird.brood|default_if_none:""}}</td></tr>
+    <tr><td><b>Missing since:</b></td><td>{% if bird.missing_since %}{{ bird.missing_since }}{% endif %}</td>
+        <td><b>Tags:</b></td>
+        <td>
+        {% if tag_list %}
+            {% for j in tag_list %}
+                <a href="{% url show_bird_tags j %}" title="Show all animals with tag '{{j}}'" style="display:inline; padding:1px 3px; background:orange">{{j}}</a>
+            {% endfor %}
+        {% endif %}
+        </td>
+    <tr><td><b>Reserved until:</b></td><td>{% if bird.reserved_until %}{{ bird.reserved_until }}{% endif %}</td>
+        <td><b>Reserved by:</b></td><td>{% if bird.reserved_by %}{{ bird.reserved_by }}{% endif %}</td></tr>
+    <tr><td><b>Exit Date:</b></td><td>{% if bird.exit_date %}{{ bird.exit_date }}{% endif %}</td>
+        <td><b>Cause of Exit:</b></td><td>{% if bird.cause_of_exit %}{{ bird.get_cause_of_exit_display }}{% endif %}</td></tr>
+
+    {% if bird.exit_date == None %}        
+    {% with bird.is_breeding as is_breeding %}
+    <tr><td><b>Currently Breeding:</b></td>
+    <td>
+    {% if is_breeding %}
+        {% with bird.get_current_partner as partner %}
+        {% if partner %}
+            YES, with <a href="{% url bird_overview partner.id %}">{{ partner }}</a>
+        {% else %}
+            YES (unknown partner, please report to HOB)        
+        {% endif %}
+        {% endwith %}
+    {% else %}
+        No
+    {% endif %}
+    </td>
+    <td><b>Coupling status:</b></td>
+    <td>{% if offspring and bird.coupling_status == bird.COUPLING_NEVER_USED %}wrong coupling status!{% else %}{{ bird.get_coupling_status_display }}{%endif%}</td>
+    </tr>    
+    {% endwith %}
+    {% endif %}
+    <tr><td><b>Comment:</b></td><td colspan="3">{{ bird.comment|default_if_none:""|linebreaks }}</td></tr>
+
+</table>
+<br>
+<h2 id="offspring">Offspring {% if offspring %}({{ offspring|length }}){% endif %}</h2>
+<p>
+{% if offspring %}
+    {% for off in offspring %}
+        <a href="{{ off.get_absolute_url }}">{{ off.name }}</a>{% if forloop.last %}.{% else %},{% endif %} 
+    {% endfor %}
+{% else %}
+        No offspring.
+{% endif %}
+
+<h2 id="activities">Activities</h2>
+{% if activities %}
+
+    {% with activities as act_name_orig %}
+        {% include 'birdlist/basic/activity_list_include.html'%}
+    {% endwith %}
+    
+    {% else %}
+        <p>
+        No activities found.
+        </p>
+{% endif %}
+
+{% endblock %} 
+
+
+{% block sidebar %}
+    {% if user.is_authenticated %}
+        <div id="birdtoc">
+            <h2>Table of Contents:</h2>
+            <ul>
+                <li id="nav-quick-details"><a href="#info">Bird info</a></li>
+                <li id="nav-quick-details"><a href="#offspring">Offspring</a></li>
+                <li id="nav-quick-details"><a href="#activities">Activities</a></li>
+            </ul>
+            <h2>Show:</h2>
+            <ul>
+                <li id="nav-quick-details"><a href="{% url show_family_tree bird.id %}">Familiy tree</a></li>
+            </ul>
+            <h2>Help:</h2>
+            <h3>How do I declare an animal to be dead?</h3>
+            <ul>
+                <li>Make sure there are no open experiments.</li>
+                <li>Use the 'checkout' button.</li>
+            </ul>          
+        </div>
+        <br>
+        <br>
+        {% include "birdlist/basic/sidebar.html" %}
+    {% endif %}            
+{% endblock %}
+
+
+
+
+
+
+

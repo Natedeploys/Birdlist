@@ -1,0 +1,24 @@
+{% extends "birdlist/basic/base_stats.html" %}
+{% load humanize %} 
+{% block content-main %}
+
+    <br>
+
+    {% if animals %}
+    <h2>Animals with wrong coupling status ({{animals|length}}):</h2>
+        <table>
+        <tr>
+            <td align="center">bird</td>
+        </tr>
+        {% for i in animals %}
+            <tr>
+                <td align="center"><a href="{% url bird_overview i.id %}"> {{ i }}</a></td>
+            </tr>
+        {% endfor %}
+        </table>
+    {% else %}
+    <h2>All animals seem to have the correct coupling status</h2>    
+    {% endif %}
+
+{% endblock %}
+

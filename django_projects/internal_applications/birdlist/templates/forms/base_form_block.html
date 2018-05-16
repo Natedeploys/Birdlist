@@ -1,0 +1,15 @@
+<form action="." method="post">{% csrf_token %}
+    <fieldset class="aligned ">
+
+    {% block form-content %}
+        {% include "birdlist/basic/base_form_parser.html" %}
+    {% endblock %}
+    
+    <div style="float:left">
+    {% block form-buttons %}
+        {% include "birdlist/forms/buttons_save_new_cancel.html" %}
+    {% endblock %}
+    </div>
+    
+    </fieldset>
+</form>

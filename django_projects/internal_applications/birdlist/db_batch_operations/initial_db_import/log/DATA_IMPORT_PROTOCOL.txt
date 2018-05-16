@@ -1,0 +1,124 @@
+
+
+PROTOCOL DATABASE TRANSFER birdlist zut4 -> birdlist 2.0
+------------------------------------------------------------------------------------------
+friday, Jan. 14th 2011 - michael graber
+
+
+1:30 PM
+
+UNIQUIFY DATATYPE
+---------------------------
+-> uniquify not properly working, replace by NullBooleanField
+
+- 1 - do model and evolution adaptation: git diff
+
+diff --git a/django_projects/internal_applications/birdlist/evolutions/big_update.py b/django_projects/internal_applications/birdlist/evolutions/big_update.py
+index eefce39..45d940a 100644
+--- a/django_projects/internal_applications/birdlist/evolutions/big_update.py
++++ b/django_projects/internal_applications/birdlist/evolutions/big_update.py
+@@ -1,13 +1,11 @@
+ #----- Evolution for birdlist
+ from django_evolution.mutations import *
+ from django.db import models
+-from birdlist.models import UniquifyField
+ 
+ MUTATIONS = [
+     AddField('LabRoom', 'in_use', models.BooleanField, initial=True),
+     AddField('Bird', 'missing_since', models.DateField, null=True),
+     AddField('Bird', 'reserved_by', models.ForeignKey, null=True, related_model='auth.User'),
+-    AddField('Bird', 'name_unique', UniquifyField, initial=True),
+ #    AddField('Bird', 'brood', models.ForeignKey, null=True, related_model='birdlist.Brood'),
+     AddField('Bird', 'date_of_birth', models.DateField, null=True),
+     DeleteField('Bird', 'reserved'),
+diff --git a/django_projects/internal_applications/birdlist/models.py b/django_projects/internal_applications/birdlist/models.py
+index bea09fd..690d2d5 100644
+--- a/django_projects/internal_applications/birdlist/models.py
++++ b/django_projects/internal_applications/birdlist/models.py
+@@ -625,7 +625,7 @@ class Bird(CommonStuff):
+     # birds to be unique will need entry yes, birds whose name can be used
+     # MULTIPLE times HAVE TO USE NULL, False is not to be used
+     # TODO : enforce not using False
+-    name_unique     = UniquifyField(default=True) 
++    name_unique     = models.NullBooleanField(default=True) 
+     
+     # don't use magic numbers!
+     # see also: http://www.b-list.org/weblog/2007/nov/02/handle-choices-right-way/
+
+
+- 2 - drop database django
+- 3 - run: $python manage.py syncdb
+- 4 - start dev server
+- 5 - create superuser group and add yourself
+
+- 6 - import db
+go to : http://127.0.0.1:8000/admin/import-export/
+import actual database
+
+works!!
+
+
+
+2:00 PM
+
+OLD BIRDLIST EXPORT
+---------------------------
+
+done and saved in git repository birdlist/dbconversion/data/ as
+
+-rw-r--r-- 1 michael michael 194504 2011-01-14 14:22 Birdlist_20110114_1410PM.csv
+-rw-r--r-- 1 michael michael 182193 2011-01-14 14:10 Birdlist_20110114_1410PM.xlsx
+-rw-r--r-- 1 michael michael 253638 2011-01-14 14:23 CageHistory_20110114_1410PM.csv
+-rw-r--r-- 1 michael michael 262841 2011-01-14 14:11 CageHistory_20110114_1410PM.xlsx
+-rw-r--r-- 1 michael michael   1473 2011-01-14 14:24 Cages_20110114_1412PM.csv
+-rw-r--r-- 1 michael michael   9213 2011-01-14 14:12 Cages_20110114_1412PM.xlsx
+-rw-r--r-- 1 michael michael  24486 2011-01-14 14:24 Coupling_20110114_1413PM.csv
+-rw-r--r-- 1 michael michael  29991 2011-01-14 14:13 Coupling_20110114_1413PM.xlsx
+-rw-r--r-- 1 michael michael 143877 2011-01-14 14:25 ExpHistory_20110114_1415PM.csv
+-rw-r--r-- 1 michael michael 129002 2011-01-14 14:14 ExpHistory_20110114_1415PM.xlsx
+
+
+
+
+2:45 PM
+
+DATA IMPORT INTO BIRDLIST 2.0
+---------------------------
+
+- 1 - replace newline characters
+
+If you open a non Unix file within the great text editor VIM, it probably shows up with a bunch of ^M characters at the end of every line (where ^ means CTRL). You can easily remove them with a common replace command as follows:
+
+:%s/^V^M/\r/g
+
+
+- 2 - update rooms and import them
+worked
+
+- 3 - import birds
+we still need a 'missing' cage: has to be removed later -> ticket submitted
+finished 4:19 PM
+
+- 4 - import couples
+works
+
+- 5 - import activities
+had to add users, 'usernames', and clean .csv files manually
+-> error log added as copy-past of print output into log directory
+
+
+5:45 PM
+
+DATA IMPORTED FOR ZONGBIRD-DB AND MAILED TO ANDREAS - TO LOAD INTO ZONGBIRD
+
+
+DONE!!
+
+
+
+
+
+
+
+
+

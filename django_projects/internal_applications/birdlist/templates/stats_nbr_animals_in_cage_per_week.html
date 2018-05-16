@@ -1,0 +1,174 @@
+{% extends "birdlist/basic/base_stats.html" %}
+
+{% block custom_stylesheet %} 
+    <script src="{{ STATIC_URL }}helpdesk/jquery.jqplot/jquery.jqplot.min.js" type="text/javascript" language="javascript"></script>
+    <link rel="stylesheet" typ="text/css" href="{{ STATIC_URL }}helpdesk/jquery.jqplot/jquery.jqplot.min.css" />
+    <script type="text/javascript" src="{{ STATIC_URL }}helpdesk/jquery.jqplot/plugins/jqplot.categoryAxisRenderer.min.js"></script>
+    <script type="text/javascript" src="{{ STATIC_URL }}helpdesk/jquery.jqplot/plugins/jqplot.barRenderer.min.js"></script>
+    <script type="text/javascript" src="{{ STATIC_URL }}helpdesk/jquery.jqplot/plugins/jqplot.dateAxisRenderer.min.js"></script>
+    <script type="text/javascript" src="{{ STATIC_URL }}helpdesk/jquery.jqplot/plugins/jqplot.highlighter.min.js"></script>
+    <script type="text/javascript" src="{{ STATIC_URL }}helpdesk/jquery.jqplot/plugins/jqplot.cursor.min.js"></script>
+    <script type="text/javascript" src="{{ STATIC_URL }}helpdesk/jquery.jqplot/plugins/jqplot.canvasTextRenderer.min.js"></script>
+    <script type="text/javascript" src="{{ STATIC_URL }}helpdesk/jquery.jqplot/plugins/jqplot.canvasAxisLabelRenderer.min.js"></script>
+    <script type="text/javascript" src="{{ STATIC_URL }}helpdesk/jquery.jqplot/plugins/jqplot.hermiteSplineRenderer.js"></script>
+    <style type="text/css"> 
+    .button-reset {
+      margin: 30px;
+      margin-left: 90px;
+    }
+    </style> 
+{% endblock %}
+
+{% block content-main %}
+    <br>
+    <br>
+    {% if counter %}
+
+        <h2>Switch to different cage</h2>
+        <div>
+        {% for i in cage_names %}
+            <a href="{% url nbr_animals_in_cage_per_week %}?cage={{ i }}" title="show data and plot of cage '{{ i }}'">{{ i }}</a>
+        {% endfor %}
+        </div>
+        
+        
+        <h2> Maximum number of animals in cage "{{ cage_name }}" per week </h2>
+        
+        <br>
+        <div id="chartdiv1" style="height:500px; width:750px; "></div>
+        <button class="button-reset">Reset Zoom</button> 
+        <script type='text/javascript'>
+            $.jqplot.config.enablePlugins = true;
+            var dataset = [];
+            
+            dataset[0] = [{% for f in counter %}['{{ f.0 }}', {{ f.1 }}]{% if not forloop.last %}, {% endif %}{% endfor %}];
+            
+            plot1 = $.jqplot('chartdiv1', dataset, {
+                seriesDefaults: {
+// do not use the spline renderer (makes data less readable)
+//              renderer: $.jqplot.hermiteSplineRenderer,
+//              rendererOptions: { steps: 4, tension: 0.5 },
+                },
+            legend: {show: true, location: 'nw', xoffset: 10},
+            title: "Use left mouse click and drag to zoom-in. Use 'Reset Zoom' button below or double click to zoom-out.<br>Data shown here are smoothed with a 4 week window.",
+            series: [
+                {
+                    label: 'nbr animals in cage',
+                    lineWidth: 1,
+                    markerOptions: { style: 'circle', size: 4}
+                }
+                ],
+            axes: {
+                xaxis: {
+                    renderer: $.jqplot.DateAxisRenderer, 
+                    tickOptions: { formatString:'%b %#d, %y'},
+                    label: "time",
+                },
+                yaxis: {
+                    min: 0,
+                    label: "nbr animals in cage",
+                    labelRenderer: $.jqplot.CanvasAxisLabelRenderer, 
+                    labelOptions: {
+                        fontFamily: 'Georgia, Serif',
+                        fontSize: '12pt'
+                  }
+                }
+            },
+            cursor: { 
+                showTooltip: true, 
+                showHorizontalLine: false, 
+                showVerticalLine: true, 
+                zoom: true, 
+                constrainZoomTo: 'x', 
+            } 
+            });
+            
+            $('.button-reset').click(function() { plot1.resetZoom() });
+        </script>
+
+        <p>
+        For raw data, see the <a href="#raw_data">end</a> of this page.
+        </p>
+
+        <table>
+        <tr>
+            <td align = "center">date</td>
+            <td># birds</td>
+        </tr>
+
+            {% for i in counter %}
+            <tr>
+                <td>{{ i.0 }}</td>
+                <td align = "center">{{ i.1 }}</td>
+            </tr>
+            {% endfor %}
+
+        </table>
+        
+        <br>
+        <br>
+        
+        <h2 id="raw_data"> raw data (for plotting in matlab, etc) </h2>
+        <h3># animals per week</h3>
+        <div>
+        {% for i in counter %}
+            {{ i.1 }}
+        {% endfor %}
+        </div>
+        
+        <h3>date</h3>
+        <div>
+        {% for i in counter %}
+            '{{ i.0 }}'{% if not forloop.last %},{%endif%}
+        {% endfor %}
+        </div>     
+
+    {% else %}
+        <h2><p>Sorry, no stats for now</p></h2>
+    {% endif %}
+
+{% endblock %}
+
+
+{% block sidebar %}
+    {% if user.is_authenticated %}
+        <div id="question">
+            <h2>Why does the number of animals of the current week not match the actual number of animals in that cage?</h2>
+            <ul><li>
+            The list on the left shows the MAXIMUM number of animals per cage per week. Let's assume an animal was present 
+            in cage X until Wednesday and was transferred on Wednesday to cage Y. In this case, we increase the counter
+            for both cages, X and Y. This means that although the animal is currently in cage Y, its presence in cage X
+            will still be counted.
+            </li></ul>
+            
+            <h2>Shouldn't the number of animals in cage "OUTOFCOLONY" be always increasing?</h2>
+            <ul><li>
+            Yes, you are right. However, sometimes people need to resurrect an animal if they made a database error.
+            </li></ul>
+            
+            <h2>What do you do with anmials that have no birthday?</h2>
+            <ul><li>
+            If an animal has no birthday but it has multiple cage transfers, then we ignore the first cage residence.</li>
+            <li>If an animal has no birthday and has never been transferred, then we use the arbitrary birthday 2007/01/01.</li>
+            </ul>            
+            
+            
+            <h2>Why do all years have 53 weeks?</h2>
+            <ul><li>
+            We use the ISO calendar to compute the stats on the left page. The ISO calendar consists of either 52 or 53 weeks per year, depending on the year. 
+            Out of convience, we always assume 53 weeks per year. See <a href="http://www.phys.uu.nl/~vgent/calendar/isocalendar.htm">this page</a> for more info.
+            </li></ul>
+            
+            <h2>Runtime</h2>
+            <ul><li>
+            Page lookup took {{ run_time }} seconds.
+            </li></ul>
+            
+        </div>
+     
+        <br>
+        <br>
+        {% include "birdlist/basic/sidebar.html" %}
+    {% endif %}            
+{% endblock %}
+

@@ -1,0 +1,40 @@
+git README for songbird-django:
+
+1) rebuild repository
+2) configure git to use correct user / email address
+
+
+################################################################################
+#
+# THIS IS DEPRECATED!
+#
+
+
+
+1) in case something goes wrong with the repository, do the following:
+
+# create a new OK copy of the repository
+git clone --bare --shared username@zuriken:/projects/rich/SVN/git/django
+
+# fix permissions
+cd django.git
+chmod -R g+ws *
+chgrp -R Rich *
+git repo-config core.sharedRepository true
+
+# rename directory from django.git to django and move back to linsrv into right place
+# do a fresh checkout on the clients:
+
+git clone username@zuriken:/projects/rich/SVN/git/django
+
+# now all the pushing should work as expected
+
+
+################################################################################
+2) configure git to reflect your username / email address
+
+$ git config http.sslVerify false
+$ git config user.name "Tekkub"
+$ git config user.email "tekkub@gmail.com"
+
+################################################################################

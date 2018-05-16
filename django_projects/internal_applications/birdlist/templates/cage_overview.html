@@ -1,0 +1,245 @@
+{% extends "birdlist/basic/base_cage.html" %}
+
+{% block stylesheet %}
+    {% include "birdlist/basic/base_form_stylesheet.html" %}
+    {% load adminmedia %}
+
+    <script type="text/javascript">
+    window.__admin_media_prefix__ = "{% filter escapejs %}{% admin_media_prefix %}{% endfilter %}";
+    </script>
+{% endblock %}
+
+
+{% block billboard %}
+<li id="nav-exp-views"><h2>Cage Overview</h2></li>
+{% endblock %}
+
+{% block context-menu %}
+    {% with cage.has_couple as has_couple %}
+    
+        <li id="nav_popup_new_cage"><span class="birdlistadmin" style="display:inline">only administrators can edit cage settings</span></li>
+        
+        {% if cage.function == cage.FUNCTION_BREEDING and not form_juvs and has_couple and not form_move_family %}
+            <li id="nav_"><a href="{% url add_juveniles_to_cage cage.name %}" class="birdlistaction">add juveniles</a></li>
+        {% endif %}
+        
+        {% if not form_juvs and has_couple and not form_move_family and not form_move_brood_with_mother %}
+            <li id="nav_"><a href="{% url move_family cage.name %}" class="birdlistaction" title="move entire family to different cage">move family</a></li>        
+        {% endif %}
+        
+        {% if not form_juvs and has_couple and not form_move_brood_with_mother and not form_move_family and cage.occupancy > 2%}
+            <li id="nav_"><a href="{% url move_youngest_brood_and_mother cage.name %}" class="birdlistaction" title="move youngest brood with mother">move brood & mother</a></li>
+        {% endif %}
+        
+        {% if cage.function == cage.FUNCTION_BREEDING and not form_couple %}
+            {% if not has_couple %}
+                <li id="nav_"><a href="{% url add_couple_to_cage cage.name %}" class="birdlistaction">add couple</a></li>
+            {% endif %}
+            {% if has_couple and not form_separate and cage.occupancy == 2 %}
+                <li id="nav_"><a href="{{ cage.get_separation_url }}" class="birdlistaction">separate couple</a></li>
+            {% endif %}
+        {% endif %}
+        
+    {% endwith %}
+{% endblock %}
+
+{% block content-main %}
+{% with cage.occupancy as occupancy %}
+
+    <h1>{{ cage.name }}</h1>
+
+    <h2>Info</h2> 
+    <ul>
+        <li>Room: {{ cage.room.room_number }} -  {{ cage.room.description }}</li>
+        <li>Max Occupancy: {{ cage.max_occupancy }}</li>
+
+            {% if occupancy > cage.max_occupancy %}
+                <li style="color:red;">Current number of birds in cage: {{ occupancy }}</li>
+            {% else %}
+                <li>Current number of birds in cage: {{ occupancy }}</li>        
+            {% endif %}
+
+        <li>Function: {{ cage.get_function_display }} 
+        {% if cage.get_restriction_display %} - {{ cage.get_restriction_display }}{% endif %}</li>
+        {% if cage.has_foster_couple %}<li><b>This is a foster couple</b></li>{% endif %}
+    </ul>
+
+    {% comment %} show couple comment if exists {% endcomment %}
+    {% if cage.has_couple %}    
+    {% with cage.couple_comment as couple_comment %}
+        {% if couple_comment %}
+        <h2>Couple comment</h2>
+        <ul>    
+            <li>{{ couple_comment|linebreaks }}</li>
+        </ul>
+        {% endif %}
+    {% endwith %}
+    {% endif %}
+
+    {% if form_juvs %}
+        {%  if not whynotaddmessage %}
+            <h2>Add Juveniles</h2>
+            {% with form_juvs as form %}
+                {% include "birdlist/forms/base_form_block.html" %}
+            {% endwith %}
+           
+        {%  else %}
+            <h2 style="color:red;">Can not add juveniles: {{ whynotaddmessage|linebreaks }}</h2>
+        {% endif %}
+    {% endif %}
+
+    {% if form_couplingcomment %}
+        {%  if not whynocomment %}
+            <h2>Edit Coupling Comment</h2>
+            {% with form_couplingcomment as form %}
+                {% include "birdlist/forms/base_form_block.html" %}
+            {% endwith %}
+           
+        {%  else %}
+            <h2 style="color:red;">Can not edit comment: {{ whynocomment|linebreaks }}</h2>
+        {% endif %}
+    {% endif %}
+
+    {% if form_couple %}
+        {%  if not whynocouplemessage %}
+            <h2>Add a Couple</h2>
+            <ul style="color:red;">
+                <li>Only birds that reside currently inside a breeding brake or long term storage cage can be chosen.</li>
+                <li>Only birds that are sexed can be chosen.</li>
+                <li>Choose 'foster parents' only, if you are coupling two birds that raise alien birds.</li>
+            </ul>
+
+                {% with form_couple as form %}
+                    {% include "birdlist/forms/base_form_block.html" %}
+                {% endwith %}
+                
+        {%  else %}
+            <h2 style="color:red;">Can not add new couple: {{ whynocouplemessage|linebreaks }}</h2>
+        {% endif %}
+    {% endif %}
+
+    {% if form_separate %}
+        {%  if not whynotseparatemessage %}
+            <h2>Separate the couple in this cage</h2>
+                {% with form_separate as form %}
+                    {% include "birdlist/forms/base_form_block.html" %}
+                {% endwith %}
+
+        {%  else %}
+            <h2 style="color:red;">Can not separate couple: {{ whynotseparatemessage|linebreaks }}</h2>
+        {% endif %}
+    {% endif %}
+
+    {% if form_move_family %}
+        {%  if not whynotmovemessage %}
+            <h2>Move family from current cage to new cage</h2>
+                {% with form_move_family as form %}
+                    {% include "birdlist/forms/base_form_block.html" %}
+                {% endwith %}
+
+        {%  else %}
+            <h2 style="color:red;">Can not move family: {{ whynotmovemessage|linebreaks }}</h2>
+        {% endif %}
+    {% endif %}
+
+    {% if form_move_brood_with_mother %}
+        {%  if not whynotmovemessage %}
+            <h2>Move youngest brood with mother to new cage</h2>
+                {% with form_move_brood_with_mother as form %}
+                    {% include "birdlist/forms/base_form_block.html" %}
+                {% endwith %}
+
+        {%  else %}
+            <h2 style="color:red;">Can not youngest brood with mother: {{ whynotmovemessage|linebreaks }}</h2>
+        {% endif %}
+    {% endif %}
+
+
+
+    <h2>Detailed Birdlist for Cage {{ cage.name }} ({{ birds.count }}) 
+        {% if occupancy > 0 %}
+            - <a class="edit" href="{% url show_birds_in_cage_pdf cage.name %}">pdf</a>
+        {% endif %}
+    </h2>
+    {% if birds %}
+        {% with birds as birdlist_with_links %}
+            {% include 'birdlist/basic/bird_list_include.html' %}
+        {% endwith %}
+    {% endif %}
+
+    <h2>Birds missing from Cage {{ cage.name }} ({{ missingbirds.count }})</h2>
+    {% if missingbirds %}
+        <p>
+        {% for b in missingbirds %}
+            {% if forloop.last %}
+                <a href={{b.get_absolute_url }} >{{ b.name }}</a>
+            {% else %}
+                <a href={{b.get_absolute_url }} >{{ b.name }}</a>,
+            {% endif %}
+        {% endfor %}
+    {% else %}
+        <p>There are no birds missing from this cage.</p>
+    {% endif %}
+    
+{% endwith %}
+{% endblock %} 
+
+
+{% block sidebar %}
+    {% if user.is_authenticated %}
+        
+        {% if form_separate or form_move_brood_with_mother %}
+            <br>
+            <div id="breeding">
+                <h2 style="color: orange;">How do I set the Coupling status correctly?</h2>
+                <ul>
+                    <li><b style="color: black;">good breeder</b> for 3 or more generations of offspring.</li>
+                    <li><b style="color: black;">semi-ok breeder</b> for 2 generations of offspring.</li>
+                    <li><b style="color: black;">do not couple</b> in the case of less than two generations, <b>malformed or white offspring</b>. 
+                    Additionally, please set the Coupling status of <b style="color: black;">all offspring to do not couple</b> manually, in the case of 
+                    malformations or white offspring from that couple.</li>
+                </ul>
+            </div>
+        {% else %}
+    
+            <div id="howto">
+                <h2>How do I ... ?</h2>
+
+                <h3>... move the youngest juveniles & their mother?</h3>
+                <ul>
+                    <li>use the "move brood & mother" button</li>
+                    <li>the father and any remaining juveniles will stay in the current cage</li>
+                </ul>
+                
+                <h3>... move juveniles & their mother?</h3>
+                <ul>
+                    <li>move juveniles first</li>
+                    <li>separate the couple</li>
+                </ul>
+                
+                <h3>... separate a couple?</h3>
+                <ul>
+                    <li>move juveniles first</li>
+                    <li>separate the couple</li>
+                </ul>
+            
+                <h3>... move entire family?</h3>
+                <ul>
+                    <li>use 'move family' button</li>
+                </ul>        
+            
+            </div>
+        {% endif %}
+     
+        <br>
+        <br>
+        {% if form_separate or form_move_brood_with_mother %}
+        
+        {% else %}
+            {% include "birdlist/basic/sidebar.html" %}
+        {% endif %}
+        
+    {% endif %}            
+{% endblock %}
+
+

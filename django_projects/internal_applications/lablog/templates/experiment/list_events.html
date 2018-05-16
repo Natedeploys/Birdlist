@@ -1,0 +1,22 @@
+{% extends "lablog/basic/base_experiments.html" %}
+
+{% block title_detail %}details for experiment {{ object.title }}  {% endblock %}
+
+{% block billboard %}
+{% if experiment %}
+<li id="nav-exp"><a href="{% url detail_experiment username experiment.slug %}">back to experiment {{ experiment.title }}</a></li>
+{% endif %}
+{% endblock %}
+
+
+{% block objectcontent %}
+{% include "event/event_object_list.html" %}
+{% endblock %}
+
+{% block sidebar %}
+{% include "basic/pagination.html" %}
+<h2>&nbsp;</h2>
+<ul>
+{% include "event/event_links_sidebar.html" %}
+</ul>
+{% endblock %}

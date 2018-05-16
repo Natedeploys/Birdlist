@@ -1,0 +1,8 @@
+{% extends "lablog/basic/base_form.html" %}
+
+{% block billboard %}
+{% if experiment.title %}
+<li id="nav-exp"><a href="{% url detail_experiment username experiment.slug %}">back to experiment {{ experiment.title }}</a></li>
+{% endif %}
+{% endblock %}
+

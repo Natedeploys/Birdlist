@@ -1,0 +1,65 @@
+{% extends "birdlist/basic/base_bird.html" %}
+
+{% block title_detail %}Tag cloud & coupling status list{% endblock %}
+
+{% block context-menu %}
+    <li><a href="{% url index_bird %}" class="birdlistaction">birds</a></li>
+{% endblock %}
+
+{% block content-main %}
+  
+    {% load tagging_tags %}
+    {% tag_cloud_for_model birdlist.Bird as entry_tags with steps=19 min_count=1 distribution=linear %}
+    <h2>Find birds by tag ({{ entry_tags|length }} unique tags found):</h2>
+        <br>
+        <style type="text/css" media="screen">
+        .tag-cloud {
+            text-align: center;    
+            width: 80%;
+            padding: 5px;
+        }
+        .tag1{font-size:8pt}
+        .tag2{font-size:9pt}
+        .tag3{font-size:10pt}
+        .tag4{font-size:11pt}
+        .tag5{font-size:12pt}
+        .tag6{font-size:13pt}
+        .tag7{font-size:14pt}
+        .tag8{font-size:15pt}
+        .tag9{font-size:16pt}
+        .tag10{font-size:17pt}
+        .tag11{font-size:18pt}
+        .tag12{font-size:19pt}
+        .tag13{font-size:20pt}
+        .tag14{font-size:21pt}
+        .tag15{font-size:22pt}
+        .tag16{font-size:23pt}
+        .tag17{font-size:24pt}
+        .tag18{font-size:25pt}
+        .tag19{font-size:26pt}
+        </style>
+
+        <div class="tag-cloud">
+            {% if entry_tags %}
+                {% for tag in entry_tags %}
+                <span class="tag{{tag.font_size}}">
+                    <a href="{% url show_bird_tags tag %}" title="{{ tag }} - {{ tag.count }} birds">{{ tag }}</a>
+                </span> 
+                {% endfor %}
+            {% else %} 
+                <span> No animals were tagged yet. Go ahead and tag them.</span>
+            {% endif %}
+        </div>
+  
+    <h2>Birds by coupling status:</h2>
+    <ul>
+    {% for i in coupling_choices %}
+        <li><a href="{% url show_bird_tags i.1 %}">{{i.1}}</a></li>
+    {% endfor %}
+    </ul>
+  
+  
+{% endblock %}
+
+{% block content-secondary %}
+{% endblock %}

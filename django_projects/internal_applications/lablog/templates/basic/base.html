@@ -1,0 +1,116 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/xhtml1-loose.dtd">
+{% load i18n %}
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+    <head>
+        {% block stylesheet %}
+        <link rel="stylesheet" type="text/css" media="screen" href="{{ STATIC_URL }}lablog/css/base.css" />
+        <link rel="stylesheet" type="text/css" media="print" href="{{ STATIC_URL }}lablog/css/print.css" />
+        <link rel="icon" href="{{ STATIC_URL }}songbird/favicon.ico" type="image/x-icon">
+        <link rel="shortcut icon" href="{{ STATIC_URL }}songbird/favicon.ico" type="image/x-icon">
+        <script type="text/javascript" src="{{ STATIC_URL }}songbird/js/jquery-1.4.4.min.js"></script>
+        <script type="text/javascript" src="{{ STATIC_URL }}songbird/js/jquery.dimensions.pack.js"></script>
+        <script language="javascript"> 
+        var name = "#floatMenu";
+        var fullscreenOffset = 20;
+        var menuYloc = null;
+        
+        $(document).ready(
+		    function(){
+		        menuYloc = parseInt($(name).css("top").substring(0,$(name).css("top").indexOf("px")))
+		        		$(window).scroll(
+				    		function () {
+				    			documentTop = $(document).scrollTop();
+				    			offset = menuYloc + documentTop;
+				    			offset = documentTop > menuYloc ? documentTop + fullscreenOffset : offset;
+				    			offset = documentTop < menuYloc ? menuYloc : offset; 
+				    			$(name).animate({top:offset + "px"},{duration:550, queue:false});
+				    		}
+				    	);
+		    }
+        );
+        </script>
+        {% endblock %}
+        
+        {% include "songbird/basic/main_nav_css.html" %}
+        {% block custom_stylesheet %} {% endblock %}
+        {% block custom_stylesheet_extended %} {% endblock %}
+        <title>{% block title %} lablog | {% block title_detail %}{% endblock %} {% endblock %}</title>
+    </head>
+
+    <body id="{% block sectionid %}homepage{% endblock %}" class="{% block coltype %}default{% endblock %}">
+     
+    {% include "songbird/basic/auto-logout.html" %}
+    
+    {% with request.user.username as username %}
+    {% block container %}
+    <div id="container">
+        <div id="secondaryapps"> 
+            {% block secondaryapps %}{% endblock %} 
+        </div>
+        <!-- END #secondaryapps-->
+        
+        <div id="header">
+            {% block header %} header & menu{% endblock %}
+        </div>   
+	    <!-- END #header -->
+
+        <div id="billboard">
+            <ul id="subnav">
+                <!-- stuff that should always show up-->
+                {% block billboard_always %}
+                {% endblock %}
+                <!-- stuff that should only show up for the currently highlighted page -->                
+                {% block billboard %}{% endblock %}
+            </ul>              
+        </div>
+    	<!-- END #billboard -->
+			
+        <div id="columnwrap">
+			
+			<div id="content-main">
+                {% block content-main %}CONTENT{% endblock %}
+                
+                	<div id="content-secondary">
+                	{% block content-secondary %}
+                	{% if user.is_authenticated %}
+                	{% include "basic/secondary_content.html" %}
+                	{% endif %}
+                	{% endblock %}
+                	</div>
+	             	<!-- END #content-secondary -->
+                
+			</div>
+			<!-- END #content-main -->
+
+
+           	<div id="content-related" class="sidebar">	
+           	           	
+	           	<div id="floatMenu">
+                    {% block sidebar %}
+                        {% if user.is_authenticated %}  
+                            {% include "basic/sidebar.html" %} 
+                        {% endif %}
+                    {% endblock %}
+	           	</div>
+	           	
+           	</div>
+            <!-- END #content-related -->
+
+        </div>
+        <!-- END #columnwrap -->
+
+        <div id="footer">
+			{% block footer %}{% include "basic/footer.html" %} {% endblock %}
+        </div>
+		<!-- END #footer -->
+
+    </div>
+    <!-- END #container -->
+    {% endblock %} 
+    {% endwith %}
+    </body>
+
+</html>
+

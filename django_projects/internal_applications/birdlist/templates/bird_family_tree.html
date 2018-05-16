@@ -1,0 +1,262 @@
+{% extends "birdlist/basic/base_bird.html" %}
+
+{% block billboard %}
+<li id="nav-exp-views"><h2>Bird Family tree</h2></li>
+{% endblock %}
+
+{% block context-menu %}
+{% endblock %}
+
+{% block custom_stylesheet %}
+<style type="text/css"> 
+
+  .column-in {
+    margin: 0px; padding: 1px 1px;
+    }
+
+  #table {
+    min-width: 300px;  
+    width: auto;
+    padding: 0;
+    display: table;
+    float: left;
+    }
+ 
+  #row  {
+    display: table-row;
+    width: auto;
+    }
+    
+  #header_row  {
+    background: white;
+    display: table-row;
+    width: auto;
+    }    
+
+  #table-header {
+     border-bottom: 2px solid black;
+     background: white;
+     width: auto;
+     display: table-cell;
+     text-align: center;
+     padding: 1px 5px;
+     margin: 0px;
+    }
+
+  #none {
+    width: auto;
+    padding: 0;
+    display: table-cell;
+    }
+ 
+  #first {
+    min-width: 100px;
+    width: auto;
+    padding: 0;
+    background: #EEF;
+    display: table-cell;
+    font-weight: normal;
+    text-align: center;    
+    }
+
+  #second {
+    min-width: 100px;  
+    width: auto;
+    padding: 1px 5px;
+    background: lightblue;
+    display: table-cell;
+    font-weight: normal;
+    text-align: center;
+    }
+ 
+  #third {
+    min-width: 100px;  
+    width: auto;
+    padding: 1px 5px;
+    background:#FEE;
+    display: table-cell;
+    font-weight: normal;
+    text-align: center;
+    }
+    
+  #other {
+    width: auto;
+    display: table-cell;
+    font-weight: normal;
+    padding: 2px;    
+    margin: 2px;    
+    text-align: center;    
+    }
+
+  #offspring {
+    width: auto;
+    display: table-cell;
+    font-weight: normal;
+    padding-left: 30px;
+    text-align: left;
+    border-bottom: 1px dashed black;
+    }
+
+
+</style> 
+{% endblock %}
+
+
+{% block content-main %}
+
+<br><br>
+<h1 id="info">{{bird.name }} 
+    {% if bird.exit_date %}
+        - RIP - 
+    {% endif %}
+    {% with bird.get_phd as age %}
+        {% if age == "?" %}
+            (age unknown)
+        {% else %}
+            ({{ age }} phd)    
+        {% endif %}
+    {% endwith %}
+    - {{bird.get_sex_display}}
+</h1>
+
+<div id="table">
+
+        <div id="row">
+            <div id="none"><div class="column-in">
+                <h2>Parents</h2>
+            </div></div>
+        </div>
+    
+    {% if family %}
+        
+        <div id="header_row"> 
+            <div id="other"></div>
+            <div id="table-header">father</div>
+            <div id="table-header">mother</div>
+        </div>
+
+        <div id="row"> 
+            <div id="none"><div class="column-in"></div></div>
+            <div id="second"><div class="column-in">
+                {% if family.father %}
+                    <a href="{% url show_family_tree family.father.id %}">{{family.father}}</a>
+                {% else %}
+                    Unknown
+                {% endif %}
+            </div></div>
+            <div id="third"><div class="column-in">
+                {% if family.mother %}
+                    <a href="{% url show_family_tree family.mother.id %}">{{family.mother}}</a>
+                {% else %}
+                    Unknown
+                {% endif %}
+            </div></div>
+        </div>
+
+    {% endif %}
+    
+        <div id="row">
+            <div id="none"><div class="column-in">
+                <h2>Family tree</h2>
+            </div></div>
+        </div>
+    
+    {% if family.family %}
+
+        <div id="header_row"> 
+            <div id="table-header">partner</div>
+            <div id="table-header">partner father</div>
+            <div id="table-header">partner mother</div>
+            <div id="table-header">coupling date</div>
+            <div id="table-header">separation date</div>
+            <div id="table-header">offspring per brood</div>
+        </div>
+
+        {% for i in family.family %}
+        <div id="row"> 
+            {% ifchanged i.coupling_date %}
+            
+                {% ifchanged i.partner %}
+                    <div id="first"><div class="column-in"><a href="{% url show_family_tree i.partner.id %}">{{i.partner}}</a></div></div>
+                    <div id="second"><div class="column-in">
+                    {% if i.partner_father %}
+                        <a href="{% url show_family_tree i.partner_father.id %}">{{i.partner_father}}</a>
+                    {% else %}
+                        Unknown
+                    {% endif %}
+                    </div></div>
+                    <div id="third"><div class="column-in">
+                    {% if i.partner_mother %}
+                        <a href="{% url show_family_tree i.partner_mother.id %}">{{i.partner_mother}}</a>
+                    {% else %}
+                        Unknown
+                    {% endif %}
+                    </div></div>
+                {% else %}
+                    <div id="other"><div class="column-in"></div></div>
+                    <div id="other"><div class="column-in"></div></div>
+                    <div id="other"><div class="column-in"></div></div>
+                {% endifchanged %}
+                
+                <div id="other"><div class="column-in">{{i.coupling_date}}</div></div>
+                <div id="other"><div class="column-in">{{i.separation_date}}</div></div>
+                
+            {% else %}
+                <div id="other"><div class="column-in"></div></div>
+                <div id="other"><div class="column-in"></div></div>
+                <div id="other"><div class="column-in"></div></div>
+                <div id="other"><div class="column-in"></div></div>
+                <div id="other"><div class="column-in"></div></div>
+            {% endifchanged %}
+            
+            <div id="offspring"><div class="column-in">
+                {% for j in i.offspring_with_offspring %}
+                {% with j.1 as has_offspring%}
+                    <a href="{% url show_family_tree j.0.id %}" title="
+                    {% if has_offspring %}
+                        has offspring
+                    {% else %}
+                        no offspring
+                    {% endif %}">
+                    {{j.0}}{% if has_offspring %}*{% endif %}{% if j.0.exit_date %}&#8224;{% endif %}
+                    </a>
+                {% endwith %}
+                {% endfor %}
+            </div></div>
+            
+        </div>
+        <br>
+        {% endfor %}
+        
+    {% else %}
+        <div id="row">
+            <div id="none"><div>
+                <h3>No coupling / breeding events found.</h3>
+            </div></div>
+        </div>
+    {% endif %}
+</div>
+
+{% endblock %} 
+
+
+{% block sidebar %}
+    {% if user.is_authenticated %}
+        <div id="birdtoc">
+            <h2>Legend:</h2>
+            <ul>
+             <li style="list-style-type: none;">* animal has offspring</li>
+             <li style="list-style-type: none;">&#8224; animal is not alive anymore</li>
+            </ul>
+            <h2>Go:</h2>
+            <ul>
+                <li id="nav-quick-details"><a href="{% url bird_overview bird.id %}">back to bird overview</a></li>
+            </ul>
+        </div>
+        <br>
+        <br>
+        {% include "birdlist/basic/sidebar.html" %}
+    {% endif %}            
+{% endblock %}
+
+

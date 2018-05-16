@@ -1,0 +1,40 @@
+{% if user.is_authenticated %}
+ 
+<style type="text/css">
+#idletimeout { background:#CC5100; border:3px solid #FF6500; color:#fff; font-family:arial, sans-serif; text-align:center; font-size:12px; padding:10px; position:relative; top:0px; left:0; right:0; z-index:100000; display:none; }
+#idletimeout a { color:#fff; font-weight:bold }
+#idletimeout span { font-weight:bold }
+</style>
+ 
+<div id="idletimeout">
+    You will be logged off in <span><!-- countdown place holder --></span>&nbsp;seconds due to inactivity. 
+    <a id="idletimeout-resume" href="#">Click here to continue using this web page</a>.
+</div>     
+
+<script src="{{ STATIC_URL }}songbird/js/jquery.idletimer.js" type="text/javascript"></script>
+<script src="{{ STATIC_URL }}songbird/js/jquery.idletimeout.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+    $.idleTimeout('#idletimeout', '#idletimeout a', {
+	    idleAfter: 500,
+	    pollingInterval: 120,
+	    warningLength: 100,
+	    keepAliveURL: '{% url keep_alive %}',
+	    serverResponseEquals: 'OK',
+	    onTimeout: function(){
+		    $(this).slideUp();
+		    window.location = "{% url auto_logout %}?next={{ request.path }}";
+	    },
+	    onIdle: function(){
+		    $(this).slideDown(); // show the warning bar
+	    },
+	    onCountdown: function(counter){
+		    $(this).find("span").html(counter); // update the counter
+	    },
+	    onResume: function(){
+		    $(this).slideUp(); // hide the warning bar
+	    }
+    });
+</script>
+
+{% endif %}

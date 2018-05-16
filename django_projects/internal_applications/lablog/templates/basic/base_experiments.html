@@ -1,0 +1,15 @@
+{% extends "lablog/basic/base_menu_extended.html" %}
+
+{% block sectionid %}experiment{% endblock %}
+{% block title_detail %}Experiments{% endblock %}
+ 	
+{% block billboard %}
+
+<li id="nav-exp-new"><a href={% url new_experiment user.username %}>new experiment</a></li>
+<li id="nav-exp-new-event"><a href="{% url new_event_no_experiment username=user.username %}">new event</a></li>
+<li id="nav-exp-possible-import"><a href="{% url possible_imports_from_animal_list username=user.username %}">import from birdlist</a></li>
+
+<!-- <li id="nav-exp-views"><a href=".">views</a></li>
+<li id="nav-exp-reports"><a href=".">reports</a></li>   -->
+
+{% endblock %}

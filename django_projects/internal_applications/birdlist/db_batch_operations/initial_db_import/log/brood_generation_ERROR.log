@@ -1,0 +1,33 @@
+##  B R O O D - G E N E R A T I O N   E R R O R - L O G
+##  -----------------------------------
+##  writing mode: append
+##  discard existing log: True
+##  log datetime: True
+##  -----------------------------------
+$$  Thu Aug  5 16:34:43 2010 $$  could not find PARENT COUPLE for this bird (name: b16r7 - id: 92 - mum: o6r5 - dad: b14r3 - birthday: 2009-02-19)
+$$  Thu Aug  5 16:35:24 2010 $$  could not find PARENT COUPLE for this bird (name: b9r7 - id: 243 - mum: r2s18 - dad: p2r5 - birthday: 2009-02-04)
+$$  Thu Aug  5 16:35:38 2010 $$  could not find PARENT COUPLE for this bird (name: d2M2e - id: 262 - mum: r2s18 - dad: k11r8 - birthday: 2009-02-04)
+$$  Thu Aug  5 16:35:38 2010 $$  could not find PARENT COUPLE for this bird (name: ddJ2U1d - id: 264 - mum: r5s4 - dad: r10s16 - birthday: 2009-10-31)
+$$  Thu Aug  5 16:35:58 2010 $$  could not find PARENT COUPLE for this bird (name: dJ2M1d - id: 269 - mum: p15r4 - dad: b10r10 - birthday: 2008-11-18)
+$$  Thu Aug  5 16:35:58 2010 $$  could not find PARENT COUPLE for this bird (name: dJ2M2 - id: 271 - mum: o7r5 - dad: p10r8 - birthday: 2009-09-04)
+$$  Thu Aug  5 16:36:29 2010 $$  could not find PARENT COUPLE for this bird (name: g19r5 - id: 507 - mum: K-K-K209-15 - dad: v-v10 - birthday: 2008-09-15)
+$$  Thu Aug  5 16:36:35 2010 $$  could not find PARENT COUPLE for this bird (name: g3r5 - id: 554 - mum: K-K-K209-15 - dad: v-v10 - birthday: 2008-07-19)
+$$  Thu Aug  5 16:36:35 2010 $$  could not find PARENT COUPLE for this bird (name: g3r8 - id: 557 - mum: b15r6 - dad: r5y10 - birthday: 2009-03-28)
+$$  Thu Aug  5 16:36:36 2010 $$  could not find PARENT COUPLE for this bird (name: g4r5 - id: 566 - mum: K-K-K209-15 - dad: v-v10 - birthday: 2008-07-19)
+$$  Thu Aug  5 16:36:37 2010 $$  could not find PARENT COUPLE for this bird (name: g5r5 - id: 578 - mum: K-K-K209-15 - dad: v-v10 - birthday: 2008-07-19)
+$$  Thu Aug  5 16:36:53 2010 $$  COUPLING SESSION not found: (name: k13r2 - id: 729 - mum: o11p-p20 - dad: b16r1 - birthday: 2007-11-22)
+$$  Thu Aug  5 16:36:54 2010 $$  could not find PARENT COUPLE for this bird (name: k17r6 - id: 759 - mum: K-K-K209-15 - dad: v-v10 - birthday: 2008-11-27)
+$$  Thu Aug  5 16:38:18 2010 $$  could not find PARENT COUPLE for this bird (name: o10p-r16 - id: 863 - mum: green16 - dad: red16 - birthday: 2006-11-30)
+$$  Thu Aug  5 16:38:34 2010 $$  could not find PARENT COUPLE for this bird (name: o4r2 - id: 1031 - mum: o9p-y8 - dad: r12p-y7o - birthday: 2007-08-17)
+$$  Thu Aug  5 16:38:34 2010 $$  could not find PARENT COUPLE for this bird (name: o4r3 - id: 1032 - mum: o1r1 - dad: r7g-yellow8 - birthday: 2007-12-25)
+$$  Thu Aug  5 16:38:35 2010 $$  could not find PARENT COUPLE for this bird (name: o5r3 - id: 1045 - mum: o1r1 - dad: r7g-yellow8 - birthday: 2007-12-25)
+$$  Thu Aug  5 16:38:36 2010 $$  could not find PARENT COUPLE for this bird (name: o6r3 - id: 1055 - mum: o1r1 - dad: r7g-yellow8 - birthday: 2007-12-25)
+$$  Thu Aug  5 16:45:00 2010 $$  could not find PARENT COUPLE for this bird (name: p16r4 - id: 1170 - mum: K-K-K209-15 - dad: v-v10 - birthday: 2008-05-25)
+$$  Thu Aug  5 16:45:18 2010 $$  could not find PARENT COUPLE for this bird (name: p17r4 - id: 1181 - mum: K-K-K209-15 - dad: v-v10 - birthday: 2008-05-25)
+$$  Thu Aug  5 16:45:18 2010 $$  COUPLING SESSION not found: (name: p18k-s6 - id: 1185 - mum: green9 - dad: silver6 - birthday: 2006-01-10)
+$$  Thu Aug  5 16:45:25 2010 $$  could not find PARENT COUPLE for this bird (name: p1s1 - id: 1214 - mum: o6r5 - dad: b14r3 - birthday: 2009-02-19)
+$$  Thu Aug  5 16:45:31 2010 $$  could not find PARENT COUPLE for this bird (name: p2s2 - id: 1234 - mum: o6r5 - dad: b14r3 - birthday: 2009-02-19)
+$$  Thu Aug  5 16:47:02 2010 $$  could not find PARENT COUPLE for this bird (name: r5s17 - id: 1593 - mum: p6r2 - dad: k2r2 - birthday: 2008-10-09)
+$$  Thu Aug  5 16:47:42 2010 $$  could not find PARENT COUPLE for this bird (name: s7p-r14 - id: 1823 - mum: r10o-o4k - dad: red14 - birthday: 2007-03-12)
+$$  Thu Aug  5 16:47:42 2010 $$  could not find PARENT COUPLE for this bird (name: s8p-r14 - id: 1827 - mum: r12o-o4k - dad: red14 - birthday: 2007-03-12)
+$$  Thu Aug  5 16:47:42 2010 $$  could not find PARENT COUPLE for this bird (name: s9p-r14 - id: 1832 - mum: r12o-o4k - dad: red14 - birthday: 2007-03-12)

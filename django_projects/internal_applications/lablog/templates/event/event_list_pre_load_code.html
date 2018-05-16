@@ -1,0 +1,104 @@
+
+<link href="{{ STATIC_URL }}songbird/css/smoothness/jquery-ui-1.8.7.custom.css" type="text/css" media="screen" rel="stylesheet" />
+<script type="text/javascript" src="{{ STATIC_URL }}songbird/js/jquery-1.4.4.min.js"></script>        
+<script type="text/javascript" src="{{ STATIC_URL }}songbird/js/jquery-ui-1.8.7.custom.min.js"></script>
+<script type="text/javascript" src="{{ STATIC_URL }}songbird/js/tagging_autocomplete.js"></script>
+
+<script type="text/javascript">
+$(document).ready(function(){
+
+    var $slidetime = 350;
+
+    // show all bodies
+    $(".evnt_body").show();
+    
+    // toggle the event
+    $(".evnt_head_resize").click(function(){
+    }).toggle( function() {
+        //$(this).children("span").text("[+]");
+        $(this).nextAll(".evnt_body").slideUp($slidetime);
+        $(this).children('.evnt_img').attr("src", "{{ STATIC_URL }}lablog/img/expand.gif");
+        $(this).children('.evnt_img').attr("alt", "Show Div");
+    }, function() {
+        //$(this).children("span").text("[-]");
+        $(this).nextAll(".evnt_body").slideDown($slidetime);
+        $(this).children('.evnt_img').attr("src", "{{ STATIC_URL }}lablog/img/collapse.gif");
+        $(this).children('.evnt_img').attr("alt", "Hide Div");        
+    });
+    
+  	// collapse all events
+	$(".collpase_all_events").click(function(){
+		$(".evnt_body").slideUp($slidetime)
+		$(".evnt_img").attr("src", "{{ STATIC_URL }}lablog/img/expand.gif");
+		$(".evnt_img").attr("alt", "Show Div");
+		return false;
+	});
+ 
+	//show all events
+	$(".expand_all_events").click(function(){
+		$(".evnt_body").slideDown($slidetime)
+		$(".evnt_img").attr("src", "{{ STATIC_URL }}lablog/img/collapse.gif");
+		$(".evnt_img").attr("alt", "Hide Div");		
+		return false;
+	});
+    
+    
+    // hide the tags
+    $(".add_tag").hide();
+    
+    // toggle adding new tag
+    $(".add_tag_action").click(function(){
+    }).toggle( function() {
+        $bla = $(this).parents('div:eq(0)').prev(".add_tag");
+        $bla.show(0);
+        $bla.find(".vTextField").select();
+        $(this).hide();
+    }, function() {
+        $(this).parents('div:eq(0)').prev(".add_tag").hide(0);
+        $(this).text("add new tag");
+        $(this).show();
+    });    
+    
+    
+});
+</script>
+
+<style type="text/css">
+.evnt_box {
+    margin-top:5px; 
+    margin-left:0px; 
+    margin-bottom:0px; 
+    border:1px solid black; 
+}
+.evnt_head_resize {
+    padding: 5px 5px;
+    cursor: pointer;
+    position: relative;
+    #background-color:#F4F4F8;
+    margin:0; 
+    display:inline;
+}
+.evnt_img {
+    margin-right:0px;
+    margin-left:4px; 
+    margin-top:2px; 
+    margin-bottom:-3px; 
+    cursor:pointer;
+}
+.evnt_head_tag {
+	display:inline; 
+	padding-left:50px;
+}
+.evnt_head_actions {
+    display:inline; 
+    padding-right:10px;
+    float:right
+}
+.evnt_body {
+    padding: 5px 10px 0px;
+    #background-color:#F4F4F8;
+    display:block;
+}
+</style>
+
+{% block object_details %} {% endblock %}

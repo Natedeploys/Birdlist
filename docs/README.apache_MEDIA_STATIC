@@ -1,0 +1,31 @@
+
+### MEDIA files ###
+
+$ ls -la /var/www/media
+
+    total 8
+    drwxr-xr-x 2 root root 4096 2011-07-16 18:20 .
+    drwxr-xr-x 6 root root 4096 2011-07-16 18:38 ..
+    lrwxrwxrwx 1 root root   19 2011-07-16 18:20 lablog-media -> /mnt/projects/rich/
+
+
+
+### STATIC files ###
+#
+$ sudo mkdir /var/www/static
+$ sudo chown root:db static
+$ sudo chmod 775 static
+
+$ cd /home/db/django/django_projects/songbird
+$ python manage.py collectstatic
+
+$ ls -la /var/www/static
+
+    total 28
+    drwxrwxr-x 7 root db   4096 2011-07-16 18:34 .
+    drwxr-xr-x 6 root root 4096 2011-07-16 18:38 ..
+    drwxr-xr-x 5 db   db   4096 2011-07-16 18:34 admin
+    drwxr-xr-x 4 db   db   4096 2011-07-16 18:34 birdlist
+    drwxr-xr-x 6 db   db   4096 2011-07-16 18:34 helpdesk
+    drwxr-xr-x 4 db   db   4096 2011-07-16 18:34 lablog
+    drwxr-xr-x 5 db   db   4096 2011-07-16 18:34 songbird

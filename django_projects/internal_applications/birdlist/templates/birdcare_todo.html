@@ -1,0 +1,46 @@
+{% extends "birdlist/basic/base_birdcare.html" %}
+
+{% block billboard %}
+<li id="nav-exp-views"><h2>Birdcare - TODO</h2></li>
+{% endblock %}
+
+{% block content-main %}
+
+<h2>Birdcare Breeding Duties for Today</h2>
+<h3>Empty Breeding Cages</h3>
+{% if empty_breeding_cages %}
+    <p>Please add a couple to the following cages if they have been returned from cleaning.</p>
+    <p>{% for cage in empty_breeding_cages %}<a class='edit' href='{{ cage.get_addcouple_url }}'>{{ cage.name }}{% if not forloop.last %},{% endif %} </a>{% endfor %}</p>
+{% else %}
+    <p>Currently all breeding cages are used. You do not have to make a new couple.</p>    
+{% endif %}
+
+<h3>Please make sure that the nest is removed from the following couples as soon as the juveniles left the nest ...</h3>
+<p>... and indicate nest removal in the comment field.</p>
+{% if remove_nests_from %}
+    {% with remove_nests_from as couplings_with_links %}
+        {% include "birdlist/basic/coupling_list_include.html" %}
+    {% endwith %}
+{% else %}
+        <p>No nests have to be removed.</p>
+{% endif %}
+
+<h3>You have to separate these couples if they had no offspring in the previous week.</h3>
+{% if couplings %}
+    {% with couplings as couplings_with_links %}
+        {% include "birdlist/basic/coupling_list_include.html" %}
+    {% endwith %}
+{% else %}
+        <p>No couples have to be separated today.</p>
+{% endif %}
+
+<h3>You have to transfer the following Juveniles</h3>
+{% if juveniles %}
+    {% with juveniles as birdlist_with_links %}
+        {% include "birdlist/basic/bird_list_include.html" %}
+    {% endwith %}
+{% else %}
+        <p>No juveniles are older than 60 dph had to be transfered out of a Breeding Cage.</p>
+{% endif %}
+
+{% endblock %}

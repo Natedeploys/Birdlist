@@ -1,0 +1,2432 @@
+
+
+
+*******************
+r11s5
+********************
+None
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	kotowicz	2010-01-03	2010-01-09
+SR
+----------------------------------------
+
+Experiment	kotowicz	2010-01-09	2010-04-15
+ncm-lesion
+----------------------------------------
+
+
+
+*******************
+r11s4
+********************
+None
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	kotowicz	2010-01-03	2010-01-09
+SR
+----------------------------------------
+
+Experiment	kotowicz	2010-01-09	2010-04-15
+ncm-lesion
+----------------------------------------
+
+
+
+*******************
+r7y7
+********************
+2010-04-30
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	unknown	2009-05-13	2009-07-07
+NIF stim sleep
+----------------------------------------
+NIF bilateral stimulation during inactivity
+Experiment	janie	2010-01-03	2010-01-08
+SR - Isolated Song
+----------------------------------------
+
+Experiment	janie	2010-04-30	2010-04-30
+Intracellular-Current Clamp
+----------------------------------------
+successful debugging and recording
+
+
+*******************
+r7y5
+********************
+2010-09-07
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	unknown	2009-05-23	2009-07-07
+NIF stim sleep
+----------------------------------------
+Control animal for NIF bilateral stimulation during inactivity
+Experiment	janie	2010-01-03	2010-01-18
+SR - Isolated Song
+----------------------------------------
+
+Experiment	lisa	2010-09-07	2010-09-07
+Stimulation
+----------------------------------------
+
+
+
+*******************
+g3r10
+********************
+None
+KM - breeding; (36 F86 - Breeding Room #2)
+------------------------------
+Experiment	alexei	2009-10-02	2009-11-27
+Song development pert by El. Stim
+----------------------------------------
+
+Experiment	janie	2010-01-04	2010-01-08
+SR - Isolated Song
+----------------------------------------
+
+
+
+*******************
+b19r10
+********************
+2010-03-01
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	janie	2010-01-04	2010-03-01
+SR - TTX in LMAN
+----------------------------------------
+Lots of data.
+
+
+*******************
+p3r10
+********************
+None
+R3 - temporary storage; (55 F43 - Surgery Room and InFrontOf)
+------------------------------
+Experiment	michael	2009-12-22	2009-12-22
+virus injection
+----------------------------------------
+CAG YC3.60
+Experiment	michael	2010-01-04	2010-01-12
+SR
+----------------------------------------
+
+
+
+*******************
+b4r10
+********************
+2010-02-01
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	michael	2009-12-22	2009-12-22
+virus injection
+----------------------------------------
+CAG YC3.60
+Experiment	michael	2010-01-04	2010-01-12
+SR
+----------------------------------------
+
+Experiment	michael	2010-02-01	2010-02-01
+tplsm
+----------------------------------------
+
+
+
+*******************
+b17r10
+********************
+2010-01-22
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	michael	2009-12-18	2009-12-18
+virus injection
+----------------------------------------
+CAG YC3.60
+Experiment	michael	2010-01-04	2010-01-12
+SR
+----------------------------------------
+
+Experiment	michael	2010-01-22	2010-01-22
+tplsm
+----------------------------------------
+
+
+
+*******************
+k11r8
+********************
+2010-01-14
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	moritz	2010-01-06	2010-01-14
+5 Tracer injection
+----------------------------------------
+
+
+
+*******************
+b13r10
+********************
+2010-01-11
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	moritz	2010-01-07	2010-01-11
+HVC injection for CM location
+----------------------------------------
+
+
+
+*******************
+b2r10
+********************
+2010-01-11
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	daniele	2010-01-07	2010-01-11
+hsv-1 injection in HVC
+----------------------------------------
+Injection on 08.01 in the morning, perfusion on 11.01 also in the morning. Ef1alhpa promoter left and right, RA, each 2 injections at 3 different depths. For array tomography.
+
+
+*******************
+r10y12
+********************
+2010-01-07
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	michael	2009-12-22	2009-12-22
+virus injection
+----------------------------------------
+CAG YC3.60
+Experiment	michael	2010-01-07	2010-01-07
+tplsm
+----------------------------------------
+
+
+
+*******************
+p14r10
+********************
+None
+R7 - temporary storage; (55 F43 - Surgery Room and InFrontOf)
+------------------------------
+Experiment	rich	2009-12-23	2010-01-03
+Connector Implant
+----------------------------------------
+Implantation of omnectics connector serving as holder of microphone
+Experiment	rich	2010-01-07	2010-01-13
+Record Song
+----------------------------------------
+Move from R7 to E8 to record song
+Experiment	rich	2010-01-15	2010-01-15
+Record Song
+----------------------------------------
+Move it to E8 from 2 to 4 pm, and put it back to an isolated cage on the top of R2
+Experiment	rich	2010-01-17	2010-01-17
+Record Song
+----------------------------------------
+Move it to E8 from 3 to 4 pm, and put it back to an isolated cage on the top of R2
+Experiment	rich	2010-01-28	2010-01-28
+Record Song
+----------------------------------------
+Move it to E8 from 1:25 to 7:15 pm, and put it back to an isolated cage on the top of R2
+Experiment	rich	2010-01-31	2010-01-31
+Record Song
+----------------------------------------
+Move it to E8 from 2:45 to 3:45 pm, and put it back to an isolated cage on the top of R2
+Experiment	rich	2010-02-01	2010-02-01
+Record Song
+----------------------------------------
+Move it to E8 from 3:55 to 4:55 pm, and put it back to an isolated cage on the top of R2
+
+
+*******************
+b10r7
+********************
+None
+A-U - breeding; (36 F86 - Breeding Room #2)
+------------------------------
+Experiment	claude	2010-01-08	2010-02-08
+SR
+----------------------------------------
+
+Experiment	janie	2010-05-28	2010-06-02
+SR
+----------------------------------------
+
+
+
+*******************
+r10s16
+********************
+2010-01-13
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	janie	2010-01-08	2010-01-13
+SR
+----------------------------------------
+Bird died in ISO chamber during SR
+
+
+*******************
+purple022
+********************
+2010-05-12
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	janie	2010-01-08	2010-01-18
+SR
+----------------------------------------
+
+Experiment	janie	2010-01-23	2010-01-28
+SR-LMAN Microdialysis
+----------------------------------------
+LMAN probe implantation - failure, probes snapped off when putting caps in, will use for field L exp..
+Experiment	janie	2010-01-28	2010-02-08
+SR
+----------------------------------------
+
+Experiment	janie	2010-04-26	2010-05-12
+SR
+----------------------------------------
+successful intracellular recordings
+
+
+*******************
+r10y5
+********************
+None
+R7 - temporary storage; (55 F43 - Surgery Room and InFrontOf)
+------------------------------
+Experiment	rich	2010-01-08	2010-01-08
+Implanted michead
+----------------------------------------
+Implantation of omnectics connector serving as holder of microphone
+Experiment	rich	2010-01-17	2010-01-23
+Song Recording
+----------------------------------------
+Move from R4 to E8 to record song
+Experiment	rich	2010-01-29	2010-01-29
+Song Recording
+----------------------------------------
+Move from R4 to E8 to record song from 1:15 to 7:05 pm
+Experiment	rich	2010-01-31	2010-01-31
+Song Recording
+----------------------------------------
+Move from R4 to E8 to record song from 3:45 to 4:45 pm
+Experiment	rich	2010-02-01	2010-02-01
+Song Recording
+----------------------------------------
+Move from R4 to E8 to record song from 2:50 to 3:50 pm
+Experiment	sepp	2010-08-01	2010-08-04
+Audio Recording
+----------------------------------------
+
+
+
+*******************
+b16r8
+********************
+2010-09-15
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	canopoli	2010-01-10	2010-01-30
+preference test
+----------------------------------------
+
+Experiment	canopoli	2010-04-10	2010-04-20
+preference test
+----------------------------------------
+
+Experiment	canopoli	2010-06-26	2010-06-28
+preference test
+----------------------------------------
+
+
+
+*******************
+b11r10
+********************
+2010-01-18
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	jk	2010-01-11	2010-01-18
+Recording in NIf
+----------------------------------------
+
+
+
+*******************
+p13r8
+********************
+2010-09-03
+KO - breeding; (36 F86 - Breeding Room #2)
+------------------------------
+Experiment	unknown	2010-01-12	2010-02-12
+pitch shift
+----------------------------------------
+
+Experiment	canopoli	2010-03-09	2010-03-10
+song recording
+----------------------------------------
+
+Experiment	lisa	2010-09-03	2010-09-03
+stimulation
+----------------------------------------
+
+
+
+*******************
+g15r10
+********************
+2010-01-15
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	daniele	2010-01-12	2010-01-15
+HSV-1 for array tomography
+----------------------------------------
+L CMV, right ef 1alpha, RA and X
+
+
+*******************
+r10s20
+********************
+2010-02-05
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	michael	2010-01-14	2010-01-14
+virus injection
+----------------------------------------
+CAG GCamP4
+Experiment	michael	2010-02-05	2010-02-05
+tplms
+----------------------------------------
+
+
+
+*******************
+p16r10
+********************
+2010-02-08
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	michael	2010-01-14	2010-01-14
+virus injection
+----------------------------------------
+GECI - CAG GCamP4
+Experiment	michael	2010-02-08	2010-02-08
+tplsm
+----------------------------------------
+
+
+
+*******************
+o16r10
+********************
+2010-01-15
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	michael	2009-12-18	2009-12-18
+virus injection
+----------------------------------------
+CAG YC3.60
+Experiment	michael	2010-01-15	2010-01-15
+tplsm
+----------------------------------------
+
+
+
+*******************
+r10y3
+********************
+2010-01-26
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	moritz	2010-01-26	2010-01-26
+Tracer/Virus injection 24h
+----------------------------------------
+
+
+
+*******************
+b15r10
+********************
+2010-01-29
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	moritz	2010-01-28	2010-01-29
+virus injection herpes hmv right into hvc
+----------------------------------------
+burn in ml 0.5 ap 2 at .5 and 1.0 DV
+
+
+*******************
+p15r5
+********************
+2010-09-15
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	canopoli	2010-01-30	2010-02-19
+preference test
+----------------------------------------
+
+Experiment	canopoli	2010-03-06	2010-03-14
+preference test
+----------------------------------------
+
+Experiment	canopoli	2010-06-30	2010-07-01
+preference test
+----------------------------------------
+
+
+
+*******************
+g2r11
+********************
+None
+R8 - temporary storage; (55 F43 - Surgery Room and InFrontOf)
+------------------------------
+Experiment	gokcen	2010-02-01	2010-02-22
+Pitch-shifting
+----------------------------------------
+
+Experiment	claude	2010-02-22	2010-03-05
+SR & HVC Stim.
+----------------------------------------
+
+Experiment	claude	2010-03-05	None
+Test stability of HVC Stim over time
+----------------------------------------
+
+
+
+*******************
+p20r10
+********************
+2010-02-04
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	moritz	2010-02-03	2010-02-04
+HVC injection for CM location
+----------------------------------------
+
+
+
+*******************
+o10r7
+********************
+None
+A-O - long term storage; (36 F86 - Breeding Room #2)
+------------------------------
+Experiment	claude	2010-02-08	None
+SR & HVC Stim
+----------------------------------------
+
+
+
+*******************
+k10r8
+********************
+2010-02-10
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	alexei	2009-09-23	2009-11-19
+Song dev perturb by El stim
+----------------------------------------
+
+Experiment	moritz	2010-02-08	2010-02-10
+Virus injection into HVC
+----------------------------------------
+
+
+
+*******************
+o1r11
+********************
+2010-02-10
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	jk	2010-02-10	2010-02-10
+Microdrive debugging
+----------------------------------------
+
+
+
+*******************
+g7r11
+********************
+2010-02-12
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	jk	2010-02-12	2010-02-12
+Microdrive debugging
+----------------------------------------
+
+
+
+*******************
+o10r11
+********************
+2010-02-14
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	canopoli	2010-02-13	2010-02-14
+surgery practice
+----------------------------------------
+
+
+
+*******************
+r10y4
+********************
+2010-02-14
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	canopoli	2010-02-14	2010-02-14
+surgery practice
+----------------------------------------
+
+
+
+*******************
+o8r8
+********************
+None
+A-U - breeding; (36 F86 - Breeding Room #2)
+------------------------------
+Experiment	claude	2010-02-18	None
+SR
+----------------------------------------
+
+
+
+*******************
+b11r11
+********************
+None
+KO - breeding; (36 F86 - Breeding Room #2)
+------------------------------
+Experiment	kotowicz	2010-02-19	2010-04-12
+template
+----------------------------------------
+
+
+
+*******************
+b12r11
+********************
+2010-02-21
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	kotowicz	2010-02-19	2010-02-21
+template
+----------------------------------------
+
+
+
+*******************
+b10r11
+********************
+2010-02-20
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	kotowicz	2010-02-19	2010-02-20
+template
+----------------------------------------
+
+
+
+*******************
+o7r10
+********************
+None
+U7 - breeding; (36 F86a - Breeding Room #1)
+------------------------------
+Experiment	canopoli	2010-02-19	2010-03-03
+song recording
+----------------------------------------
+
+Experiment	janie	2010-06-02	2010-06-04
+TUT-SR
+----------------------------------------
+
+
+
+*******************
+o20r10
+********************
+2010-02-22
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	daniele	2010-02-19	2010-02-22
+HSV1 gfp and mcherry
+----------------------------------------
+
+
+
+*******************
+k1r10
+********************
+2010-02-20
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	jk	2010-02-20	2010-02-20
+Microdrive debugging
+----------------------------------------
+
+
+
+*******************
+g18r10
+********************
+2010-02-22
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	jk	2010-02-21	2010-02-22
+NIf recording & burns
+----------------------------------------
+
+
+
+*******************
+r11s19
+********************
+2010-03-10
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	canopoli	2010-02-22	2010-02-24
+pitch shifting
+----------------------------------------
+inadequate song
+Experiment	michael	2010-03-05	2010-03-05
+tracer injection / head post mount
+----------------------------------------
+Texas Red into Area X
+Experiment	michael	2010-03-10	2010-03-10
+tplsm
+----------------------------------------
+
+
+
+*******************
+b10r10
+********************
+2010-02-25
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	jk	2010-02-23	2010-02-25
+NIf recording
+----------------------------------------
+surgery on 25.02.2010
+
+
+*******************
+b6r11
+********************
+2010-07-12
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	canopoli	2010-02-24	2010-07-12
+sr, pitch shift, ncm microdialysis
+----------------------------------------
+
+
+
+*******************
+o3r11
+********************
+2010-08-23
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	canopoli	2010-02-24	2010-02-25
+song recording
+----------------------------------------
+
+Experiment	moritz	2010-08-18	2010-08-23
+tracer injection
+----------------------------------------
+
+
+
+*******************
+o20r11
+********************
+None
+KM - breeding; (36 F86 - Breeding Room #2)
+------------------------------
+Experiment	canopoli	2010-02-24	2010-03-01
+song recording
+----------------------------------------
+
+
+
+*******************
+r10s14
+********************
+2010-03-01
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	michael	2009-12-07	2009-12-15
+SR
+----------------------------------------
+
+Experiment	michael	2010-02-24	2010-02-24
+tracer injection & head post mount
+----------------------------------------
+Texas Red into AreaX
+Experiment	michael	2010-03-01	2010-03-01
+tplsm
+----------------------------------------
+
+
+
+*******************
+r10s8
+********************
+2010-03-01
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	moritz	2010-02-24	2010-03-01
+bilat. Hvc injection af 647
+----------------------------------------
+
+
+
+*******************
+o13r8
+********************
+None
+A-U - breeding; (36 F86 - Breeding Room #2)
+------------------------------
+Experiment	canopoli	2010-02-25	2010-04-12
+song recording
+----------------------------------------
+
+
+
+*******************
+g8r11
+********************
+2010-03-18
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	jk	2010-02-26	2010-03-18
+NIf recording
+----------------------------------------
+
+
+
+*******************
+r8y16
+********************
+2010-09-15
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	canopoli	2010-03-01	2010-03-06
+preference test
+----------------------------------------
+
+Experiment	canopoli	2010-06-28	2010-06-30
+preference test
+----------------------------------------
+
+
+
+*******************
+r011
+********************
+None
+R5 - temporary storage; (55 F43 - Surgery Room and InFrontOf)
+------------------------------
+Experiment	canopoli	2010-03-03	2010-03-06
+song recording
+----------------------------------------
+
+
+
+*******************
+o12r7
+********************
+2010-05-11
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	claude	2010-03-05	2010-05-11
+SR & HVC Stim
+----------------------------------------
+
+
+
+*******************
+y12red
+********************
+2010-08-13
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	janie	2009-04-16	2009-04-21
+SR
+----------------------------------------
+Bird sang!
+Experiment	kotowicz	2009-11-02	2009-11-06
+SR
+----------------------------------------
+
+Experiment	canopoli	2010-03-07	2010-03-09
+sr
+----------------------------------------
+
+Experiment	jk	2010-08-09	2010-08-13
+SR
+----------------------------------------
+
+
+
+*******************
+p15r10
+********************
+2010-03-08
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	moritz	2010-03-10	2010-03-08
+Tracer/Virus injection
+----------------------------------------
+
+
+
+*******************
+r8y11
+********************
+None
+2M1 - breeding; (36 F86 - Breeding Room #2)
+------------------------------
+Experiment	kotowicz	2009-11-02	2009-11-06
+SR
+----------------------------------------
+
+Experiment	canopoli	2010-03-10	2010-03-11
+sr
+----------------------------------------
+
+Experiment	jk	2010-08-09	2010-08-13
+SR
+----------------------------------------
+
+
+
+*******************
+r8y9
+********************
+2010-06-19
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	kotowicz	2009-11-02	2009-11-06
+SR
+----------------------------------------
+
+Experiment	canopoli	2010-03-11	2010-03-12
+sr
+----------------------------------------
+
+Experiment	canopoli	2010-06-19	2010-06-19
+microdialysis control
+----------------------------------------
+bird started vomiting during surgery. Euthanized.
+
+
+*******************
+k6r10
+********************
+2010-03-16
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	moritz	2010-03-11	2010-03-16
+Tracer and virus injection
+----------------------------------------
+
+
+
+*******************
+k11r10
+********************
+2010-06-29
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	alexei	2009-12-27	2009-06-29
+Control for song development
+----------------------------------------
+
+Experiment	canopoli	2010-03-12	2010-03-13
+sr
+----------------------------------------
+
+Experiment	canopoli	2010-06-29	2010-06-29
+ncm multiunit recordings, practice
+----------------------------------------
+
+
+
+*******************
+b4r7
+********************
+None
+2U3 - breeding; (36 F86 - Breeding Room #2)
+------------------------------
+Experiment	canopoli	2010-03-14	2010-04-02
+preference test
+----------------------------------------
+
+
+
+*******************
+r10y1
+********************
+2010-07-07
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	canopoli	2010-03-15	2010-07-07
+sr, pitch shift, ncm microdialysis
+----------------------------------------
+
+
+
+*******************
+r10s13
+********************
+None
+O6 - breeding; (36 F86a - Breeding Room #1)
+------------------------------
+Experiment	michael	2009-11-30	2009-12-07
+SR
+----------------------------------------
+good song
+Experiment	canopoli	2010-03-15	2010-05-12
+SR
+----------------------------------------
+
+
+
+*******************
+b2r11
+********************
+2010-05-21
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	michael	2010-03-15	2010-03-23
+SR
+----------------------------------------
+
+Experiment	daniele	2010-05-21	2010-05-21
+Tracer injection
+----------------------------------------
+
+
+
+*******************
+b4r11
+********************
+2010-07-28
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	michael	2010-03-15	2010-03-23
+SR
+----------------------------------------
+
+
+
+*******************
+p1r11
+********************
+None
+M7 - breeding; (36 F86a - Breeding Room #1)
+------------------------------
+Experiment	michael	2010-03-15	2010-03-23
+SR
+----------------------------------------
+
+
+
+*******************
+r11s18
+********************
+2010-05-19
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	michael	2010-03-15	2010-03-23
+SR
+----------------------------------------
+
+Experiment	daniele	2010-05-19	2010-05-19
+Tracer injection
+----------------------------------------
+
+
+
+*******************
+r10y18
+********************
+2010-03-29
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	moritz	2010-03-21	2010-03-29
+Tracer injection fast blue
+----------------------------------------
+
+
+
+*******************
+o17r11
+********************
+2010-04-07
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	michael	2010-03-23	2010-03-30
+SR
+----------------------------------------
+
+Experiment	michael	2010-04-01	2010-04-01
+tracer injection
+----------------------------------------
+texas red injection into RA / fast blue into Area X (both by coordinates)
+Experiment	michael	2010-04-07	2010-04-07
+tplsm
+----------------------------------------
+
+
+
+*******************
+b13r11
+********************
+2010-03-27
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	canopoli	2010-03-23	2010-03-27
+sr
+----------------------------------------
+bird found dead in the cage
+
+
+*******************
+b17r11
+********************
+2010-04-21
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	michael	2010-03-23	2010-03-30
+SR
+----------------------------------------
+
+Experiment	michael	2010-04-14	2010-04-14
+tracer injection
+----------------------------------------
+texas red into area x
+
+
+*******************
+o2r11
+********************
+2010-04-13
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	michael	2010-03-23	2010-03-30
+SR
+----------------------------------------
+
+Experiment	michael	2010-04-08	2010-04-08
+tracer injection
+----------------------------------------
+texas red into Area X
+Experiment	michael	2010-04-13	2010-04-13
+tplsm
+----------------------------------------
+
+
+
+*******************
+b16r11
+********************
+2010-05-20
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	michael	2010-03-23	2010-03-30
+SR
+----------------------------------------
+
+Experiment	michael	2010-04-14	2010-04-14
+tracer injection
+----------------------------------------
+texas red into area x
+Experiment	michael	2010-04-20	2010-04-20
+tplsm
+----------------------------------------
+
+
+
+*******************
+b19r8
+********************
+2010-03-29
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	moritz	2010-03-29	2010-03-29
+Lucifer yellow injection
+----------------------------------------
+
+
+
+*******************
+g17r10
+********************
+None
+R7 - temporary storage; (55 F43 - Surgery Room and InFrontOf)
+------------------------------
+Experiment	rich	2009-12-23	2010-04-01
+Record song
+----------------------------------------
+Experiment closed, bird still alive.
+Experiment	rich	2010-03-31	2010-04-10
+Recording Song
+----------------------------------------
+Recording song from both head microphone and wall microphone
+Experiment	rich	2010-05-07	2010-05-26
+Recording Song
+----------------------------------------
+Recording song from both head microphone and wall microphone
+Experiment	sepp	2010-07-15	2010-08-04
+Audio Recordings
+----------------------------------------
+
+
+
+*******************
+k19r8
+********************
+2010-09-15
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	canopoli	2010-04-02	2010-04-06
+preference test
+----------------------------------------
+
+
+
+*******************
+k20r8
+********************
+2010-09-15
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	canopoli	2010-04-06	2010-04-10
+preference test
+----------------------------------------
+
+
+
+*******************
+o12r8
+********************
+2010-06-24
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	canopoli	2010-04-07	2010-06-24
+sr, pitch shift, ncm microdialysis
+----------------------------------------
+
+
+
+*******************
+b15r11
+********************
+2010-04-19
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	daniele	2010-04-15	2010-04-19
+Tracer injection
+----------------------------------------
+AF488 and FR for embedding in LRwhite and Durcupan, with Graham's protocol and lighter potassium ferro protocol
+
+
+*******************
+p12r10
+********************
+2010-04-18
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	kotowicz	2009-11-16	2009-11-23
+NCM-lesion
+----------------------------------------
+
+Experiment	unknown	2010-04-18	2010-04-18
+Multi color injection
+----------------------------------------
+Experiment was aborted. Animal was euthanized under anestesia.
+
+
+*******************
+k14r10
+********************
+2010-09-15
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	canopoli	2010-04-20	2010-05-09
+preference test
+----------------------------------------
+
+
+
+*******************
+o4r11
+********************
+2010-04-26
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	moritz	2010-04-20	2010-04-26
+Multi color injection
+----------------------------------------
+
+
+
+*******************
+k11r11
+********************
+2010-05-11
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	michael	2010-04-23	2010-04-30
+SR
+----------------------------------------
+
+Experiment	michael	2010-05-07	2010-05-07
+tracer injection
+----------------------------------------
+Texas Red into Area X
+Experiment	michael	2010-05-07	2010-05-11
+SR
+----------------------------------------
+
+Experiment	michael	2010-05-11	2010-05-11
+tplsm
+----------------------------------------
+
+
+
+*******************
+k13r11
+********************
+2010-06-30
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	michael	2010-04-23	2010-04-30
+SR
+----------------------------------------
+
+Experiment	michael	2010-06-30	2010-06-30
+Acute Av
+----------------------------------------
+
+
+
+*******************
+k1r11
+********************
+2010-06-16
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	michael	2010-04-23	2010-04-30
+SR
+----------------------------------------
+
+Experiment	moritz	2010-06-14	2010-06-16
+Tracer/Virus Injection
+----------------------------------------
+
+
+
+*******************
+k2r11
+********************
+2010-05-05
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	michael	2010-04-23	2010-05-05
+SR
+----------------------------------------
+
+Experiment	michael	2010-04-29	2010-04-29
+tracer injection
+----------------------------------------
+texas red into area x
+Experiment	michael	2010-05-05	2010-05-05
+tplsm
+----------------------------------------
+
+
+
+*******************
+r11y16
+********************
+2010-04-28
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	michael	2010-04-23	2010-04-28
+SR
+----------------------------------------
+
+Experiment	michael	2010-04-25	2010-04-25
+tracer injection
+----------------------------------------
+Texas Red into Area X
+Experiment	michael	2010-04-28	2010-05-28
+tplsm
+----------------------------------------
+
+
+
+*******************
+r11y17
+********************
+2010-05-04
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	michael	2010-04-23	2010-05-04
+SR
+----------------------------------------
+
+Experiment	michael	2010-04-26	2010-04-26
+tracer injection
+----------------------------------------
+Texas Red into Area X
+Experiment	michael	2010-05-04	2010-05-04
+tplsm
+----------------------------------------
+
+
+
+*******************
+k12r10
+********************
+2010-04-30
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	canopoli	2010-04-28	2010-04-30
+microdialysis practice
+----------------------------------------
+implanted 2 probes, left 1.75mm DV, right 2.55. AP about 0.5mm, ML about 0.8
+
+
+*******************
+r12s1
+********************
+None
+IS9 - isolation (recordings); (55 F42 - Lab2)
+------------------------------
+Experiment	canopoli	2010-04-30	2010-05-02
+sr
+----------------------------------------
+
+Experiment	canopoli	2010-05-12	2010-06-07
+sr
+----------------------------------------
+
+Experiment	canopoli	2010-06-08	2010-06-11
+sr
+----------------------------------------
+
+Experiment	canopoli	2010-09-02	None
+sr/pitch shift/ncm lesions
+----------------------------------------
+
+
+
+*******************
+k15r11
+********************
+2010-05-06
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	jk	2010-05-01	2010-05-06
+lMAN recording
+----------------------------------------
+
+
+
+*******************
+r10s7
+********************
+2010-05-21
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	janie	2010-05-02	2010-05-21
+SR
+----------------------------------------
+bird died in IS3
+
+
+*******************
+purple050
+********************
+2010-05-14
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	janie	2010-05-02	2010-06-14
+SR
+----------------------------------------
+
+Experiment	janie	2010-05-14	2010-05-14
+Intracellular in HVC
+----------------------------------------
+v beautiful intracellular!!
+
+
+*******************
+g8r1
+********************
+2010-06-15
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	georg	2008-11-03	2008-11-06
+SR
+----------------------------------------
+
+Experiment	janie	2010-05-02	2010-05-27
+SR
+----------------------------------------
+
+Experiment	janie	2010-06-15	2010-06-15
+RA intracellular
+----------------------------------------
+found RA, no success w intracellular, lots of extracellular
+
+
+*******************
+b16r10
+********************
+2010-06-10
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	janie	2010-05-03	2010-05-27
+SR
+----------------------------------------
+
+Experiment	janie	2010-06-10	2010-06-10
+Intracellular Fileld L
+----------------------------------------
+no success, brain was infected,
+
+
+*******************
+p19r10
+********************
+2010-05-04
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	canopoli	2010-05-04	2010-05-04
+looking for ncm
+----------------------------------------
+burns in both emispheres at 1, 1.5, 2 mm, then perfusion
+
+
+*******************
+r12s5
+********************
+2010-05-04
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	jk	2010-05-04	2010-05-04
+Microdrive preparation
+----------------------------------------
+
+
+
+*******************
+k4r8
+********************
+2010-05-07
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	michael	2009-11-04	2009-11-08
+SR
+----------------------------------------
+
+Experiment	moritz	2010-05-04	None
+Tracer injection Moritz
+----------------------------------------
+
+
+
+*******************
+r12s7
+********************
+2010-05-18
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	jk	2010-05-10	2010-05-18
+lMAN recording
+----------------------------------------
+
+
+
+*******************
+g8r10
+********************
+2010-06-08
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	janie	2010-05-17	2010-05-27
+SR
+----------------------------------------
+
+Experiment	janie	2010-06-08	2010-06-08
+HVC intracellular
+----------------------------------------
+
+
+
+*******************
+b1r10
+********************
+2010-05-28
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	janie	2010-05-18	2010-05-27
+SR
+----------------------------------------
+
+Experiment	janie	2010-05-28	2010-05-28
+Intracellular HVC
+----------------------------------------
+yeh, some data, but problems with the recorder
+
+
+*******************
+p2r10
+********************
+2010-06-01
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	janie	2010-05-18	2010-05-26
+SR
+----------------------------------------
+
+Experiment	janie	2010-06-01	2010-06-01
+HCV intracellular
+----------------------------------------
+nice intracellular data!
+
+
+*******************
+r10y20
+********************
+2010-05-21
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	moritz	2010-05-20	2010-05-21
+Tracer injection
+----------------------------------------
+
+
+
+*******************
+r7p1
+********************
+2010-06-15
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	kotowicz	2009-07-27	2009-07-31
+SR
+----------------------------------------
+for ncm experiment of b6r8
+Experiment	jk	2010-05-25	2010-06-15
+lMAN recording
+----------------------------------------
+
+
+
+*******************
+g5r10
+********************
+None
+R5 - temporary storage; (55 F43 - Surgery Room and InFrontOf)
+------------------------------
+Experiment	janie	2010-05-27	2010-06-02
+SR
+----------------------------------------
+
+Experiment	janie	2010-06-08	2010-06-12
+SR - Microdrive Prep
+----------------------------------------
+
+Experiment	janie	2010-06-17	2010-06-24
+SR post screw implantation
+----------------------------------------
+bird sang
+
+
+*******************
+r10s4
+********************
+None
+Missing - missing; (:x - not applicable)
+------------------------------
+Experiment	janie	2010-05-27	2010-06-02
+SR
+----------------------------------------
+
+Experiment	janie	2010-06-17	2010-06-24
+SR post Screw implantation
+----------------------------------------
+bird sang
+
+
+*******************
+k7r8
+********************
+2010-05-28
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	moritz	2010-05-27	2010-05-28
+Tracer injection
+----------------------------------------
+
+
+
+*******************
+g18r11
+********************
+2010-05-31
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	daniele	2010-05-28	2010-05-31
+Texas red injection x bilateral
+----------------------------------------
+
+
+
+*******************
+974
+********************
+None
+M1 - breeding; (36 F86a - Breeding Room #1)
+------------------------------
+Experiment	janie	2010-05-30	2010-06-02
+TUT SR
+----------------------------------------
+
+
+
+*******************
+b14r4
+********************
+None
+O5 - breeding; (36 F86a - Breeding Room #1)
+------------------------------
+Experiment	janie	2010-05-30	2010-06-02
+TUT SR
+----------------------------------------
+
+
+
+*******************
+r6s5
+********************
+None
+2U2 - breeding; (36 F86 - Breeding Room #2)
+------------------------------
+Experiment	georg	2009-02-07	2009-03-05
+MD NCM
+----------------------------------------
+bird still alive, removed MD for song dev recording in the adult bird.
+Experiment	janie	2010-05-30	2010-06-02
+TUT SR
+----------------------------------------
+
+
+
+*******************
+r11s20
+********************
+2010-06-02
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	moritz	2010-06-01	2010-06-02
+5 colours injections
+----------------------------------------
+
+
+
+*******************
+p8r8
+********************
+None
+A-U - breeding; (36 F86 - Breeding Room #2)
+------------------------------
+Experiment	janie	2010-06-02	2010-06-04
+TUT-SR
+----------------------------------------
+
+
+
+*******************
+o1r1
+********************
+None
+KO - breeding; (36 F86 - Breeding Room #2)
+------------------------------
+Experiment	janie	2010-06-02	2010-06-07
+TUT-SR
+----------------------------------------
+
+
+
+*******************
+o10r8
+********************
+2010-09-11
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	janie	2010-06-02	2010-06-04
+TUT-SR
+----------------------------------------
+
+
+
+*******************
+o4r10
+********************
+None
+2U4 - breeding; (36 F86 - Breeding Room #2)
+------------------------------
+Experiment	janie	2010-06-02	2010-06-04
+TUT-SR
+----------------------------------------
+
+
+
+*******************
+o12r10
+********************
+None
+O4 - breeding; (36 F86a - Breeding Room #1)
+------------------------------
+Experiment	janie	2010-06-02	2010-06-04
+TUT-SR
+----------------------------------------
+
+
+
+*******************
+o1r10
+********************
+None
+2M2 - breeding; (36 F86 - Breeding Room #2)
+------------------------------
+Experiment	janie	2010-06-04	2010-06-08
+TUT-SR
+----------------------------------------
+
+
+
+*******************
+k8r2
+********************
+None
+KM - breeding; (36 F86 - Breeding Room #2)
+------------------------------
+Experiment	janie	2010-06-04	2010-06-07
+TUT-SR
+----------------------------------------
+
+
+
+*******************
+k9r11
+********************
+2010-07-11
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	jk	2010-06-10	2010-06-15
+SR for LMAN ephys
+----------------------------------------
+
+Experiment	jk	2010-06-16	2010-07-11
+LMAN recording
+----------------------------------------
+
+
+
+*******************
+g12r2
+********************
+None
+2M1 - breeding; (36 F86 - Breeding Room #2)
+------------------------------
+Experiment	kotowicz	2009-01-27	2009-01-31
+SR
+----------------------------------------
+
+Experiment	kotowicz	2010-06-12	2010-06-13
+SR
+----------------------------------------
+
+
+
+*******************
+k5r12
+********************
+2010-06-17
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	kotowicz	2010-06-12	2010-06-17
+SR
+----------------------------------------
+
+Experiment	kotowicz	2010-06-17	2010-06-17
+NCM
+----------------------------------------
+md fell off.
+
+
+*******************
+k7r12
+********************
+2010-07-08
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	kotowicz	2010-06-12	2010-06-19
+SR
+----------------------------------------
+
+Experiment	kotowicz	2010-06-19	2010-07-08
+NCM
+----------------------------------------
+
+
+
+*******************
+r12y3
+********************
+2010-06-18
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	michael	2010-06-14	2010-06-18
+SR
+----------------------------------------
+
+Experiment	michael	2010-06-16	2010-06-16
+tracer injection
+----------------------------------------
+Texas Red into Area X
+Experiment	michael	2010-06-18	2010-06-18
+tplsm
+----------------------------------------
+
+
+
+*******************
+p17r12
+********************
+2010-07-03
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	michael	2010-06-14	2010-06-21
+SR
+----------------------------------------
+
+Experiment	michael	2010-06-29	2010-06-29
+tracer injection
+----------------------------------------
+Texas Red into Area X
+Experiment	michael	2010-07-02	2010-07-02
+tplsm
+----------------------------------------
+
+
+
+*******************
+p11r12
+********************
+2010-07-06
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	michael	2010-06-14	2010-06-21
+SR
+----------------------------------------
+
+Experiment	michael	2010-07-06	2010-07-06
+Acute Av
+----------------------------------------
+
+
+
+*******************
+p14r12
+********************
+2010-06-25
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	michael	2010-06-14	2010-06-25
+SR
+----------------------------------------
+
+Experiment	michael	2010-06-22	2010-06-22
+tracer injection
+----------------------------------------
+Texas Red into Area X
+Experiment	michael	2010-06-25	2010-06-25
+tplsm
+----------------------------------------
+
+
+
+*******************
+o7r11
+********************
+2010-06-17
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	daniele	2010-06-17	2010-06-17
+Tracer injection
+----------------------------------------
+
+
+
+*******************
+o19r11
+********************
+2010-06-22
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	canopoli	2010-06-21	2010-06-22
+microdialysis test
+----------------------------------------
+
+
+
+*******************
+g14r11
+********************
+2010-06-21
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	moritz	2010-06-21	2010-06-21
+Tracer injection
+----------------------------------------
+
+
+
+*******************
+g10r12
+********************
+2010-07-27
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	jk	2010-06-28	2010-07-01
+SR
+----------------------------------------
+
+Experiment	jk	2010-07-01	2010-07-27
+LMAN recording
+----------------------------------------
+surgery on 10.07.2010
+
+
+*******************
+p3r12
+********************
+2010-08-24
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	jk	2010-06-28	2010-07-01
+SR
+----------------------------------------
+
+Experiment	daniele	2010-08-19	2010-08-24
+Tracer  injection
+----------------------------------------
+
+
+
+*******************
+k10r11
+********************
+None
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	jk	2010-06-28	2010-07-01
+SR
+----------------------------------------
+
+
+
+*******************
+o12r13
+********************
+2010-08-02
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	alexei	2010-06-29	2010-08-02
+HVC stim day-night
+----------------------------------------
+
+
+
+*******************
+g15r11
+********************
+None
+KU - breeding; (36 F86 - Breeding Room #2)
+------------------------------
+Experiment	alexei	2010-06-29	2010-08-02
+Showgirl
+----------------------------------------
+
+
+
+*******************
+o16r11
+********************
+2010-07-05
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	daniele	2010-07-01	2010-07-05
+Tracer XRA
+----------------------------------------
+
+
+
+*******************
+g19r2
+********************
+None
+U3 - breeding; (36 F86a - Breeding Room #1)
+------------------------------
+Experiment	sandra	2008-07-02	2008-07-05
+Showgirl
+----------------------------------------
+Song motivator for juvenile
+Experiment	canopoli	2010-07-01	2010-07-03
+preference test
+----------------------------------------
+
+
+
+*******************
+p7r10
+********************
+2010-07-05
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	daniele	2010-07-02	2010-07-05
+Tracer RA, X, Uva
+----------------------------------------
+
+
+
+*******************
+r11y18
+********************
+2010-07-04
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	canopoli	2010-07-03	2010-07-03
+microdialysis probe implant
+----------------------------------------
+
+Experiment	canopoli	2010-07-04	2010-07-04
+multiunit recordings with ttx
+----------------------------------------
+
+
+
+*******************
+k8r10
+********************
+None
+KU - breeding; (36 F86 - Breeding Room #2)
+------------------------------
+Experiment	canopoli	2010-07-09	2010-07-12
+showgirl
+----------------------------------------
+
+
+
+*******************
+r10s1
+********************
+2010-07-13
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	michael	2009-12-07	2009-12-15
+SR
+----------------------------------------
+
+Experiment	moritz	2010-07-11	2010-07-13
+Tracer and Virus injection
+----------------------------------------
+
+
+
+*******************
+r12s10
+********************
+2010-07-11
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	moritz	2010-07-11	2010-07-11
+Tracer injection (aborted)
+----------------------------------------
+
+
+
+*******************
+p10r10
+********************
+2010-07-15
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	kotowicz	2009-11-16	2009-11-23
+SR
+----------------------------------------
+
+Experiment	moritz	2010-07-12	2010-07-15
+Tracer/Virus injection
+----------------------------------------
+
+
+
+*******************
+p14r8
+********************
+2010-07-24
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	gokcen	2009-09-08	2009-10-30
+Pitch Shifting
+----------------------------------------
+
+Experiment	michael	2009-11-30	2009-12-07
+SR
+----------------------------------------
+
+Experiment	daniele	2010-07-19	2010-07-24
+3 tracers injection
+----------------------------------------
+
+
+
+*******************
+g8r12
+********************
+2010-07-24
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	daniele	2010-07-19	2010-07-24
+Tracer injection
+----------------------------------------
+
+
+
+*******************
+o8r5
+********************
+None
+KU - breeding; (36 F86 - Breeding Room #2)
+------------------------------
+Experiment	alexei	2010-07-19	2010-09-02
+Showgirl
+----------------------------------------
+
+
+
+*******************
+p7r13
+********************
+None
+R8 - temporary storage; (55 F43 - Surgery Room and InFrontOf)
+------------------------------
+Experiment	alexei	2010-07-19	2010-08-30
+HVC stim (control animal)
+----------------------------------------
+
+
+
+*******************
+k8r11
+********************
+2010-07-24
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	daniele	2010-07-20	2010-07-24
+3 tracers injection
+----------------------------------------
+
+
+
+*******************
+p5r12
+********************
+2010-07-22
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	daniele	2010-07-20	2010-07-22
+3 tracer injection
+----------------------------------------
+
+
+
+*******************
+g20r12
+********************
+None
+E11 - chronic experiment; (55 F40 - Lab1)
+------------------------------
+Experiment	alexei	2010-07-22	2010-08-30
+Showgirl
+----------------------------------------
+
+
+
+*******************
+p12r13
+********************
+None
+R6 - temporary storage; (55 F43 - Surgery Room and InFrontOf)
+------------------------------
+Experiment	alexei	2010-07-22	2010-08-30
+Control for HVC stim
+----------------------------------------
+
+
+
+*******************
+r12y14
+********************
+None
+E10 - chronic experiment; (55 F40 - Lab1)
+------------------------------
+Experiment	alexei	2010-07-22	None
+Showgirl
+----------------------------------------
+
+
+
+*******************
+k14r11
+********************
+None
+R3 - temporary storage; (55 F43 - Surgery Room and InFrontOf)
+------------------------------
+Experiment	jk	2010-07-23	2010-07-28
+SR
+----------------------------------------
+
+Experiment	michael	2010-08-16	2010-08-23
+SR
+----------------------------------------
+
+
+
+*******************
+r12y1
+********************
+2010-08-20
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	jk	2010-07-23	2010-07-27
+SR
+----------------------------------------
+
+Experiment	jk	2010-07-27	2010-08-20
+LMAN recording
+----------------------------------------
+
+
+
+*******************
+r12y5
+********************
+None
+E3 - chronic experiment; (55 F40 - Lab1)
+------------------------------
+Experiment	jk	2010-07-23	2010-07-28
+SR
+----------------------------------------
+
+Experiment	lisa	2010-09-16	None
+Microdrive Impl.
+----------------------------------------
+
+
+
+*******************
+p1r12
+********************
+2010-07-27
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	lisa	2010-07-27	2010-07-27
+practice surgery
+----------------------------------------
+
+
+
+*******************
+g3r11
+********************
+None
+E5 - chronic experiment; (55 F40 - Lab1)
+------------------------------
+Experiment	alexei	2010-07-27	None
+Showgirl
+----------------------------------------
+
+
+
+*******************
+p10r13
+********************
+None
+R6 - temporary storage; (55 F43 - Surgery Room and InFrontOf)
+------------------------------
+Experiment	alexei	2010-07-27	2010-08-30
+HVC stim day-night
+----------------------------------------
+
+
+
+*******************
+g5r12
+********************
+2010-07-29
+Cemetery - disposal; (:x - not applicable)
+------------------------------
+Experiment	lisa	2010-07-29	2010-07-29
+practice exp
+----------------------------------------
+
+
+
+*******************
+b5r13
+********************
+None
+R6 - temporary storage; (55 F43 - Surgery Room and InFrontOf)
+------------------------------
+Experiment	alexei	2010-07-29	2010-08-30
+Control for HVC stim
+----------------------------------------
+
+
+
+*******************
+b7r13
+********************
+None
+R6 - temporary storage; (55 F43 - Surgery Room and InFrontOf)
+------------------------------
+Experiment	alexei	2010-07-29	2010-08-30
+Control for HVC stim
+----------------------------------------

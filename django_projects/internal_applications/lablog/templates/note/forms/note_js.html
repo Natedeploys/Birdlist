@@ -1,0 +1,16 @@
+        <script type="text/javascript">document.getElementById("id_occasion").focus();</script>
+        <script type="text/javascript">
+
+            document.getElementById("id_slug").onchange = function() { this._changed = true; };
+            
+            document.getElementById("id_occasion").onkeyup = function() {
+                var e = document.getElementById("id_slug");
+                if (!e._changed) { e.value = URLify(document.getElementById("id_occasion").value + ' ' + document.getElementById("id_date").value, 50); }
+            }
+            
+            document.getElementById("id_date").onkeyup = function() {
+                var e = document.getElementById("id_slug");
+                if (!e._changed) { e.value = URLify(document.getElementById("id_occasion").value + ' ' + document.getElementById("id_date").value, 50); }
+            }
+
+        </script>

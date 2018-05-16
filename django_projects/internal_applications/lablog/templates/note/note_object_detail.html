@@ -1,0 +1,18 @@
+{% extends "lablog/basic/base_projects.html" %}
+{% block title_detail %}details for note "{{ selected_object.occasion }}" {% endblock %}
+
+{% block billboard %}
+<li id="nav-prj-edit"><a href="{% url edit_note username selected_object.pk %}">edit note</a></li>
+<li id="nav-prj-change"><a href="{% url delete_note username selected_object.pk %}">delete note</a></li>
+<li id="nav-prj-new-event"><a href="{% url new_note username=username, project_id=project.id %}">new note</a></li>   
+{% endblock %}
+
+{% load markup %}
+{% block objectcontent %}
+<h2> Project: <a href="{% url detail_project username project.slug %}">{{ project.title }}</a> </h2>
+<ul>
+    <li>  occasion: {{ selected_object.occasion }}</li>
+    <li>  date: {{ selected_object.date }}</li>
+    <li>  entry: {{ selected_object.entry|markdown|urlize|linebreaks }}</li>
+</ul>
+{% endblock %}

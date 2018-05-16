@@ -1,0 +1,36 @@
+{% extends "birdlist/basic/base_activity.html" %}
+
+{% block stylesheet %}
+    {% include "birdlist/basic/base_form_stylesheet.html" %}
+    {% load adminmedia %}
+
+    <script type="text/javascript">
+    window.__admin_media_prefix__ = "{% filter escapejs %}{% admin_media_prefix %}{% endfilter %}";
+    </script>
+{% endblock %}
+
+
+{% block content-main %}
+<h2>Edit {{ activity.activity_type.name }} of {{ activity.bird.name }}</h2>
+<form action="." method="post">{% csrf_token %}
+    <fieldset class="aligned ">
+
+    {% block form-content %}
+    {% include "birdlist/basic/base_form_parser.html" %}
+    {% endblock %}
+    
+    <div style="float:left">
+    {% block form-buttons%}
+    {% include "birdlist/forms/buttons_save_new_cancel.html" %}
+    {% endblock %}
+    </div>
+    
+    </fieldset>
+</form>
+
+{% endblock %}
+
+{% block content-secondary %}
+<h2 id="comments">Form help:</h2>
+  <p>Please fill out all mandatory fields which are highlighted in bold face.</p>
+{% endblock %}
